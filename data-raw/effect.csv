@@ -1,0 +1,114 @@
+Effect,Freq,Endpoint,Accepted
+Abundance: Number of individuals of a taxon per unit area equivalent to density. Comparison to controls; not related to time.,69,abundance,Yes
+cell count,1,abundance,Yes
+cell density,3,abundance,Yes
+cell number,8,abundance,Yes
+Population,7178,abundance,Yes
+"Population Size Reduction: Quantifiable reduction in the population size. This effect appears in the database, but new records are coded to represent clearly defined effects under the major effect group POPCOM.",83,abundance,Yes
+"Population, Abundance",364,abundance,Yes
+Population growth rate,7,abundance,Yes
+Population Growth: Rate of growth. Equivalent to intrinsic rate of increase and maximum possible rate of growth for species. Calculated by relating biomass or abundance to time. Life table data and germination rates are included.,536,abundance,Yes
+"Population, Intrinsic rate of increase",8,abundance,Yes
+"Population, Population changes, general",11,abundance,Yes
+"Population, Population growth rate",601,abundance,Yes
+"Population: Change in number of species groups. This effect code appears in the database, but new records are coded to represent clearly defined effects under the major effect group POPCOM (Populuation/Community).",5,community,No
+Higher condition factor (weight divided by length) in fish at the 100 and 200 æg/L level,1,condition,No
+biomass,38,biomass,Yes
+Biomass,8,biomass,Yes
+Biomass: Productivity measurement equivalent to yield and standing crop. Total mass or weight of a living organism per area or volume measure either directly through dry weight or indirectly.,101,biomass,Yes
+"Population, Biomass",19,biomass,Yes
+development,1,development,Yes
+Development,252,development,Yes
+"Development, Age at first reproduction",10,development,Yes
+"Development, Emergence",4,development,Yes
+"Development, Growth rate",2,development,Yes
+"Development, Teratogenic measurements",1,development,Yes
+"Development, Time to first emergence",5,development,Yes
+"Development: Change in ability to grow to a more mature life stage and in time between separate life stages, molting, ability to germinate and cell cleavage.",169,development,Yes
+total embryotoxicity,1,development,No
+Filtration Rate: Change in rate of filtration.,14,filtration,No
+Nitrogen Fixation: Change in ability of aquatic plants to fix nitrogen.,1,fixation,No
+Emergence: Change in the emergence from larval stage into the adult stage.,9,development,Yes
+larval development,1,development,Yes
+Teratogenesis: Quantifiable occurrence of abnormal offspring.,20,development,Yes
+cell growth based on fluorimetric values,1,growth,Yes
+area under growth curve,2,growth,Yes
+general growth,1,growth,Yes
+Growth,4068,growth,Yes
+growth (based on weight at the end of the test),1,growth,Yes
+growth and reproduction,2,growth,Yes
+growth and sexual differentiation,1,growth,Yes
+growth inhibition,14,growth,Yes
+Growth inhibition,1,growth,Yes
+growth rate,74,growth,Yes
+Growth rate,22,growth,Yes
+Growth rate and Biomass,1,growth,Yes
+growth rate or yield (not specified),1,growth,No
+Growth reduction,1,growth,Yes
+"Growth, Biomass",13,growth,Yes
+"Growth, Growth rate",14,growth,Yes
+"Growth, Growth, general",65,growth,Yes
+"Growth, Length",166,growth,Yes
+"Growth, Specific growth rate",12,growth,Yes
+"Growth, Weight",178,growth,Yes
+"Growth, Wet weight (AQUIRE only)",15,growth,Yes
+"Morphology, Length",16,growth,Yes
+"Morphology, Shell deposition",3,growth,Yes
+Population/ Cell volume growth,3,growth,No
+"Regeneration: Change in ability to regenerate a body part, byssus production.",1,growth,Yes
+Shell Deposition: Change in the ability to grow a shell.,22,growth,Yes
+Total Cell Volume Growth,1,growth,Yes
+total length and wet weight,1,growth,Yes
+weight,5,growth,Yes
+wet weight and total length,1,growth,Yes
+Immobilization: Change in the failure to respond or lack of movement after mechanical stimulation.,1208,mobility,Yes
+yield,2,growth,No
+Yield,3,growth,No
+mobility,9,mobility,Yes
+Intoxication,5220,intoxication,No
+"Intoxication, Immobile",391,intoxication,No
+"Intoxication, Intoxication, general",1,intoxication,No
+loss of equilibrium,1,intoxication,No
+Loss of equilibrium,1,intoxication,No
+Mobility,29,mobility,Yes
+Lifespan,2,mortality,Yes
+combined embryo-larval mortality and teratogenesis,2,mortality,Yes
+fry survival,1,mortality,Yes
+maternal mortality,1,mortality,Yes
+Mortality,49138,mortality,Yes
+mortality  and/ immobilisation,1,mortality,Yes
+"mortality, growth, malfunction",1,mortality,Yes
+"Mortality, Mortality",2410,mortality,Yes
+"mortality, reproduction rate, appearance of first offspring",2,mortality,Yes
+"Mortality, Survival",232,mortality,Yes
+Mortality/Growth,5231,mortality,Yes
+survival and reproduction,1,mortality,No
+survival of young fish,2,mortality,Yes
+"survival, final gravid females, number of produced young, total births, number of young per female, and births per female",1,mortality,Yes
+"survival, length, weight",1,mortality,Yes
+"Survival, reproduction and growth",1,mortality,Yes
+"survival, spawning activity and egg hatchability",1,mortality,Yes
+embryo larval mortality and teratogenesis,1,reproduction,Yes
+"Chlorophyll: Measurable change in chlorophyll content including chlorophyll a content, chlorosis.",76,photosynthesis,No
+Photosynthesis: Change in plant productivity indicated by change in 14C or CO2 uptake or oxygen production.,113,photosynthesis,No
+"Population, Chlorophyll A concentration",3,photosynthesis,No
+hatchability,1,reproduction,Yes
+"Hatchability: Change in percent hatch, time to hatch or number of eggs hatched.",13,reproduction,Yes
+Lifetime reproduction,1,reproduction,Yes
+Reproduction,2023,reproduction,Yes
+reproduction and mortality,2,reproduction,Yes
+reproduction and survival,1,reproduction,Yes
+"reproduction rate, parental mortality, appearance of first offspring",2,reproduction,Yes
+"Reproduction, Biomass",2,reproduction,Yes
+"Reproduction, Fecundity",64,reproduction,Yes
+"Reproduction, Gross Reproductive Rate",1,reproduction,Yes
+"Reproduction, Hatch",31,reproduction,Yes
+"Reproduction, Net Reproductive Rate",3,reproduction,Yes
+"Reproduction, Progeny counts/numbers",135,reproduction,Yes
+"Reproduction, Reproduction, general",63,reproduction,Yes
+"Reproduction, Reproductive success (general)",4,reproduction,Yes
+"Reproduction, Time to first progeny",20,reproduction,Yes
+"Reproduction, Vegetative reproduction",4,reproduction,Yes
+"Reproduction: Change in male and/or female reproductive ability, fertilization and fertilization rate. Includes vegetative reproductive processes.",217,reproduction,Yes
+"total progeny, number of broods, mean brood size",1,reproduction,Yes
+"total progeny, number of broods, mean brood size, dry weight per adult",1,reproduction,Yes
