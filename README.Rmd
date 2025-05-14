@@ -31,10 +31,6 @@ To install the most recent version from [GitHub](https://github.com/poissonconsu
 remotes::install_github("poissonconsulting/flobr")
 ```
 
-or from [r-universe](https://poissonconsulting.r-universe.dev/flobr).
-```r
-install.packages("flobr", repos = c("https://poissonconsulting.r-universe.dev", "https://cloud.r-project.org"))
-```
 
 ## Demonstration
 
@@ -44,16 +40,26 @@ library(ssdtools)
 library(dplyr)
 library(tidyr)
 
-data <- envirotox::yanagihara_24_chronic |>
-  dplyr::nest_by(Chemical) %>%
+data <- envirotox::yanagihara_24_acute |>
+  dplyr::nest_by(Chemical) |>
   dplyr::mutate(ssd_fit = list(ssd_fit_dists(data, silent = TRUE)),
-                ssd_hc = list(ssd_hc(ssd_fit, average = FALSE))) %>%
+                ssd_hc = list(ssd_hc(ssd_fit, average = FALSE))) |>
   tidyr::unnest(ssd_hc)
 
 print(data)
 
 data |>
-  dplyr::group_by(dist) %>%
-  dplyr::summarise(wt = mean(wt), .groups = "drop") %>%
-  dplyr::arrange(desc(wt))
+  dplyr::group_by(Chemical) |>
+  dplyr::arrange(desc(wt)) |>
+  dplyr::slice(1) |>
+  dplyr::ungroup() |>
+  dplyr::count(dist) |>
+  dplyr::arrange(desc(n)) |>
+  print()
+
+data |>
+  dplyr::group_by(dist) |>
+  dplyr::summarise(wt = mean(wt), .groups = "drop") |>
+  dplyr::arrange(desc(wt)) |>
+  print()
 ```

@@ -26,12 +26,6 @@ To install the most recent version from
 remotes::install_github("poissonconsulting/flobr")
 ```
 
-or from [r-universe](https://poissonconsulting.r-universe.dev/flobr).
-
-``` r
-install.packages("flobr", repos = c("https://poissonconsulting.r-universe.dev", "https://cloud.r-project.org"))
-```
-
 ## Demonstration
 
 ``` r
@@ -48,41 +42,60 @@ library(dplyr)
 #>     intersect, setdiff, setequal, union
 library(tidyr)
 
-data <- envirotox::yanagihara_24_chronic |>
-  dplyr::nest_by(Chemical) %>%
+data <- envirotox::yanagihara_24_acute |>
+  dplyr::nest_by(Chemical) |>
   dplyr::mutate(ssd_fit = list(ssd_fit_dists(data, silent = TRUE)),
-                ssd_hc = list(ssd_hc(ssd_fit, average = FALSE))) %>%
+                ssd_hc = list(ssd_hc(ssd_fit, average = FALSE))) |>
   tidyr::unnest(ssd_hc)
 
 print(data)
-#> # A tibble: 46 × 14
-#> # Groups:   Chemical [9]
-#>    Chemical     data ssd_fit    dist  proportion     est    se   lcl   ucl    wt
-#>    <chr>    <list<t> <list>     <chr>      <dbl>   <dbl> <dbl> <dbl> <dbl> <dbl>
-#>  1 2,4-Dic… [10 × 5] <fitdists> gamma       0.05 2.23e+1    NA    NA    NA 0.327
-#>  2 2,4-Dic… [10 × 5] <fitdists> lgum…       0.05 1.37e+2    NA    NA    NA 0.109
-#>  3 2,4-Dic… [10 × 5] <fitdists> llog…       0.05 7.19e+1    NA    NA    NA 0.112
-#>  4 2,4-Dic… [10 × 5] <fitdists> lnorm       0.05 1.04e+2    NA    NA    NA 0.195
-#>  5 2,4-Dic… [10 × 5] <fitdists> weib…       0.05 4.81e+1    NA    NA    NA 0.256
-#>  6 3,4-Dic… [11 × 5] <fitdists> gamma       0.05 1.69e-2    NA    NA    NA 0.161
-#>  7 3,4-Dic… [11 × 5] <fitdists> lgum…       0.05 2.59e-1    NA    NA    NA 0.107
-#>  8 3,4-Dic… [11 × 5] <fitdists> llog…       0.05 1.84e-1    NA    NA    NA 0.220
-#>  9 3,4-Dic… [11 × 5] <fitdists> lnorm       0.05 2.32e-1    NA    NA    NA 0.283
-#> 10 3,4-Dic… [11 × 5] <fitdists> weib…       0.05 5.65e-2    NA    NA    NA 0.229
-#> # ℹ 36 more rows
+#> # A tibble: 512 × 14
+#> # Groups:   Chemical [103]
+#>    Chemical     data ssd_fit    dist  proportion    est    se   lcl   ucl     wt
+#>    <chr>    <list<t> <list>     <chr>      <dbl>  <dbl> <dbl> <dbl> <dbl>  <dbl>
+#>  1 1,1,2-T… [10 × 5] <fitdists> gamma       0.05 32778.    NA    NA    NA 0.186 
+#>  2 1,1,2-T… [10 × 5] <fitdists> lgum…       0.05 42924.    NA    NA    NA 0.266 
+#>  3 1,1,2-T… [10 × 5] <fitdists> llog…       0.05 33975.    NA    NA    NA 0.161 
+#>  4 1,1,2-T… [10 × 5] <fitdists> lnorm       0.05 37884.    NA    NA    NA 0.253 
+#>  5 1,1,2-T… [10 × 5] <fitdists> weib…       0.05 25834.    NA    NA    NA 0.134 
+#>  6 1,2,4-T… [14 × 5] <fitdists> gamma       0.05   402.    NA    NA    NA 0.0597
+#>  7 1,2,4-T… [14 × 5] <fitdists> lgum…       0.05   802.    NA    NA    NA 0.326 
+#>  8 1,2,4-T… [14 × 5] <fitdists> llog…       0.05   634.    NA    NA    NA 0.270 
+#>  9 1,2,4-T… [14 × 5] <fitdists> lnorm       0.05   666.    NA    NA    NA 0.298 
+#> 10 1,2,4-T… [14 × 5] <fitdists> weib…       0.05   276.    NA    NA    NA 0.0471
+#> # ℹ 502 more rows
 #> # ℹ 4 more variables: method <chr>, nboot <int>, pboot <dbl>, samples <I<list>>
 
 data |>
-  dplyr::group_by(dist) %>%
-  dplyr::summarise(wt = mean(wt), .groups = "drop") %>%
-  dplyr::arrange(desc(wt))
+  dplyr::group_by(Chemical) |>
+  dplyr::arrange(desc(wt)) |>
+  dplyr::slice(1) |>
+  dplyr::ungroup() |>
+  dplyr::count(dist) |>
+  dplyr::arrange(desc(n)) |>
+  print()
 #> # A tibble: 6 × 2
-#>   dist            wt
-#>   <chr>        <dbl>
-#> 1 lnorm       0.257 
-#> 2 llogis      0.233 
-#> 3 lgumbel     0.225 
-#> 4 weibull     0.152 
-#> 5 gamma       0.148 
-#> 6 lnorm_lnorm 0.0540
+#>   dist            n
+#>   <chr>       <int>
+#> 1 lnorm          23
+#> 2 lgumbel        19
+#> 3 gamma          18
+#> 4 weibull        18
+#> 5 llogis         13
+#> 6 lnorm_lnorm    12
+
+data |>
+  dplyr::group_by(dist) |>
+  dplyr::summarise(wt = mean(wt), .groups = "drop") |>
+  dplyr::arrange(desc(wt)) |>
+  print()
+#> # A tibble: 6 × 2
+#>   dist           wt
+#>   <chr>       <dbl>
+#> 1 lnorm       0.219
+#> 2 gamma       0.212
+#> 3 weibull     0.211
+#> 4 llogis      0.202
+#> 5 lnorm_lnorm 0.178
+#> 6 lgumbel     0.174
 ```
