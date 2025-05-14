@@ -75,11 +75,6 @@ EnviroTox_ssd <- aggregate(x=as.numeric(EnviroTox_test_selected2$Effect.value),
   mutate (ConsensusMoA = EnviroTox_chem[match (.$original.CAS, EnviroTox_chem$original.CAS), "Consensus.MOA"] ) %>%
   mutate (ASTER = EnviroTox_chem[match (.$original.CAS, EnviroTox_chem$original.CAS) ,"ASTER"] )
 
-EnviroTox_ssd$ConsensusMoA <- replace (EnviroTox_ssd$ConsensusMoA, which(EnviroTox_ssd$ConsensusMoA=="N"),"Narcotic")
-EnviroTox_ssd$ConsensusMoA <- replace (EnviroTox_ssd$ConsensusMoA, which(EnviroTox_ssd$ConsensusMoA=="U"),"Unclassified")
-EnviroTox_ssd$ConsensusMoA <- replace (EnviroTox_ssd$ConsensusMoA, which(EnviroTox_ssd$ConsensusMoA=="S"),"Specifically acting")
-EnviroTox_ssd$ConsensusMoA <- as.factor(EnviroTox_ssd$ConsensusMoA)
-
 
 ## Calculate bimodality coefficient (BC)
 
@@ -124,12 +119,24 @@ EnviroTox_ssd_HH_C <- EnviroTox_ssd %>%
 StudyChemicals_A <- EnviroTox_ssd_HH_A$original.CAS
 StudyChemicals_C <- EnviroTox_ssd_HH_C$original.CAS
 
+yanagihara_24_acute <- EnviroTox_test_selected2 %>% filter(Test.type == "A" & original.CAS %in% StudyChemicals_A)
 
-## Prepare information of chemicals
-EnviroTox_chem_rev <- EnviroTox_chem[,1:4]
-d02_A <- left_join(EnviroTox_ssd_HH_A, EnviroTox_chem_rev, by="original.CAS")
-d02_C <- left_join(EnviroTox_ssd_HH_C, EnviroTox_chem_rev, by="original.CAS")
+yanagihara_24_chronic <-  EnviroTox_test_selected2 %>% filter(Test.type == "C" & original.CAS %in% StudyChemicals_C)
 
-Temp.dataA <- EnviroTox_test_selected2 %>% filter(Test.type == "A" & original.CAS %in% StudyChemicals_A)
+yanagihara_24_acute %<>%
+  ungroup() %>%
+  mutate(Type = "Acute") %>%
+  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Type, Group = Trophic.Level, Original_CAS = original.CAS) %>%
+  as_tibble()
 
-Temp.dataC <-  EnviroTox_test_selected2 %>% filter(Test.type == "C" & original.CAS %in% StudyChemicals_C)
+yanagihara_24_chronic %<>%
+  ungroup() %>%
+  mutate(Type = "Chronic") %>%
+  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Type, Group = Trophic.Level, Original_CAS = original.CAS) %>%
+  as_tibble()
+
+chk::check_key(yanagihara_24_acute, c("Chemical", "Species"))
+chk::check_key(yanagihara_24_chronic, c("Chemical", "Species"))
+
+usethis::use_data(yanagihara_24_acute, overwrite = TRUE)
+usethis::use_data(yanagihara_24_chronic, overwrite = TRUE)
