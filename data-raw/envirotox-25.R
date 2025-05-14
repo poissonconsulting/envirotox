@@ -77,14 +77,16 @@ data %<>%
   arrange(Chemical, Species)
 
 envirotox_25_chronic <- data %>%
-  filter(Type == "Chronic")
+  filter(Type == "Chronic") %>%
+  as_tibble()
 
 check_key(envirotox_25_chronic, c("Chemical", "Species"))
 
 usethis::use_data(envirotox_25_chronic, overwrite = TRUE)
 
 envirotox_25_acute <- data %>%
-  filter(Type == "Acute")
+  filter(Type == "Acute") %>%
+  as_tibble()
 
 check_key(envirotox_25_acute, c("Chemical", "Species"))
 

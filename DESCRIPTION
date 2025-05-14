@@ -11,6 +11,7 @@ Description: Make alternative datasets from the Envirotox database available for
   to make any conclusions about the toxicity of the chemicals in the database.
 License: file LICENSE
 Suggests: 
+    chk,
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
 Encoding: UTF-8
