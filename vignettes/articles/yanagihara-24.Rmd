@@ -16,6 +16,7 @@ library(ssdtools)
 
 top_model <- function(x) {
   x |>
+    tidyr::unnest(ssd_hc) |>
     dplyr::group_by(Chemical) |>
     dplyr::arrange(desc(wt)) |>
     dplyr::slice(1) |>
@@ -26,13 +27,26 @@ top_model <- function(x) {
 
 wt_model <- function(x) {
   x |>
+    tidyr::unnest(ssd_hc) |>
     dplyr::group_by(dist) |>
     dplyr::summarise(wt = mean(wt), .groups = "drop") |>
     dplyr::arrange(desc(wt))
 }
 
-has_burrIII3 <- function(x) {
-  hasName(x, "burrIII3")
+ratios <- function(x) {
+
+  lnorm <- x |>
+    tidyr::unnest(ssd_hc) |>
+    dplyr::filter(dist == "lnorm")
+  
+  ave <- x |>
+    tidyr::unnest(ssd_av) |>
+    dplyr::mutate(dist = "ave")
+  
+  lnorm |>
+    dplyr::bind_rows(ave) |>
+    dplyr::select(Chemical, dist, est) |>
+    tidyr::pivot_wider(names_from = dist, values_from = est)
 }
 ```
 
@@ -42,10 +56,10 @@ dists <- c("lnorm", "llogis", "burrIII3", "weibull")
 data <- envirotox::yanagihara_24_acute |>
   dplyr::filter(BC <= 0.555) |>
   dplyr::nest_by(Chemical) |>
-  dplyr::mutate(ssd_fit = list(ssd_fit_dists(data, dists = dists, at_boundary_ok = FALSE, computable = TRUE, silent = TRUE)),
-                ssd_hc = list(ssd_hc(ssd_fit, average = FALSE))) |>
-  dplyr::filter(has_burrIII3(ssd_fit)) |>
-  tidyr::unnest(ssd_hc)
+  dplyr::mutate(ssd_fit = list(ssd_fit_dists(data, dists = dists, at_boundary_ok = FALSE, computable = TRUE, silent = TRUE))) |>
+  dplyr::filter(length(ssd_fit) == length(dists)) |>
+  dplyr::mutate(ssd_hc = list(ssd_hc(ssd_fit, average = FALSE, delta = Inf)),
+                ssd_av = list(ssd_hc(ssd_fit, average = TRUE, delta = Inf)))
 
 data |> 
   top_model() |>
@@ -54,6 +68,19 @@ data |>
 data |>
   wt_model() |>
   print()
+
+ratio <- data |> 
+  ratios()
+
+gp <- ratio |> 
+  ggplot2::ggplot() +
+  ggplot2::aes(x = ave, y = log(lnorm/ave)) +
+  ggplot2::geom_point(alpha = 1/2) +
+  ggplot2::geom_hline(yintercept = 0, alpha = 1/2) +
+  ggplot2::scale_x_log10("Average") +
+  ggplot2::scale_y_continuous("Log Ratio", sec.axis = ggplot2::sec_axis(~exp(.), name = "Ratio", breaks = c(1/8,1/4,1/2,1,2,4,8)))
+
+print(gp)
 ```
 
 ```{r acute_default_filtered}
@@ -61,9 +88,10 @@ data |>
 data <- envirotox::yanagihara_24_acute |>
   dplyr::filter(BC <= 0.555) |>
   dplyr::nest_by(Chemical) |>
-  dplyr::mutate(ssd_fit = list(ssd_fit_dists(data, silent = TRUE)),
-                ssd_hc = list(ssd_hc(ssd_fit, average = FALSE))) |>
-  tidyr::unnest(ssd_hc)
+  dplyr::mutate(ssd_fit = list(ssd_fit_dists(data, silent = TRUE))) |>
+  dplyr::filter(hasName(ssd_fit, "lnorm")) |>
+  dplyr::mutate(ssd_hc = list(ssd_hc(ssd_fit, average = FALSE, delta = Inf)),
+                ssd_av = list(ssd_hc(ssd_fit, average = TRUE, delta = Inf)))
 
 data |> 
   top_model() |>
@@ -72,15 +100,29 @@ data |>
 data |>
   wt_model() |>
   print()
+
+ratio <- data |> 
+  ratios()
+
+gp <- ratio |> 
+  ggplot2::ggplot() +
+  ggplot2::aes(x = ave, y = log(lnorm/ave)) +
+  ggplot2::geom_point(alpha = 1/2) +
+  ggplot2::geom_hline(yintercept = 0, alpha = 1/2) +
+  ggplot2::scale_x_log10("Average") +
+  ggplot2::scale_y_continuous("Log Ratio", sec.axis = ggplot2::sec_axis(~exp(.), name = "Ratio", breaks = c(1/8,1/4,1/2,1,2,4,8)))
+
+print(gp)
 ```
 
 ```{r acute_default}
 
 data <- envirotox::yanagihara_24_acute |>
   dplyr::nest_by(Chemical) |>
-  dplyr::mutate(ssd_fit = list(ssd_fit_dists(data, silent = TRUE)),
-                ssd_hc = list(ssd_hc(ssd_fit, average = FALSE))) |>
-  tidyr::unnest(ssd_hc)
+  dplyr::mutate(ssd_fit = list(ssd_fit_dists(data, silent = TRUE))) |>
+  dplyr::filter(hasName(ssd_fit, "lnorm")) |>
+  dplyr::mutate(ssd_hc = list(ssd_hc(ssd_fit, average = FALSE, delta = Inf)),
+                ssd_av = list(ssd_hc(ssd_fit, average = TRUE, delta = Inf)))
 
 data |> 
   top_model() |>
@@ -89,5 +131,18 @@ data |>
 data |>
   wt_model() |>
   print()
+
+ratio <- data |> 
+  ratios()
+
+gp <- ratio |> 
+  ggplot2::ggplot() +
+  ggplot2::aes(x = ave, y = log(lnorm/ave)) +
+  ggplot2::geom_point(alpha = 1/2) +
+  ggplot2::geom_hline(yintercept = 0, alpha = 1/2) +
+  ggplot2::scale_x_log10("Average") +
+  ggplot2::scale_y_continuous("Log Ratio", sec.axis = ggplot2::sec_axis(~exp(.), name = "Ratio", breaks = c(1/8,1/4,1/2,1,2,4,8)))
+
+print(gp)
 ```
 
