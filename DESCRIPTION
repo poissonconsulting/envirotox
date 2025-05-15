@@ -4,7 +4,9 @@ Version: 0.0.0.9000
 Authors@R: c(
     person("Joe", "Thorley", , "joe@pissonconsulting.ca", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-7683-4592")),
-    person("Rebecca", "Fisher", , "R.Fisher@aims.gov.au", role = "aut")
+    person("Rebecca", "Fisher", , "R.Fisher@aims.gov.au", role = "aut"),
+    person("Ayla", "Pearson", , "ayla@poissonconsulting.ca", role = "ctb",
+           comment = c(ORCID = "0000-0001-7388-1222"))
   )
 Description: Make alternative datasets from the Envirotox database available for
   testing species sensitivity distribution code. The datasets should not be used

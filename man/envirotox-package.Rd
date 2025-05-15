@@ -16,5 +16,10 @@ Authors:
   \item Rebecca Fisher \email{R.Fisher@aims.gov.au}
 }
 
+Other contributors:
+\itemize{
+  \item Ayla Pearson \email{ayla@poissonconsulting.ca} (\href{https://orcid.org/0000-0001-7388-1222}{ORCID}) [contributor]
+}
+
 }
 \keyword{internal}

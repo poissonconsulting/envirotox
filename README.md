@@ -42,29 +42,40 @@ library(dplyr)
 #>     intersect, setdiff, setequal, union
 library(tidyr)
 
-data <- envirotox::yanagihara_24_acute |>
-  dplyr::nest_by(Chemical) |>
-  dplyr::mutate(ssd_fit = list(ssd_fit_dists(data, silent = TRUE)),
-                ssd_hc = list(ssd_hc(ssd_fit, average = FALSE))) |>
-  tidyr::unnest(ssd_hc)
+data <- envirotox::yanagihara_24_acute
 
-print(data)
-#> # A tibble: 512 × 14
+data |>
+  count(Chemical) |>
+  pull(n) |>
+  summary() |>
+  print()
+#>    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+#>    10.0    11.0    14.0    21.1    24.0    97.0
+
+data <- data |>
+  dplyr::nest_by(Chemical) |>
+  dplyr::mutate(n = nrow(data), 
+                ssd_fit = list(ssd_fit_dists(data, silent = TRUE)),
+                ssd_hc = list(ssd_hc(ssd_fit, average = FALSE))) |>
+  tidyr::unnest(ssd_hc) |>
+  print()
+#> # A tibble: 512 × 15
 #> # Groups:   Chemical [103]
-#>    Chemical     data ssd_fit    dist  proportion    est    se   lcl   ucl     wt
-#>    <chr>    <list<t> <list>     <chr>      <dbl>  <dbl> <dbl> <dbl> <dbl>  <dbl>
-#>  1 1,1,2-T… [10 × 5] <fitdists> gamma       0.05 32778.    NA    NA    NA 0.186 
-#>  2 1,1,2-T… [10 × 5] <fitdists> lgum…       0.05 42924.    NA    NA    NA 0.266 
-#>  3 1,1,2-T… [10 × 5] <fitdists> llog…       0.05 33975.    NA    NA    NA 0.161 
-#>  4 1,1,2-T… [10 × 5] <fitdists> lnorm       0.05 37884.    NA    NA    NA 0.253 
-#>  5 1,1,2-T… [10 × 5] <fitdists> weib…       0.05 25834.    NA    NA    NA 0.134 
-#>  6 1,2,4-T… [14 × 5] <fitdists> gamma       0.05   402.    NA    NA    NA 0.0597
-#>  7 1,2,4-T… [14 × 5] <fitdists> lgum…       0.05   802.    NA    NA    NA 0.326 
-#>  8 1,2,4-T… [14 × 5] <fitdists> llog…       0.05   634.    NA    NA    NA 0.270 
-#>  9 1,2,4-T… [14 × 5] <fitdists> lnorm       0.05   666.    NA    NA    NA 0.298 
-#> 10 1,2,4-T… [14 × 5] <fitdists> weib…       0.05   276.    NA    NA    NA 0.0471
+#>    Chemical      data     n ssd_fit    dist  proportion    est    se   lcl   ucl
+#>    <chr>     <list<t> <int> <list>     <chr>      <dbl>  <dbl> <dbl> <dbl> <dbl>
+#>  1 1,1,2-Tr… [10 × 5]    10 <fitdists> gamma       0.05 32778.    NA    NA    NA
+#>  2 1,1,2-Tr… [10 × 5]    10 <fitdists> lgum…       0.05 42924.    NA    NA    NA
+#>  3 1,1,2-Tr… [10 × 5]    10 <fitdists> llog…       0.05 33975.    NA    NA    NA
+#>  4 1,1,2-Tr… [10 × 5]    10 <fitdists> lnorm       0.05 37884.    NA    NA    NA
+#>  5 1,1,2-Tr… [10 × 5]    10 <fitdists> weib…       0.05 25834.    NA    NA    NA
+#>  6 1,2,4-Tr… [14 × 5]    14 <fitdists> gamma       0.05   402.    NA    NA    NA
+#>  7 1,2,4-Tr… [14 × 5]    14 <fitdists> lgum…       0.05   802.    NA    NA    NA
+#>  8 1,2,4-Tr… [14 × 5]    14 <fitdists> llog…       0.05   634.    NA    NA    NA
+#>  9 1,2,4-Tr… [14 × 5]    14 <fitdists> lnorm       0.05   666.    NA    NA    NA
+#> 10 1,2,4-Tr… [14 × 5]    14 <fitdists> weib…       0.05   276.    NA    NA    NA
 #> # ℹ 502 more rows
-#> # ℹ 4 more variables: method <chr>, nboot <int>, pboot <dbl>, samples <I<list>>
+#> # ℹ 5 more variables: wt <dbl>, method <chr>, nboot <int>, pboot <dbl>,
+#> #   samples <I<list>>
 
 data |>
   dplyr::group_by(Chemical) |>
