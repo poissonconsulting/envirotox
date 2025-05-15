@@ -126,7 +126,6 @@ yanagihara_24_acute %<>%
   select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Type, Group = Trophic.Level, Original_CAS = original.CAS, BC) %>%
   as_tibble() %>%
   filter(BC <= 0.555) %>%
-  select(!BC) %>%
   arrange(Chemical, Species)
 
 yanagihara_24_chronic %<>%
@@ -135,7 +134,6 @@ yanagihara_24_chronic %<>%
   select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Type, Group = Trophic.Level, Original_CAS = original.CAS, BC) %>%
   as_tibble() %>%
   filter(BC <= 0.555) %>%
-  select(!BC) %>%
   arrange(Chemical, Species)
 
 chk::check_key(yanagihara_24_acute, c("Chemical", "Species"))

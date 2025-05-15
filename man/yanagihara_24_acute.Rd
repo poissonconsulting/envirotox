@@ -5,7 +5,7 @@
 \alias{yanagihara_24_acute}
 \title{Acute Species Sensitivity Data as compiled by Yanagihara et al. (2024)}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 9242 rows and 6 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 9242 rows and 7 columns.
 }
 \usage{
 yanagihara_24_acute
