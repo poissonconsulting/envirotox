@@ -30,6 +30,10 @@ wt_model <- function(x) {
     dplyr::summarise(wt = mean(wt), .groups = "drop") |>
     dplyr::arrange(desc(wt))
 }
+
+has_burrIII3 <- function(x) {
+  hasName(x, "burrIII3")
+}
 ```
 
 ```{r acute_custom_filtered}
@@ -38,9 +42,9 @@ dists <- c("lnorm", "llogis", "burrIII3", "weibull")
 data <- envirotox::yanagihara_24_acute |>
   dplyr::filter(BC <= 0.555) |>
   dplyr::nest_by(Chemical) |>
-  dplyr::mutate(ssd_fit = list(ssd_fit_dists(data, silent = TRUE)),
+  dplyr::mutate(ssd_fit = list(ssd_fit_dists(data, dists = dists, at_boundary_ok = FALSE, computable = TRUE, silent = TRUE)),
                 ssd_hc = list(ssd_hc(ssd_fit, average = FALSE))) |>
-  # dplyr::filter(hasName(ssd_fit, "burrIII")) |>
+  dplyr::filter(has_burrIII3(ssd_fit)) |>
   tidyr::unnest(ssd_hc)
 
 data |> 
@@ -59,7 +63,6 @@ data <- envirotox::yanagihara_24_acute |>
   dplyr::nest_by(Chemical) |>
   dplyr::mutate(ssd_fit = list(ssd_fit_dists(data, silent = TRUE)),
                 ssd_hc = list(ssd_hc(ssd_fit, average = FALSE))) |>
-  # dplyr::filter(hasName(ssd_fit, "burrIII")) |>
   tidyr::unnest(ssd_hc)
 
 data |> 
@@ -87,3 +90,4 @@ data |>
   wt_model() |>
   print()
 ```
+
