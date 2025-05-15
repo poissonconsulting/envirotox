@@ -176,6 +176,34 @@ Chemical,Conc,Species,Type,Group,Original_CAS,BC
 "1,2-Dichloropropane",135638,Pimephales promelas,Acute,FISH,78875,0.330204
 "1,2-Dichloropropane",116000,Poecilia reticulata,Acute,FISH,78875,0.330204
 "1,2-Dichloropropane",70578.1,Raphidocelis subcapitata,Acute,ALGAE,78875,0.330204
+"1,3-Dichlorobenzene",51900,Cyclotella meneghiniana,Acute,ALGAE,541731,0.594587
+"1,3-Dichlorobenzene",7800,Cyprinodon variegatus,Acute,FISH,541731,0.594587
+"1,3-Dichlorobenzene",148000,Danio rerio,Acute,FISH,541731,0.594587
+"1,3-Dichlorobenzene",5422.27,Daphnia magna,Acute,INVERT,541731,0.594587
+"1,3-Dichlorobenzene",8080,Daphnia pulex,Acute,INVERT,541731,0.594587
+"1,3-Dichlorobenzene",22808.7,Desmodesmus subspicatus,Acute,ALGAE,541731,0.594587
+"1,3-Dichlorobenzene",4993.32,Lepomis macrochirus,Acute,FISH,541731,0.594587
+"1,3-Dichlorobenzene",7186.24,Oryzias latipes,Acute,FISH,541731,0.594587
+"1,3-Dichlorobenzene",8421.09,Pimephales promelas,Acute,FISH,541731,0.594587
+"1,3-Dichlorobenzene",7538.08,Poecilia reticulata,Acute,FISH,541731,0.594587
+"1,3-Dichlorobenzene",82735.7,Raphidocelis subcapitata,Acute,ALGAE,541731,0.594587
+"1,3-Dichlorobenzene",5280,Skeletonema costatum,Acute,ALGAE,541731,0.594587
+"1,3-Dichlorobenzene",130000,Tetrahymena pyriformis,Acute,INVERT,541731,0.594587
+"1,3-Dichloropropene",108000,Anabaena flos-aquae,Acute,ALGAE,542756,0.5719
+"1,3-Dichloropropene",1800,Cyprinodon variegatus,Acute,FISH,542756,0.5719
+"1,3-Dichloropropene",3226.7,Daphnia magna,Acute,INVERT,542756,0.5719
+"1,3-Dichloropropene",2000,Gammarus minus,Acute,INVERT,542756,0.5719
+"1,3-Dichloropropene",6089.96,Lepomis macrochirus,Acute,FISH,542756,0.5719
+"1,3-Dichloropropene",9486.83,Leuciscus idus melanotus,Acute,FISH,542756,0.5719
+"1,3-Dichloropropene",3564.69,Micropterus salmoides,Acute,FISH,542756,0.5719
+"1,3-Dichloropropene",3268.96,Oncorhynchus mykiss,Acute,FISH,542756,0.5719
+"1,3-Dichloropropene",1500,Oryzias latipes,Acute,FISH,542756,0.5719
+"1,3-Dichloropropene",1398.36,Pimephales promelas,Acute,FISH,542756,0.5719
+"1,3-Dichloropropene",1060,Poecilia reticulata,Acute,FISH,542756,0.5719
+"1,3-Dichloropropene",4277,Raphidocelis subcapitata,Acute,ALGAE,542756,0.5719
+"1,3-Dichloropropene",1080,Sander vitreus,Acute,FISH,542756,0.5719
+"1,3-Dichloropropene",1000,Skeletonema costatum,Acute,ALGAE,542756,0.5719
+"1,3-Dichloropropene",1080,Stizostedion vitreum,Acute,FISH,542756,0.5719
 "1,3-Dinitrobenzene",6581.03,Americamysis bahia,Acute,INVERT,99650,0.332886
 "1,3-Dinitrobenzene",92000,Arbacia punctulata,Acute,INVERT,99650,0.332886
 "1,3-Dinitrobenzene",220,Chlamydomonas reinhardtii,Acute,ALGAE,99650,0.332886
@@ -211,6 +239,19 @@ Chemical,Conc,Species,Type,Group,Original_CAS,BC
 "1,4-Dichlorobenzene",1670,Salvelinus fontinalis,Acute,FISH,106467,0.361622
 "1,4-Dichlorobenzene",54800,Skeletonema costatum,Acute,ALGAE,106467,0.361622
 "1,4-Dichlorobenzene",13000,Tanytarsus dissimilis,Acute,INVERT,106467,0.361622
+1-Butanol,2307900,Alburnus alburnus,Acute,FISH,71363,0.623562
+1-Butanol,2950000,Artemia salina,Acute,INVERT,71363,0.623562
+1-Butanol,1900000,Carassius auratus,Acute,FISH,71363,0.623562
+1-Butanol,1963010,Daphnia magna,Acute,INVERT,71363,0.623562
+1-Butanol,661000,Daphnia pulex,Acute,INVERT,71363,0.623562
+1-Butanol,100000,Lepomis macrochirus,Acute,FISH,71363,0.623562
+1-Butanol,1000000,Leuciscus idus,Acute,FISH,71363,0.623562
+1-Butanol,1457390,Leuciscus idus melanotus,Acute,FISH,71363,0.623562
+1-Butanol,2100000,Nitocra spinipes,Acute,INVERT,71363,0.623562
+1-Butanol,206155,Oryzias latipes,Acute,FISH,71363,0.623562
+1-Butanol,1841640,Pimephales promelas,Acute,FISH,71363,0.623562
+1-Butanol,1740000,Poecilia reticulata,Acute,FISH,71363,0.623562
+1-Butanol,1200000,Xenopus laevis,Acute,AMPHIB,71363,0.623562
 1-Decanol,7200,Alburnus alburnus,Acute,FISH,112301,0.391538
 1-Decanol,5600,Americamysis bahia,Acute,INVERT,112301,0.391538
 1-Decanol,10337.9,Daphnia magna,Acute,INVERT,112301,0.391538
@@ -762,6 +803,19 @@ Chemical,Conc,Species,Type,Group,Original_CAS,BC
 2-Chloroethanol,61613,Pimephales promelas,Acute,FISH,107073,0.438817
 2-Chloroethanol,18600,Rana catesbeiana,Acute,AMPHIB,107073,0.438817
 2-Chloroethanol,118000,Tanytarsus dissimilis,Acute,INVERT,107073,0.438817
+2-Chlorophenol,13207.9,Carassius auratus,Acute,FISH,95578,0.566719
+2-Chlorophenol,170000,Chlorella vulgaris,Acute,ALGAE,95578,0.566719
+2-Chlorophenol,25000,Daphnia carinata,Acute,INVERT,95578,0.566719
+2-Chlorophenol,8775.23,Daphnia magna,Acute,INVERT,95578,0.566719
+2-Chlorophenol,12037.4,Daphnia pulex,Acute,INVERT,95578,0.566719
+2-Chlorophenol,59674.2,Desmodesmus subspicatus,Acute,ALGAE,95578,0.566719
+2-Chlorophenol,8195.22,Lepomis macrochirus,Acute,FISH,95578,0.566719
+2-Chlorophenol,10700,Oryzias latipes,Acute,FISH,95578,0.566719
+2-Chlorophenol,12806.2,Pimephales promelas,Acute,FISH,95578,0.566719
+2-Chlorophenol,6290,Platichthys flesus,Acute,FISH,95578,0.566719
+2-Chlorophenol,10987.8,Poecilia reticulata,Acute,FISH,95578,0.566719
+2-Chlorophenol,70000,Raphidocelis subcapitata,Acute,ALGAE,95578,0.566719
+2-Chlorophenol,6600,Solea solea,Acute,FISH,95578,0.566719
 "2-Methyl-1,3-pentanediol",12000000,Carassius auratus,Acute,FISH,149315,0.372515
 "2-Methyl-1,3-pentanediol",6860540,Daphnia magna,Acute,INVERT,149315,0.372515
 "2-Methyl-1,3-pentanediol",9183360,Gambusia affinis,Acute,FISH,149315,0.372515
@@ -772,6 +826,23 @@ Chemical,Conc,Species,Type,Group,Original_CAS,BC
 "2-Methyl-1,3-pentanediol",8690000,Pimephales promelas,Acute,FISH,149315,0.372515
 "2-Methyl-1,3-pentanediol",11800000,Rana catesbeiana,Acute,AMPHIB,149315,0.372515
 "2-Methyl-1,3-pentanediol",4310000,Tanytarsus dissimilis,Acute,INVERT,149315,0.372515
+2-Methyl-1-propanol,1732050,Alburnus alburnus,Acute,FISH,78831,0.742426
+2-Methyl-1-propanol,2601000,Arbacia punctulata,Acute,INVERT,78831,0.742426
+2-Methyl-1-propanol,2204560,Carassius auratus,Acute,FISH,78831,0.742426
+2-Methyl-1-propanol,1200000,Ceriodaphnia dubia,Acute,INVERT,78831,0.742426
+2-Methyl-1-propanol,1275790,Daphnia magna,Acute,INVERT,78831,0.742426
+2-Methyl-1-propanol,1100000,Daphnia pulex,Acute,INVERT,78831,0.742426
+2-Methyl-1-propanol,404379,Desmodesmus subspicatus,Acute,ALGAE,78831,0.742426
+2-Methyl-1-propanol,1800000,Gambusia affinis,Acute,FISH,78831,0.742426
+2-Methyl-1-propanol,1460000,Ictalurus punctatus,Acute,FISH,78831,0.742426
+2-Methyl-1-propanol,1600000,Lepomis macrochirus,Acute,FISH,78831,0.742426
+2-Methyl-1-propanol,1630950,Leuciscus idus melanotus,Acute,FISH,78831,0.742426
+2-Methyl-1-propanol,1330000,Oncorhynchus mykiss,Acute,FISH,78831,0.742426
+2-Methyl-1-propanol,949000,Orconectes immunis,Acute,INVERT,78831,0.742426
+2-Methyl-1-propanol,1469460,Pimephales promelas,Acute,FISH,78831,0.742426
+2-Methyl-1-propanol,3010000,Rana catesbeiana,Acute,AMPHIB,78831,0.742426
+2-Methyl-1-propanol,2090000,Tanytarsus dissimilis,Acute,INVERT,78831,0.742426
+2-Methyl-1-propanol,18300,Xenopus laevis,Acute,AMPHIB,78831,0.742426
 "2-Methyl-2,4-pentanediol",8000000,Alburnus alburnus,Acute,FISH,107415,0.397249
 "2-Methyl-2,4-pentanediol",9486000,Arbacia punctulata,Acute,INVERT,107415,0.397249
 "2-Methyl-2,4-pentanediol",5900000,Artemia salina,Acute,INVERT,107415,0.397249
@@ -1218,6 +1289,57 @@ Acetochlor,47.6833,Raphidocelis subcapitata,Acute,ALGAE,34256800,0.494873
 Acetochlor,520.769,Scenedesmus acutus var. acutus,Acute,ALGAE,34256800,0.494873
 Acetochlor,4300,Scenedesmus quadricauda,Acute,ALGAE,34256800,0.494873
 Acetochlor,3.4,Skeletonema costatum,Acute,ALGAE,34256800,0.494873
+Acetone,15000000,Aedes aegypti,Acute,INVERT,67641,0.625879
+Acetone,11000000,Alburnus alburnus,Acute,FISH,67641,0.625879
+Acetone,20000000,Ambystoma mexicanum,Acute,AMPHIB,67641,0.625879
+Acetone,33830,Anodonta imbecillis,Acute,INVERT,67641,0.625879
+Acetone,2100000,Artemia salina,Acute,INVERT,67641,0.625879
+Acetone,7550000,Asellus aquaticus,Acute,INVERT,67641,0.625879
+Acetone,100000,Asellus intermedius,Acute,INVERT,67641,0.625879
+Acetone,51050,Brachionus calyciflorus,Acute,INVERT,67641,0.625879
+Acetone,12000000,Carassius carassius,Acute,FISH,67641,0.625879
+Acetone,8099000,Ceriodaphnia dubia,Acute,INVERT,67641,0.625879
+Acetone,46900000,Chironomus tentans,Acute,INVERT,67641,0.625879
+Acetone,13000000,Chironomus thummi,Acute,INVERT,67641,0.625879
+Acetone,6.97,Chlorella fusca var vacuolata,Acute,ALGAE,67641,0.625879
+Acetone,48000000,Cipangopaludina malleata,Acute,INVERT,67641,0.625879
+Acetone,7600000,Cloeon dipterum,Acute,INVERT,67641,0.625879
+Acetone,20000000,Corbicula fluminea,Acute,INVERT,67641,0.625879
+Acetone,5000000,Corixa punctata,Acute,INVERT,67641,0.625879
+Acetone,100000,Crassostrea virginica,Acute,INVERT,67641,0.625879
+Acetone,17000000,Culex pipiens,Acute,INVERT,67641,0.625879
+Acetone,7632990,Daphnia cucullata,Acute,INVERT,67641,0.625879
+Acetone,4521710,Daphnia magna,Acute,INVERT,67641,0.625879
+Acetone,8800000,Daphnia pulex,Acute,INVERT,67641,0.625879
+Acetone,7500000,Dugesia lugubris,Acute,INVERT,67641,0.625879
+Acetone,100000,Dugesia tigrina,Acute,INVERT,67641,0.625879
+Acetone,7000000,Erpobdella octoculata,Acute,INVERT,67641,0.625879
+Acetone,13000000,Gambusia affinis,Acute,FISH,67641,0.625879
+Acetone,100000,Gammarus fasciatus,Acute,INVERT,67641,0.625879
+Acetone,6000000,Gammarus pulex,Acute,INVERT,67641,0.625879
+Acetone,100000,Helisoma trivolvis,Acute,INVERT,67641,0.625879
+Acetone,13500000,Hydra oligactis,Acute,INVERT,67641,0.625879
+Acetone,16000000,Ictalurus sp,Acute,FISH,67641,0.625879
+Acetone,35000000,Indoplanorbis exustus,Acute,INVERT,67641,0.625879
+Acetone,6400000,Ischnura elegans,Acute,INVERT,67641,0.625879
+Acetone,8187120,Lepomis macrochirus,Acute,FISH,67641,0.625879
+Acetone,8605700,Leuciscus idus melanotus,Acute,FISH,67641,0.625879
+Acetone,100000,Lumbriculus variegatus,Acute,INVERT,67641,0.625879
+Acetone,7000000,Lymnaea stagnalis,Acute,INVERT,67641,0.625879
+Acetone,100000,Mercenaria mercenaria,Acute,INVERT,67641,0.625879
+Acetone,10300000,Nemoura cinerea,Acute,INVERT,67641,0.625879
+Acetone,16700000,Nitocra spinipes,Acute,INVERT,67641,0.625879
+Acetone,10244700,Oncorhynchus mykiss,Acute,FISH,67641,0.625879
+Acetone,12481600,Oryzias latipes,Acute,FISH,67641,0.625879
+Acetone,5640000,Palaemonetes pugio,Acute,INVERT,67641,0.625879
+Acetone,35000000,Physella acuta,Acute,INVERT,67641,0.625879
+Acetone,9497850,Pimephales promelas,Acute,FISH,67641,0.625879
+Acetone,8453680,Poecilia reticulata,Acute,FISH,67641,0.625879
+Acetone,4000000,Rasbora heteromorpha,Acute,FISH,67641,0.625879
+Acetone,6070330,Salvelinus fontinalis,Acute,FISH,67641,0.625879
+Acetone,35000000,Semisulcospira libertina,Acute,INVERT,67641,0.625879
+Acetone,64300000,Streptocephalus rubricaudatus,Acute,INVERT,67641,0.625879
+Acetone,24000000,Xenopus laevis,Acute,AMPHIB,67641,0.625879
 Acetonitrile,399650,Artemia salina,Acute,INVERT,75058,0.470931
 Acetonitrile,100000,Asellus intermedius,Acute,INVERT,75058,0.470931
 Acetonitrile,3589990,Daphnia magna,Acute,INVERT,75058,0.470931
@@ -1278,6 +1400,48 @@ Acrolein,60,Rasbora heteromorpha,Acute,FISH,107028,0.285083
 Acrolein,469.512,Salmo trutta,Acute,FISH,107028,0.285083
 Acrolein,151,Tanytarsus dissimilis,Acute,INVERT,107028,0.285083
 Acrolein,7,Xenopus laevis,Acute,AMPHIB,107028,0.285083
+Alachlor,3300,Bufo americanus,Acute,AMPHIB,15972600,0.647319
+Alachlor,5000,Carassius auratus,Acute,FISH,15972600,0.647319
+Alachlor,158,Carassius carassius,Acute,FISH,15972600,0.647319
+Alachlor,11777.4,Ceriodaphnia dubia,Acute,INVERT,15972600,0.647319
+Alachlor,4.68,Ceriodaphnia sp,Acute,INVERT,15972600,0.647319
+Alachlor,10000,Chironomus riparius,Acute,INVERT,15972600,0.647319
+Alachlor,460,Chlamydomonas reinhardtii,Acute,ALGAE,15972600,0.647319
+Alachlor,460,Chlamydomonas sp,Acute,ALGAE,15972600,0.647319
+Alachlor,37.8,Chlorella fusca var vacuolata,Acute,ALGAE,15972600,0.647319
+Alachlor,201.866,Chlorella pyrenoidosa,Acute,ALGAE,15972600,0.647319
+Alachlor,26,Chlorella sp,Acute,ALGAE,15972600,0.647319
+Alachlor,26,Chlorella vulgaris,Acute,ALGAE,15972600,0.647319
+Alachlor,15000,Cipangopaludina malleata,Acute,INVERT,15972600,0.647319
+Alachlor,883.538,Cyprinus carpio,Acute,FISH,15972600,0.647319
+Alachlor,800,Danio rerio,Acute,FISH,15972600,0.647319
+Alachlor,11100,Daphnia carinata,Acute,INVERT,15972600,0.647319
+Alachlor,20563.1,Daphnia magna,Acute,INVERT,15972600,0.647319
+Alachlor,9674.71,Daphnia pulex,Acute,INVERT,15972600,0.647319
+Alachlor,3893.67,Desmodesmus subspicatus,Acute,ALGAE,15972600,0.647319
+Alachlor,13000,Echinogammarus tibaldii,Acute,INVERT,15972600,0.647319
+Alachlor,3749,Gambusia affinis,Acute,FISH,15972600,0.647319
+Alachlor,19700,Gammarus italicus,Acute,INVERT,15972600,0.647319
+Alachlor,3868.84,Heteropneustes fossilis,Acute,FISH,15972600,0.647319
+Alachlor,8902.55,Ictalurus punctatus,Acute,FISH,15972600,0.647319
+Alachlor,10000,Indoplanorbis exustus,Acute,INVERT,15972600,0.647319
+Alachlor,5286.36,Lepomis macrochirus,Acute,FISH,15972600,0.647319
+Alachlor,9.18,Leucaspius delineatus,Acute,FISH,15972600,0.647319
+Alachlor,1948.35,Oncorhynchus mykiss,Acute,FISH,15972600,0.647319
+Alachlor,458.441,Oreochromis niloticus,Acute,FISH,15972600,0.647319
+Alachlor,26.533,Parachlorella kessleri,Acute,ALGAE,15972600,0.647319
+Alachlor,5660,Pavlova sp,Acute,ALGAE,15972600,0.647319
+Alachlor,8400,Physella acuta,Acute,INVERT,15972600,0.647319
+Alachlor,4594.82,Pimephales promelas,Acute,FISH,15972600,0.647319
+Alachlor,19500,Procambarus sp,Acute,INVERT,15972600,0.647319
+Alachlor,3500,Rana pipiens,Acute,AMPHIB,15972600,0.647319
+Alachlor,8.71744,Raphidocelis subcapitata,Acute,ALGAE,15972600,0.647319
+Alachlor,27,Scenedesmus acutus var. acutus,Acute,ALGAE,15972600,0.647319
+Alachlor,1330,Scenedesmus quadricauda,Acute,ALGAE,15972600,0.647319
+Alachlor,1330,Scenedesmus sp,Acute,ALGAE,15972600,0.647319
+Alachlor,3800,Semisulcospira libertina,Acute,INVERT,15972600,0.647319
+Alachlor,3900.6,Tilapia sp,Acute,FISH,15972600,0.647319
+Alachlor,28.7,Tinca tinca,Acute,FISH,15972600,0.647319
 Aldicarb,270,Aedes aegypti,Acute,INVERT,116063,0.47399
 Aldicarb,150,Aedes taeniorhynchus,Acute,INVERT,116063,0.47399
 Aldicarb,14.4222,Americamysis bahia,Acute,INVERT,116063,0.47399
@@ -1311,6 +1475,27 @@ Aldicarb,175000,Pila globosa,Acute,INVERT,116063,0.47399
 Aldicarb,1881.85,Pimephales promelas,Acute,FISH,116063,0.47399
 Aldicarb,666,Poecilia reticulata,Acute,FISH,116063,0.47399
 Aldicarb,50000,Skeletonema costatum,Acute,ALGAE,116063,0.47399
+"Alkylbenzenesulfonate, linear",2000,Anguilla rostrata,Acute,FISH,42615300,0.691316
+"Alkylbenzenesulfonate, linear",4000,Catostomus commersoni,Acute,FISH,42615300,0.691316
+"Alkylbenzenesulfonate, linear",1300,Chrysiptera cyanea,Acute,FISH,42615300,0.691316
+"Alkylbenzenesulfonate, linear",22,Cirrhinus mrigala,Acute,FISH,42615300,0.691316
+"Alkylbenzenesulfonate, linear",1500,Cyprinus carpio,Acute,FISH,42615300,0.691316
+"Alkylbenzenesulfonate, linear",1314.65,Daphnia magna,Acute,INVERT,42615300,0.691316
+"Alkylbenzenesulfonate, linear",3700,Esox lucius,Acute,FISH,42615300,0.691316
+"Alkylbenzenesulfonate, linear",1400,Fundulus diaphanus,Acute,FISH,42615300,0.691316
+"Alkylbenzenesulfonate, linear",2700,Lepomis gibbosus,Acute,FISH,42615300,0.691316
+"Alkylbenzenesulfonate, linear",1599.81,Lepomis macrochirus,Acute,FISH,42615300,0.691316
+"Alkylbenzenesulfonate, linear",3187.81,Leuciscus idus,Acute,FISH,42615300,0.691316
+"Alkylbenzenesulfonate, linear",900,Microcystis aeruginosa,Acute,ALGAE,42615300,0.691316
+"Alkylbenzenesulfonate, linear",90,Microcystis sp,Acute,ALGAE,42615300,0.691316
+"Alkylbenzenesulfonate, linear",3700,Micropterus dolomieu,Acute,FISH,42615300,0.691316
+"Alkylbenzenesulfonate, linear",2019.9,Misgurnus anguillicaudatus,Acute,FISH,42615300,0.691316
+"Alkylbenzenesulfonate, linear",776,Nannochloropsis gaditana,Acute,ALGAE,42615300,0.691316
+"Alkylbenzenesulfonate, linear",3300,Notropis atherinoides,Acute,FISH,42615300,0.691316
+"Alkylbenzenesulfonate, linear",1680,Oncorhynchus mykiss,Acute,FISH,42615300,0.691316
+"Alkylbenzenesulfonate, linear",1510,Oreochromis mossambicus,Acute,FISH,42615300,0.691316
+"Alkylbenzenesulfonate, linear",4000,Oryzias latipes,Acute,FISH,42615300,0.691316
+"Alkylbenzenesulfonate, linear",1578.97,Pimephales promelas,Acute,FISH,42615300,0.691316
 Allyl alcohol,565.685,Asellus intermedius,Acute,INVERT,107186,0.394164
 Allyl alcohol,33000,Asterias rubens,Acute,INVERT,107186,0.394164
 Allyl alcohol,1000,Carassius auratus,Acute,FISH,107186,0.394164
@@ -1449,6 +1634,57 @@ Anilazine,100,Penaeus aztecus,Acute,INVERT,101053,0.482151
 Anilazine,1000,Physella acuta,Acute,INVERT,101053,0.482151
 Anilazine,1558,Rana limnocharis,Acute,AMPHIB,101053,0.482151
 Anilazine,580,Semisulcospira libertina,Acute,INVERT,101053,0.482151
+Aniline,155000,Aedes aegypti,Acute,INVERT,62533,0.659746
+Aniline,440000,Ambystoma mexicanum,Acute,AMPHIB,62533,0.659746
+Aniline,219000,Aplexa hypnorum,Acute,INVERT,62533,0.659746
+Aniline,68000,Asellus aquaticus,Acute,INVERT,62533,0.659746
+Aniline,100000,Asellus intermedius,Acute,INVERT,62533,0.659746
+Aniline,11932,Carassius auratus,Acute,FISH,62533,0.659746
+Aniline,78400,Catostomus commersoni,Acute,FISH,62533,0.659746
+Aniline,135.611,Ceriodaphnia dubia,Acute,INVERT,62533,0.659746
+Aniline,399900,Chironomus tentans,Acute,INVERT,62533,0.659746
+Aniline,175000,Chironomus thummi,Acute,INVERT,62533,0.659746
+Aniline,149817,Chlorella pyrenoidosa,Acute,ALGAE,62533,0.659746
+Aniline,477900,Clinotanypus pinguis,Acute,INVERT,62533,0.659746
+Aniline,220000,Cloeon dipterum,Acute,INVERT,62533,0.659746
+Aniline,313117,Colpidium campylum,Acute,INVERT,62533,0.659746
+Aniline,150000,Corixa punctata,Acute,INVERT,62533,0.659746
+Aniline,29400,Crangon septemspinosa,Acute,INVERT,62533,0.659746
+Aniline,94000,Culex pipiens,Acute,INVERT,62533,0.659746
+Aniline,78508.7,Danio rerio,Acute,FISH,62533,0.659746
+Aniline,684.982,Daphnia cucullata,Acute,INVERT,62533,0.659746
+Aniline,540.04,Daphnia magna,Acute,INVERT,62533,0.659746
+Aniline,99.8999,Daphnia pulex,Acute,INVERT,62533,0.659746
+Aniline,840,Daphnia sp,Acute,INVERT,62533,0.659746
+Aniline,68000,Desmodesmus subspicatus,Acute,ALGAE,62533,0.659746
+Aniline,155000,Dugesia lugubris,Acute,INVERT,62533,0.659746
+Aniline,31600,Dugesia tigrina,Acute,INVERT,62533,0.659746
+Aniline,427900,Einfeldia natchitocheae,Acute,INVERT,62533,0.659746
+Aniline,760000,Erpobdella octoculata,Acute,INVERT,62533,0.659746
+Aniline,100000,Gammarus fasciatus,Acute,INVERT,62533,0.659746
+Aniline,112000,Gammarus pulex,Acute,INVERT,62533,0.659746
+Aniline,100000,Helisoma trivolvis,Acute,INVERT,62533,0.659746
+Aniline,406000,Hydra oligactis,Acute,INVERT,62533,0.659746
+Aniline,6065.78,Ictalurus punctatus,Acute,FISH,62533,0.659746
+Aniline,235000,Ischnura elegans,Acute,INVERT,62533,0.659746
+Aniline,430000,Lampetra tridentata,Acute,FISH,62533,0.659746
+Aniline,49000,Lepomis macrochirus,Acute,FISH,62533,0.659746
+Aniline,72059,Leuciscus idus,Acute,FISH,62533,0.659746
+Aniline,62968.2,Leuciscus idus melanotus,Acute,FISH,62533,0.659746
+Aniline,100000,Lumbriculus variegatus,Acute,INVERT,62533,0.659746
+Aniline,799213,Lymnaea stagnalis,Acute,INVERT,62533,0.659746
+Aniline,24233.5,Micropterus salmoides,Acute,FISH,62533,0.659746
+Aniline,64000,Nemoura cinerea,Acute,INVERT,62533,0.659746
+Aniline,27754.6,Oncorhynchus mykiss,Acute,FISH,62533,0.659746
+Aniline,30286.5,Oryzias latipes,Acute,FISH,62533,0.659746
+Aniline,80037.3,Pimephales promelas,Acute,FISH,62533,0.659746
+Aniline,100000,Planorbella trivolvis,Acute,INVERT,62533,0.659746
+Aniline,117231,Poecilia reticulata,Acute,FISH,62533,0.659746
+Aniline,16887.3,Raphidocelis subcapitata,Acute,ALGAE,62533,0.659746
+Aniline,272100,Tanypus neopunctipennis,Acute,INVERT,62533,0.659746
+Aniline,219000,Tanytarsus dissimilis,Acute,INVERT,62533,0.659746
+Aniline,116180,Tetrahymena pyriformis,Acute,INVERT,62533,0.659746
+Aniline,289828,Xenopus laevis,Acute,AMPHIB,62533,0.659746
 Aroclor 1016,7.16,Bufo americanus,Acute,AMPHIB,12674100,0.422018
 Aroclor 1016,27.72,Bufo woodhousei,Acute,AMPHIB,12674100,0.422018
 Aroclor 1016,13.205,Carassius auratus,Acute,FISH,12674100,0.422018
@@ -1543,6 +1779,120 @@ Arsenic(III) sulfide,19557,Thymallus arcticus,Acute,FISH,1303340,0.526898
 Arsenic(III) sulfide,26500,Tilapia mossambica,Acute,FISH,1303340,0.526898
 Arsenic(III) sulfide,127360,Tubifex tubifex,Acute,INVERT,1303340,0.526898
 Arsenic(III) sulfide,17800,Xyrauchen texanus,Acute,FISH,1303340,0.526898
+Atrazine,94,Acartia tonsa,Acute,INVERT,1912250,0.64705
+Atrazine,6700,Acroneuria sp,Acute,INVERT,1912250,0.64705
+Atrazine,16733.2,Ameiurus melas,Acute,FISH,1912250,0.64705
+Atrazine,5400,Americamysis bahia,Acute,INVERT,1912250,0.64705
+Atrazine,178,Anabaena cylindrica,Acute,ALGAE,1912250,0.64705
+Atrazine,123.964,Anabaena flos-aquae,Acute,ALGAE,1912250,0.64705
+Atrazine,5360,Anacystis alpicola,Acute,ALGAE,1912250,0.64705
+Atrazine,43.4914,Ankistrodesmus sp,Acute,ALGAE,1912250,0.64705
+Atrazine,1385.64,Artemia salina,Acute,INVERT,1912250,0.64705
+Atrazine,20,Bellerochea polymorpha,Acute,ALGAE,1912250,0.64705
+Atrazine,13406.2,Brachionus calyciflorus,Acute,INVERT,1912250,0.64705
+Atrazine,10700,Bufo americanus,Acute,AMPHIB,1912250,0.64705
+Atrazine,65999.2,Carassius auratus,Acute,FISH,1912250,0.64705
+Atrazine,87178,Carassius carassius,Acute,FISH,1912250,0.64705
+Atrazine,10000,Carcinus maenas,Acute,INVERT,1912250,0.64705
+Atrazine,100000,Cerastoderma edule,Acute,INVERT,1912250,0.64705
+Atrazine,18059.4,Ceriodaphnia dubia,Acute,INVERT,1912250,0.64705
+Atrazine,44493.8,Channa punctata,Acute,FISH,1912250,0.64705
+Atrazine,1000,Chironomus riparius,Acute,INVERT,1912250,0.64705
+Atrazine,720,Chironomus tentans,Acute,INVERT,1912250,0.64705
+Atrazine,336.583,Chlamydomonas geitleri,Acute,ALGAE,1912250,0.64705
+Atrazine,34,Chlamydomonas intermedia,Acute,ALGAE,1912250,0.64705
+Atrazine,259.43,Chlamydomonas reinhardtii,Acute,ALGAE,1912250,0.64705
+Atrazine,129.775,Chlamydomonas sp,Acute,ALGAE,1912250,0.64705
+Atrazine,15,Chlorella fusca,Acute,ALGAE,1912250,0.64705
+Atrazine,54.3987,Chlorella fusca var vacuolata,Acute,ALGAE,1912250,0.64705
+Atrazine,135.648,Chlorella pyrenoidosa,Acute,ALGAE,1912250,0.64705
+Atrazine,8456.6,Chlorella saccharophila,Acute,ALGAE,1912250,0.64705
+Atrazine,101.301,Chlorella sp,Acute,ALGAE,1912250,0.64705
+Atrazine,96.6025,Chlorella vulgaris,Acute,ALGAE,1912250,0.64705
+Atrazine,19171.4,Coregonus fera,Acute,FISH,1912250,0.64705
+Atrazine,18165.9,Crangon crangon,Acute,INVERT,1912250,0.64705
+Atrazine,30000,Crassostrea virginica,Acute,INVERT,1912250,0.64705
+Atrazine,37000,Ctenopharyngodon idella,Acute,FISH,1912250,0.64705
+Atrazine,5176.87,Cyprinodon variegatus,Acute,FISH,1912250,0.64705
+Atrazine,37258.1,Cyprinus carpio,Acute,FISH,1912250,0.64705
+Atrazine,36800,Danio rerio,Acute,FISH,1912250,0.64705
+Atrazine,28367.2,Daphnia carinata,Acute,INVERT,1912250,0.64705
+Atrazine,22634.2,Daphnia magna,Acute,INVERT,1912250,0.64705
+Atrazine,41197.7,Daphnia pulex,Acute,INVERT,1912250,0.64705
+Atrazine,58.6889,Desmodesmus subspicatus,Acute,ALGAE,1912250,0.64705
+Atrazine,112.486,Dunaliella tertiolecta,Acute,ALGAE,1912250,0.64705
+Atrazine,3300,Echinogammarus tibaldii,Acute,INVERT,1912250,0.64705
+Atrazine,2510,Eolimna minima,Acute,ALGAE,1912250,0.64705
+Atrazine,500,Eurytemora affinis,Acute,INVERT,1912250,0.64705
+Atrazine,5700,Gammarus fasciatus,Acute,INVERT,1912250,0.64705
+Atrazine,10100,Gammarus italicus,Acute,INVERT,1912250,0.64705
+Atrazine,14382.2,Gammarus pulex,Acute,INVERT,1912250,0.64705
+Atrazine,3540,Gomphonema clavatum,Acute,ALGAE,1912250,0.64705
+Atrazine,14700,Hyalella azteca,Acute,INVERT,1912250,0.64705
+Atrazine,3000,Hydra americana,Acute,INVERT,1912250,0.64705
+Atrazine,8000,Ictalurus melas,Acute,FISH,1912250,0.64705
+Atrazine,861.906,Ictalurus punctatus,Acute,FISH,1912250,0.64705
+Atrazine,11277.1,Ictalurus sp,Acute,FISH,1912250,0.64705
+Atrazine,11550,Idotea sp,Acute,INVERT,1912250,0.64705
+Atrazine,100,Isochrysis galbana,Acute,ALGAE,1912250,0.64705
+Atrazine,8500,Leiostomus xanthurus,Acute,FISH,1912250,0.64705
+Atrazine,33629.5,Lepomis macrochirus,Acute,FISH,1912250,0.64705
+Atrazine,51365.1,Leuciscus idus,Acute,FISH,1912250,0.64705
+Atrazine,33000,Leuciscus idus melanotus,Acute,FISH,1912250,0.64705
+Atrazine,37100,Lumbriculus variegatus,Acute,INVERT,1912250,0.64705
+Atrazine,195.569,Microcystis aeruginosa,Acute,ALGAE,1912250,0.64705
+Atrazine,90,Microcystis sp,Acute,ALGAE,1912250,0.64705
+Atrazine,77,Monochrysis lutheri,Acute,ALGAE,1912250,0.64705
+Atrazine,209,Nannochloropsis gaditana,Acute,ALGAE,1912250,0.64705
+Atrazine,460,Navicula incerta,Acute,ALGAE,1912250,0.64705
+Atrazine,82,Neochloris sp,Acute,ALGAE,1912250,0.64705
+Atrazine,15600,Notropis atherinoides,Acute,FISH,1912250,0.64705
+Atrazine,24092.6,Oncorhynchus kisutch,Acute,FISH,1912250,0.64705
+Atrazine,12530.6,Oncorhynchus mykiss,Acute,FISH,1912250,0.64705
+Atrazine,28450.7,Oncorhynchus tshawytscha,Acute,FISH,1912250,0.64705
+Atrazine,216.726,Oophila sp,Acute,ALGAE,1912250,0.64705
+Atrazine,7364.72,Oreochromis niloticus,Acute,FISH,1912250,0.64705
+Atrazine,24.2,Oscillatoria limnetica,Acute,ALGAE,1912250,0.64705
+Atrazine,9000,Palaemonetes pugio,Acute,INVERT,1912250,0.64705
+Atrazine,330,Paracerceis sculpta,Acute,INVERT,1912250,0.64705
+Atrazine,1730,Parachlorella kessleri,Acute,ALGAE,1912250,0.64705
+Atrazine,130.642,Pavlova sp,Acute,ALGAE,1912250,0.64705
+Atrazine,829.072,Pediastrum sp,Acute,ALGAE,1912250,0.64705
+Atrazine,1000,Penaeus aztecus,Acute,INVERT,1912250,0.64705
+Atrazine,6900,Penaeus duorarum,Acute,INVERT,1912250,0.64705
+Atrazine,58480.4,Perca sp,Acute,FISH,1912250,0.64705
+Atrazine,34100,Physa virgata,Acute,INVERT,1912250,0.64705
+Atrazine,15445.8,Pimephales promelas,Acute,FISH,1912250,0.64705
+Atrazine,20,Pithophora oedogonia,Acute,ALGAE,1912250,0.64705
+Atrazine,100,Platymonas sp,Acute,ALGAE,1912250,0.64705
+Atrazine,37504.6,Poecilia reticulata,Acute,FISH,1912250,0.64705
+Atrazine,79,Porphyridium cruentum,Acute,ALGAE,1912250,0.64705
+Atrazine,12.9615,Pseudanabaena galeata,Acute,ALGAE,1912250,0.64705
+Atrazine,20200,Rana palustris,Acute,AMPHIB,1912250,0.64705
+Atrazine,14500,Rana pipiens,Acute,AMPHIB,1912250,0.64705
+Atrazine,136.868,Raphidocelis subcapitata,Acute,ALGAE,1912250,0.64705
+Atrazine,11506.7,Rasbora heteromorpha,Acute,FISH,1912250,0.64705
+Atrazine,10200,Rhamdia quelen,Acute,FISH,1912250,0.64705
+Atrazine,25980.8,Salmo trutta,Acute,FISH,1912250,0.64705
+Atrazine,5328.16,Salvelinus fontinalis,Acute,FISH,1912250,0.64705
+Atrazine,110,Scenedesmus abundans,Acute,ALGAE,1912250,0.64705
+Atrazine,44.5201,Scenedesmus acutus,Acute,ALGAE,1912250,0.64705
+Atrazine,197.78,Scenedesmus acutus var. acutus,Acute,ALGAE,1912250,0.64705
+Atrazine,110.906,Scenedesmus quadricauda,Acute,ALGAE,1912250,0.64705
+Atrazine,169,Scenedesmus sp,Acute,ALGAE,1912250,0.64705
+Atrazine,115.109,Skeletonema costatum,Acute,ALGAE,1912250,0.64705
+Atrazine,282,Staurastrum sebaldi,Acute,ALGAE,1912250,0.64705
+Atrazine,3370,Stichococcus bacillaris,Acute,ALGAE,1912250,0.64705
+Atrazine,127,Stigeoclonium tenue,Acute,ALGAE,1912250,0.64705
+Atrazine,30000,Streptocephalus rubricaudatus,Acute,INVERT,1912250,0.64705
+Atrazine,30000,Streptocephalus texanus,Acute,INVERT,1912250,0.64705
+Atrazine,34.2859,Synechococcus elongatus,Acute,ALGAE,1912250,0.64705
+Atrazine,55.9732,Synechococcus leopoliensis,Acute,ALGAE,1912250,0.64705
+Atrazine,44.5,Synechococcus sp,Acute,ALGAE,1912250,0.64705
+Atrazine,74000,Tetrahymena pyriformis,Acute,INVERT,1912250,0.64705
+Atrazine,110,Thalassiosira fluviatilis,Acute,ALGAE,1912250,0.64705
+Atrazine,36700,Thamnocephalus platyurus,Acute,INVERT,1912250,0.64705
+Atrazine,88,Ulothrix subconstricta,Acute,ALGAE,1912250,0.64705
 Azinphos-methyl,4847.47,Ameiurus melas,Acute,FISH,86500,0.457511
 Azinphos-methyl,0.233666,Americamysis bahia,Acute,INVERT,86500,0.457511
 Azinphos-methyl,4.8,Asellus aquaticus,Acute,INVERT,86500,0.457511
@@ -1671,6 +2021,49 @@ Benzalkonium chloride,1600,Penaeus penicillatus,Acute,INVERT,8001540,0.523113
 Benzalkonium chloride,1500,Penaeus semisulcatus,Acute,INVERT,8001540,0.523113
 Benzalkonium chloride,2732.67,Poecilia reticulata,Acute,FISH,8001540,0.523113
 Benzalkonium chloride,191.242,Scenedesmus pannonicus,Acute,ALGAE,8001540,0.523113
+Benzene,108876,Aedes aegypti,Acute,INVERT,71432,0.658178
+Benzene,370000,Ambystoma mexicanum,Acute,AMPHIB,71432,0.658178
+Benzene,94108.9,Artemia sp,Acute,INVERT,71432,0.658178
+Benzene,120000,Asellus aquaticus,Acute,INVERT,71432,0.658178
+Benzene,1000000,Brachionus calyciflorus,Acute,INVERT,71432,0.658178
+Benzene,1000,Brachionus plicatilis,Acute,INVERT,71432,0.658178
+Benzene,36997.4,Carassius auratus,Acute,FISH,71432,0.658178
+Benzene,13699.6,Ceriodaphnia dubia,Acute,INVERT,71432,0.658178
+Benzene,100000,Chironomus thummi,Acute,INVERT,71432,0.658178
+Benzene,0.0859,Chlorella fusca var vacuolata,Acute,ALGAE,71432,0.658178
+Benzene,525000,Chlorella vulgaris,Acute,ALGAE,71432,0.658178
+Benzene,34000,Cloeon dipterum,Acute,INVERT,71432,0.658178
+Benzene,22360.7,Clupea pallasi,Acute,FISH,71432,0.658178
+Benzene,48000,Corixa punctata,Acute,INVERT,71432,0.658178
+Benzene,71000,Culex pipiens,Acute,INVERT,71432,0.658178
+Benzene,372612,Daphnia cucullata,Acute,INVERT,71432,0.658178
+Benzene,80311.8,Daphnia magna,Acute,INVERT,71432,0.658178
+Benzene,67346,Daphnia pulex,Acute,INVERT,71432,0.658178
+Benzene,710000,Diaptomus forbesi,Acute,INVERT,71432,0.658178
+Benzene,74000,Dugesia lugubris,Acute,INVERT,71432,0.658178
+Benzene,22360.7,Engraulis mordax,Acute,FISH,71432,0.658178
+Benzene,320000,Erpobdella octoculata,Acute,INVERT,71432,0.658178
+Benzene,390474,Gambusia affinis,Acute,FISH,71432,0.658178
+Benzene,42000,Gammarus pulex,Acute,INVERT,71432,0.658178
+Benzene,34000,Hydra oligactis,Acute,INVERT,71432,0.658178
+Benzene,425000,Ictalurus punctatus,Acute,FISH,71432,0.658178
+Benzene,10000,Ischnura elegans,Acute,INVERT,71432,0.658178
+Benzene,190000,Katelysia opima,Acute,INVERT,71432,0.658178
+Benzene,101909,Lepomis macrochirus,Acute,FISH,71432,0.658178
+Benzene,45232.7,Leuciscus idus melanotus,Acute,FISH,71432,0.658178
+Benzene,22000,Mugil curema,Acute,FISH,71432,0.658178
+Benzene,130000,Nemoura cinerea,Acute,INVERT,71432,0.658178
+Benzene,15103.5,Oncorhynchus mykiss,Acute,FISH,71432,0.658178
+Benzene,111820,Oryzias latipes,Acute,FISH,71432,0.658178
+Benzene,27000,Palaemonetes pugio,Acute,INVERT,71432,0.658178
+Benzene,29253.4,Pimephales promelas,Acute,FISH,71432,0.658178
+Benzene,33711.3,Poecilia reticulata,Acute,FISH,71432,0.658178
+Benzene,29000,Raphidocelis subcapitata,Acute,ALGAE,71432,0.658178
+Benzene,1360000,Scenedesmus abundans,Acute,ALGAE,71432,0.658178
+Benzene,80000,Skeletonema costatum,Acute,ALGAE,71432,0.658178
+Benzene,40000,Thalassiosira pseudonana,Acute,ALGAE,71432,0.658178
+Benzene,84000,Therapon jarbua,Acute,FISH,71432,0.658178
+Benzene,190000,Xenopus laevis,Acute,AMPHIB,71432,0.658178
 Benzyl butyl phthalate,900,Americamysis bahia,Acute,INVERT,85687,0.365781
 Benzyl butyl phthalate,1000,Anacystis aeruginosa,Acute,ALGAE,85687,0.365781
 Benzyl butyl phthalate,2400,Chironomus tentans,Acute,INVERT,85687,0.365781
@@ -1762,6 +2155,27 @@ Bisphenol A,21750,Scenedesmus acutus var. acutus,Acute,ALGAE,80057,0.497466
 Bisphenol A,1000,Skeletonema costatum,Acute,ALGAE,80057,0.497466
 Bisphenol A,4320,Tigriopus japonicus,Acute,INVERT,80057,0.497466
 Bisphenol A,17900,Xiphophorus helleri,Acute,FISH,80057,0.497466
+Bromacil,112900,Americamysis bahia,Acute,INVERT,314409,0.566423
+Bromacil,69.9,Anabaena flos-aquae,Acute,ALGAE,314409,0.566423
+Bromacil,50984.1,Ceriodaphnia dubia,Acute,INVERT,314409,0.566423
+Bromacil,162800,Cyprinodon variegatus,Acute,FISH,314409,0.566423
+Bromacil,121000,Daphnia magna,Acute,INVERT,314409,0.566423
+Bromacil,97,Desmodesmus subspicatus,Acute,ALGAE,314409,0.566423
+Bromacil,104622,Lepomis macrochirus,Acute,FISH,314409,0.566423
+Bromacil,64739.7,Oncorhynchus mykiss,Acute,FISH,314409,0.566423
+Bromacil,1000,Penaeus aztecus,Acute,INVERT,314409,0.566423
+Bromacil,180070,Pimephales promelas,Acute,FISH,314409,0.566423
+Bromacil,6.8,Raphidocelis subcapitata,Acute,ALGAE,314409,0.566423
+Bromoform,12000,Brevoortia tyrannus,Acute,FISH,75252,0.608283
+Bromoform,11304.9,Cyprinodon variegatus,Acute,FISH,75252,0.608283
+Bromoform,64498.1,Cyprinus carpio,Acute,FISH,75252,0.608283
+Bromoform,50754.3,Daphnia magna,Acute,INVERT,75252,0.608283
+Bromoform,44000,Daphnia pulex,Acute,INVERT,75252,0.608283
+Bromoform,240,Dunaliella salina,Acute,ALGAE,75252,0.608283
+Bromoform,29000,Lepomis macrochirus,Acute,FISH,75252,0.608283
+Bromoform,26000,Penaeus aztecus,Acute,INVERT,75252,0.608283
+Bromoform,39342.9,Raphidocelis subcapitata,Acute,ALGAE,75252,0.608283
+Bromoform,12300,Skeletonema costatum,Acute,ALGAE,75252,0.608283
 Bromoxynil,1900,Chironomus riparius,Acute,INVERT,1689840,0.331091
 Bromoxynil,36000,Chlorella fusca var vacuolata,Acute,ALGAE,1689840,0.331091
 Bromoxynil,4410,Chlorella pyrenoidosa,Acute,ALGAE,1689840,0.331091
@@ -2213,6 +2627,186 @@ Captan,314.643,Rasbora heteromorpha,Acute,FISH,133062,0.455121
 Captan,45.7821,Salmo trutta,Acute,FISH,133062,0.455121
 Captan,34,Salvelinus fontinalis,Acute,FISH,133062,0.455121
 Captan,54.6517,Salvelinus namaycush,Acute,FISH,133062,0.455121
+Carbaryl,2767,Acipenser brevirostrum,Acute,FISH,63252,0.598015
+Carbaryl,1280,Acipenser oxyrhynchus,Acute,FISH,63252,0.598015
+Carbaryl,336,Aedes aegypti,Acute,INVERT,63252,0.598015
+Carbaryl,830,Aedes albopictus,Acute,INVERT,63252,0.598015
+Carbaryl,376.6,Aedes cantans,Acute,INVERT,63252,0.598015
+Carbaryl,167.9,Aedes communis,Acute,INVERT,63252,0.598015
+Carbaryl,145.5,Aedes excrucians,Acute,INVERT,63252,0.598015
+Carbaryl,298.3,Aedes punctor,Acute,INVERT,63252,0.598015
+Carbaryl,322.6,Aedes vexans,Acute,INVERT,63252,0.598015
+Carbaryl,20000,Ameiurus melas,Acute,FISH,63252,0.598015
+Carbaryl,15.6091,Americamysis bahia,Acute,INVERT,63252,0.598015
+Carbaryl,4000,Anabaena flos-aquae,Acute,ALGAE,63252,0.598015
+Carbaryl,27000,Anabas scandens,Acute,FISH,63252,0.598015
+Carbaryl,5500,Anabas testudineus,Acute,FISH,63252,0.598015
+Carbaryl,20953.8,Anguilla japonica,Acute,FISH,63252,0.598015
+Carbaryl,890,Anopheles albimanus,Acute,INVERT,63252,0.598015
+Carbaryl,390.692,Anopheles stephensi,Acute,INVERT,63252,0.598015
+Carbaryl,27000,Aplexa hypnorum,Acute,INVERT,63252,0.598015
+Carbaryl,3748.5,Aplocheilus lineatus,Acute,FISH,63252,0.598015
+Carbaryl,7200,Arenicola marina,Acute,INVERT,63252,0.598015
+Carbaryl,259.23,Asellus brevicaudus,Acute,INVERT,63252,0.598015
+Carbaryl,2141,Barbus conchonius,Acute,FISH,63252,0.598015
+Carbaryl,21.05,Barbus stigma,Acute,FISH,63252,0.598015
+Carbaryl,3799.12,Barbus ticto,Acute,FISH,63252,0.598015
+Carbaryl,4.07,Bosmina fatalis,Acute,INVERT,63252,0.598015
+Carbaryl,8.6,Bosmina longirostris,Acute,INVERT,63252,0.598015
+Carbaryl,4100,Brachionus calyciflorus,Acute,INVERT,63252,0.598015
+Carbaryl,1367.51,Cambarus bartonii,Acute,INVERT,63252,0.598015
+Carbaryl,16357.1,Carassius auratus,Acute,FISH,63252,0.598015
+Carbaryl,1420,Catla catla,Acute,FISH,63252,0.598015
+Carbaryl,15.2543,Ceriodaphnia dubia,Acute,INVERT,63252,0.598015
+Carbaryl,11380.2,Channa punctata,Acute,FISH,63252,0.598015
+Carbaryl,9783.89,Channa punctatus,Acute,FISH,63252,0.598015
+Carbaryl,17500,Channa striata,Acute,FISH,63252,0.598015
+Carbaryl,290,Chaoborus sp,Acute,INVERT,63252,0.598015
+Carbaryl,200,Chauliodes sp,Acute,INVERT,63252,0.598015
+Carbaryl,10,Chironomus plumosus,Acute,INVERT,63252,0.598015
+Carbaryl,108.148,Chironomus riparius,Acute,INVERT,63252,0.598015
+Carbaryl,1.6,Chironomus tentans,Acute,INVERT,63252,0.598015
+Carbaryl,4180,Chlorella pyrenoidosa,Acute,ALGAE,63252,0.598015
+Carbaryl,711.379,Chlorella sp,Acute,ALGAE,63252,0.598015
+Carbaryl,3560,Chlorella vulgaris,Acute,ALGAE,63252,0.598015
+Carbaryl,1894.91,Chlorococcum sp,Acute,ALGAE,63252,0.598015
+Carbaryl,3500,Cipangopaludina malleata,Acute,INVERT,63252,0.598015
+Carbaryl,3652.91,Cirrhinus mrigala,Acute,FISH,63252,0.598015
+Carbaryl,5.6,Claassenia sabulosa,Acute,INVERT,63252,0.598015
+Carbaryl,36941.2,Clarias batrachus,Acute,FISH,63252,0.598015
+Carbaryl,390,Cloeon sp,Acute,INVERT,63252,0.598015
+Carbaryl,8000,Colisa fasciata,Acute,FISH,63252,0.598015
+Carbaryl,3000,Crassostrea virginica,Acute,INVERT,63252,0.598015
+Carbaryl,365.459,Culex pipiens,Acute,INVERT,63252,0.598015
+Carbaryl,179.5,Culiseta annulata,Acute,INVERT,63252,0.598015
+Carbaryl,61189.9,Cylindrospermum sp,Acute,ALGAE,63252,0.598015
+Carbaryl,115,Cypridopsis vidua,Acute,INVERT,63252,0.598015
+Carbaryl,4540,Cyprinodon bovinus,Acute,FISH,63252,0.598015
+Carbaryl,7710,Cyprinodon macularius,Acute,FISH,63252,0.598015
+Carbaryl,2338.92,Cyprinodon variegatus,Acute,FISH,63252,0.598015
+Carbaryl,4602.56,Cyprinus carpio,Acute,FISH,63252,0.598015
+Carbaryl,9479.67,Cyprinus carpio ssp. communis,Acute,FISH,63252,0.598015
+Carbaryl,9260,Danio rerio,Acute,FISH,63252,0.598015
+Carbaryl,49.6644,Daphnia carinata,Acute,INVERT,63252,0.598015
+Carbaryl,50.5924,Daphnia magna,Acute,INVERT,63252,0.598015
+Carbaryl,13.1339,Daphnia obtusa,Acute,INVERT,63252,0.598015
+Carbaryl,13.2111,Daphnia pulex,Acute,INVERT,63252,0.598015
+Carbaryl,6.5,Echinogammarus tibaldii,Acute,INVERT,63252,0.598015
+Carbaryl,890,Eretes sticticus,Acute,INVERT,63252,0.598015
+Carbaryl,3410,Erimonax monachus,Acute,FISH,63252,0.598015
+Carbaryl,2020,Etheostoma fonticola,Acute,FISH,63252,0.598015
+Carbaryl,2373.47,Etheostoma lepidum,Acute,FISH,63252,0.598015
+Carbaryl,2262.56,Etheostoma rubrum,Acute,FISH,63252,0.598015
+Carbaryl,1600,Fundulus similis,Acute,FISH,63252,0.598015
+Carbaryl,7203.81,Gambusia affinis,Acute,FISH,63252,0.598015
+Carbaryl,26,Gammarus fasciatus,Acute,INVERT,63252,0.598015
+Carbaryl,28,Gammarus italicus,Acute,INVERT,63252,0.598015
+Carbaryl,16,Gammarus lacustris,Acute,INVERT,63252,0.598015
+Carbaryl,9.64057,Gammarus pseudolimnaeus,Acute,INVERT,63252,0.598015
+Carbaryl,25,Gammarus pulex,Acute,INVERT,63252,0.598015
+Carbaryl,7500,Garra gotyla ssp gotyla,Acute,FISH,63252,0.598015
+Carbaryl,6112.15,Gibelion catla,Acute,FISH,63252,0.598015
+Carbaryl,3731.47,Gila elegans,Acute,FISH,63252,0.598015
+Carbaryl,24468.4,Heteropneustes fossilis,Acute,FISH,63252,0.598015
+Carbaryl,328.112,Hyalella curvispina,Acute,INVERT,63252,0.598015
+Carbaryl,20000,Ictalurus melas,Acute,FISH,63252,0.598015
+Carbaryl,4967.41,Ictalurus punctatus,Acute,FISH,63252,0.598015
+Carbaryl,28982.8,Indoplanorbis exustus,Acute,INVERT,63252,0.598015
+Carbaryl,3.6,Isogenus sp,Acute,INVERT,63252,0.598015
+Carbaryl,4184.7,Labeo rohita,Acute,FISH,63252,0.598015
+Carbaryl,10293.3,Lepomis cyanellus,Acute,FISH,63252,0.598015
+Carbaryl,8279.77,Lepomis macrochirus,Acute,FISH,63252,0.598015
+Carbaryl,11200,Lepomis microlophus,Acute,FISH,63252,0.598015
+Carbaryl,2.68328,Leptodora kindtii,Acute,INVERT,63252,0.598015
+Carbaryl,8660,Leuciscus cephalus,Acute,FISH,63252,0.598015
+Carbaryl,20000,Leuciscus idus melanotus,Acute,FISH,63252,0.598015
+Carbaryl,5567.58,Lymnaea acuminata,Acute,INVERT,63252,0.598015
+Carbaryl,10700,Lymnaea stagnalis,Acute,INVERT,63252,0.598015
+Carbaryl,17000,Macoma nasuta,Acute,INVERT,63252,0.598015
+Carbaryl,35.2,Macrobrachium dayanum,Acute,INVERT,63252,0.598015
+Carbaryl,24.8877,Macrobrachium lamarrei,Acute,INVERT,63252,0.598015
+Carbaryl,11279.8,Macropodus cupanus,Acute,FISH,63252,0.598015
+Carbaryl,10100,Melanopsis dufouri,Acute,INVERT,63252,0.598015
+Carbaryl,3820,Mercenaria mercenaria,Acute,INVERT,63252,0.598015
+Carbaryl,23.6553,Metapenaeus monoceros,Acute,INVERT,63252,0.598015
+Carbaryl,2200,Microcystis aeruginosa,Acute,ALGAE,63252,0.598015
+Carbaryl,1260,Microcystis flosaquae,Acute,ALGAE,63252,0.598015
+Carbaryl,6400,Micropterus salmoides,Acute,FISH,63252,0.598015
+Carbaryl,13000,Misgurnus anguillicaudatus,Acute,FISH,63252,0.598015
+Carbaryl,100,Moina macrocopa,Acute,INVERT,63252,0.598015
+Carbaryl,119.8,Moina micrura,Acute,INVERT,63252,0.598015
+Carbaryl,112,Monostyla quadridentata,Acute,INVERT,63252,0.598015
+Carbaryl,1204.61,Morone saxatilis,Acute,FISH,63252,0.598015
+Carbaryl,2400,Mugil cephalus,Acute,FISH,63252,0.598015
+Carbaryl,4600,Mystus cavasius,Acute,FISH,63252,0.598015
+Carbaryl,18000,Mystus tengara,Acute,FISH,63252,0.598015
+Carbaryl,9588.4,Mystus vittatus,Acute,FISH,63252,0.598015
+Carbaryl,1500,Mytilus edulis,Acute,INVERT,63252,0.598015
+Carbaryl,1000,Nitzschia angularis,Acute,ALGAE,63252,0.598015
+Carbaryl,1224.74,Nitzschia angularis var affinis,Acute,ALGAE,63252,0.598015
+Carbaryl,27686,Nostoc muscorum,Acute,ALGAE,63252,0.598015
+Carbaryl,200,Notonecta undulata,Acute,INVERT,63252,0.598015
+Carbaryl,4510,Notropis mekistocholas,Acute,FISH,63252,0.598015
+Carbaryl,34977.7,Nuria danrica,Acute,FISH,63252,0.598015
+Carbaryl,3447.38,Oncorhynchus clarkii,Acute,FISH,63252,0.598015
+Carbaryl,2414.29,Oncorhynchus clarkii ssp henshawi,Acute,FISH,63252,0.598015
+Carbaryl,1808.8,Oncorhynchus clarkii ssp. stomias,Acute,FISH,63252,0.598015
+Carbaryl,1614.27,Oncorhynchus gilae ssp apache,Acute,FISH,63252,0.598015
+Carbaryl,1755.86,Oncorhynchus kisutch,Acute,FISH,63252,0.598015
+Carbaryl,1960.79,Oncorhynchus mykiss,Acute,FISH,63252,0.598015
+Carbaryl,250,Oncorhynchus salar,Acute,FISH,63252,0.598015
+Carbaryl,1371.96,Oncorhynchus tshawytscha,Acute,FISH,63252,0.598015
+Carbaryl,2870,Orconectes immunis,Acute,INVERT,63252,0.598015
+Carbaryl,8.6,Orconectes nais,Acute,INVERT,63252,0.598015
+Carbaryl,2433.83,Orconectes virilis,Acute,INVERT,63252,0.598015
+Carbaryl,3195.94,Oreochromis mossambicus,Acute,FISH,63252,0.598015
+Carbaryl,5652.12,Oreochromis niloticus,Acute,FISH,63252,0.598015
+Carbaryl,5272.25,Oryzias latipes,Acute,FISH,63252,0.598015
+Carbaryl,19.8658,Palaemonetes kadiakensis,Acute,INVERT,63252,0.598015
+Carbaryl,46000,Paramecium aurelia,Acute,INVERT,63252,0.598015
+Carbaryl,31000,Paramecium bursaria,Acute,INVERT,63252,0.598015
+Carbaryl,8888.19,Paramecium caudatum,Acute,INVERT,63252,0.598015
+Carbaryl,25923,Paramecium multimicronucleatum,Acute,INVERT,63252,0.598015
+Carbaryl,4161,Paratelphusa jacquemontii,Acute,INVERT,63252,0.598015
+Carbaryl,1006.9,Paratelphusa masoniana,Acute,INVERT,63252,0.598015
+Carbaryl,3300,Peltodytes sp,Acute,INVERT,63252,0.598015
+Carbaryl,3.7081,Penaeus aztecus,Acute,INVERT,63252,0.598015
+Carbaryl,2601.78,Perca flavescens,Acute,FISH,63252,0.598015
+Carbaryl,27000,Physella acuta,Acute,INVERT,63252,0.598015
+Carbaryl,36500,Pila globosa,Acute,INVERT,63252,0.598015
+Carbaryl,8085.86,Pimephales promelas,Acute,FISH,63252,0.598015
+Carbaryl,5360.3,Poecilia reticulata,Acute,FISH,63252,0.598015
+Carbaryl,12300,Poeciliopsis occidentalis,Acute,FISH,63252,0.598015
+Carbaryl,2600,Pomoxis nigromaculatus,Acute,FISH,63252,0.598015
+Carbaryl,250,Pontoporeia hoyi,Acute,INVERT,63252,0.598015
+Carbaryl,500,Procambarus acutus,Acute,INVERT,63252,0.598015
+Carbaryl,1000,Procambarus clarkii,Acute,INVERT,63252,0.598015
+Carbaryl,2430,Procambarus simulans,Acute,INVERT,63252,0.598015
+Carbaryl,1900,Procambarus sp,Acute,INVERT,63252,0.598015
+Carbaryl,4.32435,Pteronarcella badia,Acute,INVERT,63252,0.598015
+Carbaryl,5.24148,Pteronarcys californica,Acute,INVERT,63252,0.598015
+Carbaryl,3377.78,Ptychocheilus lucius,Acute,FISH,63252,0.598015
+Carbaryl,6200,Rana tigrina,Acute,AMPHIB,63252,0.598015
+Carbaryl,624,Ranatra elongata,Acute,INVERT,63252,0.598015
+Carbaryl,1924.74,Raphidocelis subcapitata,Acute,ALGAE,63252,0.598015
+Carbaryl,1137.43,Salmo salar,Acute,FISH,63252,0.598015
+Carbaryl,2552.52,Salmo trutta,Acute,FISH,63252,0.598015
+Carbaryl,700,Salmo trutta ssp. fario,Acute,FISH,63252,0.598015
+Carbaryl,1884.74,Salvelinus fontinalis,Acute,FISH,63252,0.598015
+Carbaryl,930.737,Salvelinus namaycush,Acute,FISH,63252,0.598015
+Carbaryl,1750,Scaphirhynchus platorynchus,Acute,FISH,63252,0.598015
+Carbaryl,2800,Scenedesmus acutus var. acutus,Acute,ALGAE,63252,0.598015
+Carbaryl,6100,Scenedesmus quadricauda,Acute,ALGAE,63252,0.598015
+Carbaryl,466.27,Scylla serrata,Acute,INVERT,63252,0.598015
+Carbaryl,25000,Semisulcospira libertina,Acute,INVERT,63252,0.598015
+Carbaryl,8.37373,Simocephalus serrulatus,Acute,INVERT,63252,0.598015
+Carbaryl,900,Skeletonema costatum,Acute,ALGAE,63252,0.598015
+Carbaryl,3.6,Skwala sp,Acute,INVERT,63252,0.598015
+Carbaryl,2200,Therapon jarbua,Acute,FISH,63252,0.598015
+Carbaryl,7818.42,Tilapia mossambica,Acute,FISH,63252,0.598015
+Carbaryl,1959.25,Tilapia sp,Acute,FISH,63252,0.598015
+Carbaryl,50,Tubifex tubifex,Acute,INVERT,63252,0.598015
+Carbaryl,4574.81,Xyrauchen texanus,Acute,FISH,63252,0.598015
 Carbendazim,98,Americamysis bahia,Acute,INVERT,10605200,0.455944
 Carbendazim,80,Asellus aquaticus,Acute,INVERT,10605200,0.455944
 Carbendazim,2192.89,Chlorella pyrenoidosa,Acute,ALGAE,10605200,0.455944
@@ -3423,6 +4017,50 @@ Cupric oxide,36,Villosa iris,Acute,INVERT,1317380,0.279399
 Cupric oxide,72.6636,Viviparus bengalensis,Acute,INVERT,1317380,0.279399
 Cupric oxide,700,Vorticella microstoma,Acute,INVERT,1317380,0.279399
 Cupric oxide,307.178,Xyrauchen texanus,Acute,FISH,1317380,0.279399
+Cyanazine,52.2934,Anabaena flos-aquae,Acute,ALGAE,21725500,0.619482
+Cyanazine,231.499,Chlorella pyrenoidosa,Acute,ALGAE,21725500,0.619482
+Cyanazine,129,Chlorella vulgaris,Acute,ALGAE,21725500,0.619482
+Cyanazine,6300,Cirrhinus mrigala,Acute,FISH,21725500,0.619482
+Cyanazine,18000,Cyprinodon variegatus,Acute,FISH,21725500,0.619482
+Cyanazine,17381.7,Danio rerio,Acute,FISH,21725500,0.619482
+Cyanazine,60149.8,Daphnia magna,Acute,INVERT,21725500,0.619482
+Cyanazine,2000,Gammarus fasciatus,Acute,INVERT,21725500,0.619482
+Cyanazine,12489.2,Ictalurus punctatus,Acute,FISH,21725500,0.619482
+Cyanazine,17923.7,Lepomis macrochirus,Acute,FISH,21725500,0.619482
+Cyanazine,24600,Melanotaenia fluviatilis,Acute,FISH,21725500,0.619482
+Cyanazine,5803.01,Oncorhynchus mykiss,Acute,FISH,21725500,0.619482
+Cyanazine,11300,Oreochromis mossambicus,Acute,FISH,21725500,0.619482
+Cyanazine,56000,Palaemonetes pugio,Acute,INVERT,21725500,0.619482
+Cyanazine,18130.1,Pimephales promelas,Acute,FISH,21725500,0.619482
+Cyanazine,29.2337,Raphidocelis subcapitata,Acute,ALGAE,21725500,0.619482
+Cyanazine,8772.05,Rasbora heteromorpha,Acute,FISH,21725500,0.619482
+Cyanazine,59.4643,Scenedesmus acutus var. acutus,Acute,ALGAE,21725500,0.619482
+Cyanazine,200,Scenedesmus quadricauda,Acute,ALGAE,21725500,0.619482
+Cyanazine,11300,Tilapia mossambica,Acute,FISH,21725500,0.619482
+Cybutryne,400,Americamysis bahia,Acute,INVERT,28160000,0.68842
+Cybutryne,1.9,Anabaena flos-aquae,Acute,ALGAE,28160000,0.68842
+Cybutryne,9734,Artemia sp,Acute,INVERT,28160000,0.68842
+Cybutryne,0.5,Chlamydomonas intermedia,Acute,ALGAE,28160000,0.68842
+Cybutryne,5.57,Chlorella fusca var vacuolata,Acute,ALGAE,28160000,0.68842
+Cybutryne,0.88572,Chlorella vulgaris,Acute,ALGAE,28160000,0.68842
+Cybutryne,0.42,Chlorococcum sp,Acute,ALGAE,28160000,0.68842
+Cybutryne,6.62925,Chroococcus minor,Acute,ALGAE,28160000,0.68842
+Cybutryne,2.5,Closterium ehrenbergii,Acute,ALGAE,28160000,0.68842
+Cybutryne,3500,Cyprinodon variegatus,Acute,FISH,28160000,0.68842
+Cybutryne,7709.29,Daphnia magna,Acute,INVERT,28160000,0.68842
+Cybutryne,5700,Daphnia pulex,Acute,INVERT,28160000,0.68842
+Cybutryne,2.4,Desmodesmus subspicatus,Acute,ALGAE,28160000,0.68842
+Cybutryne,0.875742,Dunaliella tertiolecta,Acute,ALGAE,28160000,0.68842
+Cybutryne,2.91542,Eisenia bicyclis,Acute,ALGAE,28160000,0.68842
+Cybutryne,2600,Lepomis macrochirus,Acute,FISH,28160000,0.68842
+Cybutryne,1580,Menidia beryllina,Acute,FISH,28160000,0.68842
+Cybutryne,793.725,Oncorhynchus mykiss,Acute,FISH,28160000,0.68842
+Cybutryne,2.4,Pediastrum duplex,Acute,ALGAE,28160000,0.68842
+Cybutryne,4.73911,Raphidocelis subcapitata,Acute,ALGAE,28160000,0.68842
+Cybutryne,4.10244,Scenedesmus acutus,Acute,ALGAE,28160000,0.68842
+Cybutryne,2.5,Staurastrum sebaldi,Acute,ALGAE,28160000,0.68842
+Cybutryne,1.91833,Synechococcus sp,Acute,ALGAE,28160000,0.68842
+Cybutryne,12000,Thamnocephalus platyurus,Acute,INVERT,28160000,0.68842
 Cyclonite,100000,Asellus militaris,Acute,INVERT,121824,0.471397
 Cyclonite,15000,Chironomus tentans,Acute,INVERT,121824,0.471397
 Cyclonite,24.2652,Danio rerio,Acute,FISH,121824,0.471397
@@ -3433,6 +4071,17 @@ Cyclonite,5003.17,Lepomis macrochirus,Acute,FISH,121824,0.471397
 Cyclonite,6594.06,Oncorhynchus mykiss,Acute,FISH,121824,0.471397
 Cyclonite,8952.62,Pimephales promelas,Acute,FISH,121824,0.471397
 Cyclonite,8909.55,Ulva fasciata,Acute,ALGAE,121824,0.471397
+Cyhexatin,10,Carassius auratus,Acute,FISH,13121700,0.56606
+Cyhexatin,0.386642,Daphnia magna,Acute,INVERT,13121700,0.56606
+Cyhexatin,5,Gammarus fasciatus,Acute,INVERT,13121700,0.56606
+Cyhexatin,4.3,Ictalurus punctatus,Acute,FISH,13121700,0.56606
+Cyhexatin,2,Leiostomus xanthurus,Acute,FISH,13121700,0.56606
+Cyhexatin,8.83023,Lepomis macrochirus,Acute,FISH,13121700,0.56606
+Cyhexatin,4.73129,Micropterus salmoides,Acute,FISH,13121700,0.56606
+Cyhexatin,1.46335,Oncorhynchus mykiss,Acute,FISH,13121700,0.56606
+Cyhexatin,1.4,Penaeus duorarum,Acute,INVERT,13121700,0.56606
+Cyhexatin,6.3,Salvelinus fontinalis,Acute,FISH,13121700,0.56606
+Cyhexatin,0.0176,Scenedesmus acutus var. acutus,Acute,ALGAE,13121700,0.56606
 Cymoxanil,2299.98,Anabaena flos-aquae,Acute,ALGAE,57967000,0.443738
 Cymoxanil,33500,Chlorella pyrenoidosa,Acute,ALGAE,57967000,0.443738
 Cymoxanil,3830,Chlorella vulgaris,Acute,ALGAE,57967000,0.443738
@@ -3510,6 +4159,112 @@ Di(2-ethylhexyl) phthalate,180,Paratanytarsus parthenogeneti,Acute,INVERT,117817
 Di(2-ethylhexyl) phthalate,160,Pimephales promelas,Acute,FISH,117817,0.284991
 Di(2-ethylhexyl) phthalate,960,Raphidocelis subcapitata,Acute,ALGAE,117817,0.284991
 Di(2-ethylhexyl) phthalate,320,Stephanodiscus hantzschii,Acute,ALGAE,117817,0.284991
+Diazinon,3200,Acheilognathus moriokae,Acute,FISH,333415,0.569318
+Diazinon,16,Acroneuria ruralis,Acute,INVERT,333415,0.569318
+Diazinon,35.6,Aedes cantans,Acute,INVERT,333415,0.569318
+Diazinon,69.5,Aedes punctor,Acute,INVERT,333415,0.569318
+Diazinon,37.9,Aedes vexans,Acute,INVERT,333415,0.569318
+Diazinon,8000,Ameiurus melas,Acute,FISH,333415,0.569318
+Diazinon,4.2,Americamysis bahia,Acute,INVERT,333415,0.569318
+Diazinon,10,Ampelisca abdita,Acute,INVERT,333415,0.569318
+Diazinon,35179.5,Anabaena flos-aquae,Acute,ALGAE,333415,0.569318
+Diazinon,6550,Anabas testudineus,Acute,FISH,333415,0.569318
+Diazinon,92.1892,Anguilla anguilla,Acute,FISH,333415,0.569318
+Diazinon,2800,Anguilla japonica,Acute,FISH,333415,0.569318
+Diazinon,250,Asellus hilgendorfi,Acute,INVERT,333415,0.569318
+Diazinon,24,Baetis intermedius,Acute,INVERT,333415,0.569318
+Diazinon,2720,Barbonymus gonionotus,Acute,FISH,333415,0.569318
+Diazinon,2205.32,Barilius vagra,Acute,FISH,333415,0.569318
+Diazinon,14289,Brachionus calyciflorus,Acute,INVERT,333415,0.569318
+Diazinon,8862.43,Carassius auratus,Acute,FISH,333415,0.569318
+Diazinon,6807.99,Carassius carassius,Acute,FISH,333415,0.569318
+Diazinon,0.457,Ceriodaphnia cornuta,Acute,INVERT,333415,0.569318
+Diazinon,0.445125,Ceriodaphnia dubia,Acute,INVERT,333415,0.569318
+Diazinon,1236.87,Channa punctata,Acute,FISH,333415,0.569318
+Diazinon,1187.64,Channa punctatus,Acute,FISH,333415,0.569318
+Diazinon,790,Channa striata,Acute,FISH,333415,0.569318
+Diazinon,0.566569,Chironomus tentans,Acute,INVERT,333415,0.569318
+Diazinon,35.5,Chironomus tepperi,Acute,INVERT,333415,0.569318
+Diazinon,10800,Chlorella pyrenoidosa,Acute,ALGAE,333415,0.569318
+Diazinon,41600,Chlorella vulgaris,Acute,ALGAE,333415,0.569318
+Diazinon,2074.79,Cirrhinus mrigala,Acute,FISH,333415,0.569318
+Diazinon,8091.53,Clarias batrachus,Acute,FISH,333415,0.569318
+Diazinon,6371.03,Clarias gariepinus,Acute,FISH,333415,0.569318
+Diazinon,16308.2,Ctenopharyngodon idella,Acute,FISH,333415,0.569318
+Diazinon,17.2258,Culex pipiens,Acute,INVERT,333415,0.569318
+Diazinon,2.3,Culiseta annulata,Acute,INVERT,333415,0.569318
+Diazinon,469.574,Cyprinodon variegatus,Acute,FISH,333415,0.569318
+Diazinon,3360.71,Cyprinus carpio,Acute,FISH,333415,0.569318
+Diazinon,1236.31,Cyprinus carpio ssp. communis,Acute,FISH,333415,0.569318
+Diazinon,4113.24,Danio rerio,Acute,FISH,333415,0.569318
+Diazinon,1.20432,Daphnia magna,Acute,INVERT,333415,0.569318
+Diazinon,0.782229,Daphnia pulex,Acute,INVERT,333415,0.569318
+Diazinon,630,Dugesia tigrina,Acute,INVERT,333415,0.569318
+Diazinon,1271.5,Gambusia affinis,Acute,FISH,333415,0.569318
+Diazinon,0.2,Gammarus fasciatus,Acute,INVERT,333415,0.569318
+Diazinon,184.391,Gammarus lacustris,Acute,INVERT,333415,0.569318
+Diazinon,2,Gammarus pseudolimnaeus,Acute,INVERT,333415,0.569318
+Diazinon,3411.56,Gibelion catla,Acute,FISH,333415,0.569318
+Diazinon,56,Girella punctata,Acute,FISH,333415,0.569318
+Diazinon,2461.8,Heteropneustes fossilis,Acute,FISH,333415,0.569318
+Diazinon,5630,Huso huso,Acute,FISH,333415,0.569318
+Diazinon,13.9611,Hyalella azteca,Acute,INVERT,333415,0.569318
+Diazinon,220,Hydropsyche sparna,Acute,INVERT,333415,0.569318
+Diazinon,8000,Ictalurus melas,Acute,FISH,333415,0.569318
+Diazinon,74,Ictalurus punctatus,Acute,FISH,333415,0.569318
+Diazinon,8000,Ictalurus sp,Acute,FISH,333415,0.569318
+Diazinon,1628.65,Jordanella floridae,Acute,FISH,333415,0.569318
+Diazinon,4200.09,Labeo rohita,Acute,FISH,333415,0.569318
+Diazinon,8900,Lampetra tridentata,Acute,FISH,333415,0.569318
+Diazinon,164.078,Lepomis macrochirus,Acute,FISH,333415,0.569318
+Diazinon,50,Lestes congener,Acute,INVERT,333415,0.569318
+Diazinon,202.68,Leuciscus idus,Acute,FISH,333415,0.569318
+Diazinon,9377.83,Melanotaenia duboulayi,Acute,FISH,333415,0.569318
+Diazinon,21300,Microcystis aeruginosa,Acute,ALGAE,333415,0.569318
+Diazinon,11500,Microcystis flosaquae,Acute,ALGAE,333415,0.569318
+Diazinon,500,Misgurnus anguillicaudatus,Acute,FISH,333415,0.569318
+Diazinon,1.77828,Moina macrocopa,Acute,INVERT,333415,0.569318
+Diazinon,150,Mugil cephalus,Acute,FISH,333415,0.569318
+Diazinon,200,Notemigonus crysoleucas,Acute,FISH,333415,0.569318
+Diazinon,2437.17,Oncorhynchus clarkii,Acute,FISH,333415,0.569318
+Diazinon,931.703,Oncorhynchus mykiss,Acute,FISH,333415,0.569318
+Diazinon,29500,Oncorhynchus tshawytscha,Acute,FISH,333415,0.569318
+Diazinon,537,Orconectes propinquus,Acute,INVERT,333415,0.569318
+Diazinon,3015.37,Oreochromis mossambicus,Acute,FISH,333415,0.569318
+Diazinon,4682.31,Oreochromis niloticus,Acute,FISH,333415,0.569318
+Diazinon,9686.71,Oryzias latipes,Acute,FISH,333415,0.569318
+Diazinon,28,Palaemonetes pugio,Acute,INVERT,333415,0.569318
+Diazinon,44,Paraleptophlebia pallipes,Acute,INVERT,333415,0.569318
+Diazinon,28,Penaeus aztecus,Acute,INVERT,333415,0.569318
+Diazinon,21,Penaeus duorarum,Acute,INVERT,333415,0.569318
+Diazinon,8.5,Penaeus japonicus,Acute,INVERT,333415,0.569318
+Diazinon,2500,Physa fontinalis,Acute,INVERT,333415,0.569318
+Diazinon,48,Physa gyrina,Acute,INVERT,333415,0.569318
+Diazinon,4800,Physella acuta,Acute,INVERT,333415,0.569318
+Diazinon,4800.32,Pimephales promelas,Acute,FISH,333415,0.569318
+Diazinon,2451.28,Poecilia reticulata,Acute,FISH,333415,0.569318
+Diazinon,1300,Poecilia sp,Acute,FISH,333415,0.569318
+Diazinon,8105.55,Pogonichthys macrolepidotus,Acute,FISH,333415,0.569318
+Diazinon,38.1444,Pteronarcys californica,Acute,INVERT,333415,0.569318
+Diazinon,25,Pteronarcys sp,Acute,INVERT,333415,0.569318
+Diazinon,4477,Rana limnocharis,Acute,AMPHIB,333415,0.569318
+Diazinon,15300,Raphidocelis subcapitata,Acute,ALGAE,333415,0.569318
+Diazinon,9.2,Rhepoxynius abronius,Acute,INVERT,333415,0.569318
+Diazinon,237.095,Rutilus kutum,Acute,FISH,333415,0.569318
+Diazinon,4500,Rutilus rutilus,Acute,FISH,333415,0.569318
+Diazinon,602,Salmo trutta ssp lacustris,Acute,FISH,333415,0.569318
+Diazinon,476.073,Salvelinus fontinalis,Acute,FISH,333415,0.569318
+Diazinon,601.333,Salvelinus namaycush,Acute,FISH,333415,0.569318
+Diazinon,48900,Scenedesmus acutus var. acutus,Acute,ALGAE,333415,0.569318
+Diazinon,22800,Scenedesmus obtusiusculus,Acute,ALGAE,333415,0.569318
+Diazinon,20600,Scenedesmus quadricauda,Acute,ALGAE,333415,0.569318
+Diazinon,4140,Silurus glanis,Acute,FISH,333415,0.569318
+Diazinon,1.62982,Simocephalus serrulatus,Acute,INVERT,333415,0.569318
+Diazinon,1.4,Simocephalus sp,Acute,INVERT,333415,0.569318
+Diazinon,1491.25,Tilapia sp,Acute,FISH,333415,0.569318
+Diazinon,20084.2,Trichogaster trichopterus,Acute,FISH,333415,0.569318
+Diazinon,28372,Xiphophorus helleri,Acute,FISH,333415,0.569318
+Diazinon,16234.5,Xiphophorus maculatus,Acute,FISH,333415,0.569318
 Dibutyl phthalate,707.963,Americamysis bahia,Acute,INVERT,84742,0.48218
 Dibutyl phthalate,2900,Armandia maculata,Acute,INVERT,84742,0.48218
 Dibutyl phthalate,760,Chironomus plumosus,Acute,INVERT,84742,0.48218
@@ -3943,6 +4698,19 @@ Dimethyl phthalate,26100,Skeletonema costatum,Acute,ALGAE,131113,0.438257
 Dimethyl phthalate,261000,Streptocephalus proboscideus,Acute,INVERT,131113,0.438257
 Dimethyl phthalate,319950,Streptocephalus rubricaudatus,Acute,INVERT,131113,0.438257
 Dimethyl phthalate,382850,Streptocephalus texanus,Acute,INVERT,131113,0.438257
+Dimethyl sulfoxide,21180000,Artemia salina,Acute,INVERT,67685,0.604466
+Dimethyl sulfoxide,37437,Artemia sp,Acute,INVERT,67685,0.604466
+Dimethyl sulfoxide,23200000,Culex pipiens,Acute,INVERT,67685,0.604466
+Dimethyl sulfoxide,19000000,Danio rerio,Acute,FISH,67685,0.604466
+Dimethyl sulfoxide,38144500,Daphnia magna,Acute,INVERT,67685,0.604466
+Dimethyl sulfoxide,44700000,Dunaliella tertiolecta,Acute,ALGAE,67685,0.604466
+Dimethyl sulfoxide,400000000,Lepomis macrochirus,Acute,FISH,67685,0.604466
+Dimethyl sulfoxide,35000000,Oncorhynchus mykiss,Acute,FISH,67685,0.604466
+Dimethyl sulfoxide,45679600,Oryzias latipes,Acute,FISH,67685,0.604466
+Dimethyl sulfoxide,20150000,Palaemonetes pugio,Acute,INVERT,67685,0.604466
+Dimethyl sulfoxide,34000000,Pimephales promelas,Acute,FISH,67685,0.604466
+Dimethyl sulfoxide,60700000,Streptocephalus rubricaudatus,Acute,INVERT,67685,0.604466
+Dimethyl sulfoxide,32000000,Tetrahymena pyriformis,Acute,INVERT,67685,0.604466
 Dinoseb,320,Americamysis bahia,Acute,INVERT,88857,0.510025
 Dinoseb,65,Carassius auratus,Acute,FISH,88857,0.510025
 Dinoseb,1030,Chlorella pyrenoidosa,Acute,ALGAE,88857,0.510025
@@ -3981,6 +4749,43 @@ Diphenyl oxide,3995,Pimephales promelas,Acute,FISH,101848,0.48454
 Diphenyl oxide,4080,Poecilia reticulata,Acute,FISH,101848,0.48454
 Diphenyl oxide,739.413,Raphidocelis subcapitata,Acute,ALGAE,101848,0.48454
 Diphenyl oxide,800,Skeletonema costatum,Acute,ALGAE,101848,0.48454
+Diquat,14.4914,Anabaena flos-aquae,Acute,ALGAE,2764730,0.610807
+Diquat,65,Anacystis aeruginosa,Acute,ALGAE,2764730,0.610807
+Diquat,16400,Callibaetis sp,Acute,INVERT,2764730,0.610807
+Diquat,54543.6,Carassius auratus,Acute,FISH,2764730,0.610807
+Diquat,10000,Cerastoderma edule,Acute,INVERT,2764730,0.610807
+Diquat,10000,Crangon crangon,Acute,INVERT,2764730,0.610807
+Diquat,53000,Ctenopharyngodon idella,Acute,FISH,2764730,0.610807
+Diquat,92,Cyclotella meneghiniana,Acute,ALGAE,2764730,0.610807
+Diquat,50290,Cyprinus carpio,Acute,FISH,2764730,0.610807
+Diquat,33483.9,Danio rerio,Acute,FISH,2764730,0.610807
+Diquat,3950.87,Daphnia magna,Acute,INVERT,2764730,0.610807
+Diquat,695.511,Daphnia pulex,Acute,INVERT,2764730,0.610807
+Diquat,19000,Diaptomus sp,Acute,INVERT,2764730,0.610807
+Diquat,100000,Enallagma sp,Acute,INVERT,2764730,0.610807
+Diquat,16000,Esox lucius,Acute,FISH,2764730,0.610807
+Diquat,10000,Gambusia affinis,Acute,FISH,2764730,0.610807
+Diquat,48,Hyalella azteca,Acute,INVERT,2764730,0.610807
+Diquat,55438.9,Lepomis macrochirus,Acute,FISH,2764730,0.610807
+Diquat,100000,Libellula sp,Acute,INVERT,2764730,0.610807
+Diquat,33000,Limnephilus sp,Acute,INVERT,2764730,0.610807
+Diquat,145,Lyngbya sp,Acute,ALGAE,2764730,0.610807
+Diquat,98,Microcystis aeruginosa,Acute,ALGAE,2764730,0.610807
+Diquat,10297.7,Micropterus dolomieu,Acute,FISH,2764730,0.610807
+Diquat,7554.86,Micropterus salmoides,Acute,FISH,2764730,0.610807
+Diquat,65,Nitzschia sp,Acute,ALGAE,2764730,0.610807
+Diquat,23,Ochromonas danica,Acute,ALGAE,2764730,0.610807
+Diquat,23874.7,Oncorhynchus kisutch,Acute,FISH,2764730,0.610807
+Diquat,13588,Oncorhynchus mykiss,Acute,FISH,2764730,0.610807
+Diquat,82,Oscillatoria sp,Acute,ALGAE,2764730,0.610807
+Diquat,35487.6,Pimephales promelas,Acute,FISH,2764730,0.610807
+Diquat,1800,Pomacea paludosa,Acute,INVERT,2764730,0.610807
+Diquat,63,Pseudanabaena sp,Acute,ALGAE,2764730,0.610807
+Diquat,189.515,Raphidocelis subcapitata,Acute,ALGAE,2764730,0.610807
+Diquat,21376.6,Salmo trutta,Acute,FISH,2764730,0.610807
+Diquat,2056.34,Sander vitreus,Acute,FISH,2764730,0.610807
+Diquat,652,Scenedesmus quadricauda,Acute,ALGAE,2764730,0.610807
+Diquat,1254.99,Stizostedion vitreum,Acute,FISH,2764730,0.610807
 Diquat dibromide,64668.4,Ameiurus melas,Acute,FISH,85007,0.525712
 Diquat dibromide,2000,Americamysis bahia,Acute,INVERT,85007,0.525712
 Diquat dibromide,42,Anabaena flos-aquae,Acute,ALGAE,85007,0.525712
@@ -4390,6 +5195,32 @@ Endrin,5.6,Tilapia sp,Acute,FISH,72208,0.405374
 Endrin,1.62049,Tilapia zillii,Acute,FISH,72208,0.405374
 Endrin,8.26402,Tinca tinca,Acute,FISH,72208,0.405374
 Endrin,12,Tipula sp,Acute,INVERT,72208,0.405374
+Ethanol,10861000,Alburnus alburnus,Acute,FISH,64175,0.586261
+Ethanol,695350,Artemia salina,Acute,INVERT,64175,0.586261
+Ethanol,100000,Asellus intermedius,Acute,INVERT,64175,0.586261
+Ethanol,29700000,Brachionus calyciflorus,Acute,INVERT,64175,0.586261
+Ethanol,6361410,Ceriodaphnia dubia,Acute,INVERT,64175,0.586261
+Ethanol,25100000,Chironomus tentans,Acute,INVERT,64175,0.586261
+Ethanol,12.9,Chlorella fusca var vacuolata,Acute,ALGAE,64175,0.586261
+Ethanol,60000000,Corbicula fluminea,Acute,INVERT,64175,0.586261
+Ethanol,4969830,Danio rerio,Acute,FISH,64175,0.586261
+Ethanol,10950200,Daphnia magna,Acute,INVERT,64175,0.586261
+Ethanol,11693600,Daphnia obtusa,Acute,INVERT,64175,0.586261
+Ethanol,11600000,Daphnia pulex,Acute,INVERT,64175,0.586261
+Ethanol,100000,Dugesia tigrina,Acute,INVERT,64175,0.586261
+Ethanol,100000,Gammarus fasciatus,Acute,INVERT,64175,0.586261
+Ethanol,100000,Helisoma trivolvis,Acute,INVERT,64175,0.586261
+Ethanol,8140000,Leuciscus idus melanotus,Acute,FISH,64175,0.586261
+Ethanol,100000,Lumbriculus variegatus,Acute,INVERT,64175,0.586261
+Ethanol,7750000,Nitocra spinipes,Acute,INVERT,64175,0.586261
+Ethanol,1828680,Oncorhynchus mykiss,Acute,FISH,64175,0.586261
+Ethanol,1350000,Oryzias latipes,Acute,FISH,64175,0.586261
+Ethanol,250000,Palaemonetes kadiakensis,Acute,INVERT,64175,0.586261
+Ethanol,11600000,Palaemonetes pugio,Acute,INVERT,64175,0.586261
+Ethanol,13779100,Pimephales promelas,Acute,FISH,64175,0.586261
+Ethanol,12500000,Poecilia reticulata,Acute,FISH,64175,0.586261
+Ethanol,18800000,Streptocephalus proboscideus,Acute,INVERT,64175,0.586261
+Ethanol,31700000,Streptocephalus rubricaudatus,Acute,INVERT,64175,0.586261
 Ethanolamine,170000,Carassius auratus,Acute,FISH,141435,0.30595
 Ethanolamine,140000,Crangon crangon,Acute,INVERT,141435,0.30595
 Ethanolamine,4289520,Danio rerio,Acute,FISH,141435,0.30595
@@ -4547,6 +5378,127 @@ Fenbutatin oxide,1.9,Pimephales promelas,Acute,FISH,13356100,0.394991
 Fenbutatin oxide,7430,Raphidocelis subcapitata,Acute,ALGAE,13356100,0.394991
 Fenbutatin oxide,1510,Scenedesmus acutus var. acutus,Acute,ALGAE,13356100,0.394991
 Fenbutatin oxide,554,Scenedesmus quadricauda,Acute,ALGAE,13356100,0.394991
+Fenitrothion,180,Acanthopagrus schlegelii,Acute,FISH,122145,0.670453
+Fenitrothion,8200,Acheilognathus moriokae,Acute,FISH,122145,0.670453
+Fenitrothion,3.07246,Aedes cantans,Acute,INVERT,122145,0.670453
+Fenitrothion,4.7,Aedes communis,Acute,INVERT,122145,0.670453
+Fenitrothion,3.9,Aedes excrucians,Acute,INVERT,122145,0.670453
+Fenitrothion,5.9,Aedes punctor,Acute,INVERT,122145,0.670453
+Fenitrothion,1.1,Aedes sticticus,Acute,INVERT,122145,0.670453
+Fenitrothion,3.9,Aedes vexans,Acute,INVERT,122145,0.670453
+Fenitrothion,1385.91,Anabaena sp,Acute,ALGAE,122145,0.670453
+Fenitrothion,202.454,Anguilla anguilla,Acute,FISH,122145,0.670453
+Fenitrothion,6500,Anguilla japonica,Acute,FISH,122145,0.670453
+Fenitrothion,2769.83,Ankistrodesmus falcatus,Acute,ALGAE,122145,0.670453
+Fenitrothion,40,Anopheles albimanus,Acute,INVERT,122145,0.670453
+Fenitrothion,15.9,Anopheles gambiae,Acute,INVERT,122145,0.670453
+Fenitrothion,7.34847,Anopheles stephensi,Acute,INVERT,122145,0.670453
+Fenitrothion,18,Asellus hilgendorfi,Acute,INVERT,122145,0.670453
+Fenitrothion,7.96228,Barbus ticto,Acute,FISH,122145,0.670453
+Fenitrothion,6691.99,Brachionus calyciflorus,Acute,INVERT,122145,0.670453
+Fenitrothion,2825.42,Brachionus plicatilis,Acute,INVERT,122145,0.670453
+Fenitrothion,2740,Branchiura sowerbyi,Acute,INVERT,122145,0.670453
+Fenitrothion,8.6,Callinectes sapidus,Acute,INVERT,122145,0.670453
+Fenitrothion,3085.45,Carassius auratus,Acute,FISH,122145,0.670453
+Fenitrothion,12197.6,Channa orientalis,Acute,FISH,122145,0.670453
+Fenitrothion,190.788,Chasmichthys dolichognathus,Acute,FISH,122145,0.670453
+Fenitrothion,20,Cheumatopsyche sp,Acute,INVERT,122145,0.670453
+Fenitrothion,2.6,Chironomus plumosus,Acute,INVERT,122145,0.670453
+Fenitrothion,12,Chironomus salinarius,Acute,INVERT,122145,0.670453
+Fenitrothion,4800,Chlamydomonas reinhardtii,Acute,ALGAE,122145,0.670453
+Fenitrothion,6600,Chlamydomonas segnis,Acute,ALGAE,122145,0.670453
+Fenitrothion,5700,Chlorella saccharophila,Acute,ALGAE,122145,0.670453
+Fenitrothion,17040,Chlorella vulgaris,Acute,ALGAE,122145,0.670453
+Fenitrothion,10000,Cipangopaludina japonica,Acute,INVERT,122145,0.670453
+Fenitrothion,1800,Cipangopaludina malleata,Acute,INVERT,122145,0.670453
+Fenitrothion,3510,Corydoras paleatus,Acute,FISH,122145,0.670453
+Fenitrothion,5.4906,Culex pipiens,Acute,INVERT,122145,0.670453
+Fenitrothion,16.3095,Culex quinquefasciatus,Acute,INVERT,122145,0.670453
+Fenitrothion,10,Culex tritaeniorhynchus,Acute,INVERT,122145,0.670453
+Fenitrothion,7.9,Culiseta annulata,Acute,INVERT,122145,0.670453
+Fenitrothion,1000,Cyprinodon variegatus,Acute,FISH,122145,0.670453
+Fenitrothion,4278.21,Cyprinus carpio,Acute,FISH,122145,0.670453
+Fenitrothion,2421.78,Cyprinus carpio ssp. communis,Acute,FISH,122145,0.670453
+Fenitrothion,16.3522,Daphnia carinata,Acute,INVERT,122145,0.670453
+Fenitrothion,4.65109,Daphnia magna,Acute,INVERT,122145,0.670453
+Fenitrothion,1157.15,Desmodesmus subspicatus,Acute,ALGAE,122145,0.670453
+Fenitrothion,1700,Dugesia tigrina,Acute,INVERT,122145,0.670453
+Fenitrothion,21,Eretes sticticus,Acute,INVERT,122145,0.670453
+Fenitrothion,2800,Galaxias auratus,Acute,FISH,122145,0.670453
+Fenitrothion,2.62729,Gambusia affinis,Acute,FISH,122145,0.670453
+Fenitrothion,3,Gammarus fasciatus,Acute,INVERT,122145,0.670453
+Fenitrothion,2.88,Gammarus fossarum,Acute,INVERT,122145,0.670453
+Fenitrothion,2.95488,Gammarus pseudolimnaeus,Acute,INVERT,122145,0.670453
+Fenitrothion,5.49,Gammarus pulex,Acute,INVERT,122145,0.670453
+Fenitrothion,3.7081,Gammarus sp,Acute,INVERT,122145,0.670453
+Fenitrothion,15700,Gasterosteus aculeatus,Acute,FISH,122145,0.670453
+Fenitrothion,520,Girella punctata,Acute,FISH,122145,0.670453
+Fenitrothion,13343.8,Heteropneustes fossilis,Acute,FISH,122145,0.670453
+Fenitrothion,0.1,Homarus americanus,Acute,INVERT,122145,0.670453
+Fenitrothion,3457.64,Ictalurus punctatus,Acute,FISH,122145,0.670453
+Fenitrothion,7.89,Indonaia caerulea,Acute,INVERT,122145,0.670453
+Fenitrothion,8500,Indoplanorbis exustus,Acute,INVERT,122145,0.670453
+Fenitrothion,89.6437,Isonychia sp,Acute,INVERT,122145,0.670453
+Fenitrothion,4630.86,Labeo rohita,Acute,FISH,122145,0.670453
+Fenitrothion,10.21,Lamellidens corrianus,Acute,INVERT,122145,0.670453
+Fenitrothion,9.43,Lamellidens marginalis,Acute,INVERT,122145,0.670453
+Fenitrothion,4100,Lepomis cyanellus,Acute,FISH,122145,0.670453
+Fenitrothion,2732.25,Lepomis macrochirus,Acute,FISH,122145,0.670453
+Fenitrothion,4342,Limnodrilus hoffmeisteri,Acute,INVERT,122145,0.670453
+Fenitrothion,1429,Lymnaea acuminata,Acute,INVERT,122145,0.670453
+Fenitrothion,0.9197,Macrobrachium kistnensis,Acute,INVERT,122145,0.670453
+Fenitrothion,1.4,Macrobrachium lamarrei,Acute,INVERT,122145,0.670453
+Fenitrothion,2,Macrobrachium nipponense,Acute,INVERT,122145,0.670453
+Fenitrothion,2.1,Metapenaeus monoceros,Acute,INVERT,122145,0.670453
+Fenitrothion,1140,Microhyla ornata,Acute,AMPHIB,122145,0.670453
+Fenitrothion,4800,Misgurnus anguillicaudatus,Acute,FISH,122145,0.670453
+Fenitrothion,37.7606,Moina macrocopa,Acute,INVERT,122145,0.670453
+Fenitrothion,240,Mugil cephalus,Acute,FISH,122145,0.670453
+Fenitrothion,3300,Mystus cavasius,Acute,FISH,122145,0.670453
+Fenitrothion,11900,Nannochloropsis oculata,Acute,ALGAE,122145,0.670453
+Fenitrothion,3500,Navicula sp,Acute,ALGAE,122145,0.670453
+Fenitrothion,15,Nigronia serricornis,Acute,INVERT,122145,0.670453
+Fenitrothion,2893.76,Oncorhynchus clarkii,Acute,FISH,122145,0.670453
+Fenitrothion,2168.08,Oncorhynchus kisutch,Acute,FISH,122145,0.670453
+Fenitrothion,2801.77,Oncorhynchus mykiss,Acute,FISH,122145,0.670453
+Fenitrothion,1400,Oncorhynchus salar,Acute,FISH,122145,0.670453
+Fenitrothion,22.5554,Ophiogomphus sp,Acute,INVERT,122145,0.670453
+Fenitrothion,10,Orconectes limosus,Acute,INVERT,122145,0.670453
+Fenitrothion,269,Orconectes propinquus,Acute,INVERT,122145,0.670453
+Fenitrothion,3016.91,Oreochromis mossambicus,Acute,FISH,122145,0.670453
+Fenitrothion,1708.92,Oreochromis niloticus,Acute,FISH,122145,0.670453
+Fenitrothion,4939.91,Oryzias latipes,Acute,FISH,122145,0.670453
+Fenitrothion,340,Pagrus major,Acute,FISH,122145,0.670453
+Fenitrothion,260,Paralichthys olivaceus,Acute,FISH,122145,0.670453
+Fenitrothion,1.3,Paratya australiensis,Acute,INVERT,122145,0.670453
+Fenitrothion,1.5,Penaeus aztecus,Acute,INVERT,122145,0.670453
+Fenitrothion,0.72,Penaeus japonicus,Acute,INVERT,122145,0.670453
+Fenitrothion,3229.98,Perca flavescens,Acute,FISH,122145,0.670453
+Fenitrothion,1900,Physa fontinalis,Acute,INVERT,122145,0.670453
+Fenitrothion,15000,Physella acuta,Acute,INVERT,122145,0.670453
+Fenitrothion,4301.43,Pimephales promelas,Acute,FISH,122145,0.670453
+Fenitrothion,2805.71,Poecilia reticulata,Acute,FISH,122145,0.670453
+Fenitrothion,1630,Poecilia sp,Acute,FISH,122145,0.670453
+Fenitrothion,732,Procladius sp,Acute,INVERT,122145,0.670453
+Fenitrothion,1800,Pseudanabaena galeata,Acute,ALGAE,122145,0.670453
+Fenitrothion,5.63049,Pteronarcella badia,Acute,INVERT,122145,0.670453
+Fenitrothion,6.02512,Pteronarcys californica,Acute,INVERT,122145,0.670453
+Fenitrothion,39.6452,Pycnopsyche sp,Acute,INVERT,122145,0.670453
+Fenitrothion,11723,Rana limnocharis,Acute,AMPHIB,122145,0.670453
+Fenitrothion,2090.42,Raphidocelis subcapitata,Acute,ALGAE,122145,0.670453
+Fenitrothion,866.213,Salmo salar,Acute,FISH,122145,0.670453
+Fenitrothion,2012.6,Salmo trutta,Acute,FISH,122145,0.670453
+Fenitrothion,1968.51,Salvelinus fontinalis,Acute,FISH,122145,0.670453
+Fenitrothion,2318.62,Scenedesmus acutus,Acute,ALGAE,122145,0.670453
+Fenitrothion,6645.3,Scenedesmus acutus var. acutus,Acute,ALGAE,122145,0.670453
+Fenitrothion,6000,Semisulcospira libertina,Acute,INVERT,122145,0.670453
+Fenitrothion,148,Simulium venustum,Acute,INVERT,122145,0.670453
+Fenitrothion,4,Skwala sp,Acute,INVERT,122145,0.670453
+Fenitrothion,800,Staurastrum sp,Acute,ALGAE,122145,0.670453
+Fenitrothion,2065.94,Streptocephalus sudanicus,Acute,INVERT,122145,0.670453
+Fenitrothion,2682.93,Tilapia mossambica,Acute,FISH,122145,0.670453
+Fenitrothion,5960,Tilapia nilotica,Acute,FISH,122145,0.670453
+Fenitrothion,2.4,Viviparus bengalensis,Acute,INVERT,122145,0.670453
 Fenobucarb,16000,Acheilognathus moriokae,Acute,FISH,3766810,0.545288
 Fenobucarb,19000,Anguilla japonica,Acute,FISH,3766810,0.545288
 Fenobucarb,11400,Channa striata,Acute,FISH,3766810,0.545288
@@ -4754,6 +5706,25 @@ Fluazinam,62.9285,Oncorhynchus mykiss,Acute,FISH,79622600,0.267117
 Fluazinam,550.397,Raphidocelis subcapitata,Acute,ALGAE,79622600,0.267117
 Fluazinam,190,Scenedesmus acutus var. acutus,Acute,ALGAE,79622600,0.267117
 Fluazinam,103.923,Scenedesmus quadricauda,Acute,ALGAE,79622600,0.267117
+Fluometuron,57445.6,Ameiurus melas,Acute,FISH,2164170,0.564634
+Fluometuron,5083.31,Americamysis bahia,Acute,INVERT,2164170,0.564634
+Fluometuron,189.324,Anabaena flos-aquae,Acute,ALGAE,2164170,0.564634
+Fluometuron,534,Anabaena variabilis,Acute,ALGAE,2164170,0.564634
+Fluometuron,139550,Carassius carassius,Acute,FISH,2164170,0.564634
+Fluometuron,578.234,Chlorella pyrenoidosa,Acute,ALGAE,2164170,0.564634
+Fluometuron,2320,Chlorococcum sp,Acute,ALGAE,2164170,0.564634
+Fluometuron,51520.9,Cyprinodon variegatus,Acute,FISH,2164170,0.564634
+Fluometuron,9933.22,Daphnia magna,Acute,INVERT,2164170,0.564634
+Fluometuron,55000,Ictalurus melas,Acute,FISH,2164170,0.564634
+Fluometuron,4002.44,Ictalurus punctatus,Acute,FISH,2164170,0.564634
+Fluometuron,50275.3,Ictalurus sp,Acute,FISH,2164170,0.564634
+Fluometuron,45656.9,Lepomis macrochirus,Acute,FISH,2164170,0.564634
+Fluometuron,279,Lyngbya sp,Acute,ALGAE,2164170,0.564634
+Fluometuron,16447.5,Oncorhynchus mykiss,Acute,FISH,2164170,0.564634
+Fluometuron,70000,Perca sp,Acute,FISH,2164170,0.564634
+Fluometuron,65000,Pimephales promelas,Acute,FISH,2164170,0.564634
+Fluometuron,46989.4,Poecilia reticulata,Acute,FISH,2164170,0.564634
+Fluometuron,95.8123,Raphidocelis subcapitata,Acute,ALGAE,2164170,0.564634
 Fluoranthene,10,Aedes aegypti,Acute,INVERT,206440,0.353031
 Fluoranthene,48,Aedes taeniorhynchus,Acute,INVERT,206440,0.353031
 Fluoranthene,100,Ampelisca abdita,Acute,INVERT,206440,0.353031
@@ -4792,6 +5763,38 @@ Fluridone,2968.2,Penaeus duorarum,Acute,INVERT,59756600,0.345216
 Fluridone,19549.6,Pimephales promelas,Acute,FISH,59756600,0.345216
 Fluridone,2418.34,Sander vitreus,Acute,FISH,59756600,0.345216
 Fluridone,1800,Stizostedion vitreum,Acute,FISH,59756600,0.345216
+Flutolanil,130,Americamysis bahia,Acute,INVERT,66333000,0.633327
+Flutolanil,13000,Bufo bufo,Acute,AMPHIB,66333000,0.633327
+Flutolanil,20000,Cipangopaludina malleata,Acute,INVERT,66333000,0.633327
+Flutolanil,6100,Cyprinodon variegatus,Acute,FISH,66333000,0.633327
+Flutolanil,5459.9,Cyprinus carpio,Acute,FISH,66333000,0.633327
+Flutolanil,3920.24,Danio rerio,Acute,FISH,66333000,0.633327
+Flutolanil,6800,Daphnia magna,Acute,INVERT,66333000,0.633327
+Flutolanil,5400,Lepomis macrochirus,Acute,FISH,66333000,0.633327
+Flutolanil,15326.2,Misgurnus anguillicaudatus,Acute,FISH,66333000,0.633327
+Flutolanil,6631.26,Oncorhynchus mykiss,Acute,FISH,66333000,0.633327
+Flutolanil,15536.2,Oryzias latipes,Acute,FISH,66333000,0.633327
+Flutolanil,4800,Pimephales promelas,Acute,FISH,66333000,0.633327
+Flutolanil,6000,Procambarus clarkii,Acute,INVERT,66333000,0.633327
+Flutolanil,8000,Raphidocelis subcapitata,Acute,ALGAE,66333000,0.633327
+Folpet,160,Americamysis bahia,Acute,INVERT,133073,0.60415
+Folpet,1100,Anabaena flos-aquae,Acute,ALGAE,133073,0.60415
+Folpet,1250,Ctenopharyngodon idella,Acute,FISH,133073,0.60415
+Folpet,65.6,Cyprinodon variegatus,Acute,FISH,133073,0.60415
+Folpet,3160,Cyprinus carpio,Acute,FISH,133073,0.60415
+Folpet,163.295,Daphnia magna,Acute,INVERT,133073,0.60415
+Folpet,100,Desmodesmus subspicatus,Acute,ALGAE,133073,0.60415
+Folpet,2500,Gammarus fasciatus,Acute,INVERT,133073,0.60415
+Folpet,108,Ictalurus punctatus,Acute,FISH,133073,0.60415
+Folpet,127.792,Lepomis macrochirus,Acute,FISH,133073,0.60415
+Folpet,91,Micropterus dolomieu,Acute,FISH,133073,0.60415
+Folpet,106,Oncorhynchus kisutch,Acute,FISH,133073,0.60415
+Folpet,67.2977,Oncorhynchus mykiss,Acute,FISH,133073,0.60415
+Folpet,177,Perca flavescens,Acute,FISH,133073,0.60415
+Folpet,184.315,Pimephales promelas,Acute,FISH,133073,0.60415
+Folpet,1800,Raphidocelis subcapitata,Acute,ALGAE,133073,0.60415
+Folpet,43.7493,Salmo trutta,Acute,FISH,133073,0.60415
+Folpet,45.6288,Salvelinus namaycush,Acute,FISH,133073,0.60415
 Formaldehyde,62100,Ameiurus melas,Acute,FISH,50000,0.443879
 Formaldehyde,400000,Anguilla japonica,Acute,FISH,50000,0.443879
 Formaldehyde,183821,Anguilla rostrata,Acute,FISH,50000,0.443879
@@ -4833,6 +5836,42 @@ Formaldehyde,2263.18,Tanichthys albonubes,Acute,FISH,50000,0.443879
 Formaldehyde,148000,Tilapia nilotica,Acute,FISH,50000,0.443879
 Formaldehyde,69100,Trachinotus carolinus,Acute,FISH,50000,0.443879
 Formaldehyde,331964,Uca pugilator,Acute,INVERT,50000,0.443879
+Fosetyl-Al,52400,Anabaena flos-aquae,Acute,ALGAE,39148200,0.565596
+Fosetyl-Al,14624.8,Chlorella pyrenoidosa,Acute,ALGAE,39148200,0.565596
+Fosetyl-Al,1520,Chlorella vulgaris,Acute,ALGAE,39148200,0.565596
+Fosetyl-Al,120000,Cyprinodon variegatus,Acute,FISH,39148200,0.565596
+Fosetyl-Al,304000,Daphnia magna,Acute,INVERT,39148200,0.565596
+Fosetyl-Al,188000,Daphnia pulex,Acute,INVERT,39148200,0.565596
+Fosetyl-Al,141200,Lepomis macrochirus,Acute,FISH,39148200,0.565596
+Fosetyl-Al,38900,Microcystis aeruginosa,Acute,ALGAE,39148200,0.565596
+Fosetyl-Al,122000,Microcystis flosaquae,Acute,ALGAE,39148200,0.565596
+Fosetyl-Al,180128,Oncorhynchus mykiss,Acute,FISH,39148200,0.565596
+Fosetyl-Al,3600,Palaemonetes pugio,Acute,INVERT,39148200,0.565596
+Fosetyl-Al,2720,Raphidocelis subcapitata,Acute,ALGAE,39148200,0.565596
+Fosetyl-Al,161300,Rasbora heteromorpha,Acute,FISH,39148200,0.565596
+Fosetyl-Al,19395.9,Scenedesmus acutus var. acutus,Acute,ALGAE,39148200,0.565596
+Fosetyl-Al,2670,Scenedesmus quadricauda,Acute,ALGAE,39148200,0.565596
+Fosetyl-Al,145000,Uca pugilator,Acute,INVERT,39148200,0.565596
+Furanace,3930,Anguilla japonica,Acute,FISH,13411200,0.55637
+Furanace,859.767,Anguilla rostrata,Acute,FISH,13411200,0.55637
+Furanace,1700,Chanos chanos,Acute,FISH,13411200,0.55637
+Furanace,7600,Corbicula fluminea,Acute,INVERT,13411200,0.55637
+Furanace,20000,Daphnia magna,Acute,INVERT,13411200,0.55637
+Furanace,13600,Hyalella azteca,Acute,INVERT,13411200,0.55637
+Furanace,1320.17,Ictalurus punctatus,Acute,FISH,13411200,0.55637
+Furanace,2480,Lepomis cyanellus,Acute,FISH,13411200,0.55637
+Furanace,3000,Lepomis macrochirus,Acute,FISH,13411200,0.55637
+Furanace,20000,Notonecta sp,Acute,INVERT,13411200,0.55637
+Furanace,2511.59,Oncorhynchus keta,Acute,FISH,13411200,0.55637
+Furanace,888.16,Oncorhynchus mykiss,Acute,FISH,13411200,0.55637
+Furanace,2525.56,Oncorhynchus nerka,Acute,FISH,13411200,0.55637
+Furanace,19922.3,Oreochromis niloticus,Acute,FISH,13411200,0.55637
+Furanace,20000,Palaemonetes kadiakensis,Acute,INVERT,13411200,0.55637
+Furanace,1130,Physa sp,Acute,INVERT,13411200,0.55637
+Furanace,820,Pimephales promelas,Acute,FISH,13411200,0.55637
+Furanace,770,Rana pipiens,Acute,AMPHIB,13411200,0.55637
+Furanace,1410,Salmo salar,Acute,FISH,13411200,0.55637
+Furanace,18900,Tilapia nilotica,Acute,FISH,13411200,0.55637
 Furfural,61000,Anabaena flos-aquae,Acute,ALGAE,98011,0.392606
 Furfural,14000,Cyprinodon variegatus,Acute,FISH,98011,0.392606
 Furfural,23633.7,Daphnia magna,Acute,INVERT,98011,0.392606
@@ -5050,6 +6089,29 @@ Hexaconazole,3800,Oncorhynchus mykiss,Acute,FISH,79983700,0.40481
 Hexaconazole,1850,Raphidocelis subcapitata,Acute,ALGAE,79983700,0.40481
 Hexaconazole,2280,Scenedesmus acutus var. acutus,Acute,ALGAE,79983700,0.40481
 Hexaconazole,866,Scenedesmus quadricauda,Acute,ALGAE,79983700,0.40481
+Hexazinone,989.111,Anabaena flos-aquae,Acute,ALGAE,51235000,0.703931
+Hexazinone,75000,Anguilla japonica,Acute,FISH,51235000,0.703931
+Hexazinone,32,Cyclotella meneghiniana,Acute,ALGAE,51235000,0.703931
+Hexazinone,120405,Daphnia magna,Acute,INVERT,51235000,0.703931
+Hexazinone,238000,Lepomis macrochirus,Acute,FISH,51235000,0.703931
+Hexazinone,129,Microcystis aeruginosa,Acute,ALGAE,51235000,0.703931
+Hexazinone,61,Nitzschia sp,Acute,ALGAE,51235000,0.703931
+Hexazinone,586197,Oncorhynchus gorbuscha,Acute,FISH,51235000,0.703931
+Hexazinone,475416,Oncorhynchus keta,Acute,FISH,51235000,0.703931
+Hexazinone,467840,Oncorhynchus kisutch,Acute,FISH,51235000,0.703931
+Hexazinone,526964,Oncorhynchus mykiss,Acute,FISH,51235000,0.703931
+Hexazinone,505950,Oncorhynchus nerka,Acute,FISH,51235000,0.703931
+Hexazinone,481677,Oncorhynchus tshawytscha,Acute,FISH,51235000,0.703931
+Hexazinone,220669,Oreochromis niloticus,Acute,FISH,51235000,0.703931
+Hexazinone,650,Oscillatoria sp,Acute,ALGAE,51235000,0.703931
+Hexazinone,78000,Palaemonetes pugio,Acute,INVERT,51235000,0.703931
+Hexazinone,274000,Pimephales promelas,Acute,FISH,51235000,0.703931
+Hexazinone,219,Pseudanabaena sp,Acute,ALGAE,51235000,0.703931
+Hexazinone,18.7636,Raphidocelis subcapitata,Acute,ALGAE,51235000,0.703931
+Hexazinone,100000,Salvelinus fontinalis,Acute,FISH,51235000,0.703931
+Hexazinone,14,Scenedesmus quadricauda,Acute,ALGAE,51235000,0.703931
+Hexazinone,380000,Tilapia mossambica,Acute,FISH,51235000,0.703931
+Hexazinone,1000000,Uca pugilator,Acute,INVERT,51235000,0.703931
 Hydrazine,2120,Ambystoma sp,Acute,AMPHIB,302012,0.477206
 Hydrazine,1300,Asellus sp,Acute,INVERT,302012,0.477206
 Hydrazine,1480,Carassius carassius,Acute,FISH,302012,0.477206
@@ -5074,6 +6136,20 @@ Hydrogen peroxide,5530,Parachlorella kessleri,Acute,ALGAE,7722840,0.291633
 Hydrogen peroxide,5823.88,Raphidocelis subcapitata,Acute,ALGAE,7722840,0.291633
 Hydrogen peroxide,5810,Scenedesmus quadricauda,Acute,ALGAE,7722840,0.291633
 Hydrogen peroxide,690,Synechococcus nidulans,Acute,ALGAE,7722840,0.291633
+Hydroquinone,30700,Artemia salina,Acute,INVERT,123319,0.640446
+Hydroquinone,240,Brachionus calyciflorus,Acute,INVERT,123319,0.640446
+Hydroquinone,830,Crangon septemspinosa,Acute,INVERT,123319,0.640446
+Hydroquinone,452.219,Danio rerio,Acute,FISH,123319,0.640446
+Hydroquinone,165.121,Daphnia magna,Acute,INVERT,123319,0.640446
+Hydroquinone,162,Daphnia pulicaria,Acute,INVERT,123319,0.640446
+Hydroquinone,29300,Dunaliella tertiolecta,Acute,ALGAE,123319,0.640446
+Hydroquinone,149,Leuciscus idus,Acute,FISH,123319,0.640446
+Hydroquinone,154.919,Leuciscus idus melanotus,Acute,FISH,123319,0.640446
+Hydroquinone,256.492,Oncorhynchus mykiss,Acute,FISH,123319,0.640446
+Hydroquinone,43.8,Pimephales promelas,Acute,FISH,123319,0.640446
+Hydroquinone,53,Raphidocelis subcapitata,Acute,ALGAE,123319,0.640446
+Hydroquinone,70,Streptocephalus rubricaudatus,Acute,INVERT,123319,0.640446
+Hydroquinone,100,Streptocephalus texanus,Acute,INVERT,123319,0.640446
 Imazapyr,12200,Anabaena flos-aquae,Acute,ALGAE,81334300,0.547009
 Imazapyr,2708,Barbus gonionotus,Acute,FISH,81334300,0.547009
 Imazapyr,100000,Daphnia magna,Acute,INVERT,81334300,0.547009
@@ -5117,6 +6193,26 @@ Isoprocarb,2560,Raphidocelis subcapitata,Acute,ALGAE,2631400,0.340182
 Isoprocarb,5020,Scenedesmus acutus var. acutus,Acute,ALGAE,2631400,0.340182
 Isoprocarb,3790,Scenedesmus quadricauda,Acute,ALGAE,2631400,0.340182
 Isoprocarb,7800,Semisulcospira libertina,Acute,INVERT,2631400,0.340182
+Isopropanol,16700000,Artemia salina,Acute,INVERT,67630,0.793269
+Isopropanol,28600000,Brachionus calyciflorus,Acute,INVERT,67630,0.793269
+Isopropanol,31200000,Brachionus plicatilis,Acute,INVERT,67630,0.793269
+Isopropanol,5000000,Carassius auratus,Acute,FISH,67630,0.793269
+Isopropanol,12500000,Chironomus riparius,Acute,INVERT,67630,0.793269
+Isopropanol,11.4,Chlorella fusca var vacuolata,Acute,ALGAE,67630,0.793269
+Isopropanol,8680900,Daphnia magna,Acute,INVERT,67630,0.793269
+Isopropanol,10500000,Daphnia pulex,Acute,INVERT,67630,0.793269
+Isopropanol,1400000,Gambusia affinis,Acute,FISH,67630,0.793269
+Isopropanol,1400000,Lepomis macrochirus,Acute,FISH,67630,0.793269
+Isopropanol,8890000,Leuciscus idus,Acute,FISH,67630,0.793269
+Isopropanol,9123680,Leuciscus idus melanotus,Acute,FISH,67630,0.793269
+Isopropanol,13000000,Oncorhynchus mykiss,Acute,FISH,67630,0.793269
+Isopropanol,250000,Palaemonetes kadiakensis,Acute,INVERT,67630,0.793269
+Isopropanol,9588030,Pimephales promelas,Acute,FISH,67630,0.793269
+Isopropanol,8690000,Poecilia reticulata,Acute,FISH,67630,0.793269
+Isopropanol,4421450,Rasbora heteromorpha,Acute,FISH,67630,0.793269
+Isopropanol,11600000,Scrobicularia plana,Acute,INVERT,67630,0.793269
+Isopropanol,11600000,Streptocephalus proboscideus,Acute,INVERT,67630,0.793269
+Isopropanol,8130000,Tetrahymena thermophila,Acute,INVERT,67630,0.793269
 Lead nitrate,15000,Anabaena sp,Acute,ALGAE,10099700,0.389023
 Lead nitrate,40000,Anabas scandens,Acute,FISH,10099700,0.389023
 Lead nitrate,1340,Aplexa hypnorum,Acute,INVERT,10099700,0.389023
@@ -5950,6 +7046,38 @@ Methanol,15300000,Oreochromis mossambicus,Acute,FISH,67561,0.553391
 Methanol,1400000,Oryzias latipes,Acute,FISH,67561,0.553391
 Methanol,27059000,Pimephales promelas,Acute,FISH,67561,0.553391
 Methanol,32700000,Streptocephalus proboscideus,Acute,INVERT,67561,0.553391
+Methidathion,30000,Ameiurus melas,Acute,FISH,950378,0.654906
+Methidathion,1.27984,Americamysis bahia,Acute,INVERT,950378,0.654906
+Methidathion,67500,Anabaena flos-aquae,Acute,ALGAE,950378,0.654906
+Methidathion,1850.3,Anguilla anguilla,Acute,FISH,950378,0.654906
+Methidathion,390,Anguilla japonica,Acute,FISH,950378,0.654906
+Methidathion,36000,Brachionus plicatilis,Acute,INVERT,950378,0.654906
+Methidathion,6800,Carassius auratus,Acute,FISH,950378,0.654906
+Methidathion,30000,Carassius carassius,Acute,FISH,950378,0.654906
+Methidathion,43700,Chlorella pyrenoidosa,Acute,ALGAE,950378,0.654906
+Methidathion,42600,Chlorella vulgaris,Acute,ALGAE,950378,0.654906
+Methidathion,20000,Cipangopaludina malleata,Acute,INVERT,950378,0.654906
+Methidathion,16,Culex quinquefasciatus,Acute,INVERT,950378,0.654906
+Methidathion,43.6063,Cyprinodon variegatus,Acute,FISH,950378,0.654906
+Methidathion,63.3568,Daphnia magna,Acute,INVERT,950378,0.654906
+Methidathion,10,Homarus americanus,Acute,INVERT,950378,0.654906
+Methidathion,30000,Ictalurus melas,Acute,FISH,950378,0.654906
+Methidathion,30000,Ictalurus sp,Acute,FISH,950378,0.654906
+Methidathion,7400,Indoplanorbis exustus,Acute,INVERT,950378,0.654906
+Methidathion,32,Leiostomus xanthurus,Acute,FISH,950378,0.654906
+Methidathion,6.13399,Lepomis macrochirus,Acute,FISH,950378,0.654906
+Methidathion,6280,Microcystis aeruginosa,Acute,ALGAE,950378,0.654906
+Methidathion,22000,Microcystis flosaquae,Acute,ALGAE,950378,0.654906
+Methidathion,30100,Mytilus galloprovincialis,Acute,INVERT,950378,0.654906
+Methidathion,33.312,Oncorhynchus mykiss,Acute,FISH,950378,0.654906
+Methidathion,15,Penaeus duorarum,Acute,INVERT,950378,0.654906
+Methidathion,15000,Physella acuta,Acute,INVERT,950378,0.654906
+Methidathion,246.621,Poecilia reticulata,Acute,FISH,950378,0.654906
+Methidathion,280,Procambarus clarkii,Acute,INVERT,950378,0.654906
+Methidathion,7500,Raphidocelis subcapitata,Acute,ALGAE,950378,0.654906
+Methidathion,57000,Scenedesmus acutus var. acutus,Acute,ALGAE,950378,0.654906
+Methidathion,19400,Scenedesmus quadricauda,Acute,ALGAE,950378,0.654906
+Methidathion,13000,Semisulcospira libertina,Acute,INVERT,950378,0.654906
 Methiocarb,1.6,Chironomus tentans,Acute,INVERT,2032660,0.340217
 Methiocarb,8800,Corbicula fluminea,Acute,INVERT,2032660,0.340217
 Methiocarb,110,Culex pipiens,Acute,INVERT,2032660,0.340217
@@ -6104,6 +7232,117 @@ Methyl ethyl ketone,3214990,Pimephales promelas,Acute,FISH,78933,0.550513
 Methyl ethyl ketone,3220000,Poecilia reticulata,Acute,FISH,78933,0.550513
 Methyl ethyl ketone,570000,Raphidocelis subcapitata,Acute,ALGAE,78933,0.550513
 Methyl ethyl ketone,500000,Skeletonema costatum,Acute,ALGAE,78933,0.550513
+Methyl parathion,6640,Ameiurus melas,Acute,FISH,298000,0.806024
+Methyl parathion,0.65,Americamysis bahia,Acute,INVERT,298000,0.806024
+Methyl parathion,19200,Anabaena inaequalis,Acute,ALGAE,298000,0.806024
+Methyl parathion,4730.91,Anguilla anguilla,Acute,FISH,298000,0.806024
+Methyl parathion,12568.3,Anguilla rostrata,Acute,FISH,298000,0.806024
+Methyl parathion,6.2,Anopheles freeborni,Acute,INVERT,298000,0.806024
+Methyl parathion,110,Artemia salina,Acute,INVERT,298000,0.806024
+Methyl parathion,2381.18,Barbus dorsalis,Acute,FISH,298000,0.806024
+Methyl parathion,4700,Bellamya dissimilis,Acute,INVERT,298000,0.806024
+Methyl parathion,7621.99,Betta splendens,Acute,FISH,298000,0.806024
+Methyl parathion,2259,Brachionus angularis,Acute,INVERT,298000,0.806024
+Methyl parathion,19729.4,Brachionus calyciflorus,Acute,INVERT,298000,0.806024
+Methyl parathion,9731.14,Brachionus patulus,Acute,INVERT,298000,0.806024
+Methyl parathion,10392.3,Carassius auratus,Acute,FISH,298000,0.806024
+Methyl parathion,11000,Carassius carassius,Acute,FISH,298000,0.806024
+Methyl parathion,3160,Catla catla,Acute,FISH,298000,0.806024
+Methyl parathion,1.37,Ceriodaphnia cornuta,Acute,INVERT,298000,0.806024
+Methyl parathion,2.44506,Ceriodaphnia dubia,Acute,INVERT,298000,0.806024
+Methyl parathion,4065.86,Channa orientalis,Acute,FISH,298000,0.806024
+Methyl parathion,527.372,Channa punctata,Acute,FISH,298000,0.806024
+Methyl parathion,2364.32,Channa punctatus,Acute,FISH,298000,0.806024
+Methyl parathion,10485,Channa striata,Acute,FISH,298000,0.806024
+Methyl parathion,1.58,Chironomus riparius,Acute,INVERT,298000,0.806024
+Methyl parathion,58,Chironomus sp,Acute,INVERT,298000,0.806024
+Methyl parathion,180,Chironomus utahensis,Acute,INVERT,298000,0.806024
+Methyl parathion,17012.3,Chlamydomonas reinhardtii,Acute,ALGAE,298000,0.806024
+Methyl parathion,8160,Chlorella fusca var vacuolata,Acute,ALGAE,298000,0.806024
+Methyl parathion,13000,Cipangopaludina malleata,Acute,INVERT,298000,0.806024
+Methyl parathion,20000,Clarias batrachus,Acute,FISH,298000,0.806024
+Methyl parathion,2,Crangon septemspinosa,Acute,INVERT,298000,0.806024
+Methyl parathion,273.861,Cricotopus sp,Acute,INVERT,298000,0.806024
+Methyl parathion,3.3,Culex pipiens,Acute,INVERT,298000,0.806024
+Methyl parathion,3.6,Culex quinquefasciatus,Acute,INVERT,298000,0.806024
+Methyl parathion,0.54,Culex tritaeniorhynchus,Acute,INVERT,298000,0.806024
+Methyl parathion,9249.86,Cyprinodon variegatus,Acute,FISH,298000,0.806024
+Methyl parathion,7078.79,Cyprinus carpio,Acute,FISH,298000,0.806024
+Methyl parathion,2360,Cyprinus carpio ssp. communis,Acute,FISH,298000,0.806024
+Methyl parathion,6.84509,Daphnia magna,Acute,INVERT,298000,0.806024
+Methyl parathion,2.4,Daphnia sp,Acute,INVERT,298000,0.806024
+Methyl parathion,15000,Desmodesmus subspicatus,Acute,ALGAE,298000,0.806024
+Methyl parathion,2600,Dugesia tigrina,Acute,INVERT,298000,0.806024
+Methyl parathion,4.1,Echinogammarus tibaldii,Acute,INVERT,298000,0.806024
+Methyl parathion,15200,Esox lucius,Acute,FISH,298000,0.806024
+Methyl parathion,16258,Fundulus diaphanus,Acute,FISH,298000,0.806024
+Methyl parathion,21540.7,Fundulus heteroclitus,Acute,FISH,298000,0.806024
+Methyl parathion,13800,Fundulus majalis,Acute,FISH,298000,0.806024
+Methyl parathion,3200.46,Gambusia affinis,Acute,FISH,298000,0.806024
+Methyl parathion,3.8,Gammarus fasciatus,Acute,INVERT,298000,0.806024
+Methyl parathion,3.7081,Gammarus sp,Acute,INVERT,298000,0.806024
+Methyl parathion,4292.46,Gibelion catla,Acute,FISH,298000,0.806024
+Methyl parathion,7619.84,Heteropneustes fossilis,Acute,FISH,298000,0.806024
+Methyl parathion,5.02,Hexagenia sp,Acute,INVERT,298000,0.806024
+Methyl parathion,5898.61,Ictalurus melas,Acute,FISH,298000,0.806024
+Methyl parathion,6088.21,Ictalurus punctatus,Acute,FISH,298000,0.806024
+Methyl parathion,10000,Indoplanorbis exustus,Acute,INVERT,298000,0.806024
+Methyl parathion,33,Ischnura verticalis,Acute,INVERT,298000,0.806024
+Methyl parathion,10288.7,Labeo rohita,Acute,FISH,298000,0.806024
+Methyl parathion,30412.1,Lamellidens marginalis,Acute,INVERT,298000,0.806024
+Methyl parathion,8000,Lepidocephalichthys guntea,Acute,FISH,298000,0.806024
+Methyl parathion,3963.76,Lepidocephalichthys thermalis,Acute,FISH,298000,0.806024
+Methyl parathion,5847.23,Lepomis cyanellus,Acute,FISH,298000,0.806024
+Methyl parathion,3600,Lepomis gibbosus,Acute,FISH,298000,0.806024
+Methyl parathion,4582.91,Lepomis macrochirus,Acute,FISH,298000,0.806024
+Methyl parathion,5170,Lepomis microlophus,Acute,FISH,298000,0.806024
+Methyl parathion,9911.55,Macropodus cupanus,Acute,FISH,298000,0.806024
+Methyl parathion,5700,Menidia menidia,Acute,FISH,298000,0.806024
+Methyl parathion,87.6356,Metapenaeus monoceros,Acute,INVERT,298000,0.806024
+Methyl parathion,5220,Micropterus salmoides,Acute,FISH,298000,0.806024
+Methyl parathion,15390.6,Morone americana,Acute,FISH,298000,0.806024
+Methyl parathion,5395.03,Morone saxatilis,Acute,FISH,298000,0.806024
+Methyl parathion,5200,Mugil cephalus,Acute,FISH,298000,0.806024
+Methyl parathion,5900,Mystus cavasius,Acute,FISH,298000,0.806024
+Methyl parathion,5000,Notemigonus crysoleucas,Acute,FISH,298000,0.806024
+Methyl parathion,3067.32,Oncorhynchus clarkii,Acute,FISH,298000,0.806024
+Methyl parathion,5300,Oncorhynchus kisutch,Acute,FISH,298000,0.806024
+Methyl parathion,3103.69,Oncorhynchus mykiss,Acute,FISH,298000,0.806024
+Methyl parathion,15,Orconectes nais,Acute,INVERT,298000,0.806024
+Methyl parathion,743.598,Oreochromis mossambicus,Acute,FISH,298000,0.806024
+Methyl parathion,8154.75,Oreochromis niloticus,Acute,FISH,298000,0.806024
+Methyl parathion,5699.12,Oryzias latipes,Acute,FISH,298000,0.806024
+Methyl parathion,7,Pagurus longicarpus,Acute,INVERT,298000,0.806024
+Methyl parathion,3,Palaemonetes kadiakensis,Acute,INVERT,298000,0.806024
+Methyl parathion,3,Palaemonetes vulgaris,Acute,INVERT,298000,0.806024
+Methyl parathion,14500,Parreysia favidens,Acute,INVERT,298000,0.806024
+Methyl parathion,1.50997,Penaeus duorarum,Acute,INVERT,298000,0.806024
+Methyl parathion,95,Penaeus indicus,Acute,INVERT,298000,0.806024
+Methyl parathion,3060,Perca flavescens,Acute,FISH,298000,0.806024
+Methyl parathion,11000,Physella acuta,Acute,INVERT,298000,0.806024
+Methyl parathion,4549.73,Pila globosa,Acute,INVERT,298000,0.806024
+Methyl parathion,7824.76,Pimephales promelas,Acute,FISH,298000,0.806024
+Methyl parathion,8155.67,Poecilia reticulata,Acute,FISH,298000,0.806024
+Methyl parathion,2.68328,Procambarus acutus,Acute,INVERT,298000,0.806024
+Methyl parathion,16,Procladius sp,Acute,INVERT,298000,0.806024
+Methyl parathion,6400,Pseudacris triseriata,Acute,AMPHIB,298000,0.806024
+Methyl parathion,11482,Rana limnocharis,Acute,AMPHIB,298000,0.806024
+Methyl parathion,9500,Rana tigrina,Acute,AMPHIB,298000,0.806024
+Methyl parathion,5400,Raphidocelis subcapitata,Acute,ALGAE,298000,0.806024
+Methyl parathion,4800,Rhamdia quelen,Acute,FISH,298000,0.806024
+Methyl parathion,4700,Salmo trutta,Acute,FISH,298000,0.806024
+Methyl parathion,5180.28,Salvelinus namaycush,Acute,FISH,298000,0.806024
+Methyl parathion,7400,Semisulcospira libertina,Acute,INVERT,298000,0.806024
+Methyl parathion,0.37,Simocephalus serrulatus,Acute,INVERT,298000,0.806024
+Methyl parathion,5300,Skeletonema costatum,Acute,ALGAE,298000,0.806024
+Methyl parathion,20,Tanytarsus sp,Acute,INVERT,298000,0.806024
+Methyl parathion,4600,Tetrahymena pyriformis,Acute,INVERT,298000,0.806024
+Methyl parathion,12300,Thalassoma bifasciatum,Acute,FISH,298000,0.806024
+Methyl parathion,28.3902,Thamnocephalus platyurus,Acute,INVERT,298000,0.806024
+Methyl parathion,8000,Thiara lineata,Acute,INVERT,298000,0.806024
+Methyl parathion,4190,Tilapia galilaea,Acute,FISH,298000,0.806024
+Methyl parathion,273.58,Tilapia mossambica,Acute,FISH,298000,0.806024
+Methyl parathion,500,Tubifex tubifex,Acute,INVERT,298000,0.806024
 Methylene bis(thiocyanate),2500,Alburnus alburnus,Acute,FISH,6317190,0.29322
 Methylene bis(thiocyanate),36,Americamysis bahia,Acute,INVERT,6317190,0.29322
 Methylene bis(thiocyanate),42,Chlorella pyrenoidosa,Acute,ALGAE,6317190,0.29322
@@ -6162,6 +7401,24 @@ Metolachlor,115.092,Raphidocelis subcapitata,Acute,ALGAE,51218500,0.432823
 Metolachlor,19400,Scenedesmus acutus var. acutus,Acute,ALGAE,51218500,0.432823
 Metolachlor,600,Scenedesmus quadricauda,Acute,ALGAE,51218500,0.432823
 Metolachlor,232,Scenedesmus sp,Acute,ALGAE,51218500,0.432823
+Metribuzin,17,Anabaena flos-aquae,Acute,ALGAE,21087600,0.634383
+Metribuzin,35453.2,Ceriodaphnia dubia,Acute,INVERT,21087600,0.634383
+Metribuzin,43500,Chironomus riparius,Acute,INVERT,21087600,0.634383
+Metribuzin,23,Chlamydomonas reinhardtii,Acute,ALGAE,21087600,0.634383
+Metribuzin,23,Chlamydomonas sp,Acute,ALGAE,21087600,0.634383
+Metribuzin,31,Chlorella vulgaris,Acute,ALGAE,21087600,0.634383
+Metribuzin,85000,Cyprinodon variegatus,Acute,FISH,21087600,0.634383
+Metribuzin,14807.9,Daphnia magna,Acute,INVERT,21087600,0.634383
+Metribuzin,8965.16,Ictalurus punctatus,Acute,FISH,21087600,0.634383
+Metribuzin,97144.5,Lepomis macrochirus,Acute,FISH,21087600,0.634383
+Metribuzin,100,Microcystis sp,Acute,ALGAE,21087600,0.634383
+Metribuzin,78778.7,Oncorhynchus mykiss,Acute,FISH,21087600,0.634383
+Metribuzin,3820.05,Oscillatoria laetevirens,Acute,ALGAE,21087600,0.634383
+Metribuzin,48270,Penaeus duorarum,Acute,INVERT,21087600,0.634383
+Metribuzin,26.992,Raphidocelis subcapitata,Acute,ALGAE,21087600,0.634383
+Metribuzin,140000,Rasbora heteromorpha,Acute,FISH,21087600,0.634383
+Metribuzin,152,Scenedesmus quadricauda,Acute,ALGAE,21087600,0.634383
+Metribuzin,65000,Uca pugilator,Acute,INVERT,21087600,0.634383
 Metsulfuron-methyl,850,Chlorella fusca,Acute,ALGAE,74223600,0.523425
 Metsulfuron-methyl,850,Chlorella fusca var vacuolata,Acute,ALGAE,74223600,0.523425
 Metsulfuron-methyl,14200,Chlorella pyrenoidosa,Acute,ALGAE,74223600,0.523425
@@ -6237,6 +7494,29 @@ Monosodium methanearsonate,136979,Pimephales promelas,Acute,FISH,2163810,0.23531
 Monosodium methanearsonate,1393160,Poecilia latipinna,Acute,FISH,2163810,0.235318
 Monosodium methanearsonate,101000,Procambarus clarkii,Acute,INVERT,2163810,0.235318
 Monosodium methanearsonate,5630,Raphidocelis subcapitata,Acute,ALGAE,2163810,0.235318
+Monuron,57000,Ameiurus nebulosus,Acute,FISH,150685,0.582926
+Monuron,77730.3,Daphnia magna,Acute,INVERT,150685,0.582926
+Monuron,63,Dunaliella tertiolecta,Acute,ALGAE,150685,0.582926
+Monuron,63100,Ictalurus nebulosus,Acute,FISH,150685,0.582926
+Monuron,30884.2,Ictalurus punctatus,Acute,FISH,150685,0.582926
+Monuron,9262.83,Lepomis gibbosus,Acute,FISH,150685,0.582926
+Monuron,35867.7,Lepomis macrochirus,Acute,FISH,150685,0.582926
+Monuron,15329.7,Lepomis microlophus,Acute,FISH,150685,0.582926
+Monuron,5000,Mercenaria mercenaria,Acute,INVERT,150685,0.582926
+Monuron,110000,Mugil cephalus,Acute,FISH,150685,0.582926
+Monuron,110000,Oncorhynchus kisutch,Acute,FISH,150685,0.582926
+Monuron,100000,Oncorhynchus mykiss,Acute,FISH,150685,0.582926
+Monuron,7200,Penaeus setiferus,Acute,INVERT,150685,0.582926
+Morpholine,1000,Danio rerio,Acute,FISH,110918,0.619743
+Morpholine,104225,Daphnia magna,Acute,INVERT,110918,0.619743
+Morpholine,350000,Lepomis macrochirus,Acute,FISH,110918,0.619743
+Morpholine,282000,Leuciscus idus,Acute,FISH,110918,0.619743
+Morpholine,261534,Leuciscus idus melanotus,Acute,FISH,110918,0.619743
+Morpholine,400000,Menidia beryllina,Acute,FISH,110918,0.619743
+Morpholine,296219,Oncorhynchus mykiss,Acute,FISH,110918,0.619743
+Morpholine,240000,Oryzias latipes,Acute,FISH,110918,0.619743
+Morpholine,75400,Rana ridibunda,Acute,AMPHIB,110918,0.619743
+Morpholine,40918.9,Raphidocelis subcapitata,Acute,ALGAE,110918,0.619743
 Nabam-sodium,700,Americamysis bahia,Acute,INVERT,142596,0.279514
 Nabam-sodium,2400,Chlorella pyrenoidosa,Acute,ALGAE,142596,0.279514
 Nabam-sodium,1977.33,Daphnia magna,Acute,INVERT,142596,0.279514
@@ -6459,6 +7739,16 @@ Nitrobenzene,138971,Poecilia reticulata,Acute,FISH,98953,0.373857
 Nitrobenzene,26460,Raphidocelis subcapitata,Acute,ALGAE,98953,0.373857
 Nitrobenzene,10300,Skeletonema costatum,Acute,ALGAE,98953,0.373857
 Nitrobenzene,129817,Tetrahymena pyriformis,Acute,INVERT,98953,0.373857
+Octoxynol-9,3790,Capitella capitata,Acute,INVERT,9036200,0.61888
+Octoxynol-9,18869.3,Cerastoderma edule,Acute,INVERT,9036200,0.61888
+Octoxynol-9,8600,Daphnia magna,Acute,INVERT,9036200,0.61888
+Octoxynol-9,7078.14,Idotea balthica,Acute,INVERT,9036200,0.61888
+Octoxynol-9,7400,Microcystis aeruginosa,Acute,ALGAE,9036200,0.61888
+Octoxynol-9,7400,Microcystis sp,Acute,ALGAE,9036200,0.61888
+Octoxynol-9,7200,Oncorhynchus mykiss,Acute,FISH,9036200,0.61888
+Octoxynol-9,10800,Pandalus montagui,Acute,INVERT,9036200,0.61888
+Octoxynol-9,210,Raphidocelis subcapitata,Acute,ALGAE,9036200,0.61888
+Octoxynol-9,210,Selenastrum sp,Acute,ALGAE,9036200,0.61888
 Oxadiazon,270,Americamysis bahia,Acute,INVERT,19666300,0.532756
 Oxadiazon,1316.07,Clarias batrachus,Acute,FISH,19666300,0.532756
 Oxadiazon,1500,Cyprinodon variegatus,Acute,FISH,19666300,0.532756
@@ -6520,6 +7810,48 @@ Paclobutrazol,23600,Lepomis macrochirus,Acute,FISH,76738600,0.309715
 Paclobutrazol,35500,Limnodrilus hoffmeisteri,Acute,INVERT,76738600,0.309715
 Paclobutrazol,27800,Oncorhynchus mykiss,Acute,FISH,76738600,0.309715
 Paclobutrazol,38640.9,Raphidocelis subcapitata,Acute,ALGAE,76738600,0.309715
+Paraquat,262000,Adelotus brevis,Acute,AMPHIB,4685150,0.632262
+Paraquat,10875,Barbus sharpeyi,Acute,FISH,4685150,0.632262
+Paraquat,14000,Brachionus calyciflorus,Acute,INVERT,4685150,0.632262
+Paraquat,10000,Cerastoderma edule,Acute,INVERT,4685150,0.632262
+Paraquat,10900,Channa striata,Acute,FISH,4685150,0.632262
+Paraquat,52.1,Chlamydomonas eugametos,Acute,ALGAE,4685150,0.632262
+Paraquat,0.1,Chlorella pyrenoidosa,Acute,ALGAE,4685150,0.632262
+Paraquat,0.2,Chlorella vulgaris,Acute,ALGAE,4685150,0.632262
+Paraquat,24000,Cipangopaludina malleata,Acute,INVERT,4685150,0.632262
+Paraquat,10000,Crangon crangon,Acute,INVERT,4685150,0.632262
+Paraquat,10153,Cyprinus carpio,Acute,FISH,4685150,0.632262
+Paraquat,19072.2,Danio rerio,Acute,FISH,4685150,0.632262
+Paraquat,4989.66,Daphnia magna,Acute,INVERT,4685150,0.632262
+Paraquat,8700,Daphnia obtusa,Acute,INVERT,4685150,0.632262
+Paraquat,5414.9,Daphnia pulex,Acute,INVERT,4685150,0.632262
+Paraquat,4030.08,Daphnia spinulata,Acute,INVERT,4685150,0.632262
+Paraquat,5300,Diaptomus sp,Acute,INVERT,4685150,0.632262
+Paraquat,93448.2,Gambusia affinis,Acute,FISH,4685150,0.632262
+Paraquat,11000,Gammarus fasciatus,Acute,INVERT,4685150,0.632262
+Paraquat,7670,Heterobranchus longifilis,Acute,FISH,4685150,0.632262
+Paraquat,100000,Ictalurus punctatus,Acute,FISH,4685150,0.632262
+Paraquat,7200,Indoplanorbis exustus,Acute,INVERT,4685150,0.632262
+Paraquat,6000,Labeo rohita,Acute,FISH,4685150,0.632262
+Paraquat,13000,Lepomis macrochirus,Acute,FISH,4685150,0.632262
+Paraquat,100000,Limnodynastes peroni,Acute,AMPHIB,4685150,0.632262
+Paraquat,35000,Misgurnus anguillicaudatus,Acute,FISH,4685150,0.632262
+Paraquat,15000,Oncorhynchus mykiss,Acute,FISH,4685150,0.632262
+Paraquat,12300,Oreochromis mossambicus,Acute,FISH,4685150,0.632262
+Paraquat,8831.76,Oreochromis niloticus,Acute,FISH,4685150,0.632262
+Paraquat,7000,Oryzias latipes,Acute,FISH,4685150,0.632262
+Paraquat,17000,Physella acuta,Acute,INVERT,4685150,0.632262
+Paraquat,17042.6,Poecilia reticulata,Acute,FISH,4685150,0.632262
+Paraquat,1400,Procambarus clarkii,Acute,INVERT,4685150,0.632262
+Paraquat,316228,Pteronarcys californica,Acute,INVERT,4685150,0.632262
+Paraquat,63.5547,Raphidocelis subcapitata,Acute,ALGAE,4685150,0.632262
+Paraquat,6019.29,Rhamdia sapo,Acute,FISH,4685150,0.632262
+Paraquat,22.5,Scenedesmus acutus var. acutus,Acute,ALGAE,4685150,0.632262
+Paraquat,382.099,Scenedesmus opoliensis,Acute,ALGAE,4685150,0.632262
+Paraquat,10000,Semisulcospira libertina,Acute,INVERT,4685150,0.632262
+Paraquat,3897.39,Simocephalus serrulatus,Acute,INVERT,4685150,0.632262
+Paraquat,689,Streptocephalus proboscideus,Acute,INVERT,4685150,0.632262
+Paraquat,5200,Tilapia nilotica,Acute,FISH,4685150,0.632262
 Paraquat dichloride,15,Anabaena flos-aquae,Acute,ALGAE,1910420,0.34492
 Paraquat dichloride,92.8513,Ankistrodesmus falcatus,Acute,ALGAE,1910420,0.34492
 Paraquat dichloride,6931020,Apareiodon affinis,Acute,FISH,1910420,0.34492
@@ -6682,6 +8014,20 @@ Pebulate,57000,Physella acuta,Acute,INVERT,1114710,0.379178
 Pebulate,230,Raphidocelis subcapitata,Acute,ALGAE,1114710,0.379178
 Pebulate,36000,Semisulcospira libertina,Acute,INVERT,1114710,0.379178
 Pebulate,260,Skeletonema costatum,Acute,ALGAE,1114710,0.379178
+Pendimethalin,1610,Chlamydomonas reinhardtii,Acute,ALGAE,40487400,0.628906
+Pendimethalin,2.4,Chlorella fusca var vacuolata,Acute,ALGAE,40487400,0.628906
+Pendimethalin,393.5,Chlorella pyrenoidosa,Acute,ALGAE,40487400,0.628906
+Pendimethalin,281,Chlorella vulgaris,Acute,ALGAE,40487400,0.628906
+Pendimethalin,710,Cyprinodon variegatus,Acute,FISH,40487400,0.628906
+Pendimethalin,582.065,Daphnia magna,Acute,INVERT,40487400,0.628906
+Pendimethalin,418,Ictalurus punctatus,Acute,FISH,40487400,0.628906
+Pendimethalin,441.196,Lepomis macrochirus,Acute,FISH,40487400,0.628906
+Pendimethalin,315.457,Oncorhynchus mykiss,Acute,FISH,40487400,0.628906
+Pendimethalin,1600,Penaeus duorarum,Acute,INVERT,40487400,0.628906
+Pendimethalin,1000,Procambarus simulans,Acute,INVERT,40487400,0.628906
+Pendimethalin,53.7862,Raphidocelis subcapitata,Acute,ALGAE,40487400,0.628906
+Pendimethalin,490,Scenedesmus acutus var. acutus,Acute,ALGAE,40487400,0.628906
+Pendimethalin,468,Scenedesmus quadricauda,Acute,ALGAE,40487400,0.628906
 Pentachlorobenzene,104.881,Ceriodaphnia dubia,Acute,INVERT,608935,0.405478
 Pentachlorobenzene,230,Chironomus riparius,Acute,INVERT,608935,0.405478
 Pentachlorobenzene,1910,Chlorella marina,Acute,ALGAE,608935,0.405478
@@ -7331,6 +8677,20 @@ Potassium permanganate,20369.1,Raphidocelis subcapitata,Acute,ALGAE,7722650,0.36
 Potassium permanganate,2960000,Scenedesmus quadricauda,Acute,ALGAE,7722650,0.360654
 Potassium permanganate,3890,Tilapia nilotica,Acute,FISH,7722650,0.360654
 Potassium permanganate,1600,Trachinotus carolinus,Acute,FISH,7722650,0.360654
+Prometon,24494.9,Ameiurus melas,Acute,FISH,1610180,0.731662
+Prometon,17700,Americamysis bahia,Acute,INVERT,1610180,0.731662
+Prometon,70000,Carassius carassius,Acute,FISH,1610180,0.731662
+Prometon,123,Chlorella fusca var vacuolata,Acute,ALGAE,1610180,0.731662
+Prometon,47300,Cyprinodon variegatus,Acute,FISH,1610180,0.731662
+Prometon,41795,Daphnia magna,Acute,INVERT,1610180,0.731662
+Prometon,20000,Ictalurus melas,Acute,FISH,1610180,0.731662
+Prometon,22894.3,Ictalurus sp,Acute,FISH,1610180,0.731662
+Prometon,29522.1,Lepomis macrochirus,Acute,FISH,1610180,0.731662
+Prometon,64000,Leuciscus idus,Acute,FISH,1610180,0.731662
+Prometon,15169.6,Oncorhynchus mykiss,Acute,FISH,1610180,0.731662
+Prometon,49000,Perca sp,Acute,FISH,1610180,0.731662
+Prometon,12471.5,Poecilia reticulata,Acute,FISH,1610180,0.731662
+Prometon,98,Raphidocelis subcapitata,Acute,ALGAE,1610180,0.731662
 Prometryn,1700,Americamysis bahia,Acute,INVERT,7287200,0.529277
 Prometryn,40.1,Anabaena flos-aquae,Acute,ALGAE,7287200,0.529277
 Prometryn,724,Anabaena variabilis,Acute,ALGAE,7287200,0.529277
@@ -7358,6 +8718,89 @@ Prometryn,22880,Rana limnocharis,Acute,AMPHIB,7287200,0.529277
 Prometryn,14.9347,Raphidocelis subcapitata,Acute,ALGAE,7287200,0.529277
 Prometryn,1.65,Scenedesmus acutus var. acutus,Acute,ALGAE,7287200,0.529277
 Prometryn,9.7,Scenedesmus quadricauda,Acute,ALGAE,7287200,0.529277
+Propanil,22100,Ameiurus nebulosus,Acute,FISH,709988,0.564553
+Propanil,400,Americamysis bahia,Acute,INVERT,709988,0.564553
+Propanil,120,Anabaena cylindrica,Acute,ALGAE,709988,0.564553
+Propanil,110,Anabaena flos-aquae,Acute,ALGAE,709988,0.564553
+Propanil,480,Anabaena variabilis,Acute,ALGAE,709988,0.564553
+Propanil,5,Anacystis alpicola,Acute,ALGAE,709988,0.564553
+Propanil,5200,Barbus sharpeyi,Acute,FISH,709988,0.564553
+Propanil,4787.93,Carassius auratus,Acute,FISH,709988,0.564553
+Propanil,2954.7,Ceriodaphnia dubia,Acute,INVERT,709988,0.564553
+Propanil,90,Chlorella pyrenoidosa,Acute,ALGAE,709988,0.564553
+Propanil,3210,Chlorella saccharophila,Acute,ALGAE,709988,0.564553
+Propanil,5980,Chlorella vulgaris,Acute,ALGAE,709988,0.564553
+Propanil,21000,Cipangopaludina malleata,Acute,INVERT,709988,0.564553
+Propanil,6000,Clarias batrachus,Acute,FISH,709988,0.564553
+Propanil,4600,Cyprinodon variegatus,Acute,FISH,709988,0.564553
+Propanil,3395.5,Cyprinus carpio,Acute,FISH,709988,0.564553
+Propanil,5537.15,Daphnia carinata,Acute,INVERT,709988,0.564553
+Propanil,6907.29,Daphnia longispina,Acute,INVERT,709988,0.564553
+Propanil,3992.78,Daphnia magna,Acute,INVERT,709988,0.564553
+Propanil,11400,Daphnia pulex,Acute,INVERT,709988,0.564553
+Propanil,330,Desmodesmus subspicatus,Acute,ALGAE,709988,0.564553
+Propanil,6261.24,Emerita brasiliensis,Acute,INVERT,709988,0.564553
+Propanil,8969.64,Gambusia affinis,Acute,FISH,709988,0.564553
+Propanil,16000,Gammarus fasciatus,Acute,INVERT,709988,0.564553
+Propanil,22100,Ictalurus nebulosus,Acute,FISH,709988,0.564553
+Propanil,3041.7,Ictalurus punctatus,Acute,FISH,709988,0.564553
+Propanil,14000,Indoplanorbis exustus,Acute,INVERT,709988,0.564553
+Propanil,6562.92,Lepomis cyanellus,Acute,FISH,709988,0.564553
+Propanil,10654.8,Lepomis macrochirus,Acute,FISH,709988,0.564553
+Propanil,8300,Misgurnus anguillicaudatus,Acute,FISH,709988,0.564553
+Propanil,80,Nostoc muscorum,Acute,ALGAE,709988,0.564553
+Propanil,7500,Notropis atherinoides,Acute,FISH,709988,0.564553
+Propanil,5878.44,Oncorhynchus mykiss,Acute,FISH,709988,0.564553
+Propanil,8921.95,Oreochromis mossambicus,Acute,FISH,709988,0.564553
+Propanil,2459.67,Oryzias latipes,Acute,FISH,709988,0.564553
+Propanil,13650,Palaemonetes kadiakensis,Acute,INVERT,709988,0.564553
+Propanil,8800,Physella acuta,Acute,INVERT,709988,0.564553
+Propanil,8985.56,Pimephales promelas,Acute,FISH,709988,0.564553
+Propanil,7900,Procambarus clarkii,Acute,INVERT,709988,0.564553
+Propanil,28300,Procambarus simulans,Acute,INVERT,709988,0.564553
+Propanil,11891,Rana limnocharis,Acute,AMPHIB,709988,0.564553
+Propanil,132000,Rangia cuneata,Acute,INVERT,709988,0.564553
+Propanil,22.096,Raphidocelis subcapitata,Acute,ALGAE,709988,0.564553
+Propanil,2500,Rutilus rutilus,Acute,FISH,709988,0.564553
+Propanil,290,Scenedesmus acutus,Acute,ALGAE,709988,0.564553
+Propanil,23000,Semisulcospira libertina,Acute,INVERT,709988,0.564553
+Propanil,6516,Tilapia mossambica,Acute,FISH,709988,0.564553
+Propanil,161.245,Tolypothrix tenuis,Acute,ALGAE,709988,0.564553
+Propanil,3500,Trichogaster pectoralis,Acute,FISH,709988,0.564553
+Propiconazole,850.999,Americamysis bahia,Acute,INVERT,60207900,0.633628
+Propiconazole,28000,Anabaena flos-aquae,Acute,ALGAE,60207900,0.633628
+Propiconazole,900,Baetis rhodani,Acute,INVERT,60207900,0.633628
+Propiconazole,0.8,Chlamydomonas noctigama,Acute,ALGAE,60207900,0.633628
+Propiconazole,3156.84,Chlamydomonas reinhardtii,Acute,ALGAE,60207900,0.633628
+Propiconazole,2176.4,Chlorella fusca var vacuolata,Acute,ALGAE,60207900,0.633628
+Propiconazole,1340,Chlorella pyrenoidosa,Acute,ALGAE,60207900,0.633628
+Propiconazole,3771.02,Chlorella sorokiniana,Acute,ALGAE,60207900,0.633628
+Propiconazole,1290,Chlorella vulgaris,Acute,ALGAE,60207900,0.633628
+Propiconazole,1727.2,Clarias batrachus,Acute,FISH,60207900,0.633628
+Propiconazole,17658.4,Cyprinus carpio,Acute,FISH,60207900,0.633628
+Propiconazole,18602.6,Danio rerio,Acute,FISH,60207900,0.633628
+Propiconazole,5610.38,Daphnia magna,Acute,INVERT,60207900,0.633628
+Propiconazole,1,Daphnia pulex,Acute,INVERT,60207900,0.633628
+Propiconazole,2330,Dunaliella tertiolecta,Acute,ALGAE,60207900,0.633628
+Propiconazole,1300,Gammarus lacustris,Acute,INVERT,60207900,0.633628
+Propiconazole,1000,Heptagenia sulphurea,Acute,INVERT,60207900,0.633628
+Propiconazole,1200,Hydropsyche siltalai,Acute,INVERT,60207900,0.633628
+Propiconazole,4107.33,Ictalurus punctatus,Acute,FISH,60207900,0.633628
+Propiconazole,2929.16,Leiostomus xanthurus,Acute,FISH,60207900,0.633628
+Propiconazole,3957.31,Lepomis macrochirus,Acute,FISH,60207900,0.633628
+Propiconazole,4626.01,Microcystis aeruginosa,Acute,ALGAE,60207900,0.633628
+Propiconazole,8160,Microcystis flosaquae,Acute,ALGAE,60207900,0.633628
+Propiconazole,5387.65,Oncorhynchus mykiss,Acute,FISH,60207900,0.633628
+Propiconazole,1800,Phoxinus phoxinus,Acute,FISH,60207900,0.633628
+Propiconazole,1300,Physa fontinalis,Acute,INVERT,60207900,0.633628
+Propiconazole,194.422,Pimephales promelas,Acute,FISH,60207900,0.633628
+Propiconazole,49000,Procambarus sp,Acute,INVERT,60207900,0.633628
+Propiconazole,4142.3,Raphidocelis subcapitata,Acute,ALGAE,60207900,0.633628
+Propiconazole,1800,Rutilus rutilus,Acute,FISH,60207900,0.633628
+Propiconazole,2398.06,Salmo trutta,Acute,FISH,60207900,0.633628
+Propiconazole,3580,Scenedesmus acutus var. acutus,Acute,ALGAE,60207900,0.633628
+Propiconazole,1300,Scenedesmus quadricauda,Acute,ALGAE,60207900,0.633628
+Propiconazole,4500,Synechococcus leopoliensis,Acute,ALGAE,60207900,0.633628
 Propoxur,150,Aedes aegypti,Acute,INVERT,114261,0.438249
 Propoxur,111.2,Aedes cantans,Acute,INVERT,114261,0.438249
 Propoxur,206.5,Aedes punctor,Acute,INVERT,114261,0.438249
@@ -7459,6 +8902,26 @@ Pyridine,1235310,Xenopus laevis,Acute,AMPHIB,110861,0.553751
 "Quaternary ammonium compounds, benzyl-C12-16-alkyldimethyl, chlorides",640.039,Pimephales promelas,Acute,FISH,68424900,0.460976
 "Quaternary ammonium compounds, benzyl-C12-16-alkyldimethyl, chlorides",1950,Salmo trutta,Acute,FISH,68424900,0.460976
 "Quaternary ammonium compounds, benzyl-C12-16-alkyldimethyl, chlorides",420,Salvelinus namaycush,Acute,FISH,68424900,0.460976
+Quinalphos,500,Anguilla japonica,Acute,FISH,13593000,0.652312
+Quinalphos,169.95,Aplocheilus lineatus,Acute,FISH,13593000,0.652312
+Quinalphos,1900,Bellamya dissimilis,Acute,INVERT,13593000,0.652312
+Quinalphos,1710.26,Catla catla,Acute,FISH,13593000,0.652312
+Quinalphos,992.872,Cirrhinus mrigala,Acute,FISH,13593000,0.652312
+Quinalphos,1192.24,Cyprinus carpio,Acute,FISH,13593000,0.652312
+Quinalphos,0.21,Daphnia magna,Acute,INVERT,13593000,0.652312
+Quinalphos,1902.55,Echinometra mathaei,Acute,INVERT,13593000,0.652312
+Quinalphos,1227.62,Gibelion catla,Acute,FISH,13593000,0.652312
+Quinalphos,1867.21,Heteropneustes fossilis,Acute,FISH,13593000,0.652312
+Quinalphos,1791.17,Labeo rohita,Acute,FISH,13593000,0.652312
+Quinalphos,375,Lepidocephalichthys thermalis,Acute,FISH,13593000,0.652312
+Quinalphos,461,Macrobrachium lamarrei,Acute,INVERT,13593000,0.652312
+Quinalphos,3450,Macropodus cupanus,Acute,FISH,13593000,0.652312
+Quinalphos,100.573,Nuria danrica,Acute,FISH,13593000,0.652312
+Quinalphos,1254.95,Oreochromis mossambicus,Acute,FISH,13593000,0.652312
+Quinalphos,0.124,Penaeus monodon,Acute,INVERT,13593000,0.652312
+Quinalphos,8750,Rana tigrina,Acute,AMPHIB,13593000,0.652312
+Quinalphos,18800,Synechocystis sp,Acute,ALGAE,13593000,0.652312
+Quinalphos,3,Tilapia mossambica,Acute,FISH,13593000,0.652312
 Quinoline,4896.7,Chironomus riparius,Acute,INVERT,91225,0.437286
 Quinoline,56999.6,Chironomus tentans,Acute,INVERT,91225,0.437286
 Quinoline,74000,Chlorella pyrenoidosa,Acute,ALGAE,91225,0.437286
@@ -7670,6 +9133,43 @@ Simazine,257,Scenedesmus acutus var. acutus,Acute,ALGAE,122349,0.528873
 Simazine,4190,Sparus aurata,Acute,FISH,122349,0.528873
 Simazine,120,Synechococcus leopoliensis,Acute,ALGAE,122349,0.528873
 Simazine,3100,Tilapia mossambica,Acute,FISH,122349,0.528873
+Simetryn,8000,Ameiurus melas,Acute,FISH,1014710,0.729047
+Simetryn,11.5447,Anabaena flos-aquae,Acute,ALGAE,1014710,0.729047
+Simetryn,15.9953,Anabaena spiroides,Acute,ALGAE,1014710,0.729047
+Simetryn,57,Artemia salina,Acute,INVERT,1014710,0.729047
+Simetryn,32012,Carassius carassius,Acute,FISH,1014710,0.729047
+Simetryn,17.4944,Chlamydomonas sp,Acute,ALGAE,1014710,0.729047
+Simetryn,522.727,Chlorella vulgaris,Acute,ALGAE,1014710,0.729047
+Simetryn,11.6276,Chlorogonium sp,Acute,ALGAE,1014710,0.729047
+Simetryn,56.478,Closterium ehrenbergii,Acute,ALGAE,1014710,0.729047
+Simetryn,34.3471,Closterium moniliferum,Acute,ALGAE,1014710,0.729047
+Simetryn,152.972,Cosmarium obtusatum,Acute,ALGAE,1014710,0.729047
+Simetryn,50000,Daphnia magna,Acute,INVERT,1014710,0.729047
+Simetryn,34,Dunaliella tertiolecta,Acute,ALGAE,1014710,0.729047
+Simetryn,146.123,Eudorina sp,Acute,ALGAE,1014710,0.729047
+Simetryn,10.2333,Gonium sp,Acute,ALGAE,1014710,0.729047
+Simetryn,8000,Ictalurus melas,Acute,FISH,1014710,0.729047
+Simetryn,8000,Ictalurus sp,Acute,FISH,1014710,0.729047
+Simetryn,25000,Lepomis macrochirus,Acute,FISH,1014710,0.729047
+Simetryn,30.7295,Leptolyngbya sp,Acute,ALGAE,1014710,0.729047
+Simetryn,56.533,Merismopedia tenuissima,Acute,ALGAE,1014710,0.729047
+Simetryn,38.302,Micractinium pusillum,Acute,ALGAE,1014710,0.729047
+Simetryn,16.5041,Microcystis aeruginosa,Acute,ALGAE,1014710,0.729047
+Simetryn,18.783,Microcystis sp,Acute,ALGAE,1014710,0.729047
+Simetryn,32000,Moina macrocopa,Acute,INVERT,1014710,0.729047
+Simetryn,7611.66,Oncorhynchus mykiss,Acute,FISH,1014710,0.729047
+Simetryn,10.5676,Pandorina morum,Acute,ALGAE,1014710,0.729047
+Simetryn,14700,Paratya compressa ssp improvisa,Acute,INVERT,1014710,0.729047
+Simetryn,21.0848,Pediastrum tetras,Acute,ALGAE,1014710,0.729047
+Simetryn,91.5264,Penium margaritaceum,Acute,ALGAE,1014710,0.729047
+Simetryn,28000,Perca sp,Acute,FISH,1014710,0.729047
+Simetryn,25.3992,Phormidium formosum,Acute,ALGAE,1014710,0.729047
+Simetryn,5.11,Procambarus acutus,Acute,INVERT,1014710,0.729047
+Simetryn,96.8102,Pseudanabaena mucicola,Acute,ALGAE,1014710,0.729047
+Simetryn,13.0561,Raphidocelis subcapitata,Acute,ALGAE,1014710,0.729047
+Simetryn,74.7314,Scenedesmus sp,Acute,ALGAE,1014710,0.729047
+Simetryn,11,Skeletonema costatum,Acute,ALGAE,1014710,0.729047
+Simetryn,58.4,Staurastrum sp,Acute,ALGAE,1014710,0.729047
 Sodium azide,4200,Daphnia pulex,Acute,INVERT,26628200,0.410719
 Sodium azide,1980,Dunaliella tertiolecta,Acute,ALGAE,26628200,0.410719
 Sodium azide,5000,Gammarus fasciatus,Acute,INVERT,26628200,0.410719
@@ -8144,6 +9644,22 @@ Terbufos,4.6,Palaemonetes sp,Acute,INVERT,13071800,0.342012
 Terbufos,91.6258,Pimephales promelas,Acute,FISH,13071800,0.342012
 Terbufos,8,Procambarus sp,Acute,INVERT,13071800,0.342012
 Terbufos,20,Salmo trutta,Acute,FISH,13071800,0.342012
+Terbutryn,3000,Ameiurus melas,Acute,FISH,886500,0.679461
+Terbutryn,22,Artemia salina,Acute,INVERT,886500,0.679461
+Terbutryn,3357.93,Carassius carassius,Acute,FISH,886500,0.679461
+Terbutryn,5.91348,Chlamydomonas geitleri,Acute,ALGAE,886500,0.679461
+Terbutryn,7184.71,Ctenopharyngodon idella,Acute,FISH,886500,0.679461
+Terbutryn,6929.98,Daphnia magna,Acute,INVERT,886500,0.679461
+Terbutryn,3.1,Dunaliella tertiolecta,Acute,ALGAE,886500,0.679461
+Terbutryn,3130,Eolimna minima,Acute,ALGAE,886500,0.679461
+Terbutryn,255,Gomphonema clavatum,Acute,ALGAE,886500,0.679461
+Terbutryn,3000,Ictalurus melas,Acute,FISH,886500,0.679461
+Terbutryn,3000,Ictalurus sp,Acute,FISH,886500,0.679461
+Terbutryn,3679.85,Lepomis macrochirus,Acute,FISH,886500,0.679461
+Terbutryn,631,Nostoc muscorum,Acute,ALGAE,886500,0.679461
+Terbutryn,1998.02,Oncorhynchus mykiss,Acute,FISH,886500,0.679461
+Terbutryn,4578.86,Perca sp,Acute,FISH,886500,0.679461
+Terbutryn,2.63371,Raphidocelis subcapitata,Acute,ALGAE,886500,0.679461
 Terbutylazine,7483.31,Ameiurus melas,Acute,FISH,5915410,0.51475
 Terbutylazine,109,Americamysis bahia,Acute,INVERT,5915410,0.51475
 Terbutylazine,99,Anabaena flos-aquae,Acute,ALGAE,5915410,0.51475
@@ -8428,6 +9944,17 @@ Triadimefon,104000,Orconectes neglectus,Acute,INVERT,43121400,0.192251
 Triadimefon,12959,Rana limnocharis,Acute,AMPHIB,43121400,0.192251
 Triadimefon,1185.11,Raphidocelis subcapitata,Acute,ALGAE,43121400,0.192251
 Triadimefon,6100,Simulium vittatum,Acute,INVERT,43121400,0.192251
+Triasulfuron,21500,Americamysis bahia,Acute,INVERT,82097500,0.57318
+Triasulfuron,120,Chlorella fusca,Acute,ALGAE,82097500,0.57318
+Triasulfuron,160.25,Chlorella fusca var vacuolata,Acute,ALGAE,82097500,0.57318
+Triasulfuron,112000,Cyprinodon variegatus,Acute,FISH,82097500,0.57318
+Triasulfuron,100000,Daphnia magna,Acute,INVERT,82097500,0.57318
+Triasulfuron,770,Desmodesmus subspicatus,Acute,ALGAE,82097500,0.57318
+Triasulfuron,100000,Lepomis macrochirus,Acute,FISH,82097500,0.57318
+Triasulfuron,56000,Mercenaria mercenaria,Acute,INVERT,82097500,0.57318
+Triasulfuron,100000,Oncorhynchus mykiss,Acute,FISH,82097500,0.57318
+Triasulfuron,68600,Pimephales promelas,Acute,FISH,82097500,0.57318
+Triasulfuron,465.048,Raphidocelis subcapitata,Acute,ALGAE,82097500,0.57318
 Tributyl phosphate,54600,Artemia salina,Acute,INVERT,126738,0.283348
 Tributyl phosphate,12500,Brachionus calyciflorus,Acute,INVERT,126738,0.283348
 Tributyl phosphate,8800,Carassius auratus,Acute,FISH,126738,0.283348
@@ -8559,6 +10086,20 @@ Trichlorfon,40,Streptocephalus torvicornis,Acute,INVERT,52686,0.242285
 Trichlorfon,50000,Thalassiosira pseudonana,Acute,ALGAE,52686,0.242285
 Trichlorfon,5600,Tilapia mossambica,Acute,FISH,52686,0.242285
 Trichlorfon,4600,Tubifex tubifex,Acute,INVERT,52686,0.242285
+Trichloroacetic acid,5500000,Aedes aegypti,Acute,INVERT,76039,0.61799
+Trichloroacetic acid,9300000,Alburnus alburnus,Acute,FISH,76039,0.61799
+Trichloroacetic acid,3420000,Carassius sp,Acute,FISH,76039,0.61799
+Trichloroacetic acid,2500000,Cyprinus carpio,Acute,FISH,76039,0.61799
+Trichloroacetic acid,750717,Daphnia magna,Acute,INVERT,76039,0.61799
+Trichloroacetic acid,17864.2,Desmodesmus subspicatus,Acute,ALGAE,76039,0.61799
+Trichloroacetic acid,4800000,Nitocra spinipes,Acute,INVERT,76039,0.61799
+Trichloroacetic acid,2000000,Pimephales promelas,Acute,FISH,76039,0.61799
+Trichloroacetic acid,9160000,Poecilia reticulata,Acute,FISH,76039,0.61799
+Trichloroacetic acid,8909.55,Raphidocelis subcapitata,Acute,ALGAE,76039,0.61799
+Trichloroacetic acid,1341.64,Streptocephalus proboscideus,Acute,INVERT,76039,0.61799
+Trichloroacetic acid,16900,Thamnocephalus platyurus,Acute,INVERT,76039,0.61799
+Trichloroacetic acid,3420000,Tinca tinca,Acute,FISH,76039,0.61799
+Trichloroacetic acid,1740000,Xenopus laevis,Acute,AMPHIB,76039,0.61799
 Trichloroethylene,48000,Aedes aegypti,Acute,INVERT,79016,0.356874
 Trichloroethylene,48000,Ambystoma mexicanum,Acute,AMPHIB,79016,0.356874
 Trichloroethylene,14000,Americamysis bahia,Acute,INVERT,79016,0.356874
@@ -8595,6 +10136,34 @@ Trichloroethylene,450000,Scenedesmus abundans,Acute,ALGAE,79016,0.356874
 Trichloroethylene,95000,Skeletonema costatum,Acute,ALGAE,79016,0.356874
 Trichloroethylene,410000,Tetrahymena pyriformis,Acute,INVERT,79016,0.356874
 Trichloroethylene,40249.2,Xenopus laevis,Acute,AMPHIB,79016,0.356874
+Triclopyr,2000,Anabaena flos-aquae,Acute,ALGAE,55335100,0.626434
+Triclopyr,132967,Daphnia magna,Acute,INVERT,55335100,0.626434
+Triclopyr,1200,Daphnia pulex,Acute,INVERT,55335100,0.626434
+Triclopyr,4000,Isonychia sp,Acute,INVERT,55335100,0.626434
+Triclopyr,148000,Lepomis macrochirus,Acute,FISH,55335100,0.626434
+Triclopyr,3453.54,Oncorhynchus gorbuscha,Acute,FISH,55335100,0.626434
+Triclopyr,3354.1,Oncorhynchus keta,Acute,FISH,55335100,0.626434
+Triclopyr,2201.93,Oncorhynchus kisutch,Acute,FISH,55335100,0.626434
+Triclopyr,7642.28,Oncorhynchus mykiss,Acute,FISH,55335100,0.626434
+Triclopyr,2279.51,Oncorhynchus nerka,Acute,FISH,55335100,0.626434
+Triclopyr,4461.12,Oncorhynchus tshawytscha,Acute,FISH,55335100,0.626434
+Triclopyr triethylamine salt,5900,Anabaena flos-aquae,Acute,ALGAE,57213700,0.586254
+Triclopyr triethylamine salt,692000,Ankistrodesmus sp,Acute,ALGAE,57213700,0.586254
+Triclopyr triethylamine salt,770707,Daphnia magna,Acute,INVERT,57213700,0.586254
+Triclopyr triethylamine salt,116319,Ictalurus punctatus,Acute,FISH,57213700,0.586254
+Triclopyr triethylamine salt,338580,Lepomis macrochirus,Acute,FISH,57213700,0.586254
+Triclopyr triethylamine salt,130000,Menidia beryllina,Acute,FISH,57213700,0.586254
+Triclopyr triethylamine salt,15300,Navicula pelliculosa,Acute,ALGAE,57213700,0.586254
+Triclopyr triethylamine salt,274592,Oncorhynchus keta,Acute,FISH,57213700,0.586254
+Triclopyr triethylamine salt,469455,Oncorhynchus kisutch,Acute,FISH,57213700,0.586254
+Triclopyr triethylamine salt,393510,Oncorhynchus mykiss,Acute,FISH,57213700,0.586254
+Triclopyr triethylamine salt,311000,Oncorhynchus nerka,Acute,FISH,57213700,0.586254
+Triclopyr triethylamine salt,285859,Oncorhynchus tshawytscha,Acute,FISH,57213700,0.586254
+Triclopyr triethylamine salt,326000,Palaemonetes pugio,Acute,INVERT,57213700,0.586254
+Triclopyr triethylamine salt,895000,Penaeus duorarum,Acute,INVERT,57213700,0.586254
+Triclopyr triethylamine salt,396579,Pimephales promelas,Acute,FISH,57213700,0.586254
+Triclopyr triethylamine salt,39100,Raphidocelis subcapitata,Acute,ALGAE,57213700,0.586254
+Triclopyr triethylamine salt,1000000,Uca pugilator,Acute,INVERT,57213700,0.586254
 Triclopyr-butotyl,1970,Anabaena flos-aquae,Acute,ALGAE,64700600,0.328373
 Triclopyr-butotyl,1925.6,Daphnia magna,Acute,INVERT,64700600,0.328373
 Triclopyr-butotyl,1200,Daphnia pulex,Acute,INVERT,64700600,0.328373

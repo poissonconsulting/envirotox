@@ -15,7 +15,11 @@ License: file LICENSE
 Suggests: 
     chk,
     dplyr,
+    knitr,
     readr,
+    rmarkdown,
+    tidyr,
+    ssdtools,
     testthat (>= 3.0.0)
 Config/Needs/website: poissonconsulting/poissontemplate
 Config/testthat/edition: 3
@@ -26,3 +30,4 @@ Depends:
     R (>= 3.5)
 LazyData: true
 URL: https://poissonconsulting.github.io/envirotox/
+VignetteBuilder: knitr

@@ -344,6 +344,27 @@ Chromium trioxide,181.72,Raphidocelis subcapitata,Chronic,ALGAE,1333820,0.381802
 Chromium trioxide,1000,Skeletonema costatum,Chronic,ALGAE,1333820,0.381802
 Chromium trioxide,320,Tisbe battagliai,Chronic,INVERT,1333820,0.381802
 Chromium trioxide,500,Wallago attu,Chronic,FISH,1333820,0.381802
+Copper,100,Atherinops affinis,Chronic,FISH,7440510,0.668802
+Copper,28.2086,Brachionus calyciflorus,Chronic,INVERT,7440510,0.668802
+Copper,47.9388,Ceriodaphnia dubia,Chronic,INVERT,7440510,0.668802
+Copper,22.9,Chlamydomonas reinhardtii,Chronic,ALGAE,7440510,0.668802
+Copper,70.6858,Daphnia magna,Chronic,INVERT,7440510,0.668802
+Copper,10,Daphnia pulex,Chronic,INVERT,7440510,0.668802
+Copper,31.0584,Gasterosteus aculeatus,Chronic,FISH,7440510,0.668802
+Copper,13,Hyalella azteca,Chronic,INVERT,7440510,0.668802
+Copper,150,Lecane hamata,Chronic,INVERT,7440510,0.668802
+Copper,20,Lecane luna,Chronic,INVERT,7440510,0.668802
+Copper,50,Lecane quadridentata,Chronic,INVERT,7440510,0.668802
+Copper,23.6223,Macrocystis pyrifera,Chronic,ALGAE,7440510,0.668802
+Copper,22.3592,Oncorhynchus kisutch,Chronic,FISH,7440510,0.668802
+Copper,21.271,Oncorhynchus mykiss,Chronic,FISH,7440510,0.668802
+Copper,11.7,Oncorhynchus tshawytscha,Chronic,FISH,7440510,0.668802
+Copper,8.94427,Oreochromis niloticus,Chronic,FISH,7440510,0.668802
+Copper,28300,Pimephales promelas,Chronic,FISH,7440510,0.668802
+Copper,66.5396,Raphidocelis subcapitata,Chronic,ALGAE,7440510,0.668802
+Copper,108.512,Salvelinus fontinalis,Chronic,FISH,7440510,0.668802
+Copper,2620,Scenedesmus acutus var. acutus,Chronic,ALGAE,7440510,0.668802
+Copper,13,Ulva pertusa,Chronic,ALGAE,7440510,0.668802
 Cupric oxide,20,Anabaena flos-aquae,Chronic,ALGAE,1317380,0.319261
 Cupric oxide,115,Ankistrodesmus falcatus,Chronic,ALGAE,1317380,0.319261
 Cupric oxide,32,Atherinops affinis,Chronic,FISH,1317380,0.319261
@@ -518,6 +539,17 @@ Fenitrothion,100,Raphidocelis subcapitata,Chronic,ALGAE,122145,0.516605
 Fenitrothion,158.114,Scenedesmus acutus,Chronic,ALGAE,122145,0.516605
 Fenitrothion,100,Scenedesmus acutus var. acutus,Chronic,ALGAE,122145,0.516605
 Fenitrothion,100,Staurastrum sp,Chronic,ALGAE,122145,0.516605
+Fipronil,0.005,Americamysis bahia,Chronic,INVERT,120068000,0.577424
+Fipronil,170,Anabaena flos-aquae,Chronic,ALGAE,120068000,0.577424
+Fipronil,60,Ceriodaphnia dubia,Chronic,INVERT,120068000,0.577424
+Fipronil,0.24,Cyprinodon variegatus,Chronic,FISH,120068000,0.577424
+Fipronil,9.6,Daphnia magna,Chronic,INVERT,120068000,0.577424
+Fipronil,30,Daphnia pulex,Chronic,INVERT,120068000,0.577424
+Fipronil,250,Dunaliella tertiolecta,Chronic,ALGAE,120068000,0.577424
+Fipronil,120,Navicula pelliculosa,Chronic,ALGAE,120068000,0.577424
+Fipronil,6.6,Oncorhynchus mykiss,Chronic,FISH,120068000,0.577424
+Fipronil,192,Pimephales promelas,Chronic,FISH,120068000,0.577424
+Fipronil,140,Skeletonema costatum,Chronic,ALGAE,120068000,0.577424
 Fluazinam,72,Anabaena flos-aquae,Chronic,ALGAE,79622600,0.349335
 Fluazinam,0.5,Chlorella pyrenoidosa,Chronic,ALGAE,79622600,0.349335
 Fluazinam,10,Chlorella vulgaris,Chronic,ALGAE,79622600,0.349335
@@ -669,6 +701,17 @@ Metalaxyl,9100,Pimephales promelas,Chronic,FISH,57837200,0.231928
 Metalaxyl,11892.1,Raphidocelis subcapitata,Chronic,ALGAE,57837200,0.231928
 Metalaxyl,5000,Scenedesmus acutus var. acutus,Chronic,ALGAE,57837200,0.231928
 Metalaxyl,2000,Scenedesmus quadricauda,Chronic,ALGAE,57837200,0.231928
+Methidathion,0.02,Americamysis bahia,Chronic,INVERT,950378,0.604146
+Methidathion,10000,Anabaena flos-aquae,Chronic,ALGAE,950378,0.604146
+Methidathion,2000,Chlorella pyrenoidosa,Chronic,ALGAE,950378,0.604146
+Methidathion,5000,Chlorella vulgaris,Chronic,ALGAE,950378,0.604146
+Methidathion,0.574456,Daphnia magna,Chronic,INVERT,950378,0.604146
+Methidathion,2000,Microcystis aeruginosa,Chronic,ALGAE,950378,0.604146
+Methidathion,5000,Microcystis flosaquae,Chronic,ALGAE,950378,0.604146
+Methidathion,6.23262,Pimephales promelas,Chronic,FISH,950378,0.604146
+Methidathion,500,Raphidocelis subcapitata,Chronic,ALGAE,950378,0.604146
+Methidathion,5000,Scenedesmus acutus var. acutus,Chronic,ALGAE,950378,0.604146
+Methidathion,5000,Scenedesmus quadricauda,Chronic,ALGAE,950378,0.604146
 Metolachlor,63,Anabaena flos-aquae,Chronic,ALGAE,51218500,0.370971
 Metolachlor,6250,Ceriodaphnia dubia,Chronic,INVERT,51218500,0.370971
 Metolachlor,7.4,Ceriodaphnia sp,Chronic,INVERT,51218500,0.370971
