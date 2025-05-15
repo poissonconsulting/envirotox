@@ -16,17 +16,18 @@ library(dplyr)
 library(EnvStats)
 library(mousetrap)
 
-
+## file <- "example.xlsx" This is the example data.
+file <- "envirotox.xlsx"
+path <- file.path("data-raw", file)
 
 #### 1. Prepare the example data set ----
 # This dataset "example.xlsx" includes 20,000 test records randomly selected from the "EnviroTox" database only for demonstration.
 # All the data used in this study was collected from the "EnviroTox" database and please contact the authors if you like to exactly reproduce our results.
 
 #import data
-EnviroTox_test <- read.xlsx("data-raw/envirotox.xlsx", sheet="test")
-EnviroTox_chem <- read.xlsx("data-raw/envirotox.xlsx", sheet="substance")
-EnviroTox_taxo <- read.xlsx("data-raw/envirotox.xlsx", sheet="taxonomy")
-
+EnviroTox_test <- read.xlsx(path, sheet="test")
+EnviroTox_chem <- read.xlsx(path, sheet="substance")
+EnviroTox_taxo <- read.xlsx(path, sheet="taxonomy")
 
 
 #### 2. Select and process the toxicity data ----
