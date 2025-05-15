@@ -5,14 +5,31 @@ date: '`r format(Sys.time(), "%Y-%m-%d", tz = "UTC")`'
 
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
-collapse = TRUE,
-comment = "#>"
+  collapse = TRUE,
+  comment = "#>"
 )
 ```
 
 ```{r setup}
 library(envirotox)
 library(ssdtools)
+
+top_model <- function(x) {
+  x |>
+    dplyr::group_by(Chemical) |>
+    dplyr::arrange(desc(wt)) |>
+    dplyr::slice(1) |>
+    dplyr::ungroup() |>
+    dplyr::count(dist) |>
+    dplyr::arrange(desc(n))
+}
+
+wt_model <- function(x) {
+  x |>
+    dplyr::group_by(dist) |>
+    dplyr::summarise(wt = mean(wt), .groups = "drop") |>
+    dplyr::arrange(desc(wt))
+}
 ```
 
 ```{r acute}
@@ -23,23 +40,16 @@ data <- envirotox::yanagihara_24_acute |>
   dplyr::nest_by(Chemical) |>
   dplyr::mutate(n = nrow(data), 
                 ssd_fit = list(ssd_fit_dists(data, dists = dists, at_boundary_ok = FALSE, computable = TRUE, silent = TRUE))) |>
- # dplyr::filter(hasName(ssd_fit, "burrIII")) |>
+  # dplyr::filter(hasName(ssd_fit, "burrIII")) |>
   dplyr::mutate(ssd_hc = list(ssd_hc(ssd_fit, average = FALSE))) |>
   tidyr::unnest(ssd_hc)
 
-data |>
-  dplyr::group_by(Chemical) |>
-  dplyr::arrange(desc(wt)) |>
-  dplyr::slice(1) |>
-  dplyr::ungroup() |>
-  dplyr::count(dist) |>
-  dplyr::arrange(desc(n)) |>
+data |> 
+  top_model() |>
   print()
 
 data |>
-  dplyr::group_by(dist) |>
-  dplyr::summarise(wt = mean(wt), .groups = "drop") |>
-  dplyr::arrange(desc(wt)) |>
+  wt_model() |>
   print()
 ```
 
@@ -50,23 +60,16 @@ data <- envirotox::yanagihara_24_acute |>
   dplyr::nest_by(Chemical) |>
   dplyr::mutate(n = nrow(data), 
                 ssd_fit = list(ssd_fit_dists(data, silent = TRUE))) |>
- # dplyr::filter(hasName(ssd_fit, "burrIII")) |>
+  # dplyr::filter(hasName(ssd_fit, "burrIII")) |>
   dplyr::mutate(ssd_hc = list(ssd_hc(ssd_fit, average = FALSE))) |>
   tidyr::unnest(ssd_hc)
 
-data |>
-  dplyr::group_by(Chemical) |>
-  dplyr::arrange(desc(wt)) |>
-  dplyr::slice(1) |>
-  dplyr::ungroup() |>
-  dplyr::count(dist) |>
-  dplyr::arrange(desc(n)) |>
+data |> 
+  top_model() |>
   print()
 
 data |>
-  dplyr::group_by(dist) |>
-  dplyr::summarise(wt = mean(wt), .groups = "drop") |>
-  dplyr::arrange(desc(wt)) |>
+  wt_model() |>
   print()
 ```
 
@@ -76,22 +79,15 @@ data <- envirotox::yanagihara_24_acute |>
   dplyr::nest_by(Chemical) |>
   dplyr::mutate(n = nrow(data), 
                 ssd_fit = list(ssd_fit_dists(data, silent = TRUE))) |>
- # dplyr::filter(hasName(ssd_fit, "burrIII")) |>
+  # dplyr::filter(hasName(ssd_fit, "burrIII")) |>
   dplyr::mutate(ssd_hc = list(ssd_hc(ssd_fit, average = FALSE))) |>
   tidyr::unnest(ssd_hc)
 
-data |>
-  dplyr::group_by(Chemical) |>
-  dplyr::arrange(desc(wt)) |>
-  dplyr::slice(1) |>
-  dplyr::ungroup() |>
-  dplyr::count(dist) |>
-  dplyr::arrange(desc(n)) |>
+data |> 
+  top_model() |>
   print()
 
 data |>
-  dplyr::group_by(dist) |>
-  dplyr::summarise(wt = mean(wt), .groups = "drop") |>
-  dplyr::arrange(desc(wt)) |>
+  wt_model() |>
   print()
 ```
