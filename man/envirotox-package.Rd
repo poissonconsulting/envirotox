@@ -8,6 +8,13 @@
 \description{
 Make alternative datasets from the Envirotox database available for testing species sensitivity distribution code. The datasets should not be used to make any conclusions about the toxicity of the chemicals in the database.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://poissonconsulting.github.io/envirotox/}
+}
+
+}
 \author{
 \strong{Maintainer}: Joe Thorley \email{joe@pissonconsulting.ca} (\href{https://orcid.org/0000-0002-7683-4592}{ORCID})
 

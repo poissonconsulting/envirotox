@@ -1,8 +1,10 @@
-#' Chronic Species Sensitivity Data as compiled by Yanagihara et al. (2024)
+#' Chronic Species Sensitivity Datasets including Yanagihara et al. (2024)
 #' 
-#' Chronic species sensitivity data from Envirotox (Connors et al. 2019) as worked up by Yanagihara et al. (2024).
-#' It is important to note that Yanagihara et al. (2024) 
-#' exclude datasets with a bimodality coefficient (BC) > 0.555.
+#' Envirotox (Connors et al. 2019) chronic species sensitivity datasets that 
+#' include those of Yanagihara et al. (2024).
+#' As far as we are aware the only difference is that the current datasets
+#' also include those with a bimodality coefficient (BC) > 0.555 as well as
+#' those that fail to converge with the BurrIII distribution.
 #' 
 #' The columns are as follows:
 #' 
@@ -13,6 +15,7 @@
 #'\item{Type}{'Acute' (chr).}
 #'\item{Group}{Acute (chr).}
 #'\item{Original_CAS}{Original CAS (chr).} 
+#'\item{BC}{Bimodality Coefficient for the Original CAS (chr).} 
 #' }
 #' @references
 #' Yanagihara, M., Hiki, K., and Iwasaki, Y. 2024. Which distribution to choose for deriving a species sensitivity distribution? Implications from analysis of acute and chronic ecotoxicity data. Ecotoxicology and environmental safety 278: 116379. doi:10.1016/j.ecoenv.2024.116379.

@@ -3,7 +3,7 @@
 \docType{data}
 \name{yanagihara_24_chronic}
 \alias{yanagihara_24_chronic}
-\title{Chronic Species Sensitivity Data as compiled by Yanagihara et al. (2024)}
+\title{Chronic Species Sensitivity Datasets including Yanagihara et al. (2024)}
 \format{
 An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 949 rows and 7 columns.
 }
@@ -11,9 +11,11 @@ An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) w
 yanagihara_24_chronic
 }
 \description{
-Chronic species sensitivity data from Envirotox (Connors et al. 2019) as worked up by Yanagihara et al. (2024).
-It is important to note that Yanagihara et al. (2024)
-exclude datasets with a bimodality coefficient (BC) > 0.555.
+Envirotox (Connors et al. 2019) chronic species sensitivity datasets that
+include those of Yanagihara et al. (2024).
+As far as we are aware the only difference is that the current datasets
+also include those with a bimodality coefficient (BC) > 0.555 as well as
+those that fail to converge with the BurrIII distribution.
 }
 \details{
 The columns are as follows:
@@ -25,6 +27,7 @@ The columns are as follows:
 \item{Type}{'Acute' (chr).}
 \item{Group}{Acute (chr).}
 \item{Original_CAS}{Original CAS (chr).}
+\item{BC}{Bimodality Coefficient for the Original CAS (chr).}
 }
 }
 \examples{
