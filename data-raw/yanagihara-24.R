@@ -23,9 +23,9 @@ library(mousetrap)
 # All the data used in this study was collected from the "EnviroTox" database and please contact the authors if you like to exactly reproduce our results.
 
 #import data
-EnviroTox_test <- read.xlsx("data-raw/example.xlsx", sheet="test")
-EnviroTox_chem <- read.xlsx("data-raw/example.xlsx", sheet="substance")
-EnviroTox_taxo <- read.xlsx("data-raw/example.xlsx", sheet="taxonomy")
+EnviroTox_test <- read.xlsx("data-raw/envirotox.xlsx", sheet="test")
+EnviroTox_chem <- read.xlsx("data-raw/envirotox.xlsx", sheet="substance")
+EnviroTox_taxo <- read.xlsx("data-raw/envirotox.xlsx", sheet="taxonomy")
 
 
 
