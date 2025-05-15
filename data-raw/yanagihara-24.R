@@ -84,21 +84,14 @@ BC_A <- EnviroTox_test_selected2 %>%
   filter(Test.type =="A") %>%
   group_by(original.CAS) %>%
   dplyr::summarize(BC = mousetrap::bimodality_coefficient(log10(Effect.value))) %>%
-  mutate(Bimodal = ifelse(BC >0.555, "Bimodal","Not bimodal") )
+  select(original.CAS, BC)
 
 # chronic data
 BC_C <- EnviroTox_test_selected2 %>%
   filter(Test.type =="C") %>%
   group_by(original.CAS) %>%
   dplyr::summarize(BC = mousetrap::bimodality_coefficient(log10(Effect.value))) %>%
-  mutate(Bimodal = ifelse(BC >0.555, "Bimodal","Not bimodal") )
-
-## BC's criteria: 0.555  (Freeman et al., 2013; Pfister et al. 2013)
-BC_CAS_A <- BC_A %>%
-  filter(Bimodal == "Not bimodal")
-BC_CAS_C <- BC_C %>%
-  filter(Bimodal == "Not bimodal")
-
+  select(original.CAS, BC)
 
 #### 3. Select chemicals to be analyzed ----
 ## Get the lists of chemicals to be used SSD estimation
@@ -107,34 +100,41 @@ BC_CAS_C <- BC_C %>%
 EnviroTox_ssd_HH_A <- EnviroTox_ssd %>%
   filter (No_trophic_Acute >= 3  ) %>%
   filter (No_species_Acute >= 10 ) %>%
-  filter (original.CAS %in% BC_CAS_A$original.CAS) %>%
-  separate (Substance, into=c("Short_name"), sep=";", extra="drop")
+  left_join(BC_A, by = "original.CAS") %>%
+  separate (Substance, into=c("Short_name"), sep=";", extra="drop") %>%
+  select(original.CAS, BC)
 
 EnviroTox_ssd_HH_C <- EnviroTox_ssd %>%
   filter (No_trophic_Chronic >= 3  ) %>%
   filter (No_species_Chronic >= 10 ) %>%
-  filter (original.CAS %in% BC_CAS_C$original.CAS) %>%
-  separate (Substance, into=c("Short_name"), sep=";", extra="drop")
+  left_join(BC_C, by = "original.CAS") %>%
+  separate (Substance, into=c("Short_name"), sep=";", extra="drop")  %>%
+  select(original.CAS, BC)
 
-## Lists of chemicals (CAS) to be examined
-StudyChemicals_A <- EnviroTox_ssd_HH_A$original.CAS
-StudyChemicals_C <- EnviroTox_ssd_HH_C$original.CAS
 
-yanagihara_24_acute <- EnviroTox_test_selected2 %>% filter(Test.type == "A" & original.CAS %in% StudyChemicals_A)
+yanagihara_24_acute <- EnviroTox_test_selected2 %>% 
+  filter(Test.type == "A") %>%
+  inner_join(EnviroTox_ssd_HH_A, by = "original.CAS")
 
-yanagihara_24_chronic <-  EnviroTox_test_selected2 %>% filter(Test.type == "C" & original.CAS %in% StudyChemicals_C)
+yanagihara_24_chronic <-  EnviroTox_test_selected2 %>% 
+  filter(Test.type == "C") %>%
+  inner_join(EnviroTox_ssd_HH_C, by = "original.CAS")
 
 yanagihara_24_acute %<>%
   ungroup() %>%
   mutate(Type = "Acute") %>%
-  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Type, Group = Trophic.Level, Original_CAS = original.CAS) %>%
-  as_tibble()
+  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Type, Group = Trophic.Level, Original_CAS = original.CAS, BC) %>%
+  as_tibble() %>%
+  filter(BC <= 0.555) %>%
+  select(!BC)
 
 yanagihara_24_chronic %<>%
   ungroup() %>%
   mutate(Type = "Chronic") %>%
-  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Type, Group = Trophic.Level, Original_CAS = original.CAS) %>%
-  as_tibble()
+  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Type, Group = Trophic.Level, Original_CAS = original.CAS, BC) %>%
+  as_tibble() %>%
+  filter(BC <= 0.555) %>%
+  select(!BC)
 
 chk::check_key(yanagihara_24_acute, c("Chemical", "Species"))
 chk::check_key(yanagihara_24_chronic, c("Chemical", "Species"))
