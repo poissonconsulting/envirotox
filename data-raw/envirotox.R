@@ -142,6 +142,7 @@ envirotox_chronic <- envirotox_chronic %>%
 envirotox_chemical <- envirotox_acute %>%
   bind_rows(envirotox_chronic) %>%
   distinct(Chemical, OriginalCAS) %>%
+  mutate(OriginalCAS = as.integer(OriginalCAS)) %>%
   arrange(Chemical)
 
 envirotox_acute <- envirotox_acute |>
