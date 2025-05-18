@@ -12,7 +12,6 @@
 #'\item{Chemical}{The chemical name (chr).}
 #'\item{Conc}{The chemical concentration in micrograms per litre (dbl).}
 #'\item{Species}{The species name (chr).}
-#'\item{Type}{'Acute' (chr).}
 #'\item{Group}{Acute (chr).}
 #'\item{Original_CAS}{Original CAS (chr).} 
 #'\item{BC}{Bimodality Coefficient for the Original CAS (chr).} 

@@ -128,7 +128,7 @@ envirotox_chronic <-  EnviroTox_test_selected2 %>%
 envirotox_acute %<>%
   ungroup() %>%
   mutate(Type = "Acute") %>%
-  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Type, Group = Trophic.Level, Original_CAS = original.CAS, Included, Bimodality) %>%
+  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Group = Trophic.Level, Original_CAS = original.CAS, Included, Bimodality) %>%
   as_tibble() %>%
   arrange(Chemical, Species) %>%
   filter(!(Chemical == "Acriflavine" & Original_CAS == 65589700 & !Included)) %>%
@@ -137,7 +137,7 @@ envirotox_acute %<>%
 envirotox_chronic %<>%
   ungroup() %>%
   mutate(Type = "Chronic") %>%
-  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Type, Group = Trophic.Level, Original_CAS = original.CAS, Included, Bimodality) %>%
+  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Group = Trophic.Level, Original_CAS = original.CAS, Included, Bimodality) %>%
   as_tibble() %>%
   arrange(Chemical, Species)
 

@@ -5,7 +5,7 @@
 \alias{envirotox_chronic}
 \title{Chronic Species Sensitivity Datasets}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 1721 rows and 8 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 1721 rows and 7 columns.
 }
 \usage{
 envirotox_chronic
@@ -24,7 +24,6 @@ The columns are as follows:
 \item{Chemical}{The chemical name (chr).}
 \item{Conc}{The chemical concentration in micrograms per litre (dbl).}
 \item{Species}{The species name (chr).}
-\item{Type}{'Acute' (chr).}
 \item{Group}{Acute (chr).}
 \item{Original_CAS}{Original CAS (chr).}
 \item{BC}{Bimodality Coefficient for the Original CAS (chr).}
