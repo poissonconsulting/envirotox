@@ -8,7 +8,6 @@
 #'  \item{Species}{Species name (chr).}
 #'  \item{Group}{Taxonomic group of species (chr).}
 #'  \item{Yanagihara24}{Whether the dataset fits the criteria of Yanagihara et al. (2024) (flag).}
-#'  \item{Bimodality}{The bimodality coefficient (dbl).}
 #' }
 #' @source <https://envirotoxdatabase.org/>
 #' @references
