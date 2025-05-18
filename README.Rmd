@@ -22,16 +22,12 @@ knitr::opts_chunk$set(
 
 The `envirotox` R data package provides Species Sensitivity Distribution (SSD) 
 datasets from the
-[Envirotox database](http://www.envirotoxdatabase.org/) (Connors et al. 2019).
+[Envirotox database](http://www.envirotoxdatabase.org/) 2.0.0 (Connors et al. 2019).
 
 The datasets are provided for assessing general patterns in SSD data and
 testing code.
 The datasets should not be used to draw any conclusions about the 
 toxicity of the individual chemicals.
-
-The package provides datasets of 
-acute (`envirotox_acute`) and chronic (`envirotox_chronic`) tests and 
-a reference dataset with the Original CAS numbers (`envirotox_chemical`).
 
 The data is aggregated based on the 
 [code](https://github.com/miinay/SSD_distribution_comparison/blob/main/Rcode.R) 
@@ -39,7 +35,8 @@ provided  by Yanagihara et al. (2024) with three exceptions:
 the datasets in the `envirotox` package also include datasets with 
 1) a binomial coefficient > 0.555, 
 2) between six and nine species; and 3) two groups. 
-A logical vector called `Yanagihara_2024` indicates which datasets are 
+
+A logical vector called `Yanagihara2024` indicates which datasets are 
 consistent with the criteria used by Yanagihara et al. (2024) which required 
 a binomial coefficient $<=$ 0.555, at least 10 species and three groups.
 
