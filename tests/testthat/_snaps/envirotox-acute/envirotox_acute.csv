@@ -1,4 +1,4 @@
-Chemical,Conc,Species,Group,Included,Bimodality
+Chemical,Conc,Species,Group,Yanagihara_24,Bimodality
 (+/-)-cis-Permethrin,0.36,Culex quinquefasciatus,INVERT,FALSE,0.306849
 (+/-)-cis-Permethrin,5,Cyprinodon macularius,FISH,FALSE,0.306849
 (+/-)-cis-Permethrin,13,Gambusia affinis,FISH,FALSE,0.306849
