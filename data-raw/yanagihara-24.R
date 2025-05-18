@@ -55,7 +55,8 @@ EnviroTox_test_selected2 <- aggregate(EnviroTox_test_selected$Effect.value,
   mutate (Substance=EnviroTox_chem[match (.$original.CAS, EnviroTox_chem$original.CAS) ,"Chemical.name"]) %>%
   separate (Substance, into=c("Short_name"),sep=";",extra="drop" )  %>%
   group_by(original.CAS,Test.type) %>% 
-  filter(n()>=6) 
+  filter(n()>=6) %>%
+  filter(var(Effect.value) > 0)
 
 
 ## Organize information of chemicals and the toxicity
@@ -100,7 +101,7 @@ BC_C <- EnviroTox_test_selected2 %>%
 
 ## No ofspecies >= 10 and No of trophic groups >= 3 and "Not bimodal"
 EnviroTox_ssd_HH_A <- EnviroTox_ssd %>%
-  filter (No_trophic_Acute >= 3  ) %>%
+  filter (No_trophic_Acute >= 2  ) %>%
   filter (No_species_Acute >= 6 ) %>%
   left_join(BC_A, by = "original.CAS") %>%
   separate (Substance, into=c("Short_name"), sep=";", extra="drop") %>%
@@ -108,7 +109,7 @@ EnviroTox_ssd_HH_A <- EnviroTox_ssd %>%
   select(original.CAS, Included, NumberOfSpecies = No_species_Acute, NumberOfGroups = No_trophic_Acute, Bimodality = BC)
 
 EnviroTox_ssd_HH_C <- EnviroTox_ssd %>%
-  filter (No_trophic_Chronic >= 3  ) %>%
+  filter (No_trophic_Chronic >= 2  ) %>%
   filter (No_species_Chronic >= 6 ) %>%
   left_join(BC_C, by = "original.CAS") %>%
   separate (Substance, into=c("Short_name"), sep=";", extra="drop")  %>%
@@ -129,8 +130,10 @@ yanagihara_24_acute %<>%
   mutate(Type = "Acute") %>%
   select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Type, Group = Trophic.Level, Original_CAS = original.CAS, Included, NumberOfSpecies, NumberOfGroups, Bimodality) %>%
   as_tibble() %>%
-  arrange(Chemical, Species)
-
+  arrange(Chemical, Species) %>%
+  filter(!(Chemical == "Acriflavine" & Original_CAS == 65589700 & !Included)) %>%
+  filter(!(Chemical == "Imidacloprid" & Original_CAS == 105827789 & !Included))
+  
 yanagihara_24_chronic %<>%
   ungroup() %>%
   mutate(Type = "Chronic") %>%

@@ -18,6 +18,35 @@ Chemical,Conc,Species,Type,Group,Original_CAS,Included,NumberOfSpecies,NumberOfG
 "1,4-Dichlorobenzene",734.847,Oryzias latipes,Chronic,FISH,106467,FALSE,7,3,0.324489
 "1,4-Dichlorobenzene",812.091,Pimephales promelas,Chronic,FISH,106467,FALSE,7,3,0.324489
 "1,4-Dichlorobenzene",3474.65,Raphidocelis subcapitata,Chronic,ALGAE,106467,FALSE,7,3,0.324489
+17alpha-Ethinylestradiol,0.296,Carassius auratus,Chronic,FISH,57636,FALSE,17,2,0.543645
+17alpha-Ethinylestradiol,339.346,Ceriodaphnia dubia,Chronic,INVERT,57636,FALSE,17,2,0.543645
+17alpha-Ethinylestradiol,0.00373678,Danio rerio,Chronic,FISH,57636,FALSE,17,2,0.543645
+17alpha-Ethinylestradiol,170.998,Daphnia magna,Chronic,INVERT,57636,FALSE,17,2,0.543645
+17alpha-Ethinylestradiol,0.02,Etheostoma caeruleum,Chronic,FISH,57636,FALSE,17,2,0.543645
+17alpha-Ethinylestradiol,0.0112001,Gasterosteus aculeatus,Chronic,FISH,57636,FALSE,17,2,0.543645
+17alpha-Ethinylestradiol,0.00108037,Gobiocypris rarus,Chronic,FISH,57636,FALSE,17,2,0.543645
+17alpha-Ethinylestradiol,0.0292116,Oncorhynchus mykiss,Chronic,FISH,57636,FALSE,17,2,0.543645
+17alpha-Ethinylestradiol,0.0162,Oreochromis niloticus,Chronic,FISH,57636,FALSE,17,2,0.543645
+17alpha-Ethinylestradiol,0.150747,Oryzias latipes,Chronic,FISH,57636,FALSE,17,2,0.543645
+17alpha-Ethinylestradiol,1,Pelteobagrus fulvidraco,Chronic,FISH,57636,FALSE,17,2,0.543645
+17alpha-Ethinylestradiol,0.00725101,Pimephales promelas,Chronic,FISH,57636,FALSE,17,2,0.543645
+17alpha-Ethinylestradiol,0.170998,Poecilia reticulata,Chronic,FISH,57636,FALSE,17,2,0.543645
+17alpha-Ethinylestradiol,0.00122904,Rutilus rutilus,Chronic,FISH,57636,FALSE,17,2,0.543645
+17alpha-Ethinylestradiol,0.0212452,Salmo trutta,Chronic,FISH,57636,FALSE,17,2,0.543645
+17alpha-Ethinylestradiol,0.373,Salvelinus namaycush,Chronic,FISH,57636,FALSE,17,2,0.543645
+17alpha-Ethinylestradiol,500,Sida crystallina,Chronic,INVERT,57636,FALSE,17,2,0.543645
+17beta-Estradiol,10,Brachionus calyciflorus,Chronic,INVERT,50282,FALSE,12,2,0.47088
+17beta-Estradiol,3162.28,Ceriodaphnia dubia,Chronic,INVERT,50282,FALSE,12,2,0.47088
+17beta-Estradiol,0.0505921,Danio rerio,Chronic,FISH,50282,FALSE,12,2,0.47088
+17beta-Estradiol,769.045,Daphnia magna,Chronic,INVERT,50282,FALSE,12,2,0.47088
+17beta-Estradiol,0.190365,Gambusia holbrooki,Chronic,FISH,50282,FALSE,12,2,0.47088
+17beta-Estradiol,0.00261156,Oncorhynchus mykiss,Chronic,FISH,50282,FALSE,12,2,0.47088
+17beta-Estradiol,0.0441177,Oryzias latipes,Chronic,FISH,50282,FALSE,12,2,0.47088
+17beta-Estradiol,10,Oryzias melastigma,Chronic,FISH,50282,FALSE,12,2,0.47088
+17beta-Estradiol,0.072009600000000007,Pimephales promelas,Chronic,FISH,50282,FALSE,12,2,0.47088
+17beta-Estradiol,0.223607,Poecilia reticulata,Chronic,FISH,50282,FALSE,12,2,0.47088
+17beta-Estradiol,0.097,Pomatoschistus minutus,Chronic,FISH,50282,FALSE,12,2,0.47088
+17beta-Estradiol,0.008,Salmo salar,Chronic,FISH,50282,FALSE,12,2,0.47088
 "2,4,6-Trinitrotoluene",820,Anabaena flos-aquae,Chronic,ALGAE,118967,FALSE,9,3,0.313288
 "2,4,6-Trinitrotoluene",2053.34,Brachionus calyciflorus,Chronic,INVERT,118967,FALSE,9,3,0.313288
 "2,4,6-Trinitrotoluene",1640,Ceriodaphnia dubia,Chronic,INVERT,118967,FALSE,9,3,0.313288
@@ -115,6 +144,12 @@ Chemical,Conc,Species,Type,Group,Original_CAS,Included,NumberOfSpecies,NumberOfG
 "3,4-Dichloroaniline",1000,Scenedesmus pannonicus,Chronic,ALGAE,95761,TRUE,23,3,0.309654
 "3,4-Dichloroaniline",1,Simocephalus vetulus,Chronic,INVERT,95761,TRUE,23,3,0.309654
 "3,4-Dichloroaniline",45,Tinca tinca,Chronic,FISH,95761,TRUE,23,3,0.309654
+"4,5-Dichloro-2-octyl-3(2H)-isothiazolone",2.8,Anabaena flos-aquae,Chronic,ALGAE,64359800,FALSE,6,2,0.225971
+"4,5-Dichloro-2-octyl-3(2H)-isothiazolone",27.1,Chlorella fusca var vacuolata,Chronic,ALGAE,64359800,FALSE,6,2,0.225971
+"4,5-Dichloro-2-octyl-3(2H)-isothiazolone",6,Cyprinodon variegatus,Chronic,FISH,64359800,FALSE,6,2,0.225971
+"4,5-Dichloro-2-octyl-3(2H)-isothiazolone",0.56,Oncorhynchus mykiss,Chronic,FISH,64359800,FALSE,6,2,0.225971
+"4,5-Dichloro-2-octyl-3(2H)-isothiazolone",7.5987,Raphidocelis subcapitata,Chronic,ALGAE,64359800,FALSE,6,2,0.225971
+"4,5-Dichloro-2-octyl-3(2H)-isothiazolone",10,Skeletonema costatum,Chronic,ALGAE,64359800,FALSE,6,2,0.225971
 4-Chlorophenol,30000,Brachionus calyciflorus,Chronic,INVERT,106489,FALSE,7,3,0.424687
 4-Chlorophenol,400,Ceriodaphnia dubia,Chronic,INVERT,106489,FALSE,7,3,0.424687
 4-Chlorophenol,873.929,Daphnia magna,Chronic,INVERT,106489,FALSE,7,3,0.424687
@@ -135,6 +170,18 @@ Chemical,Conc,Species,Type,Group,Original_CAS,Included,NumberOfSpecies,NumberOfG
 4-Nonylphenol,243,Polyarthra sp,Chronic,INVERT,104405,TRUE,13,3,0.279615
 4-Nonylphenol,694,Raphidocelis subcapitata,Chronic,ALGAE,104405,TRUE,13,3,0.279615
 4-Nonylphenol,76,Simocephalus sp,Chronic,INVERT,104405,TRUE,13,3,0.279615
+4-tert-Butylphenol,1000,Anabaena cylindrica,Chronic,ALGAE,98544,FALSE,12,2,0.187613
+4-tert-Butylphenol,5000,Ankistrodesmus sp,Chronic,ALGAE,98544,FALSE,12,2,0.187613
+4-tert-Butylphenol,1835.42,Chlamydomonas reinhardtii,Chronic,ALGAE,98544,FALSE,12,2,0.187613
+4-tert-Butylphenol,1982.37,Chlorella vulgaris,Chronic,ALGAE,98544,FALSE,12,2,0.187613
+4-tert-Butylphenol,1300.45,Daphnia magna,Chronic,INVERT,98544,FALSE,12,2,0.187613
+4-tert-Butylphenol,339.392,Neocaridina sp,Chronic,INVERT,98544,FALSE,12,2,0.187613
+4-tert-Butylphenol,1835.42,Nitzschia kuetzingiana,Chronic,ALGAE,98544,FALSE,12,2,0.187613
+4-tert-Butylphenol,1413.32,Philodina sp,Chronic,INVERT,98544,FALSE,12,2,0.187613
+4-tert-Butylphenol,1835.42,Raphidocelis subcapitata,Chronic,ALGAE,98544,FALSE,12,2,0.187613
+4-tert-Butylphenol,1421.1,Scenedesmus quadricauda,Chronic,ALGAE,98544,FALSE,12,2,0.187613
+4-tert-Butylphenol,1484.92,Stigeoclonium sp,Chronic,ALGAE,98544,FALSE,12,2,0.187613
+4-tert-Butylphenol,1484.92,Ulothrix sp,Chronic,ALGAE,98544,FALSE,12,2,0.187613
 5-Chloro-2-methyl-3(2H)-isothiazolone,250,Anabaena flos-aquae,Chronic,ALGAE,26172600,FALSE,7,3,0.335182
 5-Chloro-2-methyl-3(2H)-isothiazolone,180,Daphnia magna,Chronic,INVERT,26172600,FALSE,7,3,0.335182
 5-Chloro-2-methyl-3(2H)-isothiazolone,50,Oncorhynchus mykiss,Chronic,FISH,26172600,FALSE,7,3,0.335182
@@ -245,6 +292,12 @@ Atrazine,16.7583,Synechococcus elongatus,Chronic,ALGAE,1912250,TRUE,50,3,0.52301
 Atrazine,10.4,Synechococcus sp,Chronic,ALGAE,1912250,TRUE,50,3,0.523019
 Atrazine,14500,Tetrahymena pyriformis,Chronic,INVERT,1912250,TRUE,50,3,0.523019
 Atrazine,1000,Tolypothrix tenuis,Chronic,ALGAE,1912250,TRUE,50,3,0.523019
+Azinphos-methyl,0.02,Americamysis bahia,Chronic,INVERT,86500,FALSE,6,2,0.265692
+Azinphos-methyl,0.083,Cyprinodon variegatus,Chronic,FISH,86500,FALSE,6,2,0.265692
+Azinphos-methyl,0.25,Daphnia magna,Chronic,INVERT,86500,FALSE,6,2,0.265692
+Azinphos-methyl,1,Lepomis gibbosus,Chronic,FISH,86500,FALSE,6,2,0.265692
+Azinphos-methyl,0.32497,Oncorhynchus mykiss,Chronic,FISH,86500,FALSE,6,2,0.265692
+Azinphos-methyl,0.477539,Pimephales promelas,Chronic,FISH,86500,FALSE,6,2,0.265692
 Azoxystrobin,9.5,Americamysis bahia,Chronic,INVERT,131860000,FALSE,6,3,0.198518
 Azoxystrobin,9000,Anabaena flos-aquae,Chronic,ALGAE,131860000,FALSE,6,3,0.198518
 Azoxystrobin,0.026,Daphnia magna,Chronic,INVERT,131860000,FALSE,6,3,0.198518
@@ -409,6 +462,30 @@ Carbaryl,510,Scapholeberis sp,Chronic,INVERT,63252,TRUE,28,3,0.53276
 Carbaryl,200,Scenedesmus acutus var. acutus,Chronic,ALGAE,63252,TRUE,28,3,0.53276
 Carbaryl,500,Scenedesmus quadricauda,Chronic,ALGAE,63252,TRUE,28,3,0.53276
 Carbaryl,500,Synechococcus elongatus,Chronic,ALGAE,63252,TRUE,28,3,0.53276
+Carbendazim,3.3,Acroperus harpae,Chronic,INVERT,10605200,FALSE,24,2,0.315017
+Carbendazim,4800,Anabaena variabilis,Chronic,ALGAE,10605200,FALSE,24,2,0.315017
+Carbendazim,319,Asellus aquaticus,Chronic,INVERT,10605200,FALSE,24,2,0.315017
+Carbendazim,319,Asellus sp,Chronic,INVERT,10605200,FALSE,24,2,0.315017
+Carbendazim,92.1,Bithynia leachi,Chronic,INVERT,10605200,FALSE,24,2,0.315017
+Carbendazim,31.5,Bithynia sp,Chronic,INVERT,10605200,FALSE,24,2,0.315017
+Carbendazim,184.742,Bithynia tentaculata,Chronic,INVERT,10605200,FALSE,24,2,0.315017
+Carbendazim,100,Chlamydomonas sp,Chronic,ALGAE,10605200,FALSE,24,2,0.315017
+Carbendazim,6.61789,Daphnia magna,Chronic,INVERT,10605200,FALSE,24,2,0.315017
+Carbendazim,31,Gammarus pulex,Chronic,INVERT,10605200,FALSE,24,2,0.315017
+Carbendazim,31,Gammarus sp,Chronic,INVERT,10605200,FALSE,24,2,0.315017
+Carbendazim,330,Keratella quadrata,Chronic,INVERT,10605200,FALSE,24,2,0.315017
+Carbendazim,33.5,Lepadella patella,Chronic,INVERT,10605200,FALSE,24,2,0.315017
+Carbendazim,3.1,Lymnaea sp,Chronic,INVERT,10605200,FALSE,24,2,0.315017
+Carbendazim,40,Moina micrura,Chronic,INVERT,10605200,FALSE,24,2,0.315017
+Carbendazim,100,Monoraphidium sp,Chronic,ALGAE,10605200,FALSE,24,2,0.315017
+Carbendazim,4800,Nostoc muscorum,Chronic,ALGAE,10605200,FALSE,24,2,0.315017
+Carbendazim,3.1,Physa fontinalis,Chronic,INVERT,10605200,FALSE,24,2,0.315017
+Carbendazim,3.1,Physella acuta,Chronic,INVERT,10605200,FALSE,24,2,0.315017
+Carbendazim,226,Polyarthra sp,Chronic,INVERT,10605200,FALSE,24,2,0.315017
+Carbendazim,319,Proasellus coxalis,Chronic,INVERT,10605200,FALSE,24,2,0.315017
+Carbendazim,319,Proasellus meridianus,Chronic,INVERT,10605200,FALSE,24,2,0.315017
+Carbendazim,330,Scenedesmus acutus,Chronic,ALGAE,10605200,FALSE,24,2,0.315017
+Carbendazim,33.2491,Simocephalus vetulus,Chronic,INVERT,10605200,FALSE,24,2,0.315017
 Carbofuran,0.4,Americamysis bahia,Chronic,INVERT,1563660,TRUE,19,3,0.379201
 Carbofuran,2000,Anabaena flos-aquae,Chronic,ALGAE,1563660,TRUE,19,3,0.379201
 Carbofuran,1.3,Ceriodaphnia dubia,Chronic,INVERT,1563660,TRUE,19,3,0.379201
@@ -428,6 +505,12 @@ Carbofuran,111.408,Pimephales promelas,Chronic,FISH,1563660,TRUE,19,3,0.379201
 Carbofuran,447.214,Raphidocelis subcapitata,Chronic,ALGAE,1563660,TRUE,19,3,0.379201
 Carbofuran,200,Scenedesmus acutus var. acutus,Chronic,ALGAE,1563660,TRUE,19,3,0.379201
 Carbofuran,2000,Scenedesmus quadricauda,Chronic,ALGAE,1563660,TRUE,19,3,0.379201
+Carfentrazone-ethyl,2,Anabaena flos-aquae,Chronic,ALGAE,128639000,FALSE,6,2,0.21319
+Carfentrazone-ethyl,1000,Anabaena variabilis,Chronic,ALGAE,128639000,FALSE,6,2,0.21319
+Carfentrazone-ethyl,10000,Chlorella vulgaris,Chronic,ALGAE,128639000,FALSE,6,2,0.21319
+Carfentrazone-ethyl,100,Nostoc commune,Chronic,ALGAE,128639000,FALSE,6,2,0.21319
+Carfentrazone-ethyl,38.5102,Oncorhynchus mykiss,Chronic,FISH,128639000,FALSE,6,2,0.21319
+Carfentrazone-ethyl,8.37198,Raphidocelis subcapitata,Chronic,ALGAE,128639000,FALSE,6,2,0.21319
 Chlorothalonil,0.83,Americamysis bahia,Chronic,INVERT,1897460,TRUE,20,3,0.485647
 Chlorothalonil,1,Anabaena flos-aquae,Chronic,ALGAE,1897460,TRUE,20,3,0.485647
 Chlorothalonil,111.199,Ceriodaphnia dubia,Chronic,INVERT,1897460,TRUE,20,3,0.485647
@@ -647,6 +730,15 @@ Cybutryne,4,Oncorhynchus mykiss,Chronic,FISH,28160000,TRUE,16,3,0.506121
 Cybutryne,0.806226,Raphidocelis subcapitata,Chronic,ALGAE,28160000,TRUE,16,3,0.506121
 Cybutryne,0.14,Skeletonema costatum,Chronic,ALGAE,28160000,TRUE,16,3,0.506121
 Cybutryne,253,Synechococcus elongatus,Chronic,ALGAE,28160000,TRUE,16,3,0.506121
+Cymoxanil,180.555,Anabaena flos-aquae,Chronic,ALGAE,57967000,FALSE,9,2,0.501403
+Cymoxanil,2000,Chlorella pyrenoidosa,Chronic,ALGAE,57967000,FALSE,9,2,0.501403
+Cymoxanil,200,Chlorella vulgaris,Chronic,ALGAE,57967000,FALSE,9,2,0.501403
+Cymoxanil,500,Microcystis aeruginosa,Chronic,ALGAE,57967000,FALSE,9,2,0.501403
+Cymoxanil,1000,Microcystis flosaquae,Chronic,ALGAE,57967000,FALSE,9,2,0.501403
+Cymoxanil,0.98,Oncorhynchus mykiss,Chronic,FISH,57967000,FALSE,9,2,0.501403
+Cymoxanil,353.553,Raphidocelis subcapitata,Chronic,ALGAE,57967000,FALSE,9,2,0.501403
+Cymoxanil,2000,Scenedesmus acutus var. acutus,Chronic,ALGAE,57967000,FALSE,9,2,0.501403
+Cymoxanil,100,Scenedesmus quadricauda,Chronic,ALGAE,57967000,FALSE,9,2,0.501403
 Di(2-ethylhexyl) phthalate,400,Clarias gariepinus,Chronic,FISH,117817,FALSE,9,3,0.661897
 Di(2-ethylhexyl) phthalate,75.7929,Danio rerio,Chronic,FISH,117817,FALSE,9,3,0.661897
 Di(2-ethylhexyl) phthalate,227.141,Daphnia magna,Chronic,INVERT,117817,FALSE,9,3,0.661897
@@ -752,6 +844,27 @@ Endosulfan,0.113695,Oryzias latipes,Chronic,FISH,115297,TRUE,18,3,0.390873
 Endosulfan,0.2,Pimephales promelas,Chronic,FISH,115297,TRUE,18,3,0.390873
 Endosulfan,130,Raphidocelis subcapitata,Chronic,ALGAE,115297,TRUE,18,3,0.390873
 Endosulfan,50,Simocephalus exspinosus,Chronic,INVERT,115297,TRUE,18,3,0.390873
+Endothal-dipotassium,1110.37,Anabaena flos-aquae,Chronic,ALGAE,2164070,FALSE,7,2,0.43016
+Endothal-dipotassium,3600,Navicula pelliculosa,Chronic,ALGAE,2164070,FALSE,7,2,0.43016
+Endothal-dipotassium,7580,Oncorhynchus kisutch,Chronic,FISH,2164070,FALSE,7,2,0.43016
+Endothal-dipotassium,8782.08,Oncorhynchus mykiss,Chronic,FISH,2164070,FALSE,7,2,0.43016
+Endothal-dipotassium,7580,Oncorhynchus tshawytscha,Chronic,FISH,2164070,FALSE,7,2,0.43016
+Endothal-dipotassium,3800,Raphidocelis subcapitata,Chronic,ALGAE,2164070,FALSE,7,2,0.43016
+Endothal-dipotassium,9000,Skeletonema costatum,Chronic,ALGAE,2164070,FALSE,7,2,0.43016
+Esfenvalerate,3,Chydorus sp,Chronic,INVERT,66230000,FALSE,8,2,0.322332
+Esfenvalerate,0.0222551,Daphnia sp,Chronic,INVERT,66230000,FALSE,8,2,0.322332
+Esfenvalerate,0.0736806,Lepomis macrochirus,Chronic,FISH,66230000,FALSE,8,2,0.322332
+Esfenvalerate,0.0894427,Oncorhynchus tshawytscha,Chronic,FISH,66230000,FALSE,8,2,0.322332
+Esfenvalerate,5,Phoxinus eos,Chronic,FISH,66230000,FALSE,8,2,0.322332
+Esfenvalerate,0.072,Pimephales promelas,Chronic,FISH,66230000,FALSE,8,2,0.322332
+Esfenvalerate,0.948683,Scapholeberis sp,Chronic,INVERT,66230000,FALSE,8,2,0.322332
+Esfenvalerate,0.3,Simocephalus sp,Chronic,INVERT,66230000,FALSE,8,2,0.322332
+Ethanol,4978.66,Ceriodaphnia dubia,Chronic,INVERT,64175,FALSE,6,2,0.306137
+Ethanol,983.676,Daphnia magna,Chronic,INVERT,64175,FALSE,6,2,0.306137
+Ethanol,9600000,Dunaliella tertiolecta,Chronic,ALGAE,64175,FALSE,6,2,0.306137
+Ethanol,4100000,Pavlova lutheri,Chronic,ALGAE,64175,FALSE,6,2,0.306137
+Ethanol,3240000,Skeletonema costatum,Chronic,ALGAE,64175,FALSE,6,2,0.306137
+Ethanol,4990,Ulva pertusa,Chronic,ALGAE,64175,FALSE,6,2,0.306137
 Fenbutatin oxide,207.364,Anabaena flos-aquae,Chronic,ALGAE,13356100,TRUE,10,3,0.440951
 Fenbutatin oxide,100,Chlorella pyrenoidosa,Chronic,ALGAE,13356100,TRUE,10,3,0.440951
 Fenbutatin oxide,500,Chlorella vulgaris,Chronic,ALGAE,13356100,TRUE,10,3,0.440951
@@ -849,6 +962,13 @@ Flutolanil,530,Daphnia magna,Chronic,INVERT,66333000,FALSE,6,3,0.224547
 Flutolanil,800,Navicula pelliculosa,Chronic,ALGAE,66333000,FALSE,6,3,0.224547
 Flutolanil,233,Pimephales promelas,Chronic,FISH,66333000,FALSE,6,3,0.224547
 Flutolanil,8000,Raphidocelis subcapitata,Chronic,ALGAE,66333000,FALSE,6,3,0.224547
+Fonofos,0.052,Americamysis bahia,Chronic,INVERT,944229,FALSE,7,2,0.488588
+Fonofos,3.42,Chironomus riparius,Chronic,INVERT,944229,FALSE,7,2,0.488588
+Fonofos,2.7,Cyprinodon variegatus,Chronic,FISH,944229,FALSE,7,2,0.488588
+Fonofos,0.28,Daphnia magna,Chronic,INVERT,944229,FALSE,7,2,0.488588
+Fonofos,2.33,Lepomis macrochirus,Chronic,FISH,944229,FALSE,7,2,0.488588
+Fonofos,4.7,Oncorhynchus mykiss,Chronic,FISH,944229,FALSE,7,2,0.488588
+Fonofos,2.5,Pimephales promelas,Chronic,FISH,944229,FALSE,7,2,0.488588
 Gemfibrozil,156,Brachionus calyciflorus,Chronic,INVERT,25812300,FALSE,6,3,0.255555
 Gemfibrozil,78,Ceriodaphnia dubia,Chronic,INVERT,25812300,FALSE,6,3,0.255555
 Gemfibrozil,12500,Chlorella vulgaris,Chronic,ALGAE,25812300,FALSE,6,3,0.255555
@@ -928,6 +1048,16 @@ Halosulfuron-methyl,350,Navicula pelliculosa,Chronic,ALGAE,100784000,FALSE,6,3,0
 Halosulfuron-methyl,34000,Oncorhynchus mykiss,Chronic,FISH,100784000,FALSE,6,3,0.145649
 Halosulfuron-methyl,1.3,Raphidocelis subcapitata,Chronic,ALGAE,100784000,FALSE,6,3,0.145649
 Halosulfuron-methyl,400,Skeletonema costatum,Chronic,ALGAE,100784000,FALSE,6,3,0.145649
+Hexaconazole,1000,Anabaena flos-aquae,Chronic,ALGAE,79983700,FALSE,10,2,0.305862
+Hexaconazole,100,Chlorella pyrenoidosa,Chronic,ALGAE,79983700,FALSE,10,2,0.305862
+Hexaconazole,200,Chlorella vulgaris,Chronic,ALGAE,79983700,FALSE,10,2,0.305862
+Hexaconazole,375,Dunaliella tertiolecta,Chronic,ALGAE,79983700,FALSE,10,2,0.305862
+Hexaconazole,20,Microcystis aeruginosa,Chronic,ALGAE,79983700,FALSE,10,2,0.305862
+Hexaconazole,500,Microcystis flosaquae,Chronic,ALGAE,79983700,FALSE,10,2,0.305862
+Hexaconazole,600,Pimephales promelas,Chronic,FISH,79983700,FALSE,10,2,0.305862
+Hexaconazole,200,Raphidocelis subcapitata,Chronic,ALGAE,79983700,FALSE,10,2,0.305862
+Hexaconazole,200,Scenedesmus acutus var. acutus,Chronic,ALGAE,79983700,FALSE,10,2,0.305862
+Hexaconazole,100,Scenedesmus quadricauda,Chronic,ALGAE,79983700,FALSE,10,2,0.305862
 Hexazinone,150,Anabaena flos-aquae,Chronic,ALGAE,51235000,FALSE,7,3,0.332464
 Hexazinone,7.5,Danio rerio,Chronic,FISH,51235000,FALSE,7,3,0.332464
 Hexazinone,20000,Daphnia magna,Chronic,INVERT,51235000,FALSE,7,3,0.332464
@@ -1016,6 +1146,12 @@ Malathion,200,Pimephales promelas,Chronic,FISH,121755,TRUE,20,3,0.401371
 Malathion,1680,Ptychocheilus lucius,Chronic,FISH,121755,TRUE,20,3,0.401371
 Malathion,1200,Raphidocelis subcapitata,Chronic,ALGAE,121755,TRUE,20,3,0.401371
 Malathion,320,Scapholeberis sp,Chronic,INVERT,121755,TRUE,20,3,0.401371
+Maneb,1,Chlorella pyrenoidosa,Chronic,ALGAE,12427400,FALSE,6,2,0.174562
+Maneb,10,Chlorella vulgaris,Chronic,ALGAE,12427400,FALSE,6,2,0.174562
+Maneb,56,Oncorhynchus mykiss,Chronic,FISH,12427400,FALSE,6,2,0.174562
+Maneb,200,Raphidocelis subcapitata,Chronic,ALGAE,12427400,FALSE,6,2,0.174562
+Maneb,1000,Scenedesmus acutus var. acutus,Chronic,ALGAE,12427400,FALSE,6,2,0.174562
+Maneb,10,Scenedesmus quadricauda,Chronic,ALGAE,12427400,FALSE,6,2,0.174562
 Manganese lactate,4500,Chlorella vulgaris,Chronic,ALGAE,51877500,FALSE,7,3,0.363916
 Manganese lactate,3900,Daphnia magna,Chronic,INVERT,51877500,FALSE,7,3,0.363916
 Manganese lactate,830.662,Oncorhynchus mykiss,Chronic,FISH,51877500,FALSE,7,3,0.363916
@@ -1106,6 +1242,20 @@ Molinate,1700,Pseudanabaena galeata,Chronic,ALGAE,2212670,TRUE,18,3,0.282996
 Molinate,170,Raphidocelis subcapitata,Chronic,ALGAE,2212670,TRUE,18,3,0.282996
 Molinate,220,Scenedesmus acutus,Chronic,ALGAE,2212670,TRUE,18,3,0.282996
 Molinate,940,Skeletonema costatum,Chronic,ALGAE,2212670,TRUE,18,3,0.282996
+N-(Phosphonomethyl)glycine potassium salt (1:1),3650,Achnanthidium sp,Chronic,ALGAE,39600400,FALSE,14,2,0.563348
+N-(Phosphonomethyl)glycine potassium salt (1:1),5000,Brachionus caudatus,Chronic,INVERT,39600400,FALSE,14,2,0.563348
+N-(Phosphonomethyl)glycine potassium salt (1:1),2700,Brachionus plicatilis,Chronic,INVERT,39600400,FALSE,14,2,0.563348
+N-(Phosphonomethyl)glycine potassium salt (1:1),2645.75,Cephalodella paggiae,Chronic,INVERT,39600400,FALSE,14,2,0.563348
+N-(Phosphonomethyl)glycine potassium salt (1:1),600,Chydoridae,Chronic,INVERT,39600400,FALSE,14,2,0.563348
+N-(Phosphonomethyl)glycine potassium salt (1:1),5000,Euchlanis sp,Chronic,INVERT,39600400,FALSE,14,2,0.563348
+N-(Phosphonomethyl)glycine potassium salt (1:1),1400,Lecane closterocerca,Chronic,INVERT,39600400,FALSE,14,2,0.563348
+N-(Phosphonomethyl)glycine potassium salt (1:1),600,Lecane inermis,Chronic,INVERT,39600400,FALSE,14,2,0.563348
+N-(Phosphonomethyl)glycine potassium salt (1:1),600,Lepadella patella,Chronic,INVERT,39600400,FALSE,14,2,0.563348
+N-(Phosphonomethyl)glycine potassium salt (1:1),1272.79,Lepadella sp,Chronic,INVERT,39600400,FALSE,14,2,0.563348
+N-(Phosphonomethyl)glycine potassium salt (1:1),3650,Leptolyngbya sp,Chronic,ALGAE,39600400,FALSE,14,2,0.563348
+N-(Phosphonomethyl)glycine potassium salt (1:1),4260,Microcystis sp,Chronic,ALGAE,39600400,FALSE,14,2,0.563348
+N-(Phosphonomethyl)glycine potassium salt (1:1),5000,Platyias quadricornis,Chronic,INVERT,39600400,FALSE,14,2,0.563348
+N-(Phosphonomethyl)glycine potassium salt (1:1),5000,Trichocerca sp,Chronic,INVERT,39600400,FALSE,14,2,0.563348
 Nickel chloride,6.58269,Ceriodaphnia dubia,Chronic,INVERT,37211100,FALSE,8,3,0.192933
 Nickel chloride,366.284,Chlorella pyrenoidosa,Chronic,ALGAE,37211100,FALSE,8,3,0.192933
 Nickel chloride,50.3968,Danio rerio,Chronic,FISH,37211100,FALSE,8,3,0.192933
@@ -1139,6 +1289,14 @@ Oxytetracycline hydrochloride,50000,Oryzias latipes,Chronic,FISH,2058460,TRUE,12
 Oxytetracycline hydrochloride,377.809,Raphidocelis subcapitata,Chronic,ALGAE,2058460,TRUE,12,3,0.284479
 Oxytetracycline hydrochloride,250,Synechococcus leopoliensis,Chronic,ALGAE,2058460,TRUE,12,3,0.284479
 Oxytetracycline hydrochloride,250,Synechococcus sp,Chronic,ALGAE,2058460,TRUE,12,3,0.284479
+PFOS-K,250,Americamysis bahia,Chronic,INVERT,2795390,FALSE,8,2,0.253017
+PFOS-K,11,Anguilla anguilla,Chronic,FISH,2795390,FALSE,8,2,0.253017
+PFOS-K,68.2612,Chironomus tentans,Chronic,INVERT,2795390,FALSE,8,2,0.253017
+PFOS-K,56.3163,Danio rerio,Chronic,FISH,2795390,FALSE,8,2,0.253017
+PFOS-K,31.6228,Daphnia magna,Chronic,INVERT,2795390,FALSE,8,2,0.253017
+PFOS-K,20.3,Monoporeia affinis,Chronic,INVERT,2795390,FALSE,8,2,0.253017
+PFOS-K,287.196,Pimephales promelas,Chronic,FISH,2795390,FALSE,8,2,0.253017
+PFOS-K,100,Xiphophorus helleri,Chronic,FISH,2795390,FALSE,8,2,0.253017
 Paraquat dichloride,3.2,Anabaena flos-aquae,Chronic,ALGAE,1910420,TRUE,10,3,0.383393
 Paraquat dichloride,157.788,Chlamydomonas moewusii,Chronic,ALGAE,1910420,TRUE,10,3,0.383393
 Paraquat dichloride,20,Chlorella vulgaris,Chronic,ALGAE,1910420,TRUE,10,3,0.383393
@@ -1179,6 +1337,12 @@ Pentachlorophenol,74.3004,Pimephales promelas,Chronic,FISH,87865,TRUE,22,3,0.275
 Pentachlorophenol,40.7853,Raphidocelis subcapitata,Chronic,ALGAE,87865,TRUE,22,3,0.275228
 Pentachlorophenol,93.4141,Simocephalus vetulus,Chronic,INVERT,87865,TRUE,22,3,0.275228
 Pentachlorophenol,9,Skeletonema costatum,Chronic,ALGAE,87865,TRUE,22,3,0.275228
+Permethrin,0.003,Brachycentrus americanus,Chronic,INVERT,52645500,FALSE,6,2,0.185044
+Permethrin,0.05,Ceriodaphnia dubia,Chronic,INVERT,52645500,FALSE,6,2,0.185044
+Permethrin,10,Cyprinodon variegatus,Chronic,FISH,52645500,FALSE,6,2,0.185044
+Permethrin,0.129615,Daphnia magna,Chronic,INVERT,52645500,FALSE,6,2,0.185044
+Permethrin,0.652025,Pimephales promelas,Chronic,FISH,52645500,FALSE,6,2,0.185044
+Permethrin,1.6,Salvelinus fontinalis,Chronic,FISH,52645500,FALSE,6,2,0.185044
 Phenanthrene,5.55,Americamysis bahia,Chronic,INVERT,85018,FALSE,7,3,0.209387
 Phenanthrene,59.4886,Daphnia magna,Chronic,INVERT,85018,FALSE,7,3,0.209387
 Phenanthrene,2740,Desmodesmus subspicatus,Chronic,ALGAE,85018,FALSE,7,3,0.209387
@@ -1200,6 +1364,12 @@ Phenol,4000,Poecilia reticulata,Chronic,FISH,108952,TRUE,14,3,0.229156
 Phenol,15811.4,Raphidocelis subcapitata,Chronic,ALGAE,108952,TRUE,14,3,0.229156
 Phenol,5000,Salvelinus fontinalis,Chronic,FISH,108952,TRUE,14,3,0.229156
 Phenol,13000,Skeletonema costatum,Chronic,ALGAE,108952,TRUE,14,3,0.229156
+Picloram-potassium,390000,Anabaena flos-aquae,Chronic,ALGAE,2545600,FALSE,6,2,0.346305
+Picloram-potassium,970,Navicula pelliculosa,Chronic,ALGAE,2545600,FALSE,6,2,0.346305
+Picloram-potassium,974.995,Oncorhynchus mykiss,Chronic,FISH,2545600,FALSE,6,2,0.346305
+Picloram-potassium,13100,Raphidocelis subcapitata,Chronic,ALGAE,2545600,FALSE,6,2,0.346305
+Picloram-potassium,600,Salvelinus confluentus,Chronic,FISH,2545600,FALSE,6,2,0.346305
+Picloram-potassium,6700,Skeletonema costatum,Chronic,ALGAE,2545600,FALSE,6,2,0.346305
 Primisulfuron-methyl,55.4,Anabaena flos-aquae,Chronic,ALGAE,86209500,FALSE,6,3,0.268734
 Primisulfuron-methyl,410,Daphnia magna,Chronic,INVERT,86209500,FALSE,6,3,0.268734
 Primisulfuron-methyl,30.4,Navicula pelliculosa,Chronic,ALGAE,86209500,FALSE,6,3,0.268734
@@ -1303,6 +1473,15 @@ Sodium dodecyl sulfate,418,Limnephilus sp,Chronic,INVERT,151213,TRUE,12,3,0.3307
 Sodium dodecyl sulfate,1580,Mysidopsis intii,Chronic,INVERT,151213,TRUE,12,3,0.330786
 Sodium dodecyl sulfate,3252.69,Pimephales promelas,Chronic,FISH,151213,TRUE,12,3,0.330786
 Sodium dodecyl sulfate,1250,Ulva fasciata,Chronic,ALGAE,151213,TRUE,12,3,0.330786
+Sodium nitrate,30013,Ceriodaphnia dubia,Chronic,INVERT,7631990,FALSE,9,2,0.269193
+Sodium nitrate,25118.9,Coregonus clupeaformis,Chronic,FISH,7631990,FALSE,9,2,0.269193
+Sodium nitrate,2000,Ictalurus punctatus,Chronic,FISH,7631990,FALSE,9,2,0.269193
+Sodium nitrate,55300,Lampsilis fasciola,Chronic,INVERT,7631990,FALSE,9,2,0.269193
+Sodium nitrate,9500,Lampsilis siliquoidea,Chronic,INVERT,7631990,FALSE,9,2,0.269193
+Sodium nitrate,360899,Notropis topeka,Chronic,FISH,7631990,FALSE,9,2,0.269193
+Sodium nitrate,125000,Oryzias latipes,Chronic,FISH,7631990,FALSE,9,2,0.269193
+Sodium nitrate,303225,Pimephales promelas,Chronic,FISH,7631990,FALSE,9,2,0.269193
+Sodium nitrate,50297.3,Salvelinus namaycush,Chronic,FISH,7631990,FALSE,9,2,0.269193
 Sodium pentachlorophenate,244,Americamysis bahia,Chronic,INVERT,131522,TRUE,18,3,0.300854
 Sodium pentachlorophenate,9.8,Anabaena cylindrica,Chronic,ALGAE,131522,TRUE,18,3,0.300854
 Sodium pentachlorophenate,200,Anabaena flos-aquae,Chronic,ALGAE,131522,TRUE,18,3,0.300854
@@ -1527,6 +1706,13 @@ Zineb,74.8331,Oncorhynchus mykiss,Chronic,FISH,12122700,FALSE,9,3,0.532356
 Zineb,50,Raphidocelis subcapitata,Chronic,ALGAE,12122700,FALSE,9,3,0.532356
 Zineb,500,Scenedesmus acutus var. acutus,Chronic,ALGAE,12122700,FALSE,9,3,0.532356
 Zineb,50,Scenedesmus quadricauda,Chronic,ALGAE,12122700,FALSE,9,3,0.532356
+lambda-Cyhalothrin,0.1,Anuraeopsis fissa,Chronic,INVERT,91465100,FALSE,7,2,0.302241
+lambda-Cyhalothrin,0.025,Cyprinodon variegatus,Chronic,FISH,91465100,FALSE,7,2,0.302241
+lambda-Cyhalothrin,0.01,Daphnia galeata,Chronic,INVERT,91465100,FALSE,7,2,0.302241
+lambda-Cyhalothrin,0.008,Daphnia magna,Chronic,INVERT,91465100,FALSE,7,2,0.302241
+lambda-Cyhalothrin,0.1,Lecane lunaris,Chronic,INVERT,91465100,FALSE,7,2,0.302241
+lambda-Cyhalothrin,0.031,Pimephales promelas,Chronic,FISH,91465100,FALSE,7,2,0.302241
+lambda-Cyhalothrin,1,Tilapia sp,Chronic,FISH,91465100,FALSE,7,2,0.302241
 n-Nonylphenol,7.07107,Brachionus calyciflorus,Chronic,INVERT,25154500,FALSE,7,3,0.20562
 n-Nonylphenol,125,Ceriodaphnia dubia,Chronic,INVERT,25154500,FALSE,7,3,0.20562
 n-Nonylphenol,53.89,Daphnia magna,Chronic,INVERT,25154500,FALSE,7,3,0.20562
