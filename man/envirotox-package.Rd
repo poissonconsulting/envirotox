@@ -6,7 +6,7 @@
 \alias{envirotox-package}
 \title{envirotox: Envirotox Datasets}
 \description{
-Make alternative datasets from the Envirotox database available for testing species sensitivity distribution code. The datasets should not be used to make any conclusions about the toxicity of the chemicals in the database.
+The envirotox R data package provides Species Sensitivity Distribution (SSD) datasets from the Envirotox database (Connors et al. 2019). The datasets are provided for assessing general patterns in SSD data and testing code. The datasets should not be used to draw any conclusions about the toxicity of the individual chemicals.
 }
 \seealso{
 Useful links:

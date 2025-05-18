@@ -10,104 +10,47 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 [![R-CMD-check](https://github.com/poissonconsulting/envirotox/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/poissonconsulting/envirotox/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-The envirotox R data package makes Species Sensitivity Distribution
+The `envirotox` R data package provides Species Sensitivity Distribution
 (SSD) datasets from the [Envirotox
-database](http://www.envirotoxdatabase.org/) available for testing cod
+database](http://www.envirotoxdatabase.org/) (Connors et al. 2019).
 
-The datasets should not be used to make any conclusions about the
-toxicity of the chemicals in the database.
+The datasets are provided for assessing general patterns in SSD data and
+testing code. The datasets should not be used to draw any conclusions
+about the toxicity of the individual chemicals.
+
+The package provides datasets of acute (`envirotox_acute`) and chronic
+(`envirotox_chronic`) tests and a reference dataset with the Original
+CAS numbers (`envirotox_chemical`).
+
+The data is aggregated based on the
+[code](https://github.com/miinay/SSD_distribution_comparison/blob/main/Rcode.R)
+provided by Yanagihara et al. (2024) with three exceptions: the datasets
+in the `envirotox` package also include datasets with 1) a binomial
+coefficient \> 0.555, 2) between six and nine species; and 3) two
+groups. A logical vector called `Yanagihara_2024` indicates which
+datasets are consistent with the criteria used by Yanagihara et
+al. (2024) which required a binomial coefficient $<=$ 0.555, at least 10
+species and three groups.
 
 ## Installation
 
 To install the most recent version from
-[GitHub](https://github.com/poissonconsulting/flobr)
+[GitHub](https://github.com/poissonconsulting/envirotox)
 
 ``` r
-# install.packages("remotes")
-remotes::install_github("poissonconsulting/flobr")
+# install.packages("pak")
+pak::pak("poissonconsulting/envirotox")
 ```
 
-## Demonstration
+## References
 
-``` r
-library(envirotox)
-library(ssdtools)
-library(dplyr)
-#> 
-#> Attaching package: 'dplyr'
-#> The following objects are masked from 'package:stats':
-#> 
-#>     filter, lag
-#> The following objects are masked from 'package:base':
-#> 
-#>     intersect, setdiff, setequal, union
-library(tidyr)
+Connors, K.A., Beasley, A., Barron, M.G., Belanger, S.E., Bonnell, M.,
+Brill, J.L., de Zwart, D., Kienzler, A., Krailler, J., Otter, R.,
+Phillips, J.L., and Embry, M.R. 2019. Creation of a Curated Aquatic
+Toxicology Database: EnviroTox. Enviro Toxic and Chemistry 38(5):
+1062–1073. <doi:10.1002/etc.4382>.
 
-data <- envirotox::yanagihara_24_acute
-
-data |>
-  count(Chemical) |>
-  pull(n) |>
-  summary() |>
-  print()
-#>    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-#>    6.00    7.00   11.00   20.51   19.00  396.00
-
-data <- data |>
-  dplyr::nest_by(Chemical) |>
-  dplyr::mutate(n = nrow(data), 
-                ssd_fit = list(ssd_fit_dists(data, silent = TRUE)),
-                ssd_hc = list(ssd_hc(ssd_fit, average = FALSE))) |>
-  tidyr::unnest(ssd_hc) |>
-  print()
-#> # A tibble: 3,475 × 15
-#> # Groups:   Chemical [729]
-#>    Chemical     data     n ssd_fit    dist  proportion     est    se   lcl   ucl
-#>    <chr>     <list<> <int> <list>     <chr>      <dbl>   <dbl> <dbl> <dbl> <dbl>
-#>  1 (+/-)-ci… [6 × 9]     6 <fitdists> gamma       0.05   0.435    NA    NA    NA
-#>  2 (+/-)-ci… [6 × 9]     6 <fitdists> lgum…       0.05   0.490    NA    NA    NA
-#>  3 (+/-)-ci… [6 × 9]     6 <fitdists> llog…       0.05   0.765    NA    NA    NA
-#>  4 (+/-)-ci… [6 × 9]     6 <fitdists> lnorm       0.05   0.588    NA    NA    NA
-#>  5 (+/-)-ci… [6 × 9]     6 <fitdists> weib…       0.05   0.499    NA    NA    NA
-#>  6 (2R,6S)-… [6 × 9]     6 <fitdists> gamma       0.05 208.       NA    NA    NA
-#>  7 (2R,6S)-… [6 × 9]     6 <fitdists> lgum…       0.05 255.       NA    NA    NA
-#>  8 (2R,6S)-… [6 × 9]     6 <fitdists> llog…       0.05 235.       NA    NA    NA
-#>  9 (2R,6S)-… [6 × 9]     6 <fitdists> lnorm       0.05 243.       NA    NA    NA
-#> 10 (2R,6S)-… [6 × 9]     6 <fitdists> weib…       0.05 226.       NA    NA    NA
-#> # ℹ 3,465 more rows
-#> # ℹ 5 more variables: wt <dbl>, method <chr>, nboot <int>, pboot <dbl>,
-#> #   samples <I<list>>
-
-data |>
-  dplyr::group_by(Chemical) |>
-  dplyr::arrange(desc(wt)) |>
-  dplyr::slice(1) |>
-  dplyr::ungroup() |>
-  dplyr::count(dist) |>
-  dplyr::arrange(desc(n)) |>
-  print()
-#> # A tibble: 6 × 2
-#>   dist            n
-#>   <chr>       <int>
-#> 1 weibull       177
-#> 2 lgumbel       161
-#> 3 gamma         149
-#> 4 lnorm         115
-#> 5 lnorm_lnorm    89
-#> 6 llogis         38
-
-data |>
-  dplyr::group_by(dist) |>
-  dplyr::summarise(wt = mean(wt), .groups = "drop") |>
-  dplyr::arrange(desc(wt)) |>
-  print()
-#> # A tibble: 6 × 2
-#>   dist           wt
-#>   <chr>       <dbl>
-#> 1 lnorm_lnorm 0.287
-#> 2 gamma       0.236
-#> 3 weibull     0.230
-#> 4 lgumbel     0.202
-#> 5 lnorm       0.186
-#> 6 llogis      0.162
-```
+Yanagihara, M., Hiki, K., and Iwasaki, Y. 2024. Which distribution to
+choose for deriving a species sensitivity distribution? Implications
+from analysis of acute and chronic ecotoxicity data. Ecotoxicology and
+environmental safety 278: 116379. <doi:10.1016/j.ecoenv.2024.116379>.
