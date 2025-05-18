@@ -1,5 +1,5 @@
 #' Envirotox Chemical Data
-#' 
+#'
 #' @format ## `envirotox_chemical`
 #' A data frame with 744 rows and 2 columns:
 #' \describe{
@@ -8,7 +8,7 @@
 #' }
 #' @source <https://envirotoxdatabase.org/>
 #' @examples
-#' 
+#'
 #' head(envirotox_chemical)
-#' 
+#'
 "envirotox_chemical"
