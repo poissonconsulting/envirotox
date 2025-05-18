@@ -106,7 +106,7 @@ EnviroTox_ssd_HH_A <- EnviroTox_ssd %>%
   left_join(BC_A, by = "original.CAS") %>%
   separate (Substance, into=c("Short_name"), sep=";", extra="drop") %>%
   mutate(Included = No_species_Acute >= 10 & No_trophic_Acute >= 3 & BC <= 0.555) %>%
-  select(original.CAS, Included, NumberOfSpecies = No_species_Acute, NumberOfGroups = No_trophic_Acute, Bimodality = BC)
+  select(original.CAS, Included, Bimodality = BC)
 
 EnviroTox_ssd_HH_C <- EnviroTox_ssd %>%
   filter (No_trophic_Chronic >= 2  ) %>%
@@ -114,7 +114,7 @@ EnviroTox_ssd_HH_C <- EnviroTox_ssd %>%
   left_join(BC_C, by = "original.CAS") %>%
   separate (Substance, into=c("Short_name"), sep=";", extra="drop")  %>%
   mutate(Included = No_species_Chronic >= 10 & No_trophic_Chronic >= 3, BC <= 0.555) %>%
-  select(original.CAS, Included, NumberOfSpecies = No_species_Chronic, NumberOfGroups = No_trophic_Chronic, Bimodality = BC)
+  select(original.CAS, Included, Bimodality = BC)
 
 
 envirotox_acute <- EnviroTox_test_selected2 %>% 
@@ -128,7 +128,7 @@ envirotox_chronic <-  EnviroTox_test_selected2 %>%
 envirotox_acute %<>%
   ungroup() %>%
   mutate(Type = "Acute") %>%
-  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Type, Group = Trophic.Level, Original_CAS = original.CAS, Included, NumberOfSpecies, NumberOfGroups, Bimodality) %>%
+  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Type, Group = Trophic.Level, Original_CAS = original.CAS, Included, Bimodality) %>%
   as_tibble() %>%
   arrange(Chemical, Species) %>%
   filter(!(Chemical == "Acriflavine" & Original_CAS == 65589700 & !Included)) %>%
@@ -137,7 +137,7 @@ envirotox_acute %<>%
 envirotox_chronic %<>%
   ungroup() %>%
   mutate(Type = "Chronic") %>%
-  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Type, Group = Trophic.Level, Original_CAS = original.CAS, Included, NumberOfSpecies, NumberOfGroups, Bimodality) %>%
+  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Type, Group = Trophic.Level, Original_CAS = original.CAS, Included, Bimodality) %>%
   as_tibble() %>%
   arrange(Chemical, Species)
 

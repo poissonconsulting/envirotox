@@ -5,7 +5,7 @@
 \alias{envirotox_chronic}
 \title{Chronic Species Sensitivity Datasets}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 1721 rows and 10 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 1721 rows and 8 columns.
 }
 \usage{
 envirotox_chronic

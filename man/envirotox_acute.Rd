@@ -5,7 +5,7 @@
 \alias{envirotox_acute}
 \title{Acute Species Sensitivity Datasetsb}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 14949 rows and 10 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 14949 rows and 8 columns.
 }
 \usage{
 envirotox_acute
