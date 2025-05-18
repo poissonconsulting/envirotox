@@ -105,16 +105,16 @@ EnviroTox_ssd_HH_A <- EnviroTox_ssd %>%
   filter (No_species_Acute >= 6 ) %>%
   left_join(BC_A, by = "original.CAS") %>%
   separate (Substance, into=c("Short_name"), sep=";", extra="drop") %>%
-  mutate(Yanagihara_24 = No_species_Acute >= 10 & No_trophic_Acute >= 3 & BC <= 0.555) %>%
-  select(original.CAS, Yanagihara_24, Bimodality = BC)
+  mutate(Yanagihara24 = No_species_Acute >= 10 & No_trophic_Acute >= 3 & BC <= 0.555) %>%
+  select(original.CAS, Yanagihara24, Bimodality = BC)
 
 EnviroTox_ssd_HH_C <- EnviroTox_ssd %>%
   filter (No_trophic_Chronic >= 2  ) %>%
   filter (No_species_Chronic >= 6 ) %>%
   left_join(BC_C, by = "original.CAS") %>%
   separate (Substance, into=c("Short_name"), sep=";", extra="drop")  %>%
-  mutate(Yanagihara_24 = No_species_Chronic >= 10 & No_trophic_Chronic >= 3, BC <= 0.555) %>%
-  select(original.CAS, Yanagihara_24, Bimodality = BC)
+  mutate(Yanagihara24 = No_species_Chronic >= 10 & No_trophic_Chronic >= 3, BC <= 0.555) %>%
+  select(original.CAS, Yanagihara24, Bimodality = BC)
 
 
 envirotox_acute <- EnviroTox_test_selected2 %>% 
@@ -127,14 +127,14 @@ envirotox_chronic <-  EnviroTox_test_selected2 %>%
 
 envirotox_acute <- envirotox_acute %>%
   ungroup() %>%
-  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Group = Trophic.Level, OriginalCAS = original.CAS, Yanagihara_24, Bimodality) %>%
+  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Group = Trophic.Level, OriginalCAS = original.CAS, Yanagihara24, Bimodality) %>%
   as_tibble() %>%
-  filter(!(Chemical == "Acriflavine" & OriginalCAS == 65589700 & !Yanagihara_24)) %>%
-  filter(!(Chemical == "Imidacloprid" & OriginalCAS == 105827789 & !Yanagihara_24))
+  filter(!(Chemical == "Acriflavine" & OriginalCAS == 65589700 & !Yanagihara24)) %>%
+  filter(!(Chemical == "Imidacloprid" & OriginalCAS == 105827789 & !Yanagihara24))
   
 envirotox_chronic <- envirotox_chronic %>%
   ungroup() %>%
-  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Group = Trophic.Level, OriginalCAS = original.CAS, Yanagihara_24, Bimodality) %>%
+  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Group = Trophic.Level, OriginalCAS = original.CAS, Yanagihara24, Bimodality) %>%
   as_tibble() 
 
 envirotox_chemical <- envirotox_acute %>%
