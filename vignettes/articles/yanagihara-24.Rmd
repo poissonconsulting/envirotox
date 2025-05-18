@@ -59,7 +59,8 @@ data <- envirotox::yanagihara_24_acute |>
   dplyr::mutate(ssd_fit = list(ssd_fit_dists(data, dists = dists, at_boundary_ok = FALSE, computable = TRUE, silent = TRUE))) |>
   dplyr::filter(length(ssd_fit) == length(dists)) |>
   dplyr::mutate(ssd_hc = list(ssd_hc(ssd_fit, average = FALSE, delta = Inf)),
-                ssd_av = list(ssd_hc(ssd_fit, average = TRUE, delta = Inf)))
+                ssd_av = list(ssd_hc(ssd_fit, average = TRUE, delta = Inf))) |>
+  dplyr::mutate(n = nrow(data))
 
 data |> 
   top_model() |>

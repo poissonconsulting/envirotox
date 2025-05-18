@@ -8,6 +8,8 @@
 #3. Select chemicals to be analyzed
 ############################################################
 
+graphics.off()
+rm(list = ls())
 
 #### 0. Package ----
 library(openxlsx)
@@ -102,16 +104,16 @@ EnviroTox_ssd_HH_A <- EnviroTox_ssd %>%
   filter (No_species_Acute >= 6 ) %>%
   left_join(BC_A, by = "original.CAS") %>%
   separate (Substance, into=c("Short_name"), sep=";", extra="drop") %>%
-  mutate(Included = No_species_Acute >= 10 & BC <= 0.555) %>%
-  select(original.CAS, BC, Included)
+  mutate(Included = No_species_Acute >= 10 & No_trophic_Acute >= 3 & BC <= 0.555) %>%
+  select(original.CAS, Included, NumberOfSpecies = No_species_Acute, NumberOfGroups = No_trophic_Acute, Bimodality = BC)
 
 EnviroTox_ssd_HH_C <- EnviroTox_ssd %>%
   filter (No_trophic_Chronic >= 3  ) %>%
   filter (No_species_Chronic >= 6 ) %>%
   left_join(BC_C, by = "original.CAS") %>%
   separate (Substance, into=c("Short_name"), sep=";", extra="drop")  %>%
-  mutate(Included = No_species_Chronic >= 10 & BC <= 0.555) %>%
-  select(original.CAS, BC, Included)
+  mutate(Included = No_species_Chronic >= 10 & No_trophic_Chronic >= 3, BC <= 0.555) %>%
+  select(original.CAS, Included, NumberOfSpecies = No_species_Chronic, NumberOfGroups = No_trophic_Chronic, Bimodality = BC)
 
 
 yanagihara_24_acute <- EnviroTox_test_selected2 %>% 
@@ -125,14 +127,14 @@ yanagihara_24_chronic <-  EnviroTox_test_selected2 %>%
 yanagihara_24_acute %<>%
   ungroup() %>%
   mutate(Type = "Acute") %>%
-  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Type, Group = Trophic.Level, Original_CAS = original.CAS, Included, BC) %>%
+  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Type, Group = Trophic.Level, Original_CAS = original.CAS, Included, NumberOfSpecies, NumberOfGroups, Bimodality) %>%
   as_tibble() %>%
   arrange(Chemical, Species)
 
 yanagihara_24_chronic %<>%
   ungroup() %>%
   mutate(Type = "Chronic") %>%
-  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Type, Group = Trophic.Level, Original_CAS = original.CAS, Included, BC) %>%
+  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Type, Group = Trophic.Level, Original_CAS = original.CAS, Included, NumberOfSpecies, NumberOfGroups, Bimodality) %>%
   as_tibble() %>%
   arrange(Chemical, Species)
 
