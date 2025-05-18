@@ -129,15 +129,13 @@ envirotox_acute <- envirotox_acute %>%
   ungroup() %>%
   select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Group = Trophic.Level, OriginalCAS = original.CAS, Yanagihara_24, Bimodality) %>%
   as_tibble() %>%
-  arrange(Chemical, Species) %>%
   filter(!(Chemical == "Acriflavine" & OriginalCAS == 65589700 & !Yanagihara_24)) %>%
   filter(!(Chemical == "Imidacloprid" & OriginalCAS == 105827789 & !Yanagihara_24))
   
 envirotox_chronic <- envirotox_chronic %>%
   ungroup() %>%
   select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Group = Trophic.Level, OriginalCAS = original.CAS, Yanagihara_24, Bimodality) %>%
-  as_tibble() %>%
-  arrange(Chemical, Species)
+  as_tibble() 
 
 envirotox_chemical <- envirotox_acute %>%
   bind_rows(envirotox_chronic) %>%
@@ -146,10 +144,12 @@ envirotox_chemical <- envirotox_acute %>%
   arrange(Chemical)
 
 envirotox_acute <- envirotox_acute |>
-  select(!OriginalCAS)
+  select(!OriginalCAS) %>%
+  arrange(Chemical, Species)
 
 envirotox_chronic <- envirotox_chronic |>
-  select(!OriginalCAS)
+  select(!OriginalCAS) %>%
+  arrange(Chemical, Species)
 
 chk::check_key(envirotox_acute, c("Chemical", "Species"))
 chk::check_key(envirotox_chronic, c("Chemical", "Species"))

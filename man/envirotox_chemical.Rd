@@ -3,28 +3,29 @@
 \docType{data}
 \name{envirotox_chemical}
 \alias{envirotox_chemical}
-\title{Species Sensitivity Chemical Data}
+\title{Envirotox Chemical Data}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 744 rows and 2 columns.
+\subsection{\code{envirotox_chemical}}{
+
+A data frame with 744 rows and 2 columns:
+\describe{
+\item{Chemical}{Chemical name (chr)}
+\item{OriginalCAS}{Original Chemical Abstracts Service Registry Number (int)}
+}
+}
+}
+\source{
+\url{https://envirotoxdatabase.org/}
 }
 \usage{
 envirotox_chemical
 }
 \description{
-The columns are as follows:
-}
-\details{
-\describe{
-\item{Chemical}{The chemical name (chr).}
-\item{Original_CAS}{Original CAS (chr).}
-}
+Envirotox Chemical Data
 }
 \examples{
 
-head(envirotox_chronic)
+head(envirotox_chemical)
 
-}
-\references{
-Connors, K.A., Beasley, A., Barron, M.G., Belanger, S.E., Bonnell, M., Brill, J.L., de Zwart, D., Kienzler, A., Krailler, J., Otter, R., Phillips, J.L., and Embry, M.R. 2019. Creation of a Curated Aquatic Toxicology Database: EnviroTox. Enviro Toxic and Chemistry 38(5): 1062–1073. doi:10.1002/etc.4382.
 }
 \keyword{datasets}
