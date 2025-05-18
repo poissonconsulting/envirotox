@@ -125,7 +125,7 @@ envirotox_chronic <-  EnviroTox_test_selected2 %>%
   filter(Test.type == "C") %>%
   inner_join(EnviroTox_ssd_HH_C, by = "original.CAS")
 
-envirotox_acute %<>%
+envirotox_acute <- envirotox_acute %>%
   ungroup() %>%
   select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Group = Trophic.Level, OriginalCAS = original.CAS, Included, Bimodality) %>%
   as_tibble() %>%
@@ -133,7 +133,7 @@ envirotox_acute %<>%
   filter(!(Chemical == "Acriflavine" & OriginalCAS == 65589700 & !Included)) %>%
   filter(!(Chemical == "Imidacloprid" & OriginalCAS == 105827789 & !Included))
   
-envirotox_chronic %<>%
+envirotox_chronic <- envirotox_chronic %>%
   ungroup() %>%
   select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Group = Trophic.Level, OriginalCAS = original.CAS, Included, Bimodality) %>%
   as_tibble() %>%
