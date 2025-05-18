@@ -2,7 +2,7 @@ pandoc: 3.1.11
 pkgdown: 2.1.2
 pkgdown_sha: ~
 articles: {}
-last_built: 2025-05-18T05:07Z
+last_built: 2025-05-18T05:10Z
 urls:
   reference: https://poissonconsulting.github.io/envirotox/reference
   article: https://poissonconsulting.github.io/envirotox/articles
