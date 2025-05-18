@@ -117,15 +117,15 @@ EnviroTox_ssd_HH_C <- EnviroTox_ssd %>%
   select(original.CAS, Included, NumberOfSpecies = No_species_Chronic, NumberOfGroups = No_trophic_Chronic, Bimodality = BC)
 
 
-yanagihara_24_acute <- EnviroTox_test_selected2 %>% 
+envirotox_acute <- EnviroTox_test_selected2 %>% 
   filter(Test.type == "A") %>%
   inner_join(EnviroTox_ssd_HH_A, by = "original.CAS")
 
-yanagihara_24_chronic <-  EnviroTox_test_selected2 %>% 
+envirotox_chronic <-  EnviroTox_test_selected2 %>% 
   filter(Test.type == "C") %>%
   inner_join(EnviroTox_ssd_HH_C, by = "original.CAS")
 
-yanagihara_24_acute %<>%
+envirotox_acute %<>%
   ungroup() %>%
   mutate(Type = "Acute") %>%
   select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Type, Group = Trophic.Level, Original_CAS = original.CAS, Included, NumberOfSpecies, NumberOfGroups, Bimodality) %>%
@@ -134,15 +134,15 @@ yanagihara_24_acute %<>%
   filter(!(Chemical == "Acriflavine" & Original_CAS == 65589700 & !Included)) %>%
   filter(!(Chemical == "Imidacloprid" & Original_CAS == 105827789 & !Included))
   
-yanagihara_24_chronic %<>%
+envirotox_chronic %<>%
   ungroup() %>%
   mutate(Type = "Chronic") %>%
   select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Type, Group = Trophic.Level, Original_CAS = original.CAS, Included, NumberOfSpecies, NumberOfGroups, Bimodality) %>%
   as_tibble() %>%
   arrange(Chemical, Species)
 
-chk::check_key(yanagihara_24_acute, c("Chemical", "Species"))
-chk::check_key(yanagihara_24_chronic, c("Chemical", "Species"))
+chk::check_key(envirotox_acute, c("Chemical", "Species"))
+chk::check_key(envirotox_chronic, c("Chemical", "Species"))
 
-usethis::use_data(yanagihara_24_acute, overwrite = TRUE)
-usethis::use_data(yanagihara_24_chronic, overwrite = TRUE)
+usethis::use_data(envirotox_acute, overwrite = TRUE)
+usethis::use_data(envirotox_chronic, overwrite = TRUE)
