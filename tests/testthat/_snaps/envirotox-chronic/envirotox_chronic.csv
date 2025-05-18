@@ -1,1722 +1,1722 @@
 Chemical,Conc,Species,Group,Yanagihara24
-"1,2,4-Trichlorobenzene",85.397,Americamysis bahia,INVERT,FALSE
-"1,2,4-Trichlorobenzene",263.657,Daphnia magna,INVERT,FALSE
-"1,2,4-Trichlorobenzene",409.527,Oncorhynchus mykiss,FISH,FALSE
-"1,2,4-Trichlorobenzene",260,Oryzias latipes,FISH,FALSE
-"1,2,4-Trichlorobenzene",416.895,Pimephales promelas,FISH,FALSE
-"1,2,4-Trichlorobenzene",1483.24,Raphidocelis subcapitata,ALGAE,FALSE
-"1,2-Dichloropropane",4090,Americamysis bahia,INVERT,FALSE
-"1,2-Dichloropropane",31675.4,Chlamydomonas reinhardtii,ALGAE,FALSE
-"1,2-Dichloropropane",5011.9,Daphnia magna,INVERT,FALSE
-"1,2-Dichloropropane",10000,Oryzias latipes,FISH,FALSE
-"1,2-Dichloropropane",6000,Pimephales promelas,FISH,FALSE
-"1,2-Dichloropropane",104881,Raphidocelis subcapitata,ALGAE,FALSE
-"1,4-Dichlorobenzene",3130,Brachionus calyciflorus,INVERT,FALSE
-"1,4-Dichlorobenzene",2454.69,Danio rerio,FISH,FALSE
-"1,4-Dichlorobenzene",248.871,Daphnia magna,INVERT,FALSE
-"1,4-Dichlorobenzene",86641,Jordanella floridae,FISH,FALSE
-"1,4-Dichlorobenzene",734.847,Oryzias latipes,FISH,FALSE
-"1,4-Dichlorobenzene",812.091,Pimephales promelas,FISH,FALSE
-"1,4-Dichlorobenzene",3474.65,Raphidocelis subcapitata,ALGAE,FALSE
-17alpha-Ethinylestradiol,0.296,Carassius auratus,FISH,FALSE
-17alpha-Ethinylestradiol,339.346,Ceriodaphnia dubia,INVERT,FALSE
-17alpha-Ethinylestradiol,0.00373678,Danio rerio,FISH,FALSE
-17alpha-Ethinylestradiol,170.998,Daphnia magna,INVERT,FALSE
-17alpha-Ethinylestradiol,0.02,Etheostoma caeruleum,FISH,FALSE
-17alpha-Ethinylestradiol,0.0112001,Gasterosteus aculeatus,FISH,FALSE
-17alpha-Ethinylestradiol,0.00108037,Gobiocypris rarus,FISH,FALSE
-17alpha-Ethinylestradiol,0.0292116,Oncorhynchus mykiss,FISH,FALSE
-17alpha-Ethinylestradiol,0.0162,Oreochromis niloticus,FISH,FALSE
-17alpha-Ethinylestradiol,0.150747,Oryzias latipes,FISH,FALSE
-17alpha-Ethinylestradiol,1,Pelteobagrus fulvidraco,FISH,FALSE
-17alpha-Ethinylestradiol,0.00725101,Pimephales promelas,FISH,FALSE
-17alpha-Ethinylestradiol,0.170998,Poecilia reticulata,FISH,FALSE
-17alpha-Ethinylestradiol,0.00122904,Rutilus rutilus,FISH,FALSE
-17alpha-Ethinylestradiol,0.0212452,Salmo trutta,FISH,FALSE
-17alpha-Ethinylestradiol,0.373,Salvelinus namaycush,FISH,FALSE
-17alpha-Ethinylestradiol,500,Sida crystallina,INVERT,FALSE
-17beta-Estradiol,10,Brachionus calyciflorus,INVERT,FALSE
-17beta-Estradiol,3162.28,Ceriodaphnia dubia,INVERT,FALSE
-17beta-Estradiol,0.0505921,Danio rerio,FISH,FALSE
-17beta-Estradiol,769.045,Daphnia magna,INVERT,FALSE
-17beta-Estradiol,0.190365,Gambusia holbrooki,FISH,FALSE
-17beta-Estradiol,0.00261156,Oncorhynchus mykiss,FISH,FALSE
-17beta-Estradiol,0.0441177,Oryzias latipes,FISH,FALSE
-17beta-Estradiol,10,Oryzias melastigma,FISH,FALSE
-17beta-Estradiol,0.072009600000000007,Pimephales promelas,FISH,FALSE
-17beta-Estradiol,0.223607,Poecilia reticulata,FISH,FALSE
-17beta-Estradiol,0.097,Pomatoschistus minutus,FISH,FALSE
-17beta-Estradiol,0.008,Salmo salar,FISH,FALSE
-"2,4,6-Trinitrotoluene",820,Anabaena flos-aquae,ALGAE,FALSE
-"2,4,6-Trinitrotoluene",2053.34,Brachionus calyciflorus,INVERT,FALSE
-"2,4,6-Trinitrotoluene",1640,Ceriodaphnia dubia,INVERT,FALSE
-"2,4,6-Trinitrotoluene",798.556,Daphnia magna,INVERT,FALSE
-"2,4,6-Trinitrotoluene",820,Microcystis aeruginosa,ALGAE,FALSE
-"2,4,6-Trinitrotoluene",353.709,Oncorhynchus mykiss,FISH,FALSE
-"2,4,6-Trinitrotoluene",232.828,Pimephales promelas,FISH,FALSE
-"2,4,6-Trinitrotoluene",820,Raphidocelis subcapitata,ALGAE,FALSE
-"2,4,6-Trinitrotoluene",1542.72,Ulva fasciata,ALGAE,FALSE
-"2,4-Dichloroaniline",2500,Brachionus calyciflorus,INVERT,FALSE
-"2,4-Dichloroaniline",18.4231,Daphnia magna,INVERT,FALSE
-"2,4-Dichloroaniline",533.161,Gasterosteus aculeatus,FISH,FALSE
-"2,4-Dichloroaniline",500,Oryzias latipes,FISH,FALSE
-"2,4-Dichloroaniline",787.401,Raphidocelis subcapitata,ALGAE,FALSE
-"2,4-Dichloroaniline",683.99,Xenopus laevis,AMPHIB,FALSE
-"2,4-Dichlorophenol",61.2372,Allorchestes compressa,INVERT,TRUE
-"2,4-Dichlorophenol",1000,Carassius auratus,FISH,TRUE
-"2,4-Dichlorophenol",400,Chanodichthys erythropterus,FISH,TRUE
-"2,4-Dichlorophenol",1000,Corbicula manilensis,INVERT,TRUE
-"2,4-Dichlorophenol",793.701,Ctenopharyngodon idella,FISH,TRUE
-"2,4-Dichlorophenol",96.5489,Danio rerio,FISH,TRUE
-"2,4-Dichlorophenol",341.063,Daphnia magna,INVERT,TRUE
-"2,4-Dichlorophenol",50,Macrobrachium superbum,INVERT,TRUE
-"2,4-Dichlorophenol",100,Mylopharyngodon piceus,FISH,TRUE
-"2,4-Dichlorophenol",205.679,Oncorhynchus mykiss,FISH,TRUE
-"2,4-Dichlorophenol",1743.8,Pimephales promelas,FISH,TRUE
-"2,4-Dichlorophenol",200,Plagiognathops microlepis,FISH,TRUE
-"2,4-Dichlorophenol",704.131,Raphidocelis subcapitata,ALGAE,TRUE
-"2,4-Dichlorophenol",6000,Skeletonema costatum,ALGAE,TRUE
-"2,4-Dichlorophenoxyacetic acid",2020,Anabaena flos-aquae,ALGAE,TRUE
-"2,4-Dichlorophenoxyacetic acid",58000,Brachionus calyciflorus,INVERT,TRUE
-"2,4-Dichlorophenoxyacetic acid",19944.9,Carassius auratus,FISH,TRUE
-"2,4-Dichlorophenoxyacetic acid",43.8178,Ceriodaphnia sp,INVERT,TRUE
-"2,4-Dichlorophenoxyacetic acid",11400,Chlorella fusca var vacuolata,ALGAE,TRUE
-"2,4-Dichlorophenoxyacetic acid",38034.9,Chlorella vulgaris,ALGAE,TRUE
-"2,4-Dichlorophenoxyacetic acid",400000,Chlorococcum sp,ALGAE,TRUE
-"2,4-Dichlorophenoxyacetic acid",25000,Crassostrea virginica,INVERT,TRUE
-"2,4-Dichlorophenoxyacetic acid",120,Daphnia ambigua,INVERT,TRUE
-"2,4-Dichlorophenoxyacetic acid",12545.9,Daphnia magna,INVERT,TRUE
-"2,4-Dichlorophenoxyacetic acid",43.8178,Daphnia pulex,INVERT,TRUE
-"2,4-Dichlorophenoxyacetic acid",31300,Dunaliella tertiolecta,ALGAE,TRUE
-"2,4-Dichlorophenoxyacetic acid",2020,Navicula pelliculosa,ALGAE,TRUE
-"2,4-Dichlorophenoxyacetic acid",210,Oncorhynchus mykiss,FISH,TRUE
-"2,4-Dichlorophenoxyacetic acid",28287.2,Oryzias latipes,FISH,TRUE
-"2,4-Dichlorophenoxyacetic acid",10000,Phyllospora comosa,ALGAE,TRUE
-"2,4-Dichlorophenoxyacetic acid",63400,Pimephales promelas,FISH,TRUE
-"2,4-Dichlorophenoxyacetic acid",33236.1,Raphidocelis subcapitata,ALGAE,TRUE
-"2,4-Dichlorophenoxyacetic acid",120,Scapholeberis sp,INVERT,TRUE
-"2,4-Dichlorophenoxyacetic acid",2000,Scenedesmus quadricauda,ALGAE,TRUE
-"2,4-Dichlorophenoxyacetic acid",2020,Skeletonema costatum,ALGAE,TRUE
-"2,4-Dichlorophenoxyacetic acid",199,Spirulina platensis,ALGAE,TRUE
-"2,4-Dichlorophenoxyacetic acid",1000,Tilapia sp,FISH,TRUE
-"2,4-Dimethylphenol",2000,Brachionus calyciflorus,INVERT,FALSE
-"2,4-Dimethylphenol",1661.96,Ceriodaphnia dubia,INVERT,FALSE
-"2,4-Dimethylphenol",270,Daphnia magna,INVERT,FALSE
-"2,4-Dimethylphenol",131,Menidia beryllina,FISH,FALSE
-"2,4-Dimethylphenol",1648.38,Pimephales promelas,FISH,FALSE
-"2,4-Dimethylphenol",1897.37,Raphidocelis subcapitata,ALGAE,FALSE
-"2-Methyl-4,6-dinitrophenol",1000,Brachionus calyciflorus,INVERT,FALSE
-"2-Methyl-4,6-dinitrophenol",100000,Chlorella vulgaris,ALGAE,FALSE
-"2-Methyl-4,6-dinitrophenol",10000,Culex pipiens,INVERT,FALSE
-"2-Methyl-4,6-dinitrophenol",801.07,Cyprinus carpio,FISH,FALSE
-"2-Methyl-4,6-dinitrophenol",154.737,Daphnia magna,INVERT,FALSE
-"2-Methyl-4,6-dinitrophenol",353.368,Pimephales promelas,FISH,FALSE
-"2-Methyl-4,6-dinitrophenol",1000,Poecilia reticulata,FISH,FALSE
-"2-Methyl-4,6-dinitrophenol",1000,Raphidocelis subcapitata,ALGAE,FALSE
-"2-Methyl-4,6-dinitrophenol",320,Xenopus laevis,AMPHIB,FALSE
-"3,3',5,5'-Tetrabromobisphenol A",120,Chironomus tentans,INVERT,FALSE
-"3,3',5,5'-Tetrabromobisphenol A",239.008,Danio rerio,FISH,FALSE
-"3,3',5,5'-Tetrabromobisphenol A",489.898,Daphnia magna,INVERT,FALSE
-"3,3',5,5'-Tetrabromobisphenol A",160,Pimephales promelas,FISH,FALSE
-"3,3',5,5'-Tetrabromobisphenol A",210.69,Psammechinus miliaris,INVERT,FALSE
-"3,3',5,5'-Tetrabromobisphenol A",1.8,Pseudodiaptomus inopinus,INVERT,FALSE
-"3,3',5,5'-Tetrabromobisphenol A",367.423,Raphidocelis subcapitata,ALGAE,FALSE
-"3,4-Dichloroaniline",32,Artemia salina,INVERT,TRUE
-"3,4-Dichloroaniline",5000,Brachionus calyciflorus,INVERT,TRUE
-"3,4-Dichloroaniline",6.22865,Ceriodaphnia dubia,INVERT,TRUE
-"3,4-Dichloroaniline",874.339,Chironomus riparius,INVERT,TRUE
-"3,4-Dichloroaniline",934.646,Chlamydomonas reinhardtii,ALGAE,TRUE
-"3,4-Dichloroaniline",16.0098,Danio rerio,FISH,TRUE
-"3,4-Dichloroaniline",11.3849,Daphnia longispina,INVERT,TRUE
-"3,4-Dichloroaniline",11.5725,Daphnia magna,INVERT,TRUE
-"3,4-Dichloroaniline",80,Daphnia pulex,INVERT,TRUE
-"3,4-Dichloroaniline",766.309,Desmodesmus subspicatus,ALGAE,TRUE
-"3,4-Dichloroaniline",80,Gammarus pulex,INVERT,TRUE
-"3,4-Dichloroaniline",61.9487,Oncorhynchus mykiss,FISH,TRUE
-"3,4-Dichloroaniline",0.0808,Oreochromis niloticus,FISH,TRUE
-"3,4-Dichloroaniline",230,Oryzias latipes,FISH,TRUE
-"3,4-Dichloroaniline",20,Perca flavescens,FISH,TRUE
-"3,4-Dichloroaniline",20,Perca fluviatilis,FISH,TRUE
-"3,4-Dichloroaniline",1000,Phaeodactylum tricornutum,ALGAE,TRUE
-"3,4-Dichloroaniline",9.71083,Pimephales promelas,FISH,TRUE
-"3,4-Dichloroaniline",32,Pleuronectes platessa,FISH,TRUE
-"3,4-Dichloroaniline",926.577,Raphidocelis subcapitata,ALGAE,TRUE
-"3,4-Dichloroaniline",1000,Scenedesmus pannonicus,ALGAE,TRUE
-"3,4-Dichloroaniline",1,Simocephalus vetulus,INVERT,TRUE
-"3,4-Dichloroaniline",45,Tinca tinca,FISH,TRUE
-"4,5-Dichloro-2-octyl-3(2H)-isothiazolone",2.8,Anabaena flos-aquae,ALGAE,FALSE
-"4,5-Dichloro-2-octyl-3(2H)-isothiazolone",27.1,Chlorella fusca var vacuolata,ALGAE,FALSE
-"4,5-Dichloro-2-octyl-3(2H)-isothiazolone",6,Cyprinodon variegatus,FISH,FALSE
-"4,5-Dichloro-2-octyl-3(2H)-isothiazolone",0.56,Oncorhynchus mykiss,FISH,FALSE
-"4,5-Dichloro-2-octyl-3(2H)-isothiazolone",7.5987,Raphidocelis subcapitata,ALGAE,FALSE
-"4,5-Dichloro-2-octyl-3(2H)-isothiazolone",10,Skeletonema costatum,ALGAE,FALSE
-4-Chlorophenol,30000,Brachionus calyciflorus,INVERT,FALSE
-4-Chlorophenol,400,Ceriodaphnia dubia,INVERT,FALSE
-4-Chlorophenol,873.929,Daphnia magna,INVERT,FALSE
-4-Chlorophenol,10300,Hydra viridissima,INVERT,FALSE
-4-Chlorophenol,249.201,Oncorhynchus mykiss,FISH,FALSE
-4-Chlorophenol,982.564,Raphidocelis subcapitata,ALGAE,FALSE
-4-Chlorophenol,390,Skeletonema costatum,ALGAE,FALSE
-4-Nonylphenol,76,Alona sp,INVERT,TRUE
-4-Nonylphenol,23,Ceriodaphnia sp,INVERT,TRUE
-4-Nonylphenol,76,Chydorus sp,INVERT,TRUE
-4-Nonylphenol,39.8107,Danio rerio,FISH,TRUE
-4-Nonylphenol,37.7588,Daphnia magna,INVERT,TRUE
-4-Nonylphenol,23.5584,Gobiocypris rarus,FISH,TRUE
-4-Nonylphenol,1000,Microcystis aeruginosa,ALGAE,TRUE
-4-Nonylphenol,1,Oncorhynchus mykiss,FISH,TRUE
-4-Nonylphenol,100,Oryzias latipes,FISH,TRUE
-4-Nonylphenol,150,Poecilia reticulata,FISH,TRUE
-4-Nonylphenol,243,Polyarthra sp,INVERT,TRUE
-4-Nonylphenol,694,Raphidocelis subcapitata,ALGAE,TRUE
-4-Nonylphenol,76,Simocephalus sp,INVERT,TRUE
-4-tert-Butylphenol,1000,Anabaena cylindrica,ALGAE,FALSE
-4-tert-Butylphenol,5000,Ankistrodesmus sp,ALGAE,FALSE
-4-tert-Butylphenol,1835.42,Chlamydomonas reinhardtii,ALGAE,FALSE
-4-tert-Butylphenol,1982.37,Chlorella vulgaris,ALGAE,FALSE
-4-tert-Butylphenol,1300.45,Daphnia magna,INVERT,FALSE
-4-tert-Butylphenol,339.392,Neocaridina sp,INVERT,FALSE
-4-tert-Butylphenol,1835.42,Nitzschia kuetzingiana,ALGAE,FALSE
-4-tert-Butylphenol,1413.32,Philodina sp,INVERT,FALSE
-4-tert-Butylphenol,1835.42,Raphidocelis subcapitata,ALGAE,FALSE
-4-tert-Butylphenol,1421.1,Scenedesmus quadricauda,ALGAE,FALSE
-4-tert-Butylphenol,1484.92,Stigeoclonium sp,ALGAE,FALSE
-4-tert-Butylphenol,1484.92,Ulothrix sp,ALGAE,FALSE
-5-Chloro-2-methyl-3(2H)-isothiazolone,250,Anabaena flos-aquae,ALGAE,FALSE
-5-Chloro-2-methyl-3(2H)-isothiazolone,180,Daphnia magna,INVERT,FALSE
-5-Chloro-2-methyl-3(2H)-isothiazolone,50,Oncorhynchus mykiss,FISH,FALSE
-5-Chloro-2-methyl-3(2H)-isothiazolone,20,Pimephales promelas,FISH,FALSE
-5-Chloro-2-methyl-3(2H)-isothiazolone,19.1293,Raphidocelis subcapitata,ALGAE,FALSE
-5-Chloro-2-methyl-3(2H)-isothiazolone,24.4949,Skeletonema costatum,ALGAE,FALSE
-5-Chloro-2-methyl-3(2H)-isothiazolone,60,Synedra acus,ALGAE,FALSE
-Acetochlor,1900,Anabaena flos-aquae,ALGAE,FALSE
-Acetochlor,10,Ceriodaphnia sp,INVERT,FALSE
-Acetochlor,165.542,Daphnia magna,INVERT,FALSE
-Acetochlor,10,Daphnia pulex,INVERT,FALSE
-Acetochlor,560,Navicula pelliculosa,ALGAE,FALSE
-Acetochlor,177.321,Oncorhynchus mykiss,FISH,FALSE
-Acetochlor,450,Pimephales promelas,FISH,FALSE
-Acetochlor,31.6228,Raphidocelis subcapitata,ALGAE,FALSE
-Acetochlor,1.6,Skeletonema costatum,ALGAE,FALSE
-Acrolein,12,Anabaena flos-aquae,ALGAE,FALSE
-Acrolein,141.421,Ceriodaphnia dubia,INVERT,FALSE
-Acrolein,16,Jordanella floridae,FISH,FALSE
-Acrolein,25,Navicula pelliculosa,ALGAE,FALSE
-Acrolein,11.2872,Pimephales promelas,FISH,FALSE
-Acrolein,30,Raphidocelis subcapitata,ALGAE,FALSE
-Acrolein,25,Skeletonema costatum,ALGAE,FALSE
-Alachlor,12500,Ceriodaphnia dubia,INVERT,TRUE
-Alachlor,1000,Ceriodaphnia sp,INVERT,TRUE
-Alachlor,27,Chlamydomonas eugametos,ALGAE,TRUE
-Alachlor,150,Chlamydomonas sp,ALGAE,TRUE
-Alachlor,11.6,Chlorella fusca var vacuolata,ALGAE,TRUE
-Alachlor,27.1442,Chlorella pyrenoidosa,ALGAE,TRUE
-Alachlor,100,Chlorella vulgaris,ALGAE,TRUE
-Alachlor,110,Daphnia magna,INVERT,TRUE
-Alachlor,187,Oncorhynchus mykiss,FISH,TRUE
-Alachlor,726.443,Pavlova sp,ALGAE,TRUE
-Alachlor,921.972,Pimephales promelas,FISH,TRUE
-Alachlor,1.18322,Raphidocelis subcapitata,ALGAE,TRUE
-Aluminum sulfate,8485.28,Chlorella pyrenoidosa,ALGAE,FALSE
-Aluminum sulfate,1000000,Chlorella sp,ALGAE,FALSE
-Aluminum sulfate,16309.5,Chlorella vulgaris,ALGAE,FALSE
-Aluminum sulfate,1150.22,Daphnia magna,INVERT,FALSE
-Aluminum sulfate,5776.68,Pimephales promelas,FISH,FALSE
-Aluminum sulfate,8522.76,Raphidocelis subcapitata,ALGAE,FALSE
-Aluminum sulfate,111.501,Salmo salar,FISH,FALSE
-Aluminum sulfate,30.2682,Salvelinus fontinalis,FISH,FALSE
-Aniline,14.6509,Ceriodaphnia dubia,INVERT,FALSE
-Aniline,90000,Chlorella pyrenoidosa,ALGAE,FALSE
-Aniline,7942.68,Danio rerio,FISH,FALSE
-Aniline,10.5457,Daphnia magna,INVERT,FALSE
-Aniline,9980.34,Oncorhynchus mykiss,FISH,FALSE
-Aniline,2959.56,Oryzias latipes,FISH,FALSE
-Aniline,3319.32,Pimephales promelas,FISH,FALSE
-Aniline,4333.86,Raphidocelis subcapitata,ALGAE,FALSE
-Arsenic(III) sulfide,280,Anabaena flos-aquae,ALGAE,FALSE
-Arsenic(III) sulfide,30,Chlorella vulgaris,ALGAE,FALSE
-Arsenic(III) sulfide,468.969,Daphnia magna,INVERT,FALSE
-Arsenic(III) sulfide,9113.2,Jordanella floridae,FISH,FALSE
-Arsenic(III) sulfide,2208.44,Pimephales promelas,FISH,FALSE
-Arsenic(III) sulfide,5,Raphidocelis subcapitata,ALGAE,FALSE
-Arsenic(III) sulfide,1560,Scenedesmus acutus var. acutus,ALGAE,FALSE
-Arsenic(III) sulfide,16400,Stichococcus bacillaris,ALGAE,FALSE
-Arsenic(III) sulfide,6600,Tetrahymena thermophila,INVERT,FALSE
-Atrazine,6.2849,Anabaena flos-aquae,ALGAE,TRUE
-Atrazine,10.198,Ankistrodesmus falcatus,ALGAE,TRUE
-Atrazine,39.685,Ankistrodesmus sp,ALGAE,TRUE
-Atrazine,320,Brachionus calyciflorus,INVERT,TRUE
-Atrazine,859,Carassius auratus,FISH,TRUE
-Atrazine,1545.14,Ceriodaphnia dubia,INVERT,TRUE
-Atrazine,20.578,Ceriodaphnia sp,INVERT,TRUE
-Atrazine,21.6,Chlamydomonas eugametos,ALGAE,TRUE
-Atrazine,24.7283,Chlamydomonas reinhardtii,ALGAE,TRUE
-Atrazine,75,Chlamydomonas sp,ALGAE,TRUE
-Atrazine,26.9416,Chlorella fusca var vacuolata,ALGAE,TRUE
-Atrazine,360,Chlorella pyrenoidosa,ALGAE,TRUE
-Atrazine,220.227,Chlorella saccharophila,ALGAE,TRUE
-Atrazine,1.94936,Chlorella sp,ALGAE,TRUE
-Atrazine,33.1386,Chlorella vulgaris,ALGAE,TRUE
-Atrazine,1445.68,Cyprinodon variegatus,FISH,TRUE
-Atrazine,361.936,Danio rerio,FISH,TRUE
-Atrazine,1010.24,Daphnia magna,INVERT,TRUE
-Atrazine,20,Daphnia parvula,INVERT,TRUE
-Atrazine,6.4,Daphnia pulex,INVERT,TRUE
-Atrazine,25,Daphnia sp,INVERT,TRUE
-Atrazine,21.312,Desmodesmus subspicatus,ALGAE,TRUE
-Atrazine,44.4305,Dunaliella tertiolecta,ALGAE,TRUE
-Atrazine,4200,Eurytemora affinis,INVERT,TRUE
-Atrazine,90,Gasterosteus aculeatus,FISH,TRUE
-Atrazine,33.2,Laminaria saccharina,ALGAE,TRUE
-Atrazine,95,Lepomis macrochirus,FISH,TRUE
-Atrazine,160.904,Microcystis aeruginosa,ALGAE,TRUE
-Atrazine,10,Navicula pelliculosa,ALGAE,TRUE
-Atrazine,33.0193,Oncorhynchus mykiss,FISH,TRUE
-Atrazine,15.8,Oncorhynchus nerka,FISH,TRUE
-Atrazine,67.1309,Oophila sp,ALGAE,TRUE
-Atrazine,5000,Oryzias latipes,FISH,TRUE
-Atrazine,10,Oscillatoria limnetica,ALGAE,TRUE
-Atrazine,20.1961,Pavlova sp,ALGAE,TRUE
-Atrazine,221.624,Pimephales promelas,FISH,TRUE
-Atrazine,4.88878,Poecilia reticulata,FISH,TRUE
-Atrazine,3,Pseudanabaena galeata,ALGAE,TRUE
-Atrazine,31.9427,Raphidocelis subcapitata,ALGAE,TRUE
-Atrazine,19.1838,Salmo salar,FISH,TRUE
-Atrazine,88.3176,Salvelinus fontinalis,FISH,TRUE
-Atrazine,13.7477,Scenedesmus acutus,ALGAE,TRUE
-Atrazine,14,Scenedesmus costatum,ALGAE,TRUE
-Atrazine,38,Scenedesmus sp,ALGAE,TRUE
-Atrazine,25,Simocephalus sp,INVERT,TRUE
-Atrazine,10.4,Staurastrum cristatum,ALGAE,TRUE
-Atrazine,16.7583,Synechococcus elongatus,ALGAE,TRUE
-Atrazine,10.4,Synechococcus sp,ALGAE,TRUE
-Atrazine,14500,Tetrahymena pyriformis,INVERT,TRUE
-Atrazine,1000,Tolypothrix tenuis,ALGAE,TRUE
-Azinphos-methyl,0.02,Americamysis bahia,INVERT,FALSE
-Azinphos-methyl,0.083,Cyprinodon variegatus,FISH,FALSE
-Azinphos-methyl,0.25,Daphnia magna,INVERT,FALSE
-Azinphos-methyl,1,Lepomis gibbosus,FISH,FALSE
-Azinphos-methyl,0.32497,Oncorhynchus mykiss,FISH,FALSE
-Azinphos-methyl,0.477539,Pimephales promelas,FISH,FALSE
-Azoxystrobin,9.5,Americamysis bahia,INVERT,FALSE
-Azoxystrobin,9000,Anabaena flos-aquae,ALGAE,FALSE
-Azoxystrobin,0.026,Daphnia magna,INVERT,FALSE
-Azoxystrobin,201.246,Lampsilis siliquoidea,INVERT,FALSE
-Azoxystrobin,147,Pimephales promelas,FISH,FALSE
-Azoxystrobin,25,Raphidocelis subcapitata,ALGAE,FALSE
-Benzyl butyl phthalate,15.8114,Brachionus calyciflorus,INVERT,FALSE
-Benzyl butyl phthalate,640,Chironomus tentans,INVERT,FALSE
-Benzyl butyl phthalate,389.576,Daphnia magna,INVERT,FALSE
-Benzyl butyl phthalate,166.036,Oncorhynchus mykiss,FISH,FALSE
-Benzyl butyl phthalate,150,Oryzias latipes,FISH,FALSE
-Benzyl butyl phthalate,284.983,Pimephales promelas,FISH,FALSE
-Benzyl butyl phthalate,77.4597,Raphidocelis subcapitata,ALGAE,FALSE
-Bis(tributyltin)oxide,0.957179,Cyprinodon variegatus,FISH,FALSE
-Bis(tributyltin)oxide,0.172936,Daphnia magna,INVERT,FALSE
-Bis(tributyltin)oxide,3.61994,Macrocystis pyrifera,ALGAE,FALSE
-Bis(tributyltin)oxide,0.552635,Oncorhynchus mykiss,FISH,FALSE
-Bis(tributyltin)oxide,5000,Oreochromis mossambicus,FISH,FALSE
-Bis(tributyltin)oxide,1.27489,Oryzias latipes,FISH,FALSE
-Bis(tributyltin)oxide,0.516472,Pimephales promelas,FISH,FALSE
-Bis(tributyltin)oxide,0.32,Poecilia reticulata,FISH,FALSE
-Bis(tributyltin)oxide,24,Ulva pertusa,ALGAE,FALSE
-Bisphenol A,1000,Brachionus koreanus,INVERT,TRUE
-Bisphenol A,940,Ceriodaphnia dubia,INVERT,TRUE
-Bisphenol A,25897.4,Chlorella pyrenoidosa,ALGAE,TRUE
-Bisphenol A,453.587,Danio rerio,FISH,TRUE
-Bisphenol A,946.194,Daphnia magna,INVERT,TRUE
-Bisphenol A,100,Marisa cornuarietis,INVERT,TRUE
-Bisphenol A,260.855,Oryzias latipes,FISH,TRUE
-Bisphenol A,223.607,Physella acuta,INVERT,TRUE
-Bisphenol A,250.173,Pimephales promelas,FISH,TRUE
-Bisphenol A,10.7021,Potamopyrgus antipodarum,INVERT,TRUE
-Bisphenol A,611.882,Raphidocelis subcapitata,ALGAE,TRUE
-Bisphenol A,22865.3,Scenedesmus acutus var. acutus,ALGAE,TRUE
-Bisphenol A,0.2,Xiphophorus helleri,FISH,TRUE
-Boscalid,8.06485,Afrochiltonia subtenuis,INVERT,FALSE
-Boscalid,1,Allorchestes compressa,INVERT,FALSE
-Boscalid,4200,Anabaena flos-aquae,ALGAE,FALSE
-Boscalid,1540,Daphnia magna,INVERT,FALSE
-Boscalid,466.99,Oncorhynchus mykiss,FISH,FALSE
-Boscalid,490,Raphidocelis subcapitata,ALGAE,FALSE
-Bromacil,11.2,Anabaena flos-aquae,ALGAE,FALSE
-Bromacil,100,Chlorella vulgaris,ALGAE,FALSE
-Bromacil,8200,Daphnia magna,INVERT,FALSE
-Bromacil,36.4932,Desmodesmus subspicatus,ALGAE,FALSE
-Bromacil,3000,Oncorhynchus mykiss,FISH,FALSE
-Bromacil,29000,Pimephales promelas,FISH,FALSE
-Bromacil,4.79142,Raphidocelis subcapitata,ALGAE,FALSE
-Bromoxynil,27700,Chlamydomonas eugametos,ALGAE,FALSE
-Bromoxynil,21000,Chlorella fusca var vacuolata,ALGAE,FALSE
-Bromoxynil,10000,Chlorella vulgaris,ALGAE,FALSE
-Bromoxynil,20,Daphnia magna,INVERT,FALSE
-Bromoxynil,2268.72,Pimephales promelas,FISH,FALSE
-Bromoxynil,6281.72,Raphidocelis subcapitata,ALGAE,FALSE
-Bromoxynil,12387.8,Synechococcus elongatus,ALGAE,FALSE
-Bromoxynil octanoate,20,Daphnia magna,INVERT,FALSE
-Bromoxynil octanoate,9.3,Navicula pelliculosa,ALGAE,FALSE
-Bromoxynil octanoate,3.4,Pimephales promelas,FISH,FALSE
-Bromoxynil octanoate,74.2654,Raphidocelis subcapitata,ALGAE,FALSE
-Bromoxynil octanoate,200,Scenedesmus quadricauda,ALGAE,FALSE
-Bromoxynil octanoate,33,Skeletonema costatum,ALGAE,FALSE
-Bromuconazole,84,Anabaena flos-aquae,ALGAE,FALSE
-Bromuconazole,10.9545,Daphnia magna,INVERT,FALSE
-Bromuconazole,8,Navicula pelliculosa,ALGAE,FALSE
-Bromuconazole,110,Oncorhynchus mykiss,FISH,FALSE
-Bromuconazole,34,Pimephales promelas,FISH,FALSE
-Bromuconazole,61.2372,Raphidocelis subcapitata,ALGAE,FALSE
-Bromuconazole,7,Skeletonema costatum,ALGAE,FALSE
-Butachlor,34.7,Alona sp,INVERT,TRUE
-Butachlor,34.7,Anuraeopsis sp,INVERT,TRUE
-Butachlor,34.7,Asplanchna sp,INVERT,TRUE
-Butachlor,34.7,Chydorus sp,INVERT,TRUE
-Butachlor,34.7,Cyclops sp,INVERT,TRUE
-Butachlor,200,Daphnia magna,INVERT,TRUE
-Butachlor,46,Oryzias latipes,FISH,TRUE
-Butachlor,34.7,Polyarthra sp,INVERT,TRUE
-Butachlor,0.685565,Raphidocelis subcapitata,ALGAE,TRUE
-Butachlor,34.7,Scapholeberis sp,INVERT,TRUE
-Butachlor,34.7,Simocephalus sp,INVERT,TRUE
-Butachlor,500,Tilapia sp,FISH,TRUE
-Cadmium chloride,17.2,Aeolosoma headleyi,INVERT,TRUE
-Cadmium chloride,48.9,Ambystoma gracile,AMPHIB,TRUE
-Cadmium chloride,425.934,Americamysis bahia,INVERT,TRUE
-Cadmium chloride,10,Ankistrodesmus falcatus,ALGAE,TRUE
-Cadmium chloride,55.4992,Barbus ticto,FISH,TRUE
-Cadmium chloride,17.048,Brachionus calyciflorus,INVERT,TRUE
-Cadmium chloride,105,Brachionus havanaensis,INVERT,TRUE
-Cadmium chloride,280,Brachionus rubens,INVERT,TRUE
-Cadmium chloride,4.43869,Ceriodaphnia dubia,INVERT,TRUE
-Cadmium chloride,40.5451,Chlamydomonas reinhardtii,ALGAE,TRUE
-Cadmium chloride,6.0822,Chlorella pyrenoidosa,ALGAE,TRUE
-Cadmium chloride,12.5,Chlorella sp,ALGAE,TRUE
-Cadmium chloride,652.56,Chlorella vulgaris,ALGAE,TRUE
-Cadmium chloride,10000,Chlorococcum sp,ALGAE,TRUE
-Cadmium chloride,1.41863,Cottus bairdi,FISH,TRUE
-Cadmium chloride,560,Cyprinodon variegatus,FISH,TRUE
-Cadmium chloride,440,Cyprinus carpio,FISH,TRUE
-Cadmium chloride,40.3336,Danio rerio,FISH,TRUE
-Cadmium chloride,2.74476,Daphnia magna,INVERT,TRUE
-Cadmium chloride,6.71097,Daphnia pulex,INVERT,TRUE
-Cadmium chloride,8.6317,Desmodesmus subspicatus,ALGAE,TRUE
-Cadmium chloride,0.0708,Dunaliella tertiolecta,ALGAE,TRUE
-Cadmium chloride,5.01737,Etheostoma fonticola,FISH,TRUE
-Cadmium chloride,0.1,Hyalella azteca,INVERT,TRUE
-Cadmium chloride,0.678087,Hydra viridissima,INVERT,TRUE
-Cadmium chloride,3.56329,Jordanella floridae,FISH,TRUE
-Cadmium chloride,5000,Monhystera disjuncta,INVERT,TRUE
-Cadmium chloride,1000,Monhystera microphthalma,INVERT,TRUE
-Cadmium chloride,6.25,Mytilus galloprovincialis,INVERT,TRUE
-Cadmium chloride,4.62,Odontesthes bonariensis,FISH,TRUE
-Cadmium chloride,2.06523,Oncorhynchus mykiss,FISH,TRUE
-Cadmium chloride,1.58127,Oncorhynchus tshawytscha,FISH,TRUE
-Cadmium chloride,3670,Oreochromis niloticus,FISH,TRUE
-Cadmium chloride,8.05,Oryzias latipes,FISH,TRUE
-Cadmium chloride,2.82843,Parachlorella kessleri,ALGAE,TRUE
-Cadmium chloride,11.7025,Pimephales promelas,FISH,TRUE
-Cadmium chloride,7,Potamopyrgus jenkinsi,INVERT,TRUE
-Cadmium chloride,8.40717,Raphidocelis subcapitata,ALGAE,TRUE
-Cadmium chloride,0.447214,Salmo trutta,FISH,TRUE
-Cadmium chloride,9.24903,Salvelinus fontinalis,FISH,TRUE
-Cadmium chloride,10000,Scenedesmus abundans,ALGAE,TRUE
-Cadmium chloride,300,Scenedesmus acutus var. acutus,ALGAE,TRUE
-Cadmium chloride,0.0708,Synechococcus sp,ALGAE,TRUE
-Cadmium chloride,1000,Tetraselmis gracilis,ALGAE,TRUE
-Cadmium chloride,18,Tisbe battagliai,INVERT,TRUE
-Cadmium chloride,800,Ulva fasciata,ALGAE,TRUE
-Cadmium chloride,68.7386,Ulva pertusa,ALGAE,TRUE
-Carbamazepine,377,Brachionus calyciflorus,INVERT,FALSE
-Carbamazepine,25,Ceriodaphnia dubia,INVERT,FALSE
-Carbamazepine,870.551,Chlorella pyrenoidosa,ALGAE,FALSE
-Carbamazepine,3445.88,Danio rerio,FISH,FALSE
-Carbamazepine,141.421,Daphnia pulex,INVERT,FALSE
-Carbamazepine,34657.2,Dunaliella tertiolecta,ALGAE,FALSE
-Carbamazepine,180,Oncorhynchus mykiss,FISH,FALSE
-Carbamazepine,862,Pimephales promelas,FISH,FALSE
-Carbamazepine,771.105,Scenedesmus acutus var. acutus,ALGAE,FALSE
-Carbaryl,2000,Anabaena flos-aquae,ALGAE,TRUE
-Carbaryl,2,Bosmina longirostris,INVERT,TRUE
-Carbaryl,180,Brachionus calyciflorus,INVERT,TRUE
-Carbaryl,510,Ceriodaphnia sp,INVERT,TRUE
-Carbaryl,200,Chlorella pyrenoidosa,ALGAE,TRUE
-Carbaryl,200,Chlorella vulgaris,ALGAE,TRUE
-Carbaryl,2030,Clarias batrachus,FISH,TRUE
-Carbaryl,2000,Crassostrea virginica,INVERT,TRUE
-Carbaryl,10000,Cylindrospermum sp,ALGAE,TRUE
-Carbaryl,5,Daphnia ambigua,INVERT,TRUE
-Carbaryl,2.41448,Daphnia magna,INVERT,TRUE
-Carbaryl,6.9,Daphnia pulex,INVERT,TRUE
-Carbaryl,650,Gila elegans,FISH,TRUE
-Carbaryl,1073,Lampsilis siliquoidea,INVERT,TRUE
-Carbaryl,1211.76,Lepomis macrochirus,FISH,TRUE
-Carbaryl,1000,Lymnaea stagnalis,INVERT,TRUE
-Carbaryl,100,Microcystis aeruginosa,ALGAE,TRUE
-Carbaryl,100,Microcystis flosaquae,ALGAE,TRUE
-Carbaryl,3162.28,Nostoc commune,ALGAE,TRUE
-Carbaryl,10000,Oryzias latipes,FISH,TRUE
-Carbaryl,0.05,Palaemon serratus,INVERT,TRUE
-Carbaryl,785.59,Pimephales promelas,FISH,TRUE
-Carbaryl,445,Ptychocheilus lucius,FISH,TRUE
-Carbaryl,300.84,Raphidocelis subcapitata,ALGAE,TRUE
-Carbaryl,510,Scapholeberis sp,INVERT,TRUE
-Carbaryl,200,Scenedesmus acutus var. acutus,ALGAE,TRUE
-Carbaryl,500,Scenedesmus quadricauda,ALGAE,TRUE
-Carbaryl,500,Synechococcus elongatus,ALGAE,TRUE
-Carbendazim,3.3,Acroperus harpae,INVERT,FALSE
-Carbendazim,4800,Anabaena variabilis,ALGAE,FALSE
-Carbendazim,319,Asellus aquaticus,INVERT,FALSE
-Carbendazim,319,Asellus sp,INVERT,FALSE
-Carbendazim,92.1,Bithynia leachi,INVERT,FALSE
-Carbendazim,31.5,Bithynia sp,INVERT,FALSE
-Carbendazim,184.742,Bithynia tentaculata,INVERT,FALSE
-Carbendazim,100,Chlamydomonas sp,ALGAE,FALSE
-Carbendazim,6.61789,Daphnia magna,INVERT,FALSE
-Carbendazim,31,Gammarus pulex,INVERT,FALSE
-Carbendazim,31,Gammarus sp,INVERT,FALSE
-Carbendazim,330,Keratella quadrata,INVERT,FALSE
-Carbendazim,33.5,Lepadella patella,INVERT,FALSE
-Carbendazim,3.1,Lymnaea sp,INVERT,FALSE
-Carbendazim,40,Moina micrura,INVERT,FALSE
-Carbendazim,100,Monoraphidium sp,ALGAE,FALSE
-Carbendazim,4800,Nostoc muscorum,ALGAE,FALSE
-Carbendazim,3.1,Physa fontinalis,INVERT,FALSE
-Carbendazim,3.1,Physella acuta,INVERT,FALSE
-Carbendazim,226,Polyarthra sp,INVERT,FALSE
-Carbendazim,319,Proasellus coxalis,INVERT,FALSE
-Carbendazim,319,Proasellus meridianus,INVERT,FALSE
-Carbendazim,330,Scenedesmus acutus,ALGAE,FALSE
-Carbendazim,33.2491,Simocephalus vetulus,INVERT,FALSE
-Carbofuran,0.4,Americamysis bahia,INVERT,TRUE
-Carbofuran,2000,Anabaena flos-aquae,ALGAE,TRUE
-Carbofuran,1.3,Ceriodaphnia dubia,INVERT,TRUE
-Carbofuran,3540,Chlorella fusca var vacuolata,ALGAE,TRUE
-Carbofuran,2000,Chlorella pyrenoidosa,ALGAE,TRUE
-Carbofuran,1153.26,Chlorella vulgaris,ALGAE,TRUE
-Carbofuran,240,Clarias batrachus,FISH,TRUE
-Carbofuran,39685,Cylindrospermum sp,ALGAE,TRUE
-Carbofuran,17.6,Cyprinodon variegatus,FISH,TRUE
-Carbofuran,16000,Cyprinus carpio ssp. communis,FISH,TRUE
-Carbofuran,9.8,Daphnia magna,INVERT,TRUE
-Carbofuran,1000,Microcystis aeruginosa,ALGAE,TRUE
-Carbofuran,2000,Microcystis flosaquae,ALGAE,TRUE
-Carbofuran,24.8,Oncorhynchus mykiss,FISH,TRUE
-Carbofuran,111.504,Oreochromis mossambicus,FISH,TRUE
-Carbofuran,111.408,Pimephales promelas,FISH,TRUE
-Carbofuran,447.214,Raphidocelis subcapitata,ALGAE,TRUE
-Carbofuran,200,Scenedesmus acutus var. acutus,ALGAE,TRUE
-Carbofuran,2000,Scenedesmus quadricauda,ALGAE,TRUE
-Carfentrazone-ethyl,2,Anabaena flos-aquae,ALGAE,FALSE
-Carfentrazone-ethyl,1000,Anabaena variabilis,ALGAE,FALSE
-Carfentrazone-ethyl,10000,Chlorella vulgaris,ALGAE,FALSE
-Carfentrazone-ethyl,100,Nostoc commune,ALGAE,FALSE
-Carfentrazone-ethyl,38.5102,Oncorhynchus mykiss,FISH,FALSE
-Carfentrazone-ethyl,8.37198,Raphidocelis subcapitata,ALGAE,FALSE
-Chlorothalonil,0.83,Americamysis bahia,INVERT,TRUE
-Chlorothalonil,1,Anabaena flos-aquae,ALGAE,TRUE
-Chlorothalonil,111.199,Ceriodaphnia dubia,INVERT,TRUE
-Chlorothalonil,0.2,Chlorella pyrenoidosa,ALGAE,TRUE
-Chlorothalonil,2,Chlorella vulgaris,ALGAE,TRUE
-Chlorothalonil,39,Daphnia magna,INVERT,TRUE
-Chlorothalonil,33.3,Dunaliella tertiolecta,ALGAE,TRUE
-Chlorothalonil,79.6214,Fundulus heteroclitus,FISH,TRUE
-Chlorothalonil,100,Hyalella azteca,INVERT,TRUE
-Chlorothalonil,50,Microcystis aeruginosa,ALGAE,TRUE
-Chlorothalonil,2,Microcystis flosaquae,ALGAE,TRUE
-Chlorothalonil,26.715,Nitzschia pungens,ALGAE,TRUE
-Chlorothalonil,40,Oncorhynchus mykiss,FISH,TRUE
-Chlorothalonil,2.5,Oncorhynchus nerka,FISH,TRUE
-Chlorothalonil,11.8453,Pimephales promelas,FISH,TRUE
-Chlorothalonil,36.8403,Raphidocelis subcapitata,ALGAE,TRUE
-Chlorothalonil,3.30584,Salmo salar,FISH,TRUE
-Chlorothalonil,0.5,Scenedesmus acutus var. acutus,ALGAE,TRUE
-Chlorothalonil,5,Scenedesmus quadricauda,ALGAE,TRUE
-Chlorothalonil,0.56,Skeletonema costatum,ALGAE,TRUE
-Chlorpyrifos,0.742312,Alona sp,INVERT,TRUE
-Chlorpyrifos,0.0046,Americamysis bahia,INVERT,TRUE
-Chlorpyrifos,1000,Anabaena variabilis,ALGAE,TRUE
-Chlorpyrifos,2.3,Anuraeopsis sp,INVERT,TRUE
-Chlorpyrifos,35,Artemia salina,INVERT,TRUE
-Chlorpyrifos,2.3,Asplanchna sp,INVERT,TRUE
-Chlorpyrifos,0.2,Brachionus angularis,INVERT,TRUE
-Chlorpyrifos,80.7517,Brachionus calyciflorus,INVERT,TRUE
-Chlorpyrifos,0.1,Caenis horaria,INVERT,TRUE
-Chlorpyrifos,0.1,Caenis luctuosa,INVERT,TRUE
-Chlorpyrifos,1,Ceriodaphnia cornuta,INVERT,TRUE
-Chlorpyrifos,0.0342027,Ceriodaphnia dubia,INVERT,TRUE
-Chlorpyrifos,6,Chironomus sp,INVERT,TRUE
-Chlorpyrifos,100,Chlamydomonas reinhardtii,ALGAE,TRUE
-Chlorpyrifos,10,Chlorella pyrenoidosa,ALGAE,TRUE
-Chlorpyrifos,1000,Chlorella vulgaris,ALGAE,TRUE
-Chlorpyrifos,2.3,Chydorus sp,INVERT,TRUE
-Chlorpyrifos,2.3,Cyclops sp,INVERT,TRUE
-Chlorpyrifos,22.4,Cyprinus carpio,FISH,TRUE
-Chlorpyrifos,0.0378929,Daphnia carinata,INVERT,TRUE
-Chlorpyrifos,0.1,Daphnia galeata,INVERT,TRUE
-Chlorpyrifos,0.189199,Daphnia magna,INVERT,TRUE
-Chlorpyrifos,0.0575705,Daphnia pulex,INVERT,TRUE
-Chlorpyrifos,400,Dunaliella tertiolecta,ALGAE,TRUE
-Chlorpyrifos,1,Filinia longiseta,INVERT,TRUE
-Chlorpyrifos,0.1,Gammarus pulex,INVERT,TRUE
-Chlorpyrifos,32,Hydra sp,INVERT,TRUE
-Chlorpyrifos,0.2,Keratella cochlearis,INVERT,TRUE
-Chlorpyrifos,0.215,Lecane luna,INVERT,TRUE
-Chlorpyrifos,0.035,Lepadella patella,INVERT,TRUE
-Chlorpyrifos,0.51,Lepomis cyanellus,FISH,TRUE
-Chlorpyrifos,0.75,Menidia beryllina,FISH,TRUE
-Chlorpyrifos,0.28,Menidia menidia,FISH,TRUE
-Chlorpyrifos,1,Microcystis sp,ALGAE,TRUE
-Chlorpyrifos,653.786,Microcystis wesenbergii,ALGAE,TRUE
-Chlorpyrifos,0.1,Moina micrura,INVERT,TRUE
-Chlorpyrifos,31.6228,Nostoc muscorum,ALGAE,TRUE
-Chlorpyrifos,4.09064,Oncorhynchus tshawytscha,FISH,TRUE
-Chlorpyrifos,7.93701,Oreochromis mossambicus,FISH,TRUE
-Chlorpyrifos,100,Oscillatoria sp,ALGAE,TRUE
-Chlorpyrifos,4.30371,Pimephales promelas,FISH,TRUE
-Chlorpyrifos,0.5,Poecilia reticulata,FISH,TRUE
-Chlorpyrifos,0.1,Polyarthra remata,INVERT,TRUE
-Chlorpyrifos,2.3,Polyarthra sp,INVERT,TRUE
-Chlorpyrifos,2.3,Scapholeberis sp,INVERT,TRUE
-Chlorpyrifos,1,Scenedesmus quadricauda,ALGAE,TRUE
-Chlorpyrifos,2.3,Simocephalus sp,INVERT,TRUE
-Chlorpyrifos,0.574794,Simocephalus vetulus,INVERT,TRUE
-Chlorpyrifos,5.20999,Tandanus tandanus,FISH,TRUE
-Chlorpyrifos,80,Tilapia sp,FISH,TRUE
-Chlorpyrifos,2.47386,Tilapia zillii,FISH,TRUE
-Chlorsulfuron,240,Anabaena flos-aquae,ALGAE,FALSE
-Chlorsulfuron,9300,Chlorella saccharophila,ALGAE,FALSE
-Chlorsulfuron,20000,Daphnia magna,INVERT,FALSE
-Chlorsulfuron,31400,Oncorhynchus mykiss,FISH,FALSE
-Chlorsulfuron,3832.16,Pseudanabaena galeata,ALGAE,FALSE
-Chlorsulfuron,10.7963,Raphidocelis subcapitata,ALGAE,FALSE
-Chlorsulfuron,70,Scenedesmus acutus,ALGAE,FALSE
-Chromium trioxide,438.178,Americamysis bahia,INVERT,TRUE
-Chromium trioxide,26.2198,Ceriodaphnia dubia,INVERT,TRUE
-Chromium trioxide,1187.76,Channa punctata,FISH,TRUE
-Chromium trioxide,465.575,Chlorella vulgaris,ALGAE,TRUE
-Chromium trioxide,2828.43,Cyprinodon variegatus,FISH,TRUE
-Chromium trioxide,38137.5,Danio rerio,FISH,TRUE
-Chromium trioxide,50,Daphnia carinata,INVERT,TRUE
-Chromium trioxide,24.7065,Daphnia magna,INVERT,TRUE
-Chromium trioxide,100,Dinophilus gyrociliatus,INVERT,TRUE
-Chromium trioxide,23067.2,Gasterosteus aculeatus,FISH,TRUE
-Chromium trioxide,4580,Lepomis macrochirus,FISH,TRUE
-Chromium trioxide,4580,Micropterus salmoides,FISH,TRUE
-Chromium trioxide,484,Odontesthes bonariensis,FISH,TRUE
-Chromium trioxide,17800,Oncorhynchus kisutch,FISH,TRUE
-Chromium trioxide,50,Oreochromis niloticus,FISH,TRUE
-Chromium trioxide,3779.76,Pimephales promelas,FISH,TRUE
-Chromium trioxide,181.72,Raphidocelis subcapitata,ALGAE,TRUE
-Chromium trioxide,1000,Skeletonema costatum,ALGAE,TRUE
-Chromium trioxide,320,Tisbe battagliai,INVERT,TRUE
-Chromium trioxide,500,Wallago attu,FISH,TRUE
-Clofibric acid,246,Brachionus calyciflorus,INVERT,FALSE
-Clofibric acid,640,Ceriodaphnia dubia,INVERT,FALSE
-Clofibric acid,70000,Danio rerio,FISH,FALSE
-Clofibric acid,632.456,Daphnia magna,INVERT,FALSE
-Clofibric acid,100000,Dunaliella tertiolecta,ALGAE,FALSE
-Clofibric acid,16120,Gambusia holbrooki,FISH,FALSE
-Clofibric acid,9.6,Palaemon serratus,INVERT,FALSE
-Clofibric acid,50438.1,Pimephales promelas,FISH,FALSE
-Clofibric acid,2738.61,Raphidocelis subcapitata,ALGAE,FALSE
-Copper,100,Atherinops affinis,FISH,TRUE
-Copper,28.2086,Brachionus calyciflorus,INVERT,TRUE
-Copper,47.9388,Ceriodaphnia dubia,INVERT,TRUE
-Copper,22.9,Chlamydomonas reinhardtii,ALGAE,TRUE
-Copper,70.6858,Daphnia magna,INVERT,TRUE
-Copper,10,Daphnia pulex,INVERT,TRUE
-Copper,31.0584,Gasterosteus aculeatus,FISH,TRUE
-Copper,13,Hyalella azteca,INVERT,TRUE
-Copper,150,Lecane hamata,INVERT,TRUE
-Copper,20,Lecane luna,INVERT,TRUE
-Copper,50,Lecane quadridentata,INVERT,TRUE
-Copper,23.6223,Macrocystis pyrifera,ALGAE,TRUE
-Copper,22.3592,Oncorhynchus kisutch,FISH,TRUE
-Copper,21.271,Oncorhynchus mykiss,FISH,TRUE
-Copper,11.7,Oncorhynchus tshawytscha,FISH,TRUE
-Copper,8.94427,Oreochromis niloticus,FISH,TRUE
-Copper,28300,Pimephales promelas,FISH,TRUE
-Copper,66.5396,Raphidocelis subcapitata,ALGAE,TRUE
-Copper,108.512,Salvelinus fontinalis,FISH,TRUE
-Copper,2620,Scenedesmus acutus var. acutus,ALGAE,TRUE
-Copper,13,Ulva pertusa,ALGAE,TRUE
-Cupric oxide,20,Anabaena flos-aquae,ALGAE,TRUE
-Cupric oxide,115,Ankistrodesmus falcatus,ALGAE,TRUE
-Cupric oxide,32,Atherinops affinis,FISH,TRUE
-Cupric oxide,36.9994,Barbus ticto,FISH,TRUE
-Cupric oxide,14.0577,Brachionus calyciflorus,INVERT,TRUE
-Cupric oxide,20,Brachionus patulus,INVERT,TRUE
-Cupric oxide,100,Brachionus plicatilis,INVERT,TRUE
-Cupric oxide,9.4,Brachionus rubens,INVERT,TRUE
-Cupric oxide,22.2701,Ceriodaphnia dubia,INVERT,TRUE
-Cupric oxide,16.3,Chironomus tentans,INVERT,TRUE
-Cupric oxide,37.5642,Chlamydomonas reinhardtii,ALGAE,TRUE
-Cupric oxide,115,Chlamydomonas sp,ALGAE,TRUE
-Cupric oxide,4988.25,Chlorella fusca var vacuolata,ALGAE,TRUE
-Cupric oxide,468.755,Chlorella pyrenoidosa,ALGAE,TRUE
-Cupric oxide,160,Chlorella sorokiniana,ALGAE,TRUE
-Cupric oxide,7.59311,Chlorella sp,ALGAE,TRUE
-Cupric oxide,76.1294,Chlorella vulgaris,ALGAE,TRUE
-Cupric oxide,10000,Chlorococcum sp,ALGAE,TRUE
-Cupric oxide,44,Chydorus sphaericus,INVERT,TRUE
-Cupric oxide,100,Cirrhinus mrigala,FISH,TRUE
-Cupric oxide,9.25618,Cottus bairdi,FISH,TRUE
-Cupric oxide,120,Cyprinodon variegatus,FISH,TRUE
-Cupric oxide,3.28133,Danio rerio,FISH,TRUE
-Cupric oxide,22.6495,Daphnia ambigua,INVERT,TRUE
-Cupric oxide,31.9639,Daphnia galeata,INVERT,TRUE
-Cupric oxide,31.8897,Daphnia longispina,INVERT,TRUE
-Cupric oxide,33.8692,Daphnia magna,INVERT,TRUE
-Cupric oxide,3.77986,Daphnia pulex,INVERT,TRUE
-Cupric oxide,52.6513,Desmodesmus subspicatus,ALGAE,TRUE
-Cupric oxide,316.228,Dunaliella tertiolecta,ALGAE,TRUE
-Cupric oxide,14.7629,Erimonax monachus,FISH,TRUE
-Cupric oxide,6.5,Etheostoma fonticola,FISH,TRUE
-Cupric oxide,51.1,Eurytemora affinis,INVERT,TRUE
-Cupric oxide,32.3595,Fucus serratus,ALGAE,TRUE
-Cupric oxide,11,Gammarus pulex,INVERT,TRUE
-Cupric oxide,1.67332,Hydra viridissima,INVERT,TRUE
-Cupric oxide,4,Hydra vulgaris,INVERT,TRUE
-Cupric oxide,110.539,Ictalurus punctatus,FISH,TRUE
-Cupric oxide,33,Keratella quadrata,INVERT,TRUE
-Cupric oxide,15.8114,Laminaria saccharina,ALGAE,TRUE
-Cupric oxide,25.1425,Macrocystis pyrifera,ALGAE,TRUE
-Cupric oxide,0.3,Micromonas pusilla,ALGAE,TRUE
-Cupric oxide,20,Mogurnda mogurnda,FISH,TRUE
-Cupric oxide,284.551,Morone saxatilis,FISH,TRUE
-Cupric oxide,22,Morone saxatilis ssp. x chrysops,FISH,TRUE
-Cupric oxide,62.5,Navicula pelliculosa,ALGAE,TRUE
-Cupric oxide,58.5,Odontesthes bonariensis,FISH,TRUE
-Cupric oxide,282,Oncorhynchus kisutch,FISH,TRUE
-Cupric oxide,28.7758,Oncorhynchus mykiss,FISH,TRUE
-Cupric oxide,11.7,Oncorhynchus tshawytscha,FISH,TRUE
-Cupric oxide,718.368,Oreochromis niloticus,FISH,TRUE
-Cupric oxide,84.1083,Philodina sp,INVERT,TRUE
-Cupric oxide,18.9475,Pimephales promelas,FISH,TRUE
-Cupric oxide,11,Polyarthra sp,INVERT,TRUE
-Cupric oxide,5,Potamopyrgus jenkinsi,INVERT,TRUE
-Cupric oxide,5.72559,Prosopium williamsoni,FISH,TRUE
-Cupric oxide,34.5083,Raphidocelis subcapitata,ALGAE,TRUE
-Cupric oxide,162.685,Salvelinus confluentus,FISH,TRUE
-Cupric oxide,10.247,Salvelinus fontinalis,FISH,TRUE
-Cupric oxide,26.8621,Sander vitreus,FISH,TRUE
-Cupric oxide,10000,Scenedesmus abundans,ALGAE,TRUE
-Cupric oxide,798,Scenedesmus acuminatus,ALGAE,TRUE
-Cupric oxide,118.933,Scenedesmus acutus,ALGAE,TRUE
-Cupric oxide,55,Scenedesmus acutus var. acutus,ALGAE,TRUE
-Cupric oxide,170.371,Scenedesmus quadricauda,ALGAE,TRUE
-Cupric oxide,125,Skeletonema costatum,ALGAE,TRUE
-Cupric oxide,10,Staurastrum cristatum,ALGAE,TRUE
-Cupric oxide,15,Stigeoclonium tenue,ALGAE,TRUE
-Cupric oxide,0.691392,Synechococcus sp,ALGAE,TRUE
-Cupric oxide,3563,Tetrahymena pyriformis,INVERT,TRUE
-Cupric oxide,1.6,Tilapia guineensis,FISH,TRUE
-Cupric oxide,6,Tisbe battagliai,INVERT,TRUE
-Cupric oxide,27.3,Ulva fasciata,ALGAE,TRUE
-Cupric oxide,17.368,Ulva pertusa,ALGAE,TRUE
-Cupric oxide,5.6124,Ulva reticulata,ALGAE,TRUE
-Cybutryne,110,Americamysis bahia,INVERT,TRUE
-Cybutryne,0.519615,Anabaena flos-aquae,ALGAE,TRUE
-Cybutryne,0.507,Chlorella fusca var vacuolata,ALGAE,TRUE
-Cybutryne,0.1,Chlorococcum sp,ALGAE,TRUE
-Cybutryne,1,Chroococcus minor,ALGAE,TRUE
-Cybutryne,170,Cyprinodon variegatus,FISH,TRUE
-Cybutryne,0.412553,Desmodesmus subspicatus,ALGAE,TRUE
-Cybutryne,0.180185,Dunaliella tertiolecta,ALGAE,TRUE
-Cybutryne,2.39256,Eisenia bicyclis,ALGAE,TRUE
-Cybutryne,8,Fucus serratus,ALGAE,TRUE
-Cybutryne,0.05,Navicula pelliculosa,ALGAE,TRUE
-Cybutryne,0.064,Nitzschia pungens,ALGAE,TRUE
-Cybutryne,4,Oncorhynchus mykiss,FISH,TRUE
-Cybutryne,0.806226,Raphidocelis subcapitata,ALGAE,TRUE
-Cybutryne,0.14,Skeletonema costatum,ALGAE,TRUE
-Cybutryne,253,Synechococcus elongatus,ALGAE,TRUE
-Cymoxanil,180.555,Anabaena flos-aquae,ALGAE,FALSE
-Cymoxanil,2000,Chlorella pyrenoidosa,ALGAE,FALSE
-Cymoxanil,200,Chlorella vulgaris,ALGAE,FALSE
-Cymoxanil,500,Microcystis aeruginosa,ALGAE,FALSE
-Cymoxanil,1000,Microcystis flosaquae,ALGAE,FALSE
-Cymoxanil,0.98,Oncorhynchus mykiss,FISH,FALSE
-Cymoxanil,353.553,Raphidocelis subcapitata,ALGAE,FALSE
-Cymoxanil,2000,Scenedesmus acutus var. acutus,ALGAE,FALSE
-Cymoxanil,100,Scenedesmus quadricauda,ALGAE,FALSE
-Di(2-ethylhexyl) phthalate,400,Clarias gariepinus,FISH,FALSE
-Di(2-ethylhexyl) phthalate,75.7929,Danio rerio,FISH,FALSE
-Di(2-ethylhexyl) phthalate,227.141,Daphnia magna,INVERT,FALSE
-Di(2-ethylhexyl) phthalate,109,Eurytemora affinis,INVERT,FALSE
-Di(2-ethylhexyl) phthalate,306.704,Oncorhynchus mykiss,FISH,FALSE
-Di(2-ethylhexyl) phthalate,553.959,Oryzias latipes,FISH,FALSE
-Di(2-ethylhexyl) phthalate,292.402,Pelteobagrus fulvidraco,FISH,FALSE
-Di(2-ethylhexyl) phthalate,0.113646,Poecilia reticulata,FISH,FALSE
-Di(2-ethylhexyl) phthalate,100,Raphidocelis subcapitata,ALGAE,FALSE
-Diazinon,1000,Anabaena flos-aquae,ALGAE,TRUE
-Diazinon,0.175597,Ceriodaphnia dubia,INVERT,TRUE
-Diazinon,124.216,Channa striata,FISH,TRUE
-Diazinon,1000,Chlorella pyrenoidosa,ALGAE,TRUE
-Diazinon,1303.84,Chlorella vulgaris,ALGAE,TRUE
-Diazinon,4.3,Cyprinodon variegatus,FISH,TRUE
-Diazinon,31.6228,Cyprinus carpio,FISH,TRUE
-Diazinon,0.457532,Daphnia magna,INVERT,TRUE
-Diazinon,0.62,Daphnia pulex,INVERT,TRUE
-Diazinon,0.1,Daphnia sp,INVERT,TRUE
-Diazinon,12.3027,Lepomis macrochirus,FISH,TRUE
-Diazinon,10000,Microcystis aeruginosa,ALGAE,TRUE
-Diazinon,10000,Microcystis flosaquae,ALGAE,TRUE
-Diazinon,162.693,Pimephales promelas,FISH,TRUE
-Diazinon,1000,Raphidocelis subcapitata,ALGAE,TRUE
-Diazinon,1000,Scenedesmus acutus var. acutus,ALGAE,TRUE
-Diazinon,500,Scenedesmus quadricauda,ALGAE,TRUE
-Diazinon,79.1175,Tinca tinca,FISH,TRUE
-Dibutyl phthalate,50,Brachionus calyciflorus,INVERT,TRUE
-Dibutyl phthalate,1780,Chironomus tentans,INVERT,TRUE
-Dibutyl phthalate,100,Danio rerio,FISH,TRUE
-Dibutyl phthalate,620.654,Daphnia magna,INVERT,TRUE
-Dibutyl phthalate,500,Desmodesmus subspicatus,ALGAE,TRUE
-Dibutyl phthalate,152.441,Oncorhynchus mykiss,FISH,TRUE
-Dibutyl phthalate,1100,Oryzias latipes,FISH,TRUE
-Dibutyl phthalate,596.71,Pimephales promelas,FISH,TRUE
-Dibutyl phthalate,236.512,Raphidocelis subcapitata,ALGAE,TRUE
-Dibutyl phthalate,46,Salvelinus fontinalis,FISH,TRUE
-Dichlorvos,1000,Brachionus calyciflorus,INVERT,FALSE
-Dichlorvos,960,Cyprinodon variegatus,FISH,FALSE
-Dichlorvos,3674.25,Microcystis wesenbergii,ALGAE,FALSE
-Dichlorvos,5.2,Oncorhynchus mykiss,FISH,FALSE
-Dichlorvos,89.0315,Pimephales promelas,FISH,FALSE
-Dichlorvos,7118.15,Raphidocelis subcapitata,ALGAE,FALSE
-Dicofol,200,Brachionus calyciflorus,INVERT,FALSE
-Dicofol,78.8319,Daphnia magna,INVERT,FALSE
-Dicofol,19,Hyalella azteca,INVERT,FALSE
-Dicofol,4.46568,Oncorhynchus mykiss,FISH,FALSE
-Dicofol,9.2671500000000009,Pimephales promelas,FISH,FALSE
-Dicofol,3500,Raphidocelis subcapitata,ALGAE,FALSE
-Dimethenamid,96,Anabaena flos-aquae,ALGAE,FALSE
-Dimethenamid,961.665,Daphnia magna,INVERT,FALSE
-Dimethenamid,40,Desmodesmus subspicatus,ALGAE,FALSE
-Dimethenamid,1200,Navicula pelliculosa,ALGAE,FALSE
-Dimethenamid,263.818,Oncorhynchus mykiss,FISH,FALSE
-Dimethenamid,4,Raphidocelis subcapitata,ALGAE,FALSE
-Dimethenamid,4,Skeletonema costatum,ALGAE,FALSE
-Dimethenamid,23.2,Synechococcus sp,ALGAE,FALSE
-Dimethipin,13600,Anabaena flos-aquae,ALGAE,FALSE
-Dimethipin,1209.96,Daphnia magna,INVERT,FALSE
-Dimethipin,11300,Nitzschia palea,ALGAE,FALSE
-Dimethipin,12000,Pimephales promelas,FISH,FALSE
-Dimethipin,2500,Raphidocelis subcapitata,ALGAE,FALSE
-Dimethipin,7300,Skeletonema costatum,ALGAE,FALSE
-Dimethoate,600,Brachionus calyciflorus,INVERT,FALSE
-Dimethoate,320,Culex pipiens,INVERT,FALSE
-Dimethoate,3100,Danio rerio,FISH,FALSE
-Dimethoate,63.4974,Daphnia magna,INVERT,FALSE
-Dimethoate,430,Oncorhynchus mykiss,FISH,FALSE
-Dimethoate,10000,Oreochromis niloticus,FISH,FALSE
-Dimethoate,19700,Raphidocelis subcapitata,ALGAE,FALSE
-Dinoseb,240,Chlamydomonas eugametos,ALGAE,FALSE
-Dinoseb,14400,Chlamydomonas moewusii,ALGAE,FALSE
-Dinoseb,62,Daphnia magna,INVERT,FALSE
-Dinoseb,83.8171,Pimephales promelas,FISH,FALSE
-Dinoseb,261.534,Raphidocelis subcapitata,ALGAE,FALSE
-Dinoseb,4.9,Salvelinus namaycush,FISH,FALSE
-Diuron,270,Americamysis bahia,INVERT,TRUE
-Diuron,10,Ceriodaphnia dubia,INVERT,TRUE
-Diuron,6990,Chlamydomonas moewusii,ALGAE,TRUE
-Diuron,6,Daphnia magna,INVERT,TRUE
-Diuron,4000,Daphnia pulex,INVERT,TRUE
-Diuron,8.87904,Desmodesmus subspicatus,ALGAE,TRUE
-Diuron,0.283,Nitzschia pungens,ALGAE,TRUE
-Diuron,0.0866,Oreochromis niloticus,FISH,TRUE
-Diuron,21.1857,Pimephales promelas,FISH,TRUE
-Diuron,1.22089,Raphidocelis subcapitata,ALGAE,TRUE
-Diuron,0.21,Synechococcus sp,ALGAE,TRUE
-Endosulfan,875,Brachionus calyciflorus,INVERT,TRUE
-Endosulfan,10,Ceriodaphnia dubia,INVERT,TRUE
-Endosulfan,10,Ceriodaphnia sp,INVERT,TRUE
-Endosulfan,8.1,Channa punctata,FISH,TRUE
-Endosulfan,0.34147,Cyprinodon variegatus,FISH,TRUE
-Endosulfan,49,Daphnia cephalata,INVERT,TRUE
-Endosulfan,2.7,Daphnia magna,INVERT,TRUE
-Endosulfan,6.4,Daphnia pulex,INVERT,TRUE
-Endosulfan,1,Gambusia affinis,FISH,TRUE
-Endosulfan,0.06,Hydra viridissima,INVERT,TRUE
-Endosulfan,0.04,Hydra vulgaris,INVERT,TRUE
-Endosulfan,0.25,Labeo rohita,FISH,TRUE
-Endosulfan,20,Moinodaphnia macleayi,INVERT,TRUE
-Endosulfan,0.1,Mytilus edulis,INVERT,TRUE
-Endosulfan,0.113695,Oryzias latipes,FISH,TRUE
-Endosulfan,0.2,Pimephales promelas,FISH,TRUE
-Endosulfan,130,Raphidocelis subcapitata,ALGAE,TRUE
-Endosulfan,50,Simocephalus exspinosus,INVERT,TRUE
-Endothal-dipotassium,1110.37,Anabaena flos-aquae,ALGAE,FALSE
-Endothal-dipotassium,3600,Navicula pelliculosa,ALGAE,FALSE
-Endothal-dipotassium,7580,Oncorhynchus kisutch,FISH,FALSE
-Endothal-dipotassium,8782.08,Oncorhynchus mykiss,FISH,FALSE
-Endothal-dipotassium,7580,Oncorhynchus tshawytscha,FISH,FALSE
-Endothal-dipotassium,3800,Raphidocelis subcapitata,ALGAE,FALSE
-Endothal-dipotassium,9000,Skeletonema costatum,ALGAE,FALSE
-Esfenvalerate,3,Chydorus sp,INVERT,FALSE
-Esfenvalerate,0.0222551,Daphnia sp,INVERT,FALSE
-Esfenvalerate,0.0736806,Lepomis macrochirus,FISH,FALSE
-Esfenvalerate,0.0894427,Oncorhynchus tshawytscha,FISH,FALSE
-Esfenvalerate,5,Phoxinus eos,FISH,FALSE
-Esfenvalerate,0.072,Pimephales promelas,FISH,FALSE
-Esfenvalerate,0.948683,Scapholeberis sp,INVERT,FALSE
-Esfenvalerate,0.3,Simocephalus sp,INVERT,FALSE
-Ethanol,4978.66,Ceriodaphnia dubia,INVERT,FALSE
-Ethanol,983.676,Daphnia magna,INVERT,FALSE
-Ethanol,9600000,Dunaliella tertiolecta,ALGAE,FALSE
-Ethanol,4100000,Pavlova lutheri,ALGAE,FALSE
-Ethanol,3240000,Skeletonema costatum,ALGAE,FALSE
-Ethanol,4990,Ulva pertusa,ALGAE,FALSE
-Fenbutatin oxide,207.364,Anabaena flos-aquae,ALGAE,TRUE
-Fenbutatin oxide,100,Chlorella pyrenoidosa,ALGAE,TRUE
-Fenbutatin oxide,500,Chlorella vulgaris,ALGAE,TRUE
-Fenbutatin oxide,16,Daphnia magna,INVERT,TRUE
-Fenbutatin oxide,100,Microcystis aeruginosa,ALGAE,TRUE
-Fenbutatin oxide,20,Microcystis flosaquae,ALGAE,TRUE
-Fenbutatin oxide,0.31,Oncorhynchus mykiss,FISH,TRUE
-Fenbutatin oxide,419.524,Raphidocelis subcapitata,ALGAE,TRUE
-Fenbutatin oxide,100,Scenedesmus acutus var. acutus,ALGAE,TRUE
-Fenbutatin oxide,20,Scenedesmus quadricauda,ALGAE,TRUE
-Fenitrothion,100,Anabaena sp,ALGAE,TRUE
-Fenitrothion,100,Ankistrodesmus falcatus,ALGAE,TRUE
-Fenitrothion,5000,Chlamydomonas reinhardtii,ALGAE,TRUE
-Fenitrothion,100,Chlamydomonas segnis,ALGAE,TRUE
-Fenitrothion,1700,Chlorella saccharophila,ALGAE,TRUE
-Fenitrothion,4600,Chlorella vulgaris,ALGAE,TRUE
-Fenitrothion,0.0158694,Daphnia magna,INVERT,TRUE
-Fenitrothion,489.898,Desmodesmus subspicatus,ALGAE,TRUE
-Fenitrothion,65.69,Oncorhynchus mykiss,FISH,TRUE
-Fenitrothion,67,Oryzias latipes,FISH,TRUE
-Fenitrothion,300,Pimephales promelas,FISH,TRUE
-Fenitrothion,460,Pseudanabaena galeata,ALGAE,TRUE
-Fenitrothion,100,Raphidocelis subcapitata,ALGAE,TRUE
-Fenitrothion,158.114,Scenedesmus acutus,ALGAE,TRUE
-Fenitrothion,100,Scenedesmus acutus var. acutus,ALGAE,TRUE
-Fenitrothion,100,Staurastrum sp,ALGAE,TRUE
-Fenthion,0.037,Americamysis bahia,INVERT,FALSE
-Fenthion,3800,Anabaena flos-aquae,ALGAE,FALSE
-Fenthion,0.163875,Daphnia magna,INVERT,FALSE
-Fenthion,600,Daphnia pulex,INVERT,FALSE
-Fenthion,200,Navicula pelliculosa,ALGAE,FALSE
-Fenthion,7.5,Oncorhynchus mykiss,FISH,FALSE
-Fenthion,131.27,Pimephales promelas,FISH,FALSE
-Fenthion,700,Raphidocelis subcapitata,ALGAE,FALSE
-Fenthion,190,Skeletonema costatum,ALGAE,FALSE
-Ferric sulfate,3000,Chlorella vulgaris,ALGAE,FALSE
-Ferric sulfate,2000,Daphnia longispina,INVERT,FALSE
-Ferric sulfate,10000,Daphnia magna,INVERT,FALSE
-Ferric sulfate,700,Daphnia pulex,INVERT,FALSE
-Ferric sulfate,28724.3,Oreochromis mossambicus,FISH,FALSE
-Ferric sulfate,320,Pimephales promelas,FISH,FALSE
-Ferric sulfate,53441.6,Raphidocelis subcapitata,ALGAE,FALSE
-Fipronil,0.005,Americamysis bahia,INVERT,TRUE
-Fipronil,170,Anabaena flos-aquae,ALGAE,TRUE
-Fipronil,60,Ceriodaphnia dubia,INVERT,TRUE
-Fipronil,0.24,Cyprinodon variegatus,FISH,TRUE
-Fipronil,9.6,Daphnia magna,INVERT,TRUE
-Fipronil,30,Daphnia pulex,INVERT,TRUE
-Fipronil,250,Dunaliella tertiolecta,ALGAE,TRUE
-Fipronil,120,Navicula pelliculosa,ALGAE,TRUE
-Fipronil,6.6,Oncorhynchus mykiss,FISH,TRUE
-Fipronil,192,Pimephales promelas,FISH,TRUE
-Fipronil,140,Skeletonema costatum,ALGAE,TRUE
-Fluazinam,72,Anabaena flos-aquae,ALGAE,TRUE
-Fluazinam,0.5,Chlorella pyrenoidosa,ALGAE,TRUE
-Fluazinam,10,Chlorella vulgaris,ALGAE,TRUE
-Fluazinam,68,Daphnia magna,INVERT,TRUE
-Fluazinam,11.6289,Keratella quadrata,INVERT,TRUE
-Fluazinam,21.4653,Lecane flexilis,INVERT,TRUE
-Fluazinam,32.3,Lecane lunaris,INVERT,TRUE
-Fluazinam,32.3,Oscillatoria limnetica,ALGAE,TRUE
-Fluazinam,14.265,Oscillatoria sp,ALGAE,TRUE
-Fluazinam,3.1836,Pimephales promelas,FISH,TRUE
-Fluazinam,6.3,Polyarthra remata,INVERT,TRUE
-Fluazinam,4.89898,Raphidocelis subcapitata,ALGAE,TRUE
-Fluazinam,20,Scenedesmus acutus var. acutus,ALGAE,TRUE
-Fluazinam,10,Scenedesmus quadricauda,ALGAE,TRUE
-Flumetsulam,120,Anabaena flos-aquae,ALGAE,FALSE
-Flumetsulam,111000,Daphnia magna,INVERT,FALSE
-Flumetsulam,21800,Navicula pelliculosa,ALGAE,FALSE
-Flumetsulam,197000,Pimephales promelas,FISH,FALSE
-Flumetsulam,0.36,Raphidocelis subcapitata,ALGAE,FALSE
-Flumetsulam,29500,Scenedesmus costatum,ALGAE,FALSE
-Fluometuron,124.097,Anabaena flos-aquae,ALGAE,FALSE
-Fluometuron,1730,Daphnia magna,INVERT,FALSE
-Fluometuron,107,Nitzschia sp,ALGAE,FALSE
-Fluometuron,3100,Pimephales promelas,FISH,FALSE
-Fluometuron,180,Raphidocelis subcapitata,ALGAE,FALSE
-Fluometuron,410,Skeletonema costatum,ALGAE,FALSE
-Fluoranthene,19,Ankistrodesmus sp,ALGAE,FALSE
-Fluoranthene,12.7,Chlorella fusca var vacuolata,ALGAE,FALSE
-Fluoranthene,16.364,Daphnia magna,INVERT,FALSE
-Fluoranthene,6.29951,Pimephales promelas,FISH,FALSE
-Fluoranthene,41.7,Raphidocelis subcapitata,ALGAE,FALSE
-Fluoranthene,115,Stylaria lacustris,INVERT,FALSE
-Fluoxetine hydrochloride,62.2,Ceriodaphnia dubia,INVERT,FALSE
-Fluoxetine hydrochloride,58.1752,Daphnia magna,INVERT,FALSE
-Fluoxetine hydrochloride,20.153,Gambusia affinis,FISH,FALSE
-Fluoxetine hydrochloride,7.57536,Oryzias latipes,FISH,FALSE
-Fluoxetine hydrochloride,0.283337,Pimephales promelas,FISH,FALSE
-Fluoxetine hydrochloride,30.2,Raphidocelis subcapitata,ALGAE,FALSE
-Flutolanil,11.3,Americamysis bahia,INVERT,FALSE
-Flutolanil,8000,Anabaena flos-aquae,ALGAE,FALSE
-Flutolanil,530,Daphnia magna,INVERT,FALSE
-Flutolanil,800,Navicula pelliculosa,ALGAE,FALSE
-Flutolanil,233,Pimephales promelas,FISH,FALSE
-Flutolanil,8000,Raphidocelis subcapitata,ALGAE,FALSE
-Fonofos,0.052,Americamysis bahia,INVERT,FALSE
-Fonofos,3.42,Chironomus riparius,INVERT,FALSE
-Fonofos,2.7,Cyprinodon variegatus,FISH,FALSE
-Fonofos,0.28,Daphnia magna,INVERT,FALSE
-Fonofos,2.33,Lepomis macrochirus,FISH,FALSE
-Fonofos,4.7,Oncorhynchus mykiss,FISH,FALSE
-Fonofos,2.5,Pimephales promelas,FISH,FALSE
-Gemfibrozil,156,Brachionus calyciflorus,INVERT,FALSE
-Gemfibrozil,78,Ceriodaphnia dubia,INVERT,FALSE
-Gemfibrozil,12500,Chlorella vulgaris,ALGAE,FALSE
-Gemfibrozil,7500,Daphnia magna,INVERT,FALSE
-Gemfibrozil,400,Oryzias latipes,FISH,FALSE
-Gemfibrozil,3130,Raphidocelis subcapitata,ALGAE,FALSE
-Glyphosate,12000,Anabaena flos-aquae,ALGAE,TRUE
-Glyphosate,2000,Brachionus calyciflorus,INVERT,TRUE
-Glyphosate,10,Ceriodaphnia dubia,INVERT,TRUE
-Glyphosate,6.9,Ceriodaphnia sp,INVERT,TRUE
-Glyphosate,9030,Cherax quadricarinatus,INVERT,TRUE
-Glyphosate,16900,Chlamydomonas eugametos,ALGAE,TRUE
-Glyphosate,108000,Chlorella pyrenoidosa,ALGAE,TRUE
-Glyphosate,390,Chlorella saccharophila,ALGAE,TRUE
-Glyphosate,11800,Chlorella vulgaris,ALGAE,TRUE
-Glyphosate,610,Coenagrion pulchellum,INVERT,TRUE
-Glyphosate,100,Crassostrea gigas,INVERT,TRUE
-Glyphosate,6.9,Daphnia pulex,INVERT,TRUE
-Glyphosate,100,Desmodesmus subspicatus,ALGAE,TRUE
-Glyphosate,100,Gasterosteus aculeatus,FISH,TRUE
-Glyphosate,60866.6,Isochrysis galbana,ALGAE,TRUE
-Glyphosate,500,Jenynsia multidentata,FISH,TRUE
-Glyphosate,24980,Lecane quadridentata,INVERT,TRUE
-Glyphosate,11800,Microcystis aeruginosa,ALGAE,TRUE
-Glyphosate,895.02,Microcystis sp,ALGAE,TRUE
-Glyphosate,1270,Neohelice granulata,INVERT,TRUE
-Glyphosate,11800,Nostoc commune,ALGAE,TRUE
-Glyphosate,10,Pimephales promelas,FISH,TRUE
-Glyphosate,21526,Pomacea canaliculata,INVERT,TRUE
-Glyphosate,6086.66,Prorocentrum minimum,ALGAE,TRUE
-Glyphosate,316.228,Prymnesium parvum,ALGAE,TRUE
-Glyphosate,43.4067,Raphidocelis subcapitata,ALGAE,TRUE
-Glyphosate,2000,Scenedesmus acutus,ALGAE,TRUE
-Glyphosate,549.7,Scenedesmus quadricauda,ALGAE,TRUE
-Glyphosate,6086.66,Skeletonema costatum,ALGAE,TRUE
-Glyphosate,11800,Spirulina platensis,ALGAE,TRUE
-Glyphosate-isopropylamine,2390,Achnanthidium sp,ALGAE,TRUE
-Glyphosate-isopropylamine,6500,Aeshna cyanea,INVERT,TRUE
-Glyphosate-isopropylamine,3450,Alona sp,INVERT,TRUE
-Glyphosate-isopropylamine,3800,Ceriodaphnia sp,INVERT,TRUE
-Glyphosate-isopropylamine,1044.7,Chlamydomonas sp,ALGAE,TRUE
-Glyphosate-isopropylamine,16443.8,Chlorella vulgaris,ALGAE,TRUE
-Glyphosate-isopropylamine,590,Coenagrion pulchellum,INVERT,TRUE
-Glyphosate-isopropylamine,100,Crassostrea gigas,INVERT,TRUE
-Glyphosate-isopropylamine,2120.38,Daphnia magna,INVERT,TRUE
-Glyphosate-isopropylamine,225000,Gayralia oxysperma,ALGAE,TRUE
-Glyphosate-isopropylamine,11180.3,Lampsilis siliquoidea,INVERT,TRUE
-Glyphosate-isopropylamine,5000,Leporinus obtusidens,FISH,TRUE
-Glyphosate-isopropylamine,3470.83,Leptolyngbya sp,ALGAE,TRUE
-Glyphosate-isopropylamine,2300,Macrothrix spinosa,INVERT,TRUE
-Glyphosate-isopropylamine,3450,Moina sp,INVERT,TRUE
-Glyphosate-isopropylamine,19100,Navicula pelliculosa,ALGAE,TRUE
-Glyphosate-isopropylamine,402.621,Neohelice granulata,INVERT,TRUE
-Glyphosate-isopropylamine,5450,Ochromonas sp,ALGAE,TRUE
-Glyphosate-isopropylamine,85.5034,Oncorhynchus mykiss,FISH,TRUE
-Glyphosate-isopropylamine,50000,Parachlorella kessleri,ALGAE,TRUE
-Glyphosate-isopropylamine,2,Perccottus glenii,FISH,TRUE
-Glyphosate-isopropylamine,15600,Pithophora oedogonia,ALGAE,TRUE
-Glyphosate-isopropylamine,100,Prymnesium parvum,ALGAE,TRUE
-Glyphosate-isopropylamine,1400,Raphidocelis subcapitata,ALGAE,TRUE
-Glyphosate-isopropylamine,3800,Scapholeberis sp,INVERT,TRUE
-Glyphosate-isopropylamine,3200,Scenedesmus acutus,ALGAE,TRUE
-Glyphosate-isopropylamine,1250,Scenedesmus quadricauda,ALGAE,TRUE
-Glyphosate-isopropylamine,240,Skeletonema costatum,ALGAE,TRUE
-Glyphosate-isopropylamine,16443.8,Spirulina platensis,ALGAE,TRUE
-Glyphosate-isopropylamine,1361.25,Staurastrum sp,ALGAE,TRUE
-Glyphosate-isopropylamine,5450,Tetraedron minimum,ALGAE,TRUE
-Halofenozide,100,Americamysis bahia,INVERT,FALSE
-Halofenozide,1600,Cyprinodon variegatus,FISH,FALSE
-Halofenozide,30,Daphnia magna,INVERT,FALSE
-Halofenozide,28.6,Gambusia affinis,FISH,FALSE
-Halofenozide,450,Pimephales promelas,FISH,FALSE
-Halofenozide,100,Raphidocelis subcapitata,ALGAE,FALSE
-Halosulfuron-methyl,100,Anabaena flos-aquae,ALGAE,FALSE
-Halosulfuron-methyl,980,Daphnia magna,INVERT,FALSE
-Halosulfuron-methyl,350,Navicula pelliculosa,ALGAE,FALSE
-Halosulfuron-methyl,34000,Oncorhynchus mykiss,FISH,FALSE
-Halosulfuron-methyl,1.3,Raphidocelis subcapitata,ALGAE,FALSE
-Halosulfuron-methyl,400,Skeletonema costatum,ALGAE,FALSE
-Hexaconazole,1000,Anabaena flos-aquae,ALGAE,FALSE
-Hexaconazole,100,Chlorella pyrenoidosa,ALGAE,FALSE
-Hexaconazole,200,Chlorella vulgaris,ALGAE,FALSE
-Hexaconazole,375,Dunaliella tertiolecta,ALGAE,FALSE
-Hexaconazole,20,Microcystis aeruginosa,ALGAE,FALSE
-Hexaconazole,500,Microcystis flosaquae,ALGAE,FALSE
-Hexaconazole,600,Pimephales promelas,FISH,FALSE
-Hexaconazole,200,Raphidocelis subcapitata,ALGAE,FALSE
-Hexaconazole,200,Scenedesmus acutus var. acutus,ALGAE,FALSE
-Hexaconazole,100,Scenedesmus quadricauda,ALGAE,FALSE
-Hexazinone,150,Anabaena flos-aquae,ALGAE,FALSE
-Hexazinone,7.5,Danio rerio,FISH,FALSE
-Hexazinone,20000,Daphnia magna,INVERT,FALSE
-Hexazinone,5623.41,Keratella cochlearis,INVERT,FALSE
-Hexazinone,17000,Pimephales promelas,FISH,FALSE
-Hexazinone,4,Raphidocelis subcapitata,ALGAE,FALSE
-Hexazinone,18.6868,Salmo salar,FISH,FALSE
-Ibuprofen,35000,Chlorella vulgaris,ALGAE,FALSE
-Ibuprofen,1,Danio rerio,FISH,FALSE
-Ibuprofen,10018.6,Daphnia magna,INVERT,FALSE
-Ibuprofen,5000,Hydra attenuata,INVERT,FALSE
-Ibuprofen,224,Ictalurus punctatus,FISH,FALSE
-Ibuprofen,42044.8,Moina macrocopa,INVERT,FALSE
-Ibuprofen,231.013,Oryzias latipes,FISH,FALSE
-Ibuprofen,413.59,Pimephales promelas,FISH,FALSE
-Ibuprofen,10,Raphidocelis subcapitata,ALGAE,FALSE
-Imazapyr,9600,Anabaena flos-aquae,ALGAE,FALSE
-Imazapyr,97100,Daphnia magna,INVERT,FALSE
-Imazapyr,41000,Navicula pelliculosa,ALGAE,FALSE
-Imazapyr,43100,Oncorhynchus mykiss,FISH,FALSE
-Imazapyr,50900,Raphidocelis subcapitata,ALGAE,FALSE
-Imazapyr,15900,Skeletonema costatum,ALGAE,FALSE
-Lead nitrate,4.34741,Ceriodaphnia dubia,INVERT,TRUE
-Lead nitrate,61.6441,Chlorella pyrenoidosa,ALGAE,TRUE
-Lead nitrate,2000,Chlorella vulgaris,ALGAE,TRUE
-Lead nitrate,14.3097,Danio rerio,FISH,TRUE
-Lead nitrate,388.197,Daphnia magna,INVERT,TRUE
-Lead nitrate,559.017,Daphnia similis,INVERT,TRUE
-Lead nitrate,14.6204,Oncorhynchus mykiss,FISH,TRUE
-Lead nitrate,6620,Oreochromis niloticus,FISH,TRUE
-Lead nitrate,60,Raphidocelis subcapitata,ALGAE,TRUE
-Lead nitrate,2644.6,Salvelinus fontinalis,FISH,TRUE
-Lead nitrate,1090,Scenedesmus acutus var. acutus,ALGAE,TRUE
-Lead nitrate,427.494,Ulva pertusa,ALGAE,TRUE
-Lindane,1000,Anabaena variabilis,ALGAE,TRUE
-Lindane,0.8,Baetis sp,INVERT,TRUE
-Lindane,12,Brachionus angularis,INVERT,TRUE
-Lindane,55,Brachionus rubens,INVERT,TRUE
-Lindane,7.70476,Ceriodaphnia dubia,INVERT,TRUE
-Lindane,1.1,Chironomus riparius,INVERT,TRUE
-Lindane,1525.06,Chlamydomonas reinhardtii,ALGAE,TRUE
-Lindane,100,Chlorella vulgaris,ALGAE,TRUE
-Lindane,131.037,Daphnia magna,INVERT,TRUE
-Lindane,1348.1,Desmodesmus subspicatus,ALGAE,TRUE
-Lindane,1.46151,Gammarus pulex,INVERT,TRUE
-Lindane,10000,Nostoc commune,ALGAE,TRUE
-Lindane,2.9,Oncorhynchus mykiss,FISH,TRUE
-Lindane,21,Pimephales promelas,FISH,TRUE
-Lindane,610,Tetrahymena pyriformis,INVERT,TRUE
-Linuron,12.8,Anabaena flos-aquae,ALGAE,TRUE
-Linuron,150,Asellus aquaticus,INVERT,TRUE
-Linuron,50,Brachionus calyciflorus,INVERT,TRUE
-Linuron,4980,Chlamydomonas moewusii,ALGAE,TRUE
-Linuron,27.5634,Chlamydomonas sp,ALGAE,TRUE
-Linuron,0.334,Chlorella fusca var vacuolata,ALGAE,TRUE
-Linuron,15.6508,Chlorella vulgaris,ALGAE,TRUE
-Linuron,14.7,Cocconeis sp,ALGAE,TRUE
-Linuron,23.6432,Daphnia magna,INVERT,TRUE
-Linuron,150,Dugesia gonocephala,INVERT,TRUE
-Linuron,50,Moina micrura,INVERT,TRUE
-Linuron,15,Monoraphidium sp,ALGAE,TRUE
-Linuron,5.79,Navicula pelliculosa,ALGAE,TRUE
-Linuron,42,Oncorhynchus mykiss,FISH,TRUE
-Linuron,50,Pediastrum duplex,ALGAE,TRUE
-Linuron,13.1951,Raphidocelis subcapitata,ALGAE,TRUE
-Linuron,15,Scenedesmus quadricauda,ALGAE,TRUE
-Linuron,40.1,Simocephalus vetulus,INVERT,TRUE
-Linuron,5.35,Skeletonema costatum,ALGAE,TRUE
-Malathion,66,Alona guttata,INVERT,TRUE
-Malathion,25000,Anabaena variabilis,ALGAE,TRUE
-Malathion,22900,Brachionus rubens,INVERT,TRUE
-Malathion,167.332,Carassius auratus,FISH,TRUE
-Malathion,0.38,Ceriodaphnia dubia,INVERT,TRUE
-Malathion,320,Ceriodaphnia sp,INVERT,TRUE
-Malathion,500,Channa punctata,FISH,TRUE
-Malathion,1859.61,Clarias gariepinus,FISH,TRUE
-Malathion,12.7279,Cyprinodon variegatus,FISH,TRUE
-Malathion,1000,Danio rerio,FISH,TRUE
-Malathion,0.21916,Daphnia magna,INVERT,TRUE
-Malathion,5.8,Daphnia pulex,INVERT,TRUE
-Malathion,2000,Gila elegans,FISH,TRUE
-Malathion,9.59009,Oncorhynchus mykiss,FISH,TRUE
-Malathion,2000,Oreochromis niloticus,FISH,TRUE
-Malathion,200,Oryzias latipes,FISH,TRUE
-Malathion,200,Pimephales promelas,FISH,TRUE
-Malathion,1680,Ptychocheilus lucius,FISH,TRUE
-Malathion,1200,Raphidocelis subcapitata,ALGAE,TRUE
-Malathion,320,Scapholeberis sp,INVERT,TRUE
-Maneb,1,Chlorella pyrenoidosa,ALGAE,FALSE
-Maneb,10,Chlorella vulgaris,ALGAE,FALSE
-Maneb,56,Oncorhynchus mykiss,FISH,FALSE
-Maneb,200,Raphidocelis subcapitata,ALGAE,FALSE
-Maneb,1000,Scenedesmus acutus var. acutus,ALGAE,FALSE
-Maneb,10,Scenedesmus quadricauda,ALGAE,FALSE
-Manganese lactate,4500,Chlorella vulgaris,ALGAE,FALSE
-Manganese lactate,3900,Daphnia magna,INVERT,FALSE
-Manganese lactate,830.662,Oncorhynchus mykiss,FISH,FALSE
-Manganese lactate,3561.92,Pimephales promelas,FISH,FALSE
-Manganese lactate,1549.01,Salmo trutta,FISH,FALSE
-Manganese lactate,5200,Scenedesmus quadricauda,ALGAE,FALSE
-Manganese lactate,2300,Tilapia guineensis,FISH,FALSE
-Mepiquat chloride,200,Anabaena flos-aquae,ALGAE,FALSE
-Mepiquat chloride,6250,Daphnia magna,INVERT,FALSE
-Mepiquat chloride,200,Navicula pelliculosa,ALGAE,FALSE
-Mepiquat chloride,100000,Oncorhynchus mykiss,FISH,FALSE
-Mepiquat chloride,200,Raphidocelis subcapitata,ALGAE,FALSE
-Mepiquat chloride,200,Skeletonema costatum,ALGAE,FALSE
-Mercuric nitrate,1.35,Brachionus patulus,INVERT,FALSE
-Mercuric nitrate,10,Brachionus plicatilis,INVERT,FALSE
-Mercuric nitrate,18,Chlorella vulgaris,ALGAE,FALSE
-Mercuric nitrate,1.63074,Danio rerio,FISH,FALSE
-Mercuric nitrate,4.2677,Daphnia magna,INVERT,FALSE
-Mercuric nitrate,0.46024,Pimephales promelas,FISH,FALSE
-Metalaxyl,100000,Anabaena flos-aquae,ALGAE,TRUE
-Metalaxyl,20000,Chlorella pyrenoidosa,ALGAE,TRUE
-Metalaxyl,20000,Chlorella vulgaris,ALGAE,TRUE
-Metalaxyl,588.566,Daphnia magna,INVERT,TRUE
-Metalaxyl,200000,Microcystis aeruginosa,ALGAE,TRUE
-Metalaxyl,5000,Microcystis flosaquae,ALGAE,TRUE
-Metalaxyl,9100,Pimephales promelas,FISH,TRUE
-Metalaxyl,11892.1,Raphidocelis subcapitata,ALGAE,TRUE
-Metalaxyl,5000,Scenedesmus acutus var. acutus,ALGAE,TRUE
-Metalaxyl,2000,Scenedesmus quadricauda,ALGAE,TRUE
-Methidathion,0.02,Americamysis bahia,INVERT,TRUE
-Methidathion,10000,Anabaena flos-aquae,ALGAE,TRUE
-Methidathion,2000,Chlorella pyrenoidosa,ALGAE,TRUE
-Methidathion,5000,Chlorella vulgaris,ALGAE,TRUE
-Methidathion,0.574456,Daphnia magna,INVERT,TRUE
-Methidathion,2000,Microcystis aeruginosa,ALGAE,TRUE
-Methidathion,5000,Microcystis flosaquae,ALGAE,TRUE
-Methidathion,6.23262,Pimephales promelas,FISH,TRUE
-Methidathion,500,Raphidocelis subcapitata,ALGAE,TRUE
-Methidathion,5000,Scenedesmus acutus var. acutus,ALGAE,TRUE
-Methidathion,5000,Scenedesmus quadricauda,ALGAE,TRUE
-Methyl parathion,0.99,Ceriodaphnia dubia,INVERT,FALSE
-Methyl parathion,418.353,Chlamydomonas reinhardtii,ALGAE,FALSE
-Methyl parathion,8.86,Cyprinodon variegatus,FISH,FALSE
-Methyl parathion,0.629149,Daphnia magna,INVERT,FALSE
-Methyl parathion,8000,Desmodesmus subspicatus,ALGAE,FALSE
-Methyl parathion,8000,Pimephales promelas,FISH,FALSE
-Methyl parathion,2050,Tetrahymena pyriformis,INVERT,FALSE
-Metolachlor,63,Anabaena flos-aquae,ALGAE,TRUE
-Metolachlor,6250,Ceriodaphnia dubia,INVERT,TRUE
-Metolachlor,7.4,Ceriodaphnia sp,INVERT,TRUE
-Metolachlor,188,Chlamydomonas sp,ALGAE,TRUE
-Metolachlor,120,Chlorella fusca var vacuolata,ALGAE,TRUE
-Metolachlor,10,Chlorella pyrenoidosa,ALGAE,TRUE
-Metolachlor,75,Chlorella sp,ALGAE,TRUE
-Metolachlor,1000,Cyprinodon variegatus,FISH,TRUE
-Metolachlor,1533.98,Daphnia magna,INVERT,TRUE
-Metolachlor,7.4,Daphnia pulex,INVERT,TRUE
-Metolachlor,750,Microcystis sp,ALGAE,TRUE
-Metolachlor,370,Navicula pelliculosa,ALGAE,TRUE
-Metolachlor,780,Pimephales promelas,FISH,TRUE
-Metolachlor,17.5086,Raphidocelis subcapitata,ALGAE,TRUE
-Metolachlor,120,Scenedesmus sp,ALGAE,TRUE
-Metolachlor,1.7,Skeletonema costatum,ALGAE,TRUE
-Metolachlor,5,Skeletonema marinoi,ALGAE,TRUE
-Metribuzin,9.7,Anabaena flos-aquae,ALGAE,FALSE
-Metribuzin,375,Anabaena sp,ALGAE,FALSE
-Metribuzin,6250,Ceriodaphnia dubia,INVERT,FALSE
-Metribuzin,16068.1,Cyprinus carpio,FISH,FALSE
-Metribuzin,1223.27,Daphnia magna,INVERT,FALSE
-Metribuzin,5.74222,Raphidocelis subcapitata,ALGAE,FALSE
-Metribuzin,38,Scenedesmus sp,ALGAE,FALSE
-Metribuzin,5.8,Skeletonema costatum,ALGAE,FALSE
-Molinate,950,Anabaena flos-aquae,ALGAE,TRUE
-Molinate,629.961,Brachionus calyciflorus,INVERT,TRUE
-Molinate,18700,Chlamydomonas eugametos,ALGAE,TRUE
-Molinate,2400,Chlorella saccharophila,ALGAE,TRUE
-Molinate,17600,Chlorella vulgaris,ALGAE,TRUE
-Molinate,324.511,Daphnia magna,INVERT,TRUE
-Molinate,370,Desmodesmus subspicatus,ALGAE,TRUE
-Molinate,900,Ictalurus punctatus,FISH,TRUE
-Molinate,6050,Lepomis macrochirus,FISH,TRUE
-Molinate,110,Moina australiensis,INVERT,TRUE
-Molinate,500,Nannochloropsis oculata,ALGAE,TRUE
-Molinate,4500,Navicula pelliculosa,ALGAE,TRUE
-Molinate,25.6,Neomysis mercedis,INVERT,TRUE
-Molinate,390,Oncorhynchus mykiss,FISH,TRUE
-Molinate,1700,Pseudanabaena galeata,ALGAE,TRUE
-Molinate,170,Raphidocelis subcapitata,ALGAE,TRUE
-Molinate,220,Scenedesmus acutus,ALGAE,TRUE
-Molinate,940,Skeletonema costatum,ALGAE,TRUE
-N-(Phosphonomethyl)glycine potassium salt (1:1),3650,Achnanthidium sp,ALGAE,FALSE
-N-(Phosphonomethyl)glycine potassium salt (1:1),5000,Brachionus caudatus,INVERT,FALSE
-N-(Phosphonomethyl)glycine potassium salt (1:1),2700,Brachionus plicatilis,INVERT,FALSE
-N-(Phosphonomethyl)glycine potassium salt (1:1),2645.75,Cephalodella paggiae,INVERT,FALSE
-N-(Phosphonomethyl)glycine potassium salt (1:1),600,Chydoridae,INVERT,FALSE
-N-(Phosphonomethyl)glycine potassium salt (1:1),5000,Euchlanis sp,INVERT,FALSE
-N-(Phosphonomethyl)glycine potassium salt (1:1),1400,Lecane closterocerca,INVERT,FALSE
-N-(Phosphonomethyl)glycine potassium salt (1:1),600,Lecane inermis,INVERT,FALSE
-N-(Phosphonomethyl)glycine potassium salt (1:1),600,Lepadella patella,INVERT,FALSE
-N-(Phosphonomethyl)glycine potassium salt (1:1),1272.79,Lepadella sp,INVERT,FALSE
-N-(Phosphonomethyl)glycine potassium salt (1:1),3650,Leptolyngbya sp,ALGAE,FALSE
-N-(Phosphonomethyl)glycine potassium salt (1:1),4260,Microcystis sp,ALGAE,FALSE
-N-(Phosphonomethyl)glycine potassium salt (1:1),5000,Platyias quadricornis,INVERT,FALSE
-N-(Phosphonomethyl)glycine potassium salt (1:1),5000,Trichocerca sp,INVERT,FALSE
-Nickel chloride,6.58269,Ceriodaphnia dubia,INVERT,FALSE
-Nickel chloride,366.284,Chlorella pyrenoidosa,ALGAE,FALSE
-Nickel chloride,50.3968,Danio rerio,FISH,FALSE
-Nickel chloride,90,Daphnia magna,INVERT,FALSE
-Nickel chloride,124,Juga plicifera,INVERT,FALSE
-Nickel chloride,466,Oncorhynchus mykiss,FISH,FALSE
-Nickel chloride,58.5308,Raphidocelis subcapitata,ALGAE,FALSE
-Nickel chloride,5080,Scenedesmus acutus var. acutus,ALGAE,FALSE
-Oryzalin,8.05,Anabaena flos-aquae,ALGAE,FALSE
-Oryzalin,358,Daphnia magna,INVERT,FALSE
-Oryzalin,15.4,Navicula pelliculosa,ALGAE,FALSE
-Oryzalin,1000,Oryzias latipes,FISH,FALSE
-Oryzalin,220,Pimephales promelas,FISH,FALSE
-Oryzalin,13.8,Raphidocelis subcapitata,ALGAE,FALSE
-Oryzalin,30.6,Skeletonema costatum,ALGAE,FALSE
-Oxadiazon,30,Daphnia magna,INVERT,FALSE
-Oxadiazon,27,Navicula pelliculosa,ALGAE,FALSE
-Oxadiazon,0.88,Oncorhynchus mykiss,FISH,FALSE
-Oxadiazon,33,Pimephales promelas,FISH,FALSE
-Oxadiazon,6.26099,Raphidocelis subcapitata,ALGAE,FALSE
-Oxadiazon,27,Skeletonema costatum,ALGAE,FALSE
-Oxytetracycline hydrochloride,3.1,Anabaena cylindrica,ALGAE,TRUE
-Oxytetracycline hydrochloride,25,Anabaena flos-aquae,ALGAE,TRUE
-Oxytetracycline hydrochloride,100,Anabaena variabilis,ALGAE,TRUE
-Oxytetracycline hydrochloride,7015.18,Daphnia magna,INVERT,TRUE
-Oxytetracycline hydrochloride,31,Microcystis aeruginosa,ALGAE,TRUE
-Oxytetracycline hydrochloride,250,Microcystis wesenbergii,ALGAE,TRUE
-Oxytetracycline hydrochloride,19203.8,Moina macrocopa,INVERT,TRUE
-Oxytetracycline hydrochloride,780,Nostoc sp,ALGAE,TRUE
-Oxytetracycline hydrochloride,50000,Oryzias latipes,FISH,TRUE
-Oxytetracycline hydrochloride,377.809,Raphidocelis subcapitata,ALGAE,TRUE
-Oxytetracycline hydrochloride,250,Synechococcus leopoliensis,ALGAE,TRUE
-Oxytetracycline hydrochloride,250,Synechococcus sp,ALGAE,TRUE
-PFOS-K,250,Americamysis bahia,INVERT,FALSE
-PFOS-K,11,Anguilla anguilla,FISH,FALSE
-PFOS-K,68.2612,Chironomus tentans,INVERT,FALSE
-PFOS-K,56.3163,Danio rerio,FISH,FALSE
-PFOS-K,31.6228,Daphnia magna,INVERT,FALSE
-PFOS-K,20.3,Monoporeia affinis,INVERT,FALSE
-PFOS-K,287.196,Pimephales promelas,FISH,FALSE
-PFOS-K,100,Xiphophorus helleri,FISH,FALSE
-Paraquat dichloride,3.2,Anabaena flos-aquae,ALGAE,TRUE
-Paraquat dichloride,157.788,Chlamydomonas moewusii,ALGAE,TRUE
-Paraquat dichloride,20,Chlorella vulgaris,ALGAE,TRUE
-Paraquat dichloride,10,Daphnia magna,INVERT,TRUE
-Paraquat dichloride,0.22,Navicula pelliculosa,ALGAE,TRUE
-Paraquat dichloride,500,Oreochromis niloticus,FISH,TRUE
-Paraquat dichloride,96.9762,Raphidocelis subcapitata,ALGAE,TRUE
-Paraquat dichloride,20,Scenedesmus acutus,ALGAE,TRUE
-Paraquat dichloride,100,Scenedesmus quadricauda,ALGAE,TRUE
-Paraquat dichloride,220,Skeletonema costatum,ALGAE,TRUE
-Pendimethalin,98,Anabaena flos-aquae,ALGAE,FALSE
-Pendimethalin,0.689,Chlorella fusca var vacuolata,ALGAE,FALSE
-Pendimethalin,14,Daphnia magna,INVERT,FALSE
-Pendimethalin,3.2,Navicula pelliculosa,ALGAE,FALSE
-Pendimethalin,0.197894,Oncorhynchus mykiss,FISH,FALSE
-Pendimethalin,6.3,Pimephales promelas,FISH,FALSE
-Pendimethalin,3.77976,Raphidocelis subcapitata,ALGAE,FALSE
-Pendimethalin,0.7,Skeletonema costatum,ALGAE,FALSE
-Pentachlorophenol,6,Anabaena flos-aquae,ALGAE,TRUE
-Pentachlorophenol,262.821,Brachionus calyciflorus,INVERT,TRUE
-Pentachlorophenol,500,Brachionus plicatilis,INVERT,TRUE
-Pentachlorophenol,87,Calamoecia lucasi,INVERT,TRUE
-Pentachlorophenol,111.975,Ceriodaphnia dubia,INVERT,TRUE
-Pentachlorophenol,88.787,Chlamydomonas reinhardtii,ALGAE,TRUE
-Pentachlorophenol,59,Chlorella vulgaris,ALGAE,TRUE
-Pentachlorophenol,250,Daphnia carinata,INVERT,TRUE
-Pentachlorophenol,118.246,Daphnia magna,INVERT,TRUE
-Pentachlorophenol,141.057,Desmodesmus subspicatus,ALGAE,TRUE
-Pentachlorophenol,56.5978,Erimonax monachus,FISH,TRUE
-Pentachlorophenol,20.626,Etheostoma fonticola,FISH,TRUE
-Pentachlorophenol,675.733,Jordanella floridae,FISH,TRUE
-Pentachlorophenol,32.4056,Micropterus salmoides,FISH,TRUE
-Pentachlorophenol,28,Navicula pelliculosa,ALGAE,TRUE
-Pentachlorophenol,45.3572,Oncorhynchus mykiss,FISH,TRUE
-Pentachlorophenol,22.5167,Oryzias latipes,FISH,TRUE
-Pentachlorophenol,55,Physa gyrina,INVERT,TRUE
-Pentachlorophenol,74.3004,Pimephales promelas,FISH,TRUE
-Pentachlorophenol,40.7853,Raphidocelis subcapitata,ALGAE,TRUE
-Pentachlorophenol,93.4141,Simocephalus vetulus,INVERT,TRUE
-Pentachlorophenol,9,Skeletonema costatum,ALGAE,TRUE
-Permethrin,0.003,Brachycentrus americanus,INVERT,FALSE
-Permethrin,0.05,Ceriodaphnia dubia,INVERT,FALSE
-Permethrin,10,Cyprinodon variegatus,FISH,FALSE
-Permethrin,0.129615,Daphnia magna,INVERT,FALSE
-Permethrin,0.652025,Pimephales promelas,FISH,FALSE
-Permethrin,1.6,Salvelinus fontinalis,FISH,FALSE
-Phenanthrene,5.55,Americamysis bahia,INVERT,FALSE
-Phenanthrene,59.4886,Daphnia magna,INVERT,FALSE
-Phenanthrene,2740,Desmodesmus subspicatus,ALGAE,FALSE
-Phenanthrene,19.6257,Oncorhynchus mykiss,FISH,FALSE
-Phenanthrene,156.049,Oryzias latipes,FISH,FALSE
-Phenanthrene,89.1,Paralichthys olivaceus,FISH,FALSE
-Phenanthrene,95.9166,Raphidocelis subcapitata,ALGAE,FALSE
-Phenol,2410,Americamysis bahia,INVERT,TRUE
-Phenol,21022.4,Brachionus calyciflorus,INVERT,TRUE
-Phenol,125000,Brachionus plicatilis,INVERT,TRUE
-Phenol,2783.24,Ceriodaphnia dubia,INVERT,TRUE
-Phenol,110,Cyprinus carpio,FISH,TRUE
-Phenol,654.192,Daphnia magna,INVERT,TRUE
-Phenol,84852.8,Dunaliella tertiolecta,ALGAE,TRUE
-Phenol,1851.43,Oncorhynchus mykiss,FISH,TRUE
-Phenol,5378.66,Oryzias latipes,FISH,TRUE
-Phenol,3009.97,Pimephales promelas,FISH,TRUE
-Phenol,4000,Poecilia reticulata,FISH,TRUE
-Phenol,15811.4,Raphidocelis subcapitata,ALGAE,TRUE
-Phenol,5000,Salvelinus fontinalis,FISH,TRUE
-Phenol,13000,Skeletonema costatum,ALGAE,TRUE
-Picloram-potassium,390000,Anabaena flos-aquae,ALGAE,FALSE
-Picloram-potassium,970,Navicula pelliculosa,ALGAE,FALSE
-Picloram-potassium,974.995,Oncorhynchus mykiss,FISH,FALSE
-Picloram-potassium,13100,Raphidocelis subcapitata,ALGAE,FALSE
-Picloram-potassium,600,Salvelinus confluentus,FISH,FALSE
-Picloram-potassium,6700,Skeletonema costatum,ALGAE,FALSE
-Primisulfuron-methyl,55.4,Anabaena flos-aquae,ALGAE,FALSE
-Primisulfuron-methyl,410,Daphnia magna,INVERT,FALSE
-Primisulfuron-methyl,30.4,Navicula pelliculosa,ALGAE,FALSE
-Primisulfuron-methyl,11000,Pimephales promelas,FISH,FALSE
-Primisulfuron-methyl,10,Raphidocelis subcapitata,ALGAE,FALSE
-Primisulfuron-methyl,222.5,Skeletonema costatum,ALGAE,FALSE
-Prometryn,20.2,Anabaena flos-aquae,ALGAE,FALSE
-Prometryn,0.82,Chlorella fusca var vacuolata,ALGAE,FALSE
-Prometryn,1000,Daphnia magna,INVERT,FALSE
-Prometryn,0.3,Navicula pelliculosa,ALGAE,FALSE
-Prometryn,675.542,Pimephales promelas,FISH,FALSE
-Prometryn,8,Raphidocelis subcapitata,ALGAE,FALSE
-Prometryn,2.22,Skeletonema costatum,ALGAE,FALSE
-Propanil,25,Anabaena flos-aquae,ALGAE,FALSE
-Propanil,4360,Chlamydomonas moewusii,ALGAE,FALSE
-Propanil,45.9833,Daphnia magna,INVERT,FALSE
-Propanil,6,Navicula pelliculosa,ALGAE,FALSE
-Propanil,1.85877,Pimephales promelas,FISH,FALSE
-Propanil,6,Raphidocelis subcapitata,ALGAE,FALSE
-Propanil,13,Skeletonema costatum,ALGAE,FALSE
-Propiconazole,510,Americamysis bahia,INVERT,TRUE
-Propiconazole,3509.31,Anabaena flos-aquae,ALGAE,TRUE
-Propiconazole,100,Chlorella pyrenoidosa,ALGAE,TRUE
-Propiconazole,100,Chlorella vulgaris,ALGAE,TRUE
-Propiconazole,150,Cyprinodon variegatus,FISH,TRUE
-Propiconazole,5,Danio rerio,FISH,TRUE
-Propiconazole,226,Daphnia magna,INVERT,TRUE
-Propiconazole,40,Desmodesmus subspicatus,ALGAE,TRUE
-Propiconazole,375,Dunaliella tertiolecta,ALGAE,TRUE
-Propiconazole,2000,Microcystis aeruginosa,ALGAE,TRUE
-Propiconazole,2000,Microcystis flosaquae,ALGAE,TRUE
-Propiconazole,51,Navicula seminulum,ALGAE,TRUE
-Propiconazole,45.1,Oncorhynchus mykiss,FISH,TRUE
-Propiconazole,112.924,Pimephales promelas,FISH,TRUE
-Propiconazole,226.053,Raphidocelis subcapitata,ALGAE,TRUE
-Propiconazole,50,Scenedesmus acutus var. acutus,ALGAE,TRUE
-Propiconazole,100,Scenedesmus quadricauda,ALGAE,TRUE
-Propiconazole,18,Skeletonema costatum,ALGAE,TRUE
-Propoxur,2000,Anabaena flos-aquae,ALGAE,TRUE
-Propoxur,500,Chlorella pyrenoidosa,ALGAE,TRUE
-Propoxur,200,Chlorella vulgaris,ALGAE,TRUE
-Propoxur,22.0296,Daphnia magna,INVERT,TRUE
-Propoxur,2000,Microcystis aeruginosa,ALGAE,TRUE
-Propoxur,5000,Microcystis flosaquae,ALGAE,TRUE
-Propoxur,913.964,Pimephales promelas,FISH,TRUE
-Propoxur,1279.99,Raphidocelis subcapitata,ALGAE,TRUE
-Propoxur,500,Scenedesmus acutus var. acutus,ALGAE,TRUE
-Propoxur,200,Scenedesmus quadricauda,ALGAE,TRUE
-Propranolol hydrochloride,1581.14,Brachionus calyciflorus,INVERT,FALSE
-Propranolol hydrochloride,31.8,Danio rerio,FISH,FALSE
-Propranolol hydrochloride,400,Daphnia magna,INVERT,FALSE
-Propranolol hydrochloride,1010,Oncorhynchus mykiss,FISH,FALSE
-Propranolol hydrochloride,58.0534,Pimephales promelas,FISH,FALSE
-Propranolol hydrochloride,717.936,Raphidocelis subcapitata,ALGAE,FALSE
-Pyraclostrobin,1780,Anabaena flos-aquae,ALGAE,FALSE
-Pyraclostrobin,10.8,Cyprinodon variegatus,FISH,FALSE
-Pyraclostrobin,26.0517,Lymnaea stagnalis,INVERT,FALSE
-Pyraclostrobin,2.35,Oncorhynchus mykiss,FISH,FALSE
-Pyraclostrobin,4.14,Pimephales promelas,FISH,FALSE
-Pyraclostrobin,14,Raphidocelis subcapitata,ALGAE,FALSE
-Pyridaben,0.13,Americamysis bahia,INVERT,FALSE
-Pyridaben,13.4,Anabaena flos-aquae,ALGAE,FALSE
-Pyridaben,0.0594958,Daphnia magna,INVERT,FALSE
-Pyridaben,13.8,Navicula pelliculosa,ALGAE,FALSE
-Pyridaben,0.842,Oncorhynchus mykiss,FISH,FALSE
-Pyridaben,0.648563,Pimephales promelas,FISH,FALSE
-Pyridaben,16.4,Skeletonema costatum,ALGAE,FALSE
-Silver sulfate,4.16679,Ceriodaphnia dubia,INVERT,TRUE
-Silver sulfate,125,Chironomus tentans,INVERT,TRUE
-Silver sulfate,27.2,Chlorella fusca var vacuolata,ALGAE,TRUE
-Silver sulfate,2.6,Corbicula fluminea,INVERT,TRUE
-Silver sulfate,1.3885,Daphnia magna,INVERT,TRUE
-Silver sulfate,1.89737,Hyalella azteca,INVERT,TRUE
-Silver sulfate,0.31,Isonychia bicolor,INVERT,TRUE
-Silver sulfate,0.272383,Oncorhynchus mykiss,FISH,TRUE
-Silver sulfate,50,Oreochromis niloticus,FISH,TRUE
-Silver sulfate,496.551,Oryzias latipes,FISH,TRUE
-Silver sulfate,0.880848,Pimephales promelas,FISH,TRUE
-Silver sulfate,5,Scenedesmus acutus,ALGAE,TRUE
-Silver sulfate,1.84,Stenonema modestum,INVERT,TRUE
-Simazine,3.7,Chlorella fusca var vacuolata,ALGAE,TRUE
-Simazine,100,Chlorella vulgaris,ALGAE,TRUE
-Simazine,4,Cyprinus carpio,FISH,TRUE
-Simazine,2500,Daphnia magna,INVERT,TRUE
-Simazine,5000,Daphnia pulex,INVERT,TRUE
-Simazine,1936.49,Lepomis macrochirus,FISH,TRUE
-Simazine,30,Navicula pelliculosa,ALGAE,TRUE
-Simazine,1200,Pimephales promelas,FISH,TRUE
-Simazine,100.402,Raphidocelis subcapitata,ALGAE,TRUE
-Simazine,250,Skeletonema costatum,ALGAE,TRUE
-Simazine,5,Skeletonema marinoi,ALGAE,TRUE
-Sodium dodecyl sulfate,1580,Acanthomysis costata,INVERT,TRUE
-Sodium dodecyl sulfate,625,Brachionus calyciflorus,INVERT,TRUE
-Sodium dodecyl sulfate,620,Brachionus rubens,INVERT,TRUE
-Sodium dodecyl sulfate,7682.89,Ceriodaphnia dubia,INVERT,TRUE
-Sodium dodecyl sulfate,418,Corbicula fluminea,INVERT,TRUE
-Sodium dodecyl sulfate,3200,Daphnia magna,INVERT,TRUE
-Sodium dodecyl sulfate,1357,Goniobasis sp,INVERT,TRUE
-Sodium dodecyl sulfate,300,Lecane quadridentata,INVERT,TRUE
-Sodium dodecyl sulfate,418,Limnephilus sp,INVERT,TRUE
-Sodium dodecyl sulfate,1580,Mysidopsis intii,INVERT,TRUE
-Sodium dodecyl sulfate,3252.69,Pimephales promelas,FISH,TRUE
-Sodium dodecyl sulfate,1250,Ulva fasciata,ALGAE,TRUE
-Sodium nitrate,30013,Ceriodaphnia dubia,INVERT,FALSE
-Sodium nitrate,25118.9,Coregonus clupeaformis,FISH,FALSE
-Sodium nitrate,2000,Ictalurus punctatus,FISH,FALSE
-Sodium nitrate,55300,Lampsilis fasciola,INVERT,FALSE
-Sodium nitrate,9500,Lampsilis siliquoidea,INVERT,FALSE
-Sodium nitrate,360899,Notropis topeka,FISH,FALSE
-Sodium nitrate,125000,Oryzias latipes,FISH,FALSE
-Sodium nitrate,303225,Pimephales promelas,FISH,FALSE
-Sodium nitrate,50297.3,Salvelinus namaycush,FISH,FALSE
-Sodium pentachlorophenate,244,Americamysis bahia,INVERT,TRUE
-Sodium pentachlorophenate,9.8,Anabaena cylindrica,ALGAE,TRUE
-Sodium pentachlorophenate,200,Anabaena flos-aquae,ALGAE,TRUE
-Sodium pentachlorophenate,400,Anabaena variabilis,ALGAE,TRUE
-Sodium pentachlorophenate,104.74,Brachionus calyciflorus,INVERT,TRUE
-Sodium pentachlorophenate,280,Brachionus rubens,INVERT,TRUE
-Sodium pentachlorophenate,5020,Chlorella vulgaris,ALGAE,TRUE
-Sodium pentachlorophenate,40.536,Clarias gariepinus,FISH,TRUE
-Sodium pentachlorophenate,157,Cyprinodon variegatus,FISH,TRUE
-Sodium pentachlorophenate,56,Danio rerio,FISH,TRUE
-Sodium pentachlorophenate,56.9049,Macrocystis pyrifera,ALGAE,TRUE
-Sodium pentachlorophenate,200,Microcystis aeruginosa,ALGAE,TRUE
-Sodium pentachlorophenate,130,Microcystis wesenbergii,ALGAE,TRUE
-Sodium pentachlorophenate,5000,Nostoc sp,ALGAE,TRUE
-Sodium pentachlorophenate,193.027,Pimephales promelas,FISH,TRUE
-Sodium pentachlorophenate,105,Raphidocelis subcapitata,ALGAE,TRUE
-Sodium pentachlorophenate,16,Synechococcus leopoliensis,ALGAE,TRUE
-Sodium pentachlorophenate,250,Synechococcus sp,ALGAE,TRUE
-Sodium selenite,200,Ceriodaphnia dubia,INVERT,FALSE
-Sodium selenite,303,Chironomus riparius,INVERT,FALSE
-Sodium selenite,71.8255,Chlorella vulgaris,ALGAE,FALSE
-Sodium selenite,275.72,Daphnia magna,INVERT,FALSE
-Sodium selenite,19.0946,Lepomis macrochirus,FISH,FALSE
-Sodium selenite,440.312,Oncorhynchus mykiss,FISH,FALSE
-Sodium selenite,507.82,Pimephales promelas,FISH,FALSE
-Sodium selenite,258.6,Scenedesmus acutus var. acutus,ALGAE,FALSE
-Sodium sulfate anyhdrous,835966,Brachionus calyciflorus,INVERT,FALSE
-Sodium sulfate anyhdrous,1050060,Ceriodaphnia dubia,INVERT,FALSE
-Sodium sulfate anyhdrous,2970000,Ceriodaphnia sp,INVERT,FALSE
-Sodium sulfate anyhdrous,653000,Daphnia magna,INVERT,FALSE
-Sodium sulfate anyhdrous,825000,Oncorhynchus kisutch,FISH,FALSE
-Sodium sulfate anyhdrous,466154,Oncorhynchus mykiss,FISH,FALSE
-Sodium sulfate anyhdrous,725192,Pimephales promelas,FISH,FALSE
-Sodium sulfate anyhdrous,1193630,Raphidocelis subcapitata,ALGAE,FALSE
-"Sulfuric acid, titanium(3+) salt (3:2)",1000000,Chlorella sp,ALGAE,FALSE
-"Sulfuric acid, titanium(3+) salt (3:2)",6500,Chlorella vulgaris,ALGAE,FALSE
-"Sulfuric acid, titanium(3+) salt (3:2)",2723.96,Danio rerio,FISH,FALSE
-"Sulfuric acid, titanium(3+) salt (3:2)",706.243,Daphnia magna,INVERT,FALSE
-"Sulfuric acid, titanium(3+) salt (3:2)",1000,Dunaliella tertiolecta,ALGAE,FALSE
-"Sulfuric acid, titanium(3+) salt (3:2)",14000,Oryzias latipes,FISH,FALSE
-"Sulfuric acid, titanium(3+) salt (3:2)",9810.25,Raphidocelis subcapitata,ALGAE,FALSE
-Tebuconazole,35,Americamysis bahia,INVERT,TRUE
-Tebuconazole,23.2379,Attheyella crassa,INVERT,TRUE
-Tebuconazole,20.445,Cyprinodon variegatus,FISH,TRUE
-Tebuconazole,341.58,Danio rerio,FISH,TRUE
-Tebuconazole,127.276,Daphnia galeata,INVERT,TRUE
-Tebuconazole,74.5481,Daphnia longispina,INVERT,TRUE
-Tebuconazole,309.462,Daphnia magna,INVERT,TRUE
-Tebuconazole,320,Desmodesmus subspicatus,ALGAE,TRUE
-Tebuconazole,332.391,Gammarus fossarum,INVERT,TRUE
-Tebuconazole,12,Oncorhynchus mykiss,FISH,TRUE
-Tebuconazole,1223.1,Raphidocelis subcapitata,ALGAE,TRUE
-Tebuthiuron,310,Anabaena flos-aquae,ALGAE,FALSE
-Tebuthiuron,101.003,Chlorella sp,ALGAE,FALSE
-Tebuthiuron,21800,Daphnia magna,INVERT,FALSE
-Tebuthiuron,56,Navicula pelliculosa,ALGAE,FALSE
-Tebuthiuron,9300,Pimephales promelas,FISH,FALSE
-Tebuthiuron,13,Raphidocelis subcapitata,ALGAE,FALSE
-Tebuthiuron,36,Skeletonema costatum,ALGAE,FALSE
-Tetrachloroethylene,896.289,Americamysis bahia,INVERT,FALSE
-Tetrachloroethylene,330,Ceriodaphnia dubia,INVERT,FALSE
-Tetrachloroethylene,353.577,Daphnia magna,INVERT,FALSE
-Tetrachloroethylene,2157.92,Jordanella floridae,FISH,FALSE
-Tetrachloroethylene,3184.69,Oryzias latipes,FISH,FALSE
-Tetrachloroethylene,754.802,Pimephales promelas,FISH,FALSE
-Tetrachloroethylene,41755.2,Raphidocelis subcapitata,ALGAE,FALSE
-Thiobencarb,3100,Anabaena flos-aquae,ALGAE,TRUE
-Thiobencarb,3464.1,Anabaena variabilis,ALGAE,TRUE
-Thiobencarb,2000,Brachionus calyciflorus,INVERT,TRUE
-Thiobencarb,300,Brachionus plicatilis,INVERT,TRUE
-Thiobencarb,40,Chlorella pyrenoidosa,ALGAE,TRUE
-Thiobencarb,920,Chlorella saccharophila,ALGAE,TRUE
-Thiobencarb,150,Cyprinodon variegatus,FISH,TRUE
-Thiobencarb,74.0083,Daphnia magna,INVERT,TRUE
-Thiobencarb,100,Nannochloropsis oculata,ALGAE,TRUE
-Thiobencarb,65,Navicula pelliculosa,ALGAE,TRUE
-Thiobencarb,3.2,Neomysis mercedis,INVERT,TRUE
-Thiobencarb,650.296,Oryzias latipes,FISH,TRUE
-Thiobencarb,21,Palaemonetes pugio,INVERT,TRUE
-Thiobencarb,80,Pseudanabaena galeata,ALGAE,TRUE
-Thiobencarb,15.08,Raphidocelis subcapitata,ALGAE,TRUE
-Thiobencarb,5,Scenedesmus acutus,ALGAE,TRUE
-Thiobencarb,18,Skeletonema costatum,ALGAE,TRUE
-Thiophanate-methyl,4300,Anabaena flos-aquae,ALGAE,FALSE
-Thiophanate-methyl,50,Brachionus calyciflorus,INVERT,FALSE
-Thiophanate-methyl,430,Navicula pelliculosa,ALGAE,FALSE
-Thiophanate-methyl,500,Oryzias latipes,FISH,FALSE
-Thiophanate-methyl,950,Raphidocelis subcapitata,ALGAE,FALSE
-Thiophanate-methyl,110,Skeletonema costatum,ALGAE,FALSE
-Toluene,740,Ceriodaphnia dubia,INVERT,FALSE
-Toluene,4963.87,Cyprinodon variegatus,FISH,FALSE
-Toluene,1037.14,Daphnia magna,INVERT,FALSE
-Toluene,1390,Oncorhynchus kisutch,FISH,FALSE
-Toluene,720,Oryzias latipes,FISH,FALSE
-Toluene,5440,Pimephales promelas,FISH,FALSE
-Toluene,9395.21,Raphidocelis subcapitata,ALGAE,FALSE
-Toluene,10000,Skeletonema costatum,ALGAE,FALSE
-Triadimefon,34.7,Alona sp,INVERT,TRUE
-Triadimefon,34.7,Anuraeopsis sp,INVERT,TRUE
-Triadimefon,34.7,Asplanchna sp,INVERT,TRUE
-Triadimefon,160,Brachionus calyciflorus,INVERT,TRUE
-Triadimefon,34.7,Chydorus sp,INVERT,TRUE
-Triadimefon,34.7,Cyclops sp,INVERT,TRUE
-Triadimefon,157.49,Danio rerio,FISH,TRUE
-Triadimefon,96.7203,Daphnia magna,INVERT,TRUE
-Triadimefon,100,Desmodesmus subspicatus,ALGAE,TRUE
-Triadimefon,2000,Dunaliella tertiolecta,ALGAE,TRUE
-Triadimefon,320,Heterocypris incongruens,INVERT,TRUE
-Triadimefon,40,Oncorhynchus mykiss,FISH,TRUE
-Triadimefon,5,Oryzias latipes,FISH,TRUE
-Triadimefon,170,Pimephales promelas,FISH,TRUE
-Triadimefon,34.7,Polyarthra sp,INVERT,TRUE
-Triadimefon,896.281,Raphidocelis subcapitata,ALGAE,TRUE
-Triadimefon,34.7,Scapholeberis sp,INVERT,TRUE
-Triadimefon,34.7,Simocephalus sp,INVERT,TRUE
-Tributyltin chloride,0.01,Acartia tonsa,INVERT,FALSE
-Tributyltin chloride,43.3,Chlorella fusca var vacuolata,ALGAE,FALSE
-Tributyltin chloride,1,Daphnia magna,INVERT,FALSE
-Tributyltin chloride,0.064,Nucella lima,INVERT,FALSE
-Tributyltin chloride,0.2,Oncorhynchus mykiss,FISH,FALSE
-Tributyltin chloride,9.76468,Oryzias latipes,FISH,FALSE
-Tributyltin chloride,0.415692,Phoxinus phoxinus,FISH,FALSE
-Tributyltin chloride,1.2,Raphidocelis subcapitata,ALGAE,FALSE
-Triclosan,65.5916,Ceriodaphnia dubia,INVERT,TRUE
-Triclosan,395.285,Closterium ehrenbergii,ALGAE,TRUE
-Triclosan,22.3828,Daphnia magna,INVERT,TRUE
-Triclosan,1.20112,Desmodesmus subspicatus,ALGAE,TRUE
-Triclosan,1.6,Dunaliella tertiolecta,ALGAE,TRUE
-Triclosan,76.4716,Gambusia affinis,FISH,TRUE
-Triclosan,38.9164,Oncorhynchus mykiss,FISH,TRUE
-Triclosan,139.768,Oryzias latipes,FISH,TRUE
-Triclosan,0.45,Pimephales promelas,FISH,TRUE
-Triclosan,72.4,Psammechinus miliaris,INVERT,TRUE
-Triclosan,0.793701,Raphidocelis subcapitata,ALGAE,TRUE
-Trifluralin,273,Anabaena flos-aquae,ALGAE,FALSE
-Trifluralin,33.5,Chlamydomonas eugametos,ALGAE,FALSE
-Trifluralin,2.4,Daphnia magna,INVERT,FALSE
-Trifluralin,2.18,Oncorhynchus mykiss,FISH,FALSE
-Trifluralin,1.9,Pimephales promelas,FISH,FALSE
-Trifluralin,39.0095,Raphidocelis subcapitata,ALGAE,FALSE
-Trifluralin,4.6,Skeletonema costatum,ALGAE,FALSE
-Trimethoprim,3100,Anabaena variabilis,ALGAE,FALSE
-Trimethoprim,157,Danio rerio,FISH,FALSE
-Trimethoprim,6000,Daphnia magna,INVERT,FALSE
-Trimethoprim,100000,Microcystis aeruginosa,ALGAE,FALSE
-Trimethoprim,3100,Microcystis wesenbergii,ALGAE,FALSE
-Trimethoprim,3100,Nostoc sp,ALGAE,FALSE
-Trimethoprim,17213,Raphidocelis subcapitata,ALGAE,FALSE
-Trimethoprim,13000,Synechococcus leopoliensis,ALGAE,FALSE
-Trimethoprim,50000,Synechococcus sp,ALGAE,FALSE
-Trinexapac-ethyl,110,Anabaena flos-aquae,ALGAE,FALSE
-Trinexapac-ethyl,2400,Daphnia magna,INVERT,FALSE
-Trinexapac-ethyl,6200,Navicula pelliculosa,ALGAE,FALSE
-Trinexapac-ethyl,410,Pimephales promelas,FISH,FALSE
-Trinexapac-ethyl,2481.9,Raphidocelis subcapitata,ALGAE,FALSE
-Trinexapac-ethyl,3700,Skeletonema costatum,ALGAE,FALSE
-Triphenyl phosphate,2500,Chlorella vulgaris,ALGAE,FALSE
-Triphenyl phosphate,250,Daphnia magna,INVERT,FALSE
-Triphenyl phosphate,70.3562,Oncorhynchus mykiss,FISH,FALSE
-Triphenyl phosphate,3.34598,Oryzias latipes,FISH,FALSE
-Triphenyl phosphate,120.297,Pimephales promelas,FISH,FALSE
-Triphenyl phosphate,1038.27,Raphidocelis subcapitata,ALGAE,FALSE
-Uranium nitrate oxide (UO2(NO3)2),1000,Allorchestes compressa,INVERT,TRUE
-Uranium nitrate oxide (UO2(NO3)2),11439.2,Catostomus commersoni,FISH,TRUE
-Uranium nitrate oxide (UO2(NO3)2),1.5,Ceriodaphnia dubia,INVERT,TRUE
-Uranium nitrate oxide (UO2(NO3)2),2000,Chlorella vulgaris,ALGAE,TRUE
-Uranium nitrate oxide (UO2(NO3)2),70000,Cyprinus carpio,FISH,TRUE
-Uranium nitrate oxide (UO2(NO3)2),26.6266,Danio rerio,FISH,TRUE
-Uranium nitrate oxide (UO2(NO3)2),17.9073,Daphnia magna,INVERT,TRUE
-Uranium nitrate oxide (UO2(NO3)2),38.8071,Hyalella azteca,INVERT,TRUE
-Uranium nitrate oxide (UO2(NO3)2),1173.1,Pimephales promelas,FISH,TRUE
-Uranium nitrate oxide (UO2(NO3)2),8340,Procambarus clarkii,INVERT,TRUE
-Vanadium pentoxide,1200,Chlorella vulgaris,ALGAE,FALSE
-Vanadium pentoxide,300,Danio rerio,FISH,FALSE
-Vanadium pentoxide,736.806,Daphnia magna,INVERT,FALSE
-Vanadium pentoxide,240,Pimephales promelas,FISH,FALSE
-Vanadium pentoxide,800,Poecilia reticulata,FISH,FALSE
-Vanadium pentoxide,2250,Scenedesmus quadricauda,ALGAE,FALSE
-Zinc oxide,21.6734,Acanthomysis costata,INVERT,TRUE
-Zinc oxide,71,Brachionus havanaensis,INVERT,TRUE
-Zinc oxide,1988180,Carassius auratus,FISH,TRUE
-Zinc oxide,79.1781,Ceriodaphnia dubia,INVERT,TRUE
-Zinc oxide,15800,Chlorella fusca var vacuolata,ALGAE,TRUE
-Zinc oxide,22.3607,Chlorella pyrenoidosa,ALGAE,TRUE
-Zinc oxide,36.8403,Chlorella sp,ALGAE,TRUE
-Zinc oxide,1700,Chlorella vulgaris,ALGAE,TRUE
-Zinc oxide,106.801,Cottus bairdi,FISH,TRUE
-Zinc oxide,347.851,Ctenopharyngodon idella,FISH,TRUE
-Zinc oxide,4937.65,Danio rerio,FISH,TRUE
-Zinc oxide,213.125,Daphnia magna,INVERT,TRUE
-Zinc oxide,41.2,Dunaliella tertiolecta,ALGAE,TRUE
-Zinc oxide,589.694,Fundulus heteroclitus,FISH,TRUE
-Zinc oxide,13.784,Haliotis rufescens,INVERT,TRUE
-Zinc oxide,38,Hydra viridissima,INVERT,TRUE
-Zinc oxide,26,Jordanella floridae,FISH,TRUE
-Zinc oxide,232.079,Laminaria saccharina,ALGAE,TRUE
-Zinc oxide,1785.55,Macrocystis pyrifera,ALGAE,TRUE
-Zinc oxide,0.654,Microcystis aeruginosa,ALGAE,TRUE
-Zinc oxide,25,Moina irrasa,INVERT,TRUE
-Zinc oxide,101,Mysidopsis intii,INVERT,TRUE
-Zinc oxide,200,Nostoc muscorum,ALGAE,TRUE
-Zinc oxide,170.616,Oncorhynchus mykiss,FISH,TRUE
-Zinc oxide,374.166,Oncorhynchus tshawytscha,FISH,TRUE
-Zinc oxide,18284.2,Oreochromis mossambicus,FISH,TRUE
-Zinc oxide,781.311,Oreochromis niloticus,FISH,TRUE
-Zinc oxide,570,Physa gyrina,INVERT,TRUE
-Zinc oxide,217.15,Pimephales promelas,FISH,TRUE
-Zinc oxide,607.397,Poecilia reticulata,FISH,TRUE
-Zinc oxide,61.2372,Potamopyrgus jenkinsi,INVERT,TRUE
-Zinc oxide,326.854,Prosopium williamsoni,FISH,TRUE
-Zinc oxide,54.1711,Raphidocelis subcapitata,ALGAE,TRUE
-Zinc oxide,324,Salmo trutta,FISH,TRUE
-Zinc oxide,176.777,Salvelinus fontinalis,FISH,TRUE
-Zinc oxide,142,Ulva fasciata,ALGAE,TRUE
-Zinc oxide,339.483,Ulva pertusa,ALGAE,TRUE
-Zineb,500,Chlorella pyrenoidosa,ALGAE,FALSE
-Zineb,50,Chlorella vulgaris,ALGAE,FALSE
-Zineb,500,Cylindrospermum sp,ALGAE,FALSE
-Zineb,32,Daphnia magna,INVERT,FALSE
-Zineb,37.807,Nitzschia pungens,ALGAE,FALSE
-Zineb,74.8331,Oncorhynchus mykiss,FISH,FALSE
-Zineb,50,Raphidocelis subcapitata,ALGAE,FALSE
-Zineb,500,Scenedesmus acutus var. acutus,ALGAE,FALSE
-Zineb,50,Scenedesmus quadricauda,ALGAE,FALSE
-lambda-Cyhalothrin,0.1,Anuraeopsis fissa,INVERT,FALSE
-lambda-Cyhalothrin,0.025,Cyprinodon variegatus,FISH,FALSE
-lambda-Cyhalothrin,0.01,Daphnia galeata,INVERT,FALSE
-lambda-Cyhalothrin,0.008,Daphnia magna,INVERT,FALSE
-lambda-Cyhalothrin,0.1,Lecane lunaris,INVERT,FALSE
-lambda-Cyhalothrin,0.031,Pimephales promelas,FISH,FALSE
-lambda-Cyhalothrin,1,Tilapia sp,FISH,FALSE
-n-Nonylphenol,7.07107,Brachionus calyciflorus,INVERT,FALSE
-n-Nonylphenol,125,Ceriodaphnia dubia,INVERT,FALSE
-n-Nonylphenol,53.89,Daphnia magna,INVERT,FALSE
-n-Nonylphenol,20.0852,Oncorhynchus mykiss,FISH,FALSE
-n-Nonylphenol,3.80789,Oryzias latipes,FISH,FALSE
-n-Nonylphenol,694,Raphidocelis subcapitata,ALGAE,FALSE
-n-Nonylphenol,0.2,Xiphophorus helleri,FISH,FALSE
+"1,2,4-Trichlorobenzene",85.397,Americamysis bahia,Invertebrate,FALSE
+"1,2,4-Trichlorobenzene",263.657,Daphnia magna,Invertebrate,FALSE
+"1,2,4-Trichlorobenzene",409.527,Oncorhynchus mykiss,Fish,FALSE
+"1,2,4-Trichlorobenzene",260,Oryzias latipes,Fish,FALSE
+"1,2,4-Trichlorobenzene",416.895,Pimephales promelas,Fish,FALSE
+"1,2,4-Trichlorobenzene",1483.24,Raphidocelis subcapitata,Algae,FALSE
+"1,2-Dichloropropane",4090,Americamysis bahia,Invertebrate,FALSE
+"1,2-Dichloropropane",31675.4,Chlamydomonas reinhardtii,Algae,FALSE
+"1,2-Dichloropropane",5011.9,Daphnia magna,Invertebrate,FALSE
+"1,2-Dichloropropane",10000,Oryzias latipes,Fish,FALSE
+"1,2-Dichloropropane",6000,Pimephales promelas,Fish,FALSE
+"1,2-Dichloropropane",104881,Raphidocelis subcapitata,Algae,FALSE
+"1,4-Dichlorobenzene",3130,Brachionus calyciflorus,Invertebrate,FALSE
+"1,4-Dichlorobenzene",2454.69,Danio rerio,Fish,FALSE
+"1,4-Dichlorobenzene",248.871,Daphnia magna,Invertebrate,FALSE
+"1,4-Dichlorobenzene",86641,Jordanella floridae,Fish,FALSE
+"1,4-Dichlorobenzene",734.847,Oryzias latipes,Fish,FALSE
+"1,4-Dichlorobenzene",812.091,Pimephales promelas,Fish,FALSE
+"1,4-Dichlorobenzene",3474.65,Raphidocelis subcapitata,Algae,FALSE
+17alpha-Ethinylestradiol,0.296,Carassius auratus,Fish,FALSE
+17alpha-Ethinylestradiol,339.346,Ceriodaphnia dubia,Invertebrate,FALSE
+17alpha-Ethinylestradiol,0.00373678,Danio rerio,Fish,FALSE
+17alpha-Ethinylestradiol,170.998,Daphnia magna,Invertebrate,FALSE
+17alpha-Ethinylestradiol,0.02,Etheostoma caeruleum,Fish,FALSE
+17alpha-Ethinylestradiol,0.0112001,Gasterosteus aculeatus,Fish,FALSE
+17alpha-Ethinylestradiol,0.00108037,Gobiocypris rarus,Fish,FALSE
+17alpha-Ethinylestradiol,0.0292116,Oncorhynchus mykiss,Fish,FALSE
+17alpha-Ethinylestradiol,0.0162,Oreochromis niloticus,Fish,FALSE
+17alpha-Ethinylestradiol,0.150747,Oryzias latipes,Fish,FALSE
+17alpha-Ethinylestradiol,1,Pelteobagrus fulvidraco,Fish,FALSE
+17alpha-Ethinylestradiol,0.00725101,Pimephales promelas,Fish,FALSE
+17alpha-Ethinylestradiol,0.170998,Poecilia reticulata,Fish,FALSE
+17alpha-Ethinylestradiol,0.00122904,Rutilus rutilus,Fish,FALSE
+17alpha-Ethinylestradiol,0.0212452,Salmo trutta,Fish,FALSE
+17alpha-Ethinylestradiol,0.373,Salvelinus namaycush,Fish,FALSE
+17alpha-Ethinylestradiol,500,Sida crystallina,Invertebrate,FALSE
+17beta-Estradiol,10,Brachionus calyciflorus,Invertebrate,FALSE
+17beta-Estradiol,3162.28,Ceriodaphnia dubia,Invertebrate,FALSE
+17beta-Estradiol,0.0505921,Danio rerio,Fish,FALSE
+17beta-Estradiol,769.045,Daphnia magna,Invertebrate,FALSE
+17beta-Estradiol,0.190365,Gambusia holbrooki,Fish,FALSE
+17beta-Estradiol,0.00261156,Oncorhynchus mykiss,Fish,FALSE
+17beta-Estradiol,0.0441177,Oryzias latipes,Fish,FALSE
+17beta-Estradiol,10,Oryzias melastigma,Fish,FALSE
+17beta-Estradiol,0.072009600000000007,Pimephales promelas,Fish,FALSE
+17beta-Estradiol,0.223607,Poecilia reticulata,Fish,FALSE
+17beta-Estradiol,0.097,Pomatoschistus minutus,Fish,FALSE
+17beta-Estradiol,0.008,Salmo salar,Fish,FALSE
+"2,4,6-Trinitrotoluene",820,Anabaena flos-aquae,Algae,FALSE
+"2,4,6-Trinitrotoluene",2053.34,Brachionus calyciflorus,Invertebrate,FALSE
+"2,4,6-Trinitrotoluene",1640,Ceriodaphnia dubia,Invertebrate,FALSE
+"2,4,6-Trinitrotoluene",798.556,Daphnia magna,Invertebrate,FALSE
+"2,4,6-Trinitrotoluene",820,Microcystis aeruginosa,Algae,FALSE
+"2,4,6-Trinitrotoluene",353.709,Oncorhynchus mykiss,Fish,FALSE
+"2,4,6-Trinitrotoluene",232.828,Pimephales promelas,Fish,FALSE
+"2,4,6-Trinitrotoluene",820,Raphidocelis subcapitata,Algae,FALSE
+"2,4,6-Trinitrotoluene",1542.72,Ulva fasciata,Algae,FALSE
+"2,4-Dichloroaniline",2500,Brachionus calyciflorus,Invertebrate,FALSE
+"2,4-Dichloroaniline",18.4231,Daphnia magna,Invertebrate,FALSE
+"2,4-Dichloroaniline",533.161,Gasterosteus aculeatus,Fish,FALSE
+"2,4-Dichloroaniline",500,Oryzias latipes,Fish,FALSE
+"2,4-Dichloroaniline",787.401,Raphidocelis subcapitata,Algae,FALSE
+"2,4-Dichloroaniline",683.99,Xenopus laevis,Amphibian,FALSE
+"2,4-Dichlorophenol",61.2372,Allorchestes compressa,Invertebrate,TRUE
+"2,4-Dichlorophenol",1000,Carassius auratus,Fish,TRUE
+"2,4-Dichlorophenol",400,Chanodichthys erythropterus,Fish,TRUE
+"2,4-Dichlorophenol",1000,Corbicula manilensis,Invertebrate,TRUE
+"2,4-Dichlorophenol",793.701,Ctenopharyngodon idella,Fish,TRUE
+"2,4-Dichlorophenol",96.5489,Danio rerio,Fish,TRUE
+"2,4-Dichlorophenol",341.063,Daphnia magna,Invertebrate,TRUE
+"2,4-Dichlorophenol",50,Macrobrachium superbum,Invertebrate,TRUE
+"2,4-Dichlorophenol",100,Mylopharyngodon piceus,Fish,TRUE
+"2,4-Dichlorophenol",205.679,Oncorhynchus mykiss,Fish,TRUE
+"2,4-Dichlorophenol",1743.8,Pimephales promelas,Fish,TRUE
+"2,4-Dichlorophenol",200,Plagiognathops microlepis,Fish,TRUE
+"2,4-Dichlorophenol",704.131,Raphidocelis subcapitata,Algae,TRUE
+"2,4-Dichlorophenol",6000,Skeletonema costatum,Algae,TRUE
+"2,4-Dichlorophenoxyacetic acid",2020,Anabaena flos-aquae,Algae,TRUE
+"2,4-Dichlorophenoxyacetic acid",58000,Brachionus calyciflorus,Invertebrate,TRUE
+"2,4-Dichlorophenoxyacetic acid",19944.9,Carassius auratus,Fish,TRUE
+"2,4-Dichlorophenoxyacetic acid",43.8178,Ceriodaphnia sp,Invertebrate,TRUE
+"2,4-Dichlorophenoxyacetic acid",11400,Chlorella fusca var vacuolata,Algae,TRUE
+"2,4-Dichlorophenoxyacetic acid",38034.9,Chlorella vulgaris,Algae,TRUE
+"2,4-Dichlorophenoxyacetic acid",400000,Chlorococcum sp,Algae,TRUE
+"2,4-Dichlorophenoxyacetic acid",25000,Crassostrea virginica,Invertebrate,TRUE
+"2,4-Dichlorophenoxyacetic acid",120,Daphnia ambigua,Invertebrate,TRUE
+"2,4-Dichlorophenoxyacetic acid",12545.9,Daphnia magna,Invertebrate,TRUE
+"2,4-Dichlorophenoxyacetic acid",43.8178,Daphnia pulex,Invertebrate,TRUE
+"2,4-Dichlorophenoxyacetic acid",31300,Dunaliella tertiolecta,Algae,TRUE
+"2,4-Dichlorophenoxyacetic acid",2020,Navicula pelliculosa,Algae,TRUE
+"2,4-Dichlorophenoxyacetic acid",210,Oncorhynchus mykiss,Fish,TRUE
+"2,4-Dichlorophenoxyacetic acid",28287.2,Oryzias latipes,Fish,TRUE
+"2,4-Dichlorophenoxyacetic acid",10000,Phyllospora comosa,Algae,TRUE
+"2,4-Dichlorophenoxyacetic acid",63400,Pimephales promelas,Fish,TRUE
+"2,4-Dichlorophenoxyacetic acid",33236.1,Raphidocelis subcapitata,Algae,TRUE
+"2,4-Dichlorophenoxyacetic acid",120,Scapholeberis sp,Invertebrate,TRUE
+"2,4-Dichlorophenoxyacetic acid",2000,Scenedesmus quadricauda,Algae,TRUE
+"2,4-Dichlorophenoxyacetic acid",2020,Skeletonema costatum,Algae,TRUE
+"2,4-Dichlorophenoxyacetic acid",199,Spirulina platensis,Algae,TRUE
+"2,4-Dichlorophenoxyacetic acid",1000,Tilapia sp,Fish,TRUE
+"2,4-Dimethylphenol",2000,Brachionus calyciflorus,Invertebrate,FALSE
+"2,4-Dimethylphenol",1661.96,Ceriodaphnia dubia,Invertebrate,FALSE
+"2,4-Dimethylphenol",270,Daphnia magna,Invertebrate,FALSE
+"2,4-Dimethylphenol",131,Menidia beryllina,Fish,FALSE
+"2,4-Dimethylphenol",1648.38,Pimephales promelas,Fish,FALSE
+"2,4-Dimethylphenol",1897.37,Raphidocelis subcapitata,Algae,FALSE
+"2-Methyl-4,6-dinitrophenol",1000,Brachionus calyciflorus,Invertebrate,FALSE
+"2-Methyl-4,6-dinitrophenol",100000,Chlorella vulgaris,Algae,FALSE
+"2-Methyl-4,6-dinitrophenol",10000,Culex pipiens,Invertebrate,FALSE
+"2-Methyl-4,6-dinitrophenol",801.07,Cyprinus carpio,Fish,FALSE
+"2-Methyl-4,6-dinitrophenol",154.737,Daphnia magna,Invertebrate,FALSE
+"2-Methyl-4,6-dinitrophenol",353.368,Pimephales promelas,Fish,FALSE
+"2-Methyl-4,6-dinitrophenol",1000,Poecilia reticulata,Fish,FALSE
+"2-Methyl-4,6-dinitrophenol",1000,Raphidocelis subcapitata,Algae,FALSE
+"2-Methyl-4,6-dinitrophenol",320,Xenopus laevis,Amphibian,FALSE
+"3,3',5,5'-Tetrabromobisphenol A",120,Chironomus tentans,Invertebrate,FALSE
+"3,3',5,5'-Tetrabromobisphenol A",239.008,Danio rerio,Fish,FALSE
+"3,3',5,5'-Tetrabromobisphenol A",489.898,Daphnia magna,Invertebrate,FALSE
+"3,3',5,5'-Tetrabromobisphenol A",160,Pimephales promelas,Fish,FALSE
+"3,3',5,5'-Tetrabromobisphenol A",210.69,Psammechinus miliaris,Invertebrate,FALSE
+"3,3',5,5'-Tetrabromobisphenol A",1.8,Pseudodiaptomus inopinus,Invertebrate,FALSE
+"3,3',5,5'-Tetrabromobisphenol A",367.423,Raphidocelis subcapitata,Algae,FALSE
+"3,4-Dichloroaniline",32,Artemia salina,Invertebrate,TRUE
+"3,4-Dichloroaniline",5000,Brachionus calyciflorus,Invertebrate,TRUE
+"3,4-Dichloroaniline",6.22865,Ceriodaphnia dubia,Invertebrate,TRUE
+"3,4-Dichloroaniline",874.339,Chironomus riparius,Invertebrate,TRUE
+"3,4-Dichloroaniline",934.646,Chlamydomonas reinhardtii,Algae,TRUE
+"3,4-Dichloroaniline",16.0098,Danio rerio,Fish,TRUE
+"3,4-Dichloroaniline",11.3849,Daphnia longispina,Invertebrate,TRUE
+"3,4-Dichloroaniline",11.5725,Daphnia magna,Invertebrate,TRUE
+"3,4-Dichloroaniline",80,Daphnia pulex,Invertebrate,TRUE
+"3,4-Dichloroaniline",766.309,Desmodesmus subspicatus,Algae,TRUE
+"3,4-Dichloroaniline",80,Gammarus pulex,Invertebrate,TRUE
+"3,4-Dichloroaniline",61.9487,Oncorhynchus mykiss,Fish,TRUE
+"3,4-Dichloroaniline",0.0808,Oreochromis niloticus,Fish,TRUE
+"3,4-Dichloroaniline",230,Oryzias latipes,Fish,TRUE
+"3,4-Dichloroaniline",20,Perca flavescens,Fish,TRUE
+"3,4-Dichloroaniline",20,Perca fluviatilis,Fish,TRUE
+"3,4-Dichloroaniline",1000,Phaeodactylum tricornutum,Algae,TRUE
+"3,4-Dichloroaniline",9.71083,Pimephales promelas,Fish,TRUE
+"3,4-Dichloroaniline",32,Pleuronectes platessa,Fish,TRUE
+"3,4-Dichloroaniline",926.577,Raphidocelis subcapitata,Algae,TRUE
+"3,4-Dichloroaniline",1000,Scenedesmus pannonicus,Algae,TRUE
+"3,4-Dichloroaniline",1,Simocephalus vetulus,Invertebrate,TRUE
+"3,4-Dichloroaniline",45,Tinca tinca,Fish,TRUE
+"4,5-Dichloro-2-octyl-3(2H)-isothiazolone",2.8,Anabaena flos-aquae,Algae,FALSE
+"4,5-Dichloro-2-octyl-3(2H)-isothiazolone",27.1,Chlorella fusca var vacuolata,Algae,FALSE
+"4,5-Dichloro-2-octyl-3(2H)-isothiazolone",6,Cyprinodon variegatus,Fish,FALSE
+"4,5-Dichloro-2-octyl-3(2H)-isothiazolone",0.56,Oncorhynchus mykiss,Fish,FALSE
+"4,5-Dichloro-2-octyl-3(2H)-isothiazolone",7.5987,Raphidocelis subcapitata,Algae,FALSE
+"4,5-Dichloro-2-octyl-3(2H)-isothiazolone",10,Skeletonema costatum,Algae,FALSE
+4-Chlorophenol,30000,Brachionus calyciflorus,Invertebrate,FALSE
+4-Chlorophenol,400,Ceriodaphnia dubia,Invertebrate,FALSE
+4-Chlorophenol,873.929,Daphnia magna,Invertebrate,FALSE
+4-Chlorophenol,10300,Hydra viridissima,Invertebrate,FALSE
+4-Chlorophenol,249.201,Oncorhynchus mykiss,Fish,FALSE
+4-Chlorophenol,982.564,Raphidocelis subcapitata,Algae,FALSE
+4-Chlorophenol,390,Skeletonema costatum,Algae,FALSE
+4-Nonylphenol,76,Alona sp,Invertebrate,TRUE
+4-Nonylphenol,23,Ceriodaphnia sp,Invertebrate,TRUE
+4-Nonylphenol,76,Chydorus sp,Invertebrate,TRUE
+4-Nonylphenol,39.8107,Danio rerio,Fish,TRUE
+4-Nonylphenol,37.7588,Daphnia magna,Invertebrate,TRUE
+4-Nonylphenol,23.5584,Gobiocypris rarus,Fish,TRUE
+4-Nonylphenol,1000,Microcystis aeruginosa,Algae,TRUE
+4-Nonylphenol,1,Oncorhynchus mykiss,Fish,TRUE
+4-Nonylphenol,100,Oryzias latipes,Fish,TRUE
+4-Nonylphenol,150,Poecilia reticulata,Fish,TRUE
+4-Nonylphenol,243,Polyarthra sp,Invertebrate,TRUE
+4-Nonylphenol,694,Raphidocelis subcapitata,Algae,TRUE
+4-Nonylphenol,76,Simocephalus sp,Invertebrate,TRUE
+4-tert-Butylphenol,1000,Anabaena cylindrica,Algae,FALSE
+4-tert-Butylphenol,5000,Ankistrodesmus sp,Algae,FALSE
+4-tert-Butylphenol,1835.42,Chlamydomonas reinhardtii,Algae,FALSE
+4-tert-Butylphenol,1982.37,Chlorella vulgaris,Algae,FALSE
+4-tert-Butylphenol,1300.45,Daphnia magna,Invertebrate,FALSE
+4-tert-Butylphenol,339.392,Neocaridina sp,Invertebrate,FALSE
+4-tert-Butylphenol,1835.42,Nitzschia kuetzingiana,Algae,FALSE
+4-tert-Butylphenol,1413.32,Philodina sp,Invertebrate,FALSE
+4-tert-Butylphenol,1835.42,Raphidocelis subcapitata,Algae,FALSE
+4-tert-Butylphenol,1421.1,Scenedesmus quadricauda,Algae,FALSE
+4-tert-Butylphenol,1484.92,Stigeoclonium sp,Algae,FALSE
+4-tert-Butylphenol,1484.92,Ulothrix sp,Algae,FALSE
+5-Chloro-2-methyl-3(2H)-isothiazolone,250,Anabaena flos-aquae,Algae,FALSE
+5-Chloro-2-methyl-3(2H)-isothiazolone,180,Daphnia magna,Invertebrate,FALSE
+5-Chloro-2-methyl-3(2H)-isothiazolone,50,Oncorhynchus mykiss,Fish,FALSE
+5-Chloro-2-methyl-3(2H)-isothiazolone,20,Pimephales promelas,Fish,FALSE
+5-Chloro-2-methyl-3(2H)-isothiazolone,19.1293,Raphidocelis subcapitata,Algae,FALSE
+5-Chloro-2-methyl-3(2H)-isothiazolone,24.4949,Skeletonema costatum,Algae,FALSE
+5-Chloro-2-methyl-3(2H)-isothiazolone,60,Synedra acus,Algae,FALSE
+Acetochlor,1900,Anabaena flos-aquae,Algae,FALSE
+Acetochlor,10,Ceriodaphnia sp,Invertebrate,FALSE
+Acetochlor,165.542,Daphnia magna,Invertebrate,FALSE
+Acetochlor,10,Daphnia pulex,Invertebrate,FALSE
+Acetochlor,560,Navicula pelliculosa,Algae,FALSE
+Acetochlor,177.321,Oncorhynchus mykiss,Fish,FALSE
+Acetochlor,450,Pimephales promelas,Fish,FALSE
+Acetochlor,31.6228,Raphidocelis subcapitata,Algae,FALSE
+Acetochlor,1.6,Skeletonema costatum,Algae,FALSE
+Acrolein,12,Anabaena flos-aquae,Algae,FALSE
+Acrolein,141.421,Ceriodaphnia dubia,Invertebrate,FALSE
+Acrolein,16,Jordanella floridae,Fish,FALSE
+Acrolein,25,Navicula pelliculosa,Algae,FALSE
+Acrolein,11.2872,Pimephales promelas,Fish,FALSE
+Acrolein,30,Raphidocelis subcapitata,Algae,FALSE
+Acrolein,25,Skeletonema costatum,Algae,FALSE
+Alachlor,12500,Ceriodaphnia dubia,Invertebrate,TRUE
+Alachlor,1000,Ceriodaphnia sp,Invertebrate,TRUE
+Alachlor,27,Chlamydomonas eugametos,Algae,TRUE
+Alachlor,150,Chlamydomonas sp,Algae,TRUE
+Alachlor,11.6,Chlorella fusca var vacuolata,Algae,TRUE
+Alachlor,27.1442,Chlorella pyrenoidosa,Algae,TRUE
+Alachlor,100,Chlorella vulgaris,Algae,TRUE
+Alachlor,110,Daphnia magna,Invertebrate,TRUE
+Alachlor,187,Oncorhynchus mykiss,Fish,TRUE
+Alachlor,726.443,Pavlova sp,Algae,TRUE
+Alachlor,921.972,Pimephales promelas,Fish,TRUE
+Alachlor,1.18322,Raphidocelis subcapitata,Algae,TRUE
+Aluminum sulfate,8485.28,Chlorella pyrenoidosa,Algae,FALSE
+Aluminum sulfate,1000000,Chlorella sp,Algae,FALSE
+Aluminum sulfate,16309.5,Chlorella vulgaris,Algae,FALSE
+Aluminum sulfate,1150.22,Daphnia magna,Invertebrate,FALSE
+Aluminum sulfate,5776.68,Pimephales promelas,Fish,FALSE
+Aluminum sulfate,8522.76,Raphidocelis subcapitata,Algae,FALSE
+Aluminum sulfate,111.501,Salmo salar,Fish,FALSE
+Aluminum sulfate,30.2682,Salvelinus fontinalis,Fish,FALSE
+Aniline,14.6509,Ceriodaphnia dubia,Invertebrate,FALSE
+Aniline,90000,Chlorella pyrenoidosa,Algae,FALSE
+Aniline,7942.68,Danio rerio,Fish,FALSE
+Aniline,10.5457,Daphnia magna,Invertebrate,FALSE
+Aniline,9980.34,Oncorhynchus mykiss,Fish,FALSE
+Aniline,2959.56,Oryzias latipes,Fish,FALSE
+Aniline,3319.32,Pimephales promelas,Fish,FALSE
+Aniline,4333.86,Raphidocelis subcapitata,Algae,FALSE
+Arsenic(III) sulfide,280,Anabaena flos-aquae,Algae,FALSE
+Arsenic(III) sulfide,30,Chlorella vulgaris,Algae,FALSE
+Arsenic(III) sulfide,468.969,Daphnia magna,Invertebrate,FALSE
+Arsenic(III) sulfide,9113.2,Jordanella floridae,Fish,FALSE
+Arsenic(III) sulfide,2208.44,Pimephales promelas,Fish,FALSE
+Arsenic(III) sulfide,5,Raphidocelis subcapitata,Algae,FALSE
+Arsenic(III) sulfide,1560,Scenedesmus acutus var. acutus,Algae,FALSE
+Arsenic(III) sulfide,16400,Stichococcus bacillaris,Algae,FALSE
+Arsenic(III) sulfide,6600,Tetrahymena thermophila,Invertebrate,FALSE
+Atrazine,6.2849,Anabaena flos-aquae,Algae,TRUE
+Atrazine,10.198,Ankistrodesmus falcatus,Algae,TRUE
+Atrazine,39.685,Ankistrodesmus sp,Algae,TRUE
+Atrazine,320,Brachionus calyciflorus,Invertebrate,TRUE
+Atrazine,859,Carassius auratus,Fish,TRUE
+Atrazine,1545.14,Ceriodaphnia dubia,Invertebrate,TRUE
+Atrazine,20.578,Ceriodaphnia sp,Invertebrate,TRUE
+Atrazine,21.6,Chlamydomonas eugametos,Algae,TRUE
+Atrazine,24.7283,Chlamydomonas reinhardtii,Algae,TRUE
+Atrazine,75,Chlamydomonas sp,Algae,TRUE
+Atrazine,26.9416,Chlorella fusca var vacuolata,Algae,TRUE
+Atrazine,360,Chlorella pyrenoidosa,Algae,TRUE
+Atrazine,220.227,Chlorella saccharophila,Algae,TRUE
+Atrazine,1.94936,Chlorella sp,Algae,TRUE
+Atrazine,33.1386,Chlorella vulgaris,Algae,TRUE
+Atrazine,1445.68,Cyprinodon variegatus,Fish,TRUE
+Atrazine,361.936,Danio rerio,Fish,TRUE
+Atrazine,1010.24,Daphnia magna,Invertebrate,TRUE
+Atrazine,20,Daphnia parvula,Invertebrate,TRUE
+Atrazine,6.4,Daphnia pulex,Invertebrate,TRUE
+Atrazine,25,Daphnia sp,Invertebrate,TRUE
+Atrazine,21.312,Desmodesmus subspicatus,Algae,TRUE
+Atrazine,44.4305,Dunaliella tertiolecta,Algae,TRUE
+Atrazine,4200,Eurytemora affinis,Invertebrate,TRUE
+Atrazine,90,Gasterosteus aculeatus,Fish,TRUE
+Atrazine,33.2,Laminaria saccharina,Algae,TRUE
+Atrazine,95,Lepomis macrochirus,Fish,TRUE
+Atrazine,160.904,Microcystis aeruginosa,Algae,TRUE
+Atrazine,10,Navicula pelliculosa,Algae,TRUE
+Atrazine,33.0193,Oncorhynchus mykiss,Fish,TRUE
+Atrazine,15.8,Oncorhynchus nerka,Fish,TRUE
+Atrazine,67.1309,Oophila sp,Algae,TRUE
+Atrazine,5000,Oryzias latipes,Fish,TRUE
+Atrazine,10,Oscillatoria limnetica,Algae,TRUE
+Atrazine,20.1961,Pavlova sp,Algae,TRUE
+Atrazine,221.624,Pimephales promelas,Fish,TRUE
+Atrazine,4.88878,Poecilia reticulata,Fish,TRUE
+Atrazine,3,Pseudanabaena galeata,Algae,TRUE
+Atrazine,31.9427,Raphidocelis subcapitata,Algae,TRUE
+Atrazine,19.1838,Salmo salar,Fish,TRUE
+Atrazine,88.3176,Salvelinus fontinalis,Fish,TRUE
+Atrazine,13.7477,Scenedesmus acutus,Algae,TRUE
+Atrazine,14,Scenedesmus costatum,Algae,TRUE
+Atrazine,38,Scenedesmus sp,Algae,TRUE
+Atrazine,25,Simocephalus sp,Invertebrate,TRUE
+Atrazine,10.4,Staurastrum cristatum,Algae,TRUE
+Atrazine,16.7583,Synechococcus elongatus,Algae,TRUE
+Atrazine,10.4,Synechococcus sp,Algae,TRUE
+Atrazine,14500,Tetrahymena pyriformis,Invertebrate,TRUE
+Atrazine,1000,Tolypothrix tenuis,Algae,TRUE
+Azinphos-methyl,0.02,Americamysis bahia,Invertebrate,FALSE
+Azinphos-methyl,0.083,Cyprinodon variegatus,Fish,FALSE
+Azinphos-methyl,0.25,Daphnia magna,Invertebrate,FALSE
+Azinphos-methyl,1,Lepomis gibbosus,Fish,FALSE
+Azinphos-methyl,0.32497,Oncorhynchus mykiss,Fish,FALSE
+Azinphos-methyl,0.477539,Pimephales promelas,Fish,FALSE
+Azoxystrobin,9.5,Americamysis bahia,Invertebrate,FALSE
+Azoxystrobin,9000,Anabaena flos-aquae,Algae,FALSE
+Azoxystrobin,0.026,Daphnia magna,Invertebrate,FALSE
+Azoxystrobin,201.246,Lampsilis siliquoidea,Invertebrate,FALSE
+Azoxystrobin,147,Pimephales promelas,Fish,FALSE
+Azoxystrobin,25,Raphidocelis subcapitata,Algae,FALSE
+Benzyl butyl phthalate,15.8114,Brachionus calyciflorus,Invertebrate,FALSE
+Benzyl butyl phthalate,640,Chironomus tentans,Invertebrate,FALSE
+Benzyl butyl phthalate,389.576,Daphnia magna,Invertebrate,FALSE
+Benzyl butyl phthalate,166.036,Oncorhynchus mykiss,Fish,FALSE
+Benzyl butyl phthalate,150,Oryzias latipes,Fish,FALSE
+Benzyl butyl phthalate,284.983,Pimephales promelas,Fish,FALSE
+Benzyl butyl phthalate,77.4597,Raphidocelis subcapitata,Algae,FALSE
+Bis(tributyltin)oxide,0.957179,Cyprinodon variegatus,Fish,FALSE
+Bis(tributyltin)oxide,0.172936,Daphnia magna,Invertebrate,FALSE
+Bis(tributyltin)oxide,3.61994,Macrocystis pyrifera,Algae,FALSE
+Bis(tributyltin)oxide,0.552635,Oncorhynchus mykiss,Fish,FALSE
+Bis(tributyltin)oxide,5000,Oreochromis mossambicus,Fish,FALSE
+Bis(tributyltin)oxide,1.27489,Oryzias latipes,Fish,FALSE
+Bis(tributyltin)oxide,0.516472,Pimephales promelas,Fish,FALSE
+Bis(tributyltin)oxide,0.32,Poecilia reticulata,Fish,FALSE
+Bis(tributyltin)oxide,24,Ulva pertusa,Algae,FALSE
+Bisphenol A,1000,Brachionus koreanus,Invertebrate,TRUE
+Bisphenol A,940,Ceriodaphnia dubia,Invertebrate,TRUE
+Bisphenol A,25897.4,Chlorella pyrenoidosa,Algae,TRUE
+Bisphenol A,453.587,Danio rerio,Fish,TRUE
+Bisphenol A,946.194,Daphnia magna,Invertebrate,TRUE
+Bisphenol A,100,Marisa cornuarietis,Invertebrate,TRUE
+Bisphenol A,260.855,Oryzias latipes,Fish,TRUE
+Bisphenol A,223.607,Physella acuta,Invertebrate,TRUE
+Bisphenol A,250.173,Pimephales promelas,Fish,TRUE
+Bisphenol A,10.7021,Potamopyrgus antipodarum,Invertebrate,TRUE
+Bisphenol A,611.882,Raphidocelis subcapitata,Algae,TRUE
+Bisphenol A,22865.3,Scenedesmus acutus var. acutus,Algae,TRUE
+Bisphenol A,0.2,Xiphophorus helleri,Fish,TRUE
+Boscalid,8.06485,Afrochiltonia subtenuis,Invertebrate,FALSE
+Boscalid,1,Allorchestes compressa,Invertebrate,FALSE
+Boscalid,4200,Anabaena flos-aquae,Algae,FALSE
+Boscalid,1540,Daphnia magna,Invertebrate,FALSE
+Boscalid,466.99,Oncorhynchus mykiss,Fish,FALSE
+Boscalid,490,Raphidocelis subcapitata,Algae,FALSE
+Bromacil,11.2,Anabaena flos-aquae,Algae,FALSE
+Bromacil,100,Chlorella vulgaris,Algae,FALSE
+Bromacil,8200,Daphnia magna,Invertebrate,FALSE
+Bromacil,36.4932,Desmodesmus subspicatus,Algae,FALSE
+Bromacil,3000,Oncorhynchus mykiss,Fish,FALSE
+Bromacil,29000,Pimephales promelas,Fish,FALSE
+Bromacil,4.79142,Raphidocelis subcapitata,Algae,FALSE
+Bromoxynil,27700,Chlamydomonas eugametos,Algae,FALSE
+Bromoxynil,21000,Chlorella fusca var vacuolata,Algae,FALSE
+Bromoxynil,10000,Chlorella vulgaris,Algae,FALSE
+Bromoxynil,20,Daphnia magna,Invertebrate,FALSE
+Bromoxynil,2268.72,Pimephales promelas,Fish,FALSE
+Bromoxynil,6281.72,Raphidocelis subcapitata,Algae,FALSE
+Bromoxynil,12387.8,Synechococcus elongatus,Algae,FALSE
+Bromoxynil octanoate,20,Daphnia magna,Invertebrate,FALSE
+Bromoxynil octanoate,9.3,Navicula pelliculosa,Algae,FALSE
+Bromoxynil octanoate,3.4,Pimephales promelas,Fish,FALSE
+Bromoxynil octanoate,74.2654,Raphidocelis subcapitata,Algae,FALSE
+Bromoxynil octanoate,200,Scenedesmus quadricauda,Algae,FALSE
+Bromoxynil octanoate,33,Skeletonema costatum,Algae,FALSE
+Bromuconazole,84,Anabaena flos-aquae,Algae,FALSE
+Bromuconazole,10.9545,Daphnia magna,Invertebrate,FALSE
+Bromuconazole,8,Navicula pelliculosa,Algae,FALSE
+Bromuconazole,110,Oncorhynchus mykiss,Fish,FALSE
+Bromuconazole,34,Pimephales promelas,Fish,FALSE
+Bromuconazole,61.2372,Raphidocelis subcapitata,Algae,FALSE
+Bromuconazole,7,Skeletonema costatum,Algae,FALSE
+Butachlor,34.7,Alona sp,Invertebrate,TRUE
+Butachlor,34.7,Anuraeopsis sp,Invertebrate,TRUE
+Butachlor,34.7,Asplanchna sp,Invertebrate,TRUE
+Butachlor,34.7,Chydorus sp,Invertebrate,TRUE
+Butachlor,34.7,Cyclops sp,Invertebrate,TRUE
+Butachlor,200,Daphnia magna,Invertebrate,TRUE
+Butachlor,46,Oryzias latipes,Fish,TRUE
+Butachlor,34.7,Polyarthra sp,Invertebrate,TRUE
+Butachlor,0.685565,Raphidocelis subcapitata,Algae,TRUE
+Butachlor,34.7,Scapholeberis sp,Invertebrate,TRUE
+Butachlor,34.7,Simocephalus sp,Invertebrate,TRUE
+Butachlor,500,Tilapia sp,Fish,TRUE
+Cadmium chloride,17.2,Aeolosoma headleyi,Invertebrate,TRUE
+Cadmium chloride,48.9,Ambystoma gracile,Amphibian,TRUE
+Cadmium chloride,425.934,Americamysis bahia,Invertebrate,TRUE
+Cadmium chloride,10,Ankistrodesmus falcatus,Algae,TRUE
+Cadmium chloride,55.4992,Barbus ticto,Fish,TRUE
+Cadmium chloride,17.048,Brachionus calyciflorus,Invertebrate,TRUE
+Cadmium chloride,105,Brachionus havanaensis,Invertebrate,TRUE
+Cadmium chloride,280,Brachionus rubens,Invertebrate,TRUE
+Cadmium chloride,4.43869,Ceriodaphnia dubia,Invertebrate,TRUE
+Cadmium chloride,40.5451,Chlamydomonas reinhardtii,Algae,TRUE
+Cadmium chloride,6.0822,Chlorella pyrenoidosa,Algae,TRUE
+Cadmium chloride,12.5,Chlorella sp,Algae,TRUE
+Cadmium chloride,652.56,Chlorella vulgaris,Algae,TRUE
+Cadmium chloride,10000,Chlorococcum sp,Algae,TRUE
+Cadmium chloride,1.41863,Cottus bairdi,Fish,TRUE
+Cadmium chloride,560,Cyprinodon variegatus,Fish,TRUE
+Cadmium chloride,440,Cyprinus carpio,Fish,TRUE
+Cadmium chloride,40.3336,Danio rerio,Fish,TRUE
+Cadmium chloride,2.74476,Daphnia magna,Invertebrate,TRUE
+Cadmium chloride,6.71097,Daphnia pulex,Invertebrate,TRUE
+Cadmium chloride,8.6317,Desmodesmus subspicatus,Algae,TRUE
+Cadmium chloride,0.0708,Dunaliella tertiolecta,Algae,TRUE
+Cadmium chloride,5.01737,Etheostoma fonticola,Fish,TRUE
+Cadmium chloride,0.1,Hyalella azteca,Invertebrate,TRUE
+Cadmium chloride,0.678087,Hydra viridissima,Invertebrate,TRUE
+Cadmium chloride,3.56329,Jordanella floridae,Fish,TRUE
+Cadmium chloride,5000,Monhystera disjuncta,Invertebrate,TRUE
+Cadmium chloride,1000,Monhystera microphthalma,Invertebrate,TRUE
+Cadmium chloride,6.25,Mytilus galloprovincialis,Invertebrate,TRUE
+Cadmium chloride,4.62,Odontesthes bonariensis,Fish,TRUE
+Cadmium chloride,2.06523,Oncorhynchus mykiss,Fish,TRUE
+Cadmium chloride,1.58127,Oncorhynchus tshawytscha,Fish,TRUE
+Cadmium chloride,3670,Oreochromis niloticus,Fish,TRUE
+Cadmium chloride,8.05,Oryzias latipes,Fish,TRUE
+Cadmium chloride,2.82843,Parachlorella kessleri,Algae,TRUE
+Cadmium chloride,11.7025,Pimephales promelas,Fish,TRUE
+Cadmium chloride,7,Potamopyrgus jenkinsi,Invertebrate,TRUE
+Cadmium chloride,8.40717,Raphidocelis subcapitata,Algae,TRUE
+Cadmium chloride,0.447214,Salmo trutta,Fish,TRUE
+Cadmium chloride,9.24903,Salvelinus fontinalis,Fish,TRUE
+Cadmium chloride,10000,Scenedesmus abundans,Algae,TRUE
+Cadmium chloride,300,Scenedesmus acutus var. acutus,Algae,TRUE
+Cadmium chloride,0.0708,Synechococcus sp,Algae,TRUE
+Cadmium chloride,1000,Tetraselmis gracilis,Algae,TRUE
+Cadmium chloride,18,Tisbe battagliai,Invertebrate,TRUE
+Cadmium chloride,800,Ulva fasciata,Algae,TRUE
+Cadmium chloride,68.7386,Ulva pertusa,Algae,TRUE
+Carbamazepine,377,Brachionus calyciflorus,Invertebrate,FALSE
+Carbamazepine,25,Ceriodaphnia dubia,Invertebrate,FALSE
+Carbamazepine,870.551,Chlorella pyrenoidosa,Algae,FALSE
+Carbamazepine,3445.88,Danio rerio,Fish,FALSE
+Carbamazepine,141.421,Daphnia pulex,Invertebrate,FALSE
+Carbamazepine,34657.2,Dunaliella tertiolecta,Algae,FALSE
+Carbamazepine,180,Oncorhynchus mykiss,Fish,FALSE
+Carbamazepine,862,Pimephales promelas,Fish,FALSE
+Carbamazepine,771.105,Scenedesmus acutus var. acutus,Algae,FALSE
+Carbaryl,2000,Anabaena flos-aquae,Algae,TRUE
+Carbaryl,2,Bosmina longirostris,Invertebrate,TRUE
+Carbaryl,180,Brachionus calyciflorus,Invertebrate,TRUE
+Carbaryl,510,Ceriodaphnia sp,Invertebrate,TRUE
+Carbaryl,200,Chlorella pyrenoidosa,Algae,TRUE
+Carbaryl,200,Chlorella vulgaris,Algae,TRUE
+Carbaryl,2030,Clarias batrachus,Fish,TRUE
+Carbaryl,2000,Crassostrea virginica,Invertebrate,TRUE
+Carbaryl,10000,Cylindrospermum sp,Algae,TRUE
+Carbaryl,5,Daphnia ambigua,Invertebrate,TRUE
+Carbaryl,2.41448,Daphnia magna,Invertebrate,TRUE
+Carbaryl,6.9,Daphnia pulex,Invertebrate,TRUE
+Carbaryl,650,Gila elegans,Fish,TRUE
+Carbaryl,1073,Lampsilis siliquoidea,Invertebrate,TRUE
+Carbaryl,1211.76,Lepomis macrochirus,Fish,TRUE
+Carbaryl,1000,Lymnaea stagnalis,Invertebrate,TRUE
+Carbaryl,100,Microcystis aeruginosa,Algae,TRUE
+Carbaryl,100,Microcystis flosaquae,Algae,TRUE
+Carbaryl,3162.28,Nostoc commune,Algae,TRUE
+Carbaryl,10000,Oryzias latipes,Fish,TRUE
+Carbaryl,0.05,Palaemon serratus,Invertebrate,TRUE
+Carbaryl,785.59,Pimephales promelas,Fish,TRUE
+Carbaryl,445,Ptychocheilus lucius,Fish,TRUE
+Carbaryl,300.84,Raphidocelis subcapitata,Algae,TRUE
+Carbaryl,510,Scapholeberis sp,Invertebrate,TRUE
+Carbaryl,200,Scenedesmus acutus var. acutus,Algae,TRUE
+Carbaryl,500,Scenedesmus quadricauda,Algae,TRUE
+Carbaryl,500,Synechococcus elongatus,Algae,TRUE
+Carbendazim,3.3,Acroperus harpae,Invertebrate,FALSE
+Carbendazim,4800,Anabaena variabilis,Algae,FALSE
+Carbendazim,319,Asellus aquaticus,Invertebrate,FALSE
+Carbendazim,319,Asellus sp,Invertebrate,FALSE
+Carbendazim,92.1,Bithynia leachi,Invertebrate,FALSE
+Carbendazim,31.5,Bithynia sp,Invertebrate,FALSE
+Carbendazim,184.742,Bithynia tentaculata,Invertebrate,FALSE
+Carbendazim,100,Chlamydomonas sp,Algae,FALSE
+Carbendazim,6.61789,Daphnia magna,Invertebrate,FALSE
+Carbendazim,31,Gammarus pulex,Invertebrate,FALSE
+Carbendazim,31,Gammarus sp,Invertebrate,FALSE
+Carbendazim,330,Keratella quadrata,Invertebrate,FALSE
+Carbendazim,33.5,Lepadella patella,Invertebrate,FALSE
+Carbendazim,3.1,Lymnaea sp,Invertebrate,FALSE
+Carbendazim,40,Moina micrura,Invertebrate,FALSE
+Carbendazim,100,Monoraphidium sp,Algae,FALSE
+Carbendazim,4800,Nostoc muscorum,Algae,FALSE
+Carbendazim,3.1,Physa fontinalis,Invertebrate,FALSE
+Carbendazim,3.1,Physella acuta,Invertebrate,FALSE
+Carbendazim,226,Polyarthra sp,Invertebrate,FALSE
+Carbendazim,319,Proasellus coxalis,Invertebrate,FALSE
+Carbendazim,319,Proasellus meridianus,Invertebrate,FALSE
+Carbendazim,330,Scenedesmus acutus,Algae,FALSE
+Carbendazim,33.2491,Simocephalus vetulus,Invertebrate,FALSE
+Carbofuran,0.4,Americamysis bahia,Invertebrate,TRUE
+Carbofuran,2000,Anabaena flos-aquae,Algae,TRUE
+Carbofuran,1.3,Ceriodaphnia dubia,Invertebrate,TRUE
+Carbofuran,3540,Chlorella fusca var vacuolata,Algae,TRUE
+Carbofuran,2000,Chlorella pyrenoidosa,Algae,TRUE
+Carbofuran,1153.26,Chlorella vulgaris,Algae,TRUE
+Carbofuran,240,Clarias batrachus,Fish,TRUE
+Carbofuran,39685,Cylindrospermum sp,Algae,TRUE
+Carbofuran,17.6,Cyprinodon variegatus,Fish,TRUE
+Carbofuran,16000,Cyprinus carpio ssp. communis,Fish,TRUE
+Carbofuran,9.8,Daphnia magna,Invertebrate,TRUE
+Carbofuran,1000,Microcystis aeruginosa,Algae,TRUE
+Carbofuran,2000,Microcystis flosaquae,Algae,TRUE
+Carbofuran,24.8,Oncorhynchus mykiss,Fish,TRUE
+Carbofuran,111.504,Oreochromis mossambicus,Fish,TRUE
+Carbofuran,111.408,Pimephales promelas,Fish,TRUE
+Carbofuran,447.214,Raphidocelis subcapitata,Algae,TRUE
+Carbofuran,200,Scenedesmus acutus var. acutus,Algae,TRUE
+Carbofuran,2000,Scenedesmus quadricauda,Algae,TRUE
+Carfentrazone-ethyl,2,Anabaena flos-aquae,Algae,FALSE
+Carfentrazone-ethyl,1000,Anabaena variabilis,Algae,FALSE
+Carfentrazone-ethyl,10000,Chlorella vulgaris,Algae,FALSE
+Carfentrazone-ethyl,100,Nostoc commune,Algae,FALSE
+Carfentrazone-ethyl,38.5102,Oncorhynchus mykiss,Fish,FALSE
+Carfentrazone-ethyl,8.37198,Raphidocelis subcapitata,Algae,FALSE
+Chlorothalonil,0.83,Americamysis bahia,Invertebrate,TRUE
+Chlorothalonil,1,Anabaena flos-aquae,Algae,TRUE
+Chlorothalonil,111.199,Ceriodaphnia dubia,Invertebrate,TRUE
+Chlorothalonil,0.2,Chlorella pyrenoidosa,Algae,TRUE
+Chlorothalonil,2,Chlorella vulgaris,Algae,TRUE
+Chlorothalonil,39,Daphnia magna,Invertebrate,TRUE
+Chlorothalonil,33.3,Dunaliella tertiolecta,Algae,TRUE
+Chlorothalonil,79.6214,Fundulus heteroclitus,Fish,TRUE
+Chlorothalonil,100,Hyalella azteca,Invertebrate,TRUE
+Chlorothalonil,50,Microcystis aeruginosa,Algae,TRUE
+Chlorothalonil,2,Microcystis flosaquae,Algae,TRUE
+Chlorothalonil,26.715,Nitzschia pungens,Algae,TRUE
+Chlorothalonil,40,Oncorhynchus mykiss,Fish,TRUE
+Chlorothalonil,2.5,Oncorhynchus nerka,Fish,TRUE
+Chlorothalonil,11.8453,Pimephales promelas,Fish,TRUE
+Chlorothalonil,36.8403,Raphidocelis subcapitata,Algae,TRUE
+Chlorothalonil,3.30584,Salmo salar,Fish,TRUE
+Chlorothalonil,0.5,Scenedesmus acutus var. acutus,Algae,TRUE
+Chlorothalonil,5,Scenedesmus quadricauda,Algae,TRUE
+Chlorothalonil,0.56,Skeletonema costatum,Algae,TRUE
+Chlorpyrifos,0.742312,Alona sp,Invertebrate,TRUE
+Chlorpyrifos,0.0046,Americamysis bahia,Invertebrate,TRUE
+Chlorpyrifos,1000,Anabaena variabilis,Algae,TRUE
+Chlorpyrifos,2.3,Anuraeopsis sp,Invertebrate,TRUE
+Chlorpyrifos,35,Artemia salina,Invertebrate,TRUE
+Chlorpyrifos,2.3,Asplanchna sp,Invertebrate,TRUE
+Chlorpyrifos,0.2,Brachionus angularis,Invertebrate,TRUE
+Chlorpyrifos,80.7517,Brachionus calyciflorus,Invertebrate,TRUE
+Chlorpyrifos,0.1,Caenis horaria,Invertebrate,TRUE
+Chlorpyrifos,0.1,Caenis luctuosa,Invertebrate,TRUE
+Chlorpyrifos,1,Ceriodaphnia cornuta,Invertebrate,TRUE
+Chlorpyrifos,0.0342027,Ceriodaphnia dubia,Invertebrate,TRUE
+Chlorpyrifos,6,Chironomus sp,Invertebrate,TRUE
+Chlorpyrifos,100,Chlamydomonas reinhardtii,Algae,TRUE
+Chlorpyrifos,10,Chlorella pyrenoidosa,Algae,TRUE
+Chlorpyrifos,1000,Chlorella vulgaris,Algae,TRUE
+Chlorpyrifos,2.3,Chydorus sp,Invertebrate,TRUE
+Chlorpyrifos,2.3,Cyclops sp,Invertebrate,TRUE
+Chlorpyrifos,22.4,Cyprinus carpio,Fish,TRUE
+Chlorpyrifos,0.0378929,Daphnia carinata,Invertebrate,TRUE
+Chlorpyrifos,0.1,Daphnia galeata,Invertebrate,TRUE
+Chlorpyrifos,0.189199,Daphnia magna,Invertebrate,TRUE
+Chlorpyrifos,0.0575705,Daphnia pulex,Invertebrate,TRUE
+Chlorpyrifos,400,Dunaliella tertiolecta,Algae,TRUE
+Chlorpyrifos,1,Filinia longiseta,Invertebrate,TRUE
+Chlorpyrifos,0.1,Gammarus pulex,Invertebrate,TRUE
+Chlorpyrifos,32,Hydra sp,Invertebrate,TRUE
+Chlorpyrifos,0.2,Keratella cochlearis,Invertebrate,TRUE
+Chlorpyrifos,0.215,Lecane luna,Invertebrate,TRUE
+Chlorpyrifos,0.035,Lepadella patella,Invertebrate,TRUE
+Chlorpyrifos,0.51,Lepomis cyanellus,Fish,TRUE
+Chlorpyrifos,0.75,Menidia beryllina,Fish,TRUE
+Chlorpyrifos,0.28,Menidia menidia,Fish,TRUE
+Chlorpyrifos,1,Microcystis sp,Algae,TRUE
+Chlorpyrifos,653.786,Microcystis wesenbergii,Algae,TRUE
+Chlorpyrifos,0.1,Moina micrura,Invertebrate,TRUE
+Chlorpyrifos,31.6228,Nostoc muscorum,Algae,TRUE
+Chlorpyrifos,4.09064,Oncorhynchus tshawytscha,Fish,TRUE
+Chlorpyrifos,7.93701,Oreochromis mossambicus,Fish,TRUE
+Chlorpyrifos,100,Oscillatoria sp,Algae,TRUE
+Chlorpyrifos,4.30371,Pimephales promelas,Fish,TRUE
+Chlorpyrifos,0.5,Poecilia reticulata,Fish,TRUE
+Chlorpyrifos,0.1,Polyarthra remata,Invertebrate,TRUE
+Chlorpyrifos,2.3,Polyarthra sp,Invertebrate,TRUE
+Chlorpyrifos,2.3,Scapholeberis sp,Invertebrate,TRUE
+Chlorpyrifos,1,Scenedesmus quadricauda,Algae,TRUE
+Chlorpyrifos,2.3,Simocephalus sp,Invertebrate,TRUE
+Chlorpyrifos,0.574794,Simocephalus vetulus,Invertebrate,TRUE
+Chlorpyrifos,5.20999,Tandanus tandanus,Fish,TRUE
+Chlorpyrifos,80,Tilapia sp,Fish,TRUE
+Chlorpyrifos,2.47386,Tilapia zillii,Fish,TRUE
+Chlorsulfuron,240,Anabaena flos-aquae,Algae,FALSE
+Chlorsulfuron,9300,Chlorella saccharophila,Algae,FALSE
+Chlorsulfuron,20000,Daphnia magna,Invertebrate,FALSE
+Chlorsulfuron,31400,Oncorhynchus mykiss,Fish,FALSE
+Chlorsulfuron,3832.16,Pseudanabaena galeata,Algae,FALSE
+Chlorsulfuron,10.7963,Raphidocelis subcapitata,Algae,FALSE
+Chlorsulfuron,70,Scenedesmus acutus,Algae,FALSE
+Chromium trioxide,438.178,Americamysis bahia,Invertebrate,TRUE
+Chromium trioxide,26.2198,Ceriodaphnia dubia,Invertebrate,TRUE
+Chromium trioxide,1187.76,Channa punctata,Fish,TRUE
+Chromium trioxide,465.575,Chlorella vulgaris,Algae,TRUE
+Chromium trioxide,2828.43,Cyprinodon variegatus,Fish,TRUE
+Chromium trioxide,38137.5,Danio rerio,Fish,TRUE
+Chromium trioxide,50,Daphnia carinata,Invertebrate,TRUE
+Chromium trioxide,24.7065,Daphnia magna,Invertebrate,TRUE
+Chromium trioxide,100,Dinophilus gyrociliatus,Invertebrate,TRUE
+Chromium trioxide,23067.2,Gasterosteus aculeatus,Fish,TRUE
+Chromium trioxide,4580,Lepomis macrochirus,Fish,TRUE
+Chromium trioxide,4580,Micropterus salmoides,Fish,TRUE
+Chromium trioxide,484,Odontesthes bonariensis,Fish,TRUE
+Chromium trioxide,17800,Oncorhynchus kisutch,Fish,TRUE
+Chromium trioxide,50,Oreochromis niloticus,Fish,TRUE
+Chromium trioxide,3779.76,Pimephales promelas,Fish,TRUE
+Chromium trioxide,181.72,Raphidocelis subcapitata,Algae,TRUE
+Chromium trioxide,1000,Skeletonema costatum,Algae,TRUE
+Chromium trioxide,320,Tisbe battagliai,Invertebrate,TRUE
+Chromium trioxide,500,Wallago attu,Fish,TRUE
+Clofibric acid,246,Brachionus calyciflorus,Invertebrate,FALSE
+Clofibric acid,640,Ceriodaphnia dubia,Invertebrate,FALSE
+Clofibric acid,70000,Danio rerio,Fish,FALSE
+Clofibric acid,632.456,Daphnia magna,Invertebrate,FALSE
+Clofibric acid,100000,Dunaliella tertiolecta,Algae,FALSE
+Clofibric acid,16120,Gambusia holbrooki,Fish,FALSE
+Clofibric acid,9.6,Palaemon serratus,Invertebrate,FALSE
+Clofibric acid,50438.1,Pimephales promelas,Fish,FALSE
+Clofibric acid,2738.61,Raphidocelis subcapitata,Algae,FALSE
+Copper,100,Atherinops affinis,Fish,TRUE
+Copper,28.2086,Brachionus calyciflorus,Invertebrate,TRUE
+Copper,47.9388,Ceriodaphnia dubia,Invertebrate,TRUE
+Copper,22.9,Chlamydomonas reinhardtii,Algae,TRUE
+Copper,70.6858,Daphnia magna,Invertebrate,TRUE
+Copper,10,Daphnia pulex,Invertebrate,TRUE
+Copper,31.0584,Gasterosteus aculeatus,Fish,TRUE
+Copper,13,Hyalella azteca,Invertebrate,TRUE
+Copper,150,Lecane hamata,Invertebrate,TRUE
+Copper,20,Lecane luna,Invertebrate,TRUE
+Copper,50,Lecane quadridentata,Invertebrate,TRUE
+Copper,23.6223,Macrocystis pyrifera,Algae,TRUE
+Copper,22.3592,Oncorhynchus kisutch,Fish,TRUE
+Copper,21.271,Oncorhynchus mykiss,Fish,TRUE
+Copper,11.7,Oncorhynchus tshawytscha,Fish,TRUE
+Copper,8.94427,Oreochromis niloticus,Fish,TRUE
+Copper,28300,Pimephales promelas,Fish,TRUE
+Copper,66.5396,Raphidocelis subcapitata,Algae,TRUE
+Copper,108.512,Salvelinus fontinalis,Fish,TRUE
+Copper,2620,Scenedesmus acutus var. acutus,Algae,TRUE
+Copper,13,Ulva pertusa,Algae,TRUE
+Cupric oxide,20,Anabaena flos-aquae,Algae,TRUE
+Cupric oxide,115,Ankistrodesmus falcatus,Algae,TRUE
+Cupric oxide,32,Atherinops affinis,Fish,TRUE
+Cupric oxide,36.9994,Barbus ticto,Fish,TRUE
+Cupric oxide,14.0577,Brachionus calyciflorus,Invertebrate,TRUE
+Cupric oxide,20,Brachionus patulus,Invertebrate,TRUE
+Cupric oxide,100,Brachionus plicatilis,Invertebrate,TRUE
+Cupric oxide,9.4,Brachionus rubens,Invertebrate,TRUE
+Cupric oxide,22.2701,Ceriodaphnia dubia,Invertebrate,TRUE
+Cupric oxide,16.3,Chironomus tentans,Invertebrate,TRUE
+Cupric oxide,37.5642,Chlamydomonas reinhardtii,Algae,TRUE
+Cupric oxide,115,Chlamydomonas sp,Algae,TRUE
+Cupric oxide,4988.25,Chlorella fusca var vacuolata,Algae,TRUE
+Cupric oxide,468.755,Chlorella pyrenoidosa,Algae,TRUE
+Cupric oxide,160,Chlorella sorokiniana,Algae,TRUE
+Cupric oxide,7.59311,Chlorella sp,Algae,TRUE
+Cupric oxide,76.1294,Chlorella vulgaris,Algae,TRUE
+Cupric oxide,10000,Chlorococcum sp,Algae,TRUE
+Cupric oxide,44,Chydorus sphaericus,Invertebrate,TRUE
+Cupric oxide,100,Cirrhinus mrigala,Fish,TRUE
+Cupric oxide,9.25618,Cottus bairdi,Fish,TRUE
+Cupric oxide,120,Cyprinodon variegatus,Fish,TRUE
+Cupric oxide,3.28133,Danio rerio,Fish,TRUE
+Cupric oxide,22.6495,Daphnia ambigua,Invertebrate,TRUE
+Cupric oxide,31.9639,Daphnia galeata,Invertebrate,TRUE
+Cupric oxide,31.8897,Daphnia longispina,Invertebrate,TRUE
+Cupric oxide,33.8692,Daphnia magna,Invertebrate,TRUE
+Cupric oxide,3.77986,Daphnia pulex,Invertebrate,TRUE
+Cupric oxide,52.6513,Desmodesmus subspicatus,Algae,TRUE
+Cupric oxide,316.228,Dunaliella tertiolecta,Algae,TRUE
+Cupric oxide,14.7629,Erimonax monachus,Fish,TRUE
+Cupric oxide,6.5,Etheostoma fonticola,Fish,TRUE
+Cupric oxide,51.1,Eurytemora affinis,Invertebrate,TRUE
+Cupric oxide,32.3595,Fucus serratus,Algae,TRUE
+Cupric oxide,11,Gammarus pulex,Invertebrate,TRUE
+Cupric oxide,1.67332,Hydra viridissima,Invertebrate,TRUE
+Cupric oxide,4,Hydra vulgaris,Invertebrate,TRUE
+Cupric oxide,110.539,Ictalurus punctatus,Fish,TRUE
+Cupric oxide,33,Keratella quadrata,Invertebrate,TRUE
+Cupric oxide,15.8114,Laminaria saccharina,Algae,TRUE
+Cupric oxide,25.1425,Macrocystis pyrifera,Algae,TRUE
+Cupric oxide,0.3,Micromonas pusilla,Algae,TRUE
+Cupric oxide,20,Mogurnda mogurnda,Fish,TRUE
+Cupric oxide,284.551,Morone saxatilis,Fish,TRUE
+Cupric oxide,22,Morone saxatilis ssp. x chrysops,Fish,TRUE
+Cupric oxide,62.5,Navicula pelliculosa,Algae,TRUE
+Cupric oxide,58.5,Odontesthes bonariensis,Fish,TRUE
+Cupric oxide,282,Oncorhynchus kisutch,Fish,TRUE
+Cupric oxide,28.7758,Oncorhynchus mykiss,Fish,TRUE
+Cupric oxide,11.7,Oncorhynchus tshawytscha,Fish,TRUE
+Cupric oxide,718.368,Oreochromis niloticus,Fish,TRUE
+Cupric oxide,84.1083,Philodina sp,Invertebrate,TRUE
+Cupric oxide,18.9475,Pimephales promelas,Fish,TRUE
+Cupric oxide,11,Polyarthra sp,Invertebrate,TRUE
+Cupric oxide,5,Potamopyrgus jenkinsi,Invertebrate,TRUE
+Cupric oxide,5.72559,Prosopium williamsoni,Fish,TRUE
+Cupric oxide,34.5083,Raphidocelis subcapitata,Algae,TRUE
+Cupric oxide,162.685,Salvelinus confluentus,Fish,TRUE
+Cupric oxide,10.247,Salvelinus fontinalis,Fish,TRUE
+Cupric oxide,26.8621,Sander vitreus,Fish,TRUE
+Cupric oxide,10000,Scenedesmus abundans,Algae,TRUE
+Cupric oxide,798,Scenedesmus acuminatus,Algae,TRUE
+Cupric oxide,118.933,Scenedesmus acutus,Algae,TRUE
+Cupric oxide,55,Scenedesmus acutus var. acutus,Algae,TRUE
+Cupric oxide,170.371,Scenedesmus quadricauda,Algae,TRUE
+Cupric oxide,125,Skeletonema costatum,Algae,TRUE
+Cupric oxide,10,Staurastrum cristatum,Algae,TRUE
+Cupric oxide,15,Stigeoclonium tenue,Algae,TRUE
+Cupric oxide,0.691392,Synechococcus sp,Algae,TRUE
+Cupric oxide,3563,Tetrahymena pyriformis,Invertebrate,TRUE
+Cupric oxide,1.6,Tilapia guineensis,Fish,TRUE
+Cupric oxide,6,Tisbe battagliai,Invertebrate,TRUE
+Cupric oxide,27.3,Ulva fasciata,Algae,TRUE
+Cupric oxide,17.368,Ulva pertusa,Algae,TRUE
+Cupric oxide,5.6124,Ulva reticulata,Algae,TRUE
+Cybutryne,110,Americamysis bahia,Invertebrate,TRUE
+Cybutryne,0.519615,Anabaena flos-aquae,Algae,TRUE
+Cybutryne,0.507,Chlorella fusca var vacuolata,Algae,TRUE
+Cybutryne,0.1,Chlorococcum sp,Algae,TRUE
+Cybutryne,1,Chroococcus minor,Algae,TRUE
+Cybutryne,170,Cyprinodon variegatus,Fish,TRUE
+Cybutryne,0.412553,Desmodesmus subspicatus,Algae,TRUE
+Cybutryne,0.180185,Dunaliella tertiolecta,Algae,TRUE
+Cybutryne,2.39256,Eisenia bicyclis,Algae,TRUE
+Cybutryne,8,Fucus serratus,Algae,TRUE
+Cybutryne,0.05,Navicula pelliculosa,Algae,TRUE
+Cybutryne,0.064,Nitzschia pungens,Algae,TRUE
+Cybutryne,4,Oncorhynchus mykiss,Fish,TRUE
+Cybutryne,0.806226,Raphidocelis subcapitata,Algae,TRUE
+Cybutryne,0.14,Skeletonema costatum,Algae,TRUE
+Cybutryne,253,Synechococcus elongatus,Algae,TRUE
+Cymoxanil,180.555,Anabaena flos-aquae,Algae,FALSE
+Cymoxanil,2000,Chlorella pyrenoidosa,Algae,FALSE
+Cymoxanil,200,Chlorella vulgaris,Algae,FALSE
+Cymoxanil,500,Microcystis aeruginosa,Algae,FALSE
+Cymoxanil,1000,Microcystis flosaquae,Algae,FALSE
+Cymoxanil,0.98,Oncorhynchus mykiss,Fish,FALSE
+Cymoxanil,353.553,Raphidocelis subcapitata,Algae,FALSE
+Cymoxanil,2000,Scenedesmus acutus var. acutus,Algae,FALSE
+Cymoxanil,100,Scenedesmus quadricauda,Algae,FALSE
+Di(2-ethylhexyl) phthalate,400,Clarias gariepinus,Fish,FALSE
+Di(2-ethylhexyl) phthalate,75.7929,Danio rerio,Fish,FALSE
+Di(2-ethylhexyl) phthalate,227.141,Daphnia magna,Invertebrate,FALSE
+Di(2-ethylhexyl) phthalate,109,Eurytemora affinis,Invertebrate,FALSE
+Di(2-ethylhexyl) phthalate,306.704,Oncorhynchus mykiss,Fish,FALSE
+Di(2-ethylhexyl) phthalate,553.959,Oryzias latipes,Fish,FALSE
+Di(2-ethylhexyl) phthalate,292.402,Pelteobagrus fulvidraco,Fish,FALSE
+Di(2-ethylhexyl) phthalate,0.113646,Poecilia reticulata,Fish,FALSE
+Di(2-ethylhexyl) phthalate,100,Raphidocelis subcapitata,Algae,FALSE
+Diazinon,1000,Anabaena flos-aquae,Algae,TRUE
+Diazinon,0.175597,Ceriodaphnia dubia,Invertebrate,TRUE
+Diazinon,124.216,Channa striata,Fish,TRUE
+Diazinon,1000,Chlorella pyrenoidosa,Algae,TRUE
+Diazinon,1303.84,Chlorella vulgaris,Algae,TRUE
+Diazinon,4.3,Cyprinodon variegatus,Fish,TRUE
+Diazinon,31.6228,Cyprinus carpio,Fish,TRUE
+Diazinon,0.457532,Daphnia magna,Invertebrate,TRUE
+Diazinon,0.62,Daphnia pulex,Invertebrate,TRUE
+Diazinon,0.1,Daphnia sp,Invertebrate,TRUE
+Diazinon,12.3027,Lepomis macrochirus,Fish,TRUE
+Diazinon,10000,Microcystis aeruginosa,Algae,TRUE
+Diazinon,10000,Microcystis flosaquae,Algae,TRUE
+Diazinon,162.693,Pimephales promelas,Fish,TRUE
+Diazinon,1000,Raphidocelis subcapitata,Algae,TRUE
+Diazinon,1000,Scenedesmus acutus var. acutus,Algae,TRUE
+Diazinon,500,Scenedesmus quadricauda,Algae,TRUE
+Diazinon,79.1175,Tinca tinca,Fish,TRUE
+Dibutyl phthalate,50,Brachionus calyciflorus,Invertebrate,TRUE
+Dibutyl phthalate,1780,Chironomus tentans,Invertebrate,TRUE
+Dibutyl phthalate,100,Danio rerio,Fish,TRUE
+Dibutyl phthalate,620.654,Daphnia magna,Invertebrate,TRUE
+Dibutyl phthalate,500,Desmodesmus subspicatus,Algae,TRUE
+Dibutyl phthalate,152.441,Oncorhynchus mykiss,Fish,TRUE
+Dibutyl phthalate,1100,Oryzias latipes,Fish,TRUE
+Dibutyl phthalate,596.71,Pimephales promelas,Fish,TRUE
+Dibutyl phthalate,236.512,Raphidocelis subcapitata,Algae,TRUE
+Dibutyl phthalate,46,Salvelinus fontinalis,Fish,TRUE
+Dichlorvos,1000,Brachionus calyciflorus,Invertebrate,FALSE
+Dichlorvos,960,Cyprinodon variegatus,Fish,FALSE
+Dichlorvos,3674.25,Microcystis wesenbergii,Algae,FALSE
+Dichlorvos,5.2,Oncorhynchus mykiss,Fish,FALSE
+Dichlorvos,89.0315,Pimephales promelas,Fish,FALSE
+Dichlorvos,7118.15,Raphidocelis subcapitata,Algae,FALSE
+Dicofol,200,Brachionus calyciflorus,Invertebrate,FALSE
+Dicofol,78.8319,Daphnia magna,Invertebrate,FALSE
+Dicofol,19,Hyalella azteca,Invertebrate,FALSE
+Dicofol,4.46568,Oncorhynchus mykiss,Fish,FALSE
+Dicofol,9.2671500000000009,Pimephales promelas,Fish,FALSE
+Dicofol,3500,Raphidocelis subcapitata,Algae,FALSE
+Dimethenamid,96,Anabaena flos-aquae,Algae,FALSE
+Dimethenamid,961.665,Daphnia magna,Invertebrate,FALSE
+Dimethenamid,40,Desmodesmus subspicatus,Algae,FALSE
+Dimethenamid,1200,Navicula pelliculosa,Algae,FALSE
+Dimethenamid,263.818,Oncorhynchus mykiss,Fish,FALSE
+Dimethenamid,4,Raphidocelis subcapitata,Algae,FALSE
+Dimethenamid,4,Skeletonema costatum,Algae,FALSE
+Dimethenamid,23.2,Synechococcus sp,Algae,FALSE
+Dimethipin,13600,Anabaena flos-aquae,Algae,FALSE
+Dimethipin,1209.96,Daphnia magna,Invertebrate,FALSE
+Dimethipin,11300,Nitzschia palea,Algae,FALSE
+Dimethipin,12000,Pimephales promelas,Fish,FALSE
+Dimethipin,2500,Raphidocelis subcapitata,Algae,FALSE
+Dimethipin,7300,Skeletonema costatum,Algae,FALSE
+Dimethoate,600,Brachionus calyciflorus,Invertebrate,FALSE
+Dimethoate,320,Culex pipiens,Invertebrate,FALSE
+Dimethoate,3100,Danio rerio,Fish,FALSE
+Dimethoate,63.4974,Daphnia magna,Invertebrate,FALSE
+Dimethoate,430,Oncorhynchus mykiss,Fish,FALSE
+Dimethoate,10000,Oreochromis niloticus,Fish,FALSE
+Dimethoate,19700,Raphidocelis subcapitata,Algae,FALSE
+Dinoseb,240,Chlamydomonas eugametos,Algae,FALSE
+Dinoseb,14400,Chlamydomonas moewusii,Algae,FALSE
+Dinoseb,62,Daphnia magna,Invertebrate,FALSE
+Dinoseb,83.8171,Pimephales promelas,Fish,FALSE
+Dinoseb,261.534,Raphidocelis subcapitata,Algae,FALSE
+Dinoseb,4.9,Salvelinus namaycush,Fish,FALSE
+Diuron,270,Americamysis bahia,Invertebrate,TRUE
+Diuron,10,Ceriodaphnia dubia,Invertebrate,TRUE
+Diuron,6990,Chlamydomonas moewusii,Algae,TRUE
+Diuron,6,Daphnia magna,Invertebrate,TRUE
+Diuron,4000,Daphnia pulex,Invertebrate,TRUE
+Diuron,8.87904,Desmodesmus subspicatus,Algae,TRUE
+Diuron,0.283,Nitzschia pungens,Algae,TRUE
+Diuron,0.0866,Oreochromis niloticus,Fish,TRUE
+Diuron,21.1857,Pimephales promelas,Fish,TRUE
+Diuron,1.22089,Raphidocelis subcapitata,Algae,TRUE
+Diuron,0.21,Synechococcus sp,Algae,TRUE
+Endosulfan,875,Brachionus calyciflorus,Invertebrate,TRUE
+Endosulfan,10,Ceriodaphnia dubia,Invertebrate,TRUE
+Endosulfan,10,Ceriodaphnia sp,Invertebrate,TRUE
+Endosulfan,8.1,Channa punctata,Fish,TRUE
+Endosulfan,0.34147,Cyprinodon variegatus,Fish,TRUE
+Endosulfan,49,Daphnia cephalata,Invertebrate,TRUE
+Endosulfan,2.7,Daphnia magna,Invertebrate,TRUE
+Endosulfan,6.4,Daphnia pulex,Invertebrate,TRUE
+Endosulfan,1,Gambusia affinis,Fish,TRUE
+Endosulfan,0.06,Hydra viridissima,Invertebrate,TRUE
+Endosulfan,0.04,Hydra vulgaris,Invertebrate,TRUE
+Endosulfan,0.25,Labeo rohita,Fish,TRUE
+Endosulfan,20,Moinodaphnia macleayi,Invertebrate,TRUE
+Endosulfan,0.1,Mytilus edulis,Invertebrate,TRUE
+Endosulfan,0.113695,Oryzias latipes,Fish,TRUE
+Endosulfan,0.2,Pimephales promelas,Fish,TRUE
+Endosulfan,130,Raphidocelis subcapitata,Algae,TRUE
+Endosulfan,50,Simocephalus exspinosus,Invertebrate,TRUE
+Endothal-dipotassium,1110.37,Anabaena flos-aquae,Algae,FALSE
+Endothal-dipotassium,3600,Navicula pelliculosa,Algae,FALSE
+Endothal-dipotassium,7580,Oncorhynchus kisutch,Fish,FALSE
+Endothal-dipotassium,8782.08,Oncorhynchus mykiss,Fish,FALSE
+Endothal-dipotassium,7580,Oncorhynchus tshawytscha,Fish,FALSE
+Endothal-dipotassium,3800,Raphidocelis subcapitata,Algae,FALSE
+Endothal-dipotassium,9000,Skeletonema costatum,Algae,FALSE
+Esfenvalerate,3,Chydorus sp,Invertebrate,FALSE
+Esfenvalerate,0.0222551,Daphnia sp,Invertebrate,FALSE
+Esfenvalerate,0.0736806,Lepomis macrochirus,Fish,FALSE
+Esfenvalerate,0.0894427,Oncorhynchus tshawytscha,Fish,FALSE
+Esfenvalerate,5,Phoxinus eos,Fish,FALSE
+Esfenvalerate,0.072,Pimephales promelas,Fish,FALSE
+Esfenvalerate,0.948683,Scapholeberis sp,Invertebrate,FALSE
+Esfenvalerate,0.3,Simocephalus sp,Invertebrate,FALSE
+Ethanol,4978.66,Ceriodaphnia dubia,Invertebrate,FALSE
+Ethanol,983.676,Daphnia magna,Invertebrate,FALSE
+Ethanol,9600000,Dunaliella tertiolecta,Algae,FALSE
+Ethanol,4100000,Pavlova lutheri,Algae,FALSE
+Ethanol,3240000,Skeletonema costatum,Algae,FALSE
+Ethanol,4990,Ulva pertusa,Algae,FALSE
+Fenbutatin oxide,207.364,Anabaena flos-aquae,Algae,TRUE
+Fenbutatin oxide,100,Chlorella pyrenoidosa,Algae,TRUE
+Fenbutatin oxide,500,Chlorella vulgaris,Algae,TRUE
+Fenbutatin oxide,16,Daphnia magna,Invertebrate,TRUE
+Fenbutatin oxide,100,Microcystis aeruginosa,Algae,TRUE
+Fenbutatin oxide,20,Microcystis flosaquae,Algae,TRUE
+Fenbutatin oxide,0.31,Oncorhynchus mykiss,Fish,TRUE
+Fenbutatin oxide,419.524,Raphidocelis subcapitata,Algae,TRUE
+Fenbutatin oxide,100,Scenedesmus acutus var. acutus,Algae,TRUE
+Fenbutatin oxide,20,Scenedesmus quadricauda,Algae,TRUE
+Fenitrothion,100,Anabaena sp,Algae,TRUE
+Fenitrothion,100,Ankistrodesmus falcatus,Algae,TRUE
+Fenitrothion,5000,Chlamydomonas reinhardtii,Algae,TRUE
+Fenitrothion,100,Chlamydomonas segnis,Algae,TRUE
+Fenitrothion,1700,Chlorella saccharophila,Algae,TRUE
+Fenitrothion,4600,Chlorella vulgaris,Algae,TRUE
+Fenitrothion,0.0158694,Daphnia magna,Invertebrate,TRUE
+Fenitrothion,489.898,Desmodesmus subspicatus,Algae,TRUE
+Fenitrothion,65.69,Oncorhynchus mykiss,Fish,TRUE
+Fenitrothion,67,Oryzias latipes,Fish,TRUE
+Fenitrothion,300,Pimephales promelas,Fish,TRUE
+Fenitrothion,460,Pseudanabaena galeata,Algae,TRUE
+Fenitrothion,100,Raphidocelis subcapitata,Algae,TRUE
+Fenitrothion,158.114,Scenedesmus acutus,Algae,TRUE
+Fenitrothion,100,Scenedesmus acutus var. acutus,Algae,TRUE
+Fenitrothion,100,Staurastrum sp,Algae,TRUE
+Fenthion,0.037,Americamysis bahia,Invertebrate,FALSE
+Fenthion,3800,Anabaena flos-aquae,Algae,FALSE
+Fenthion,0.163875,Daphnia magna,Invertebrate,FALSE
+Fenthion,600,Daphnia pulex,Invertebrate,FALSE
+Fenthion,200,Navicula pelliculosa,Algae,FALSE
+Fenthion,7.5,Oncorhynchus mykiss,Fish,FALSE
+Fenthion,131.27,Pimephales promelas,Fish,FALSE
+Fenthion,700,Raphidocelis subcapitata,Algae,FALSE
+Fenthion,190,Skeletonema costatum,Algae,FALSE
+Ferric sulfate,3000,Chlorella vulgaris,Algae,FALSE
+Ferric sulfate,2000,Daphnia longispina,Invertebrate,FALSE
+Ferric sulfate,10000,Daphnia magna,Invertebrate,FALSE
+Ferric sulfate,700,Daphnia pulex,Invertebrate,FALSE
+Ferric sulfate,28724.3,Oreochromis mossambicus,Fish,FALSE
+Ferric sulfate,320,Pimephales promelas,Fish,FALSE
+Ferric sulfate,53441.6,Raphidocelis subcapitata,Algae,FALSE
+Fipronil,0.005,Americamysis bahia,Invertebrate,TRUE
+Fipronil,170,Anabaena flos-aquae,Algae,TRUE
+Fipronil,60,Ceriodaphnia dubia,Invertebrate,TRUE
+Fipronil,0.24,Cyprinodon variegatus,Fish,TRUE
+Fipronil,9.6,Daphnia magna,Invertebrate,TRUE
+Fipronil,30,Daphnia pulex,Invertebrate,TRUE
+Fipronil,250,Dunaliella tertiolecta,Algae,TRUE
+Fipronil,120,Navicula pelliculosa,Algae,TRUE
+Fipronil,6.6,Oncorhynchus mykiss,Fish,TRUE
+Fipronil,192,Pimephales promelas,Fish,TRUE
+Fipronil,140,Skeletonema costatum,Algae,TRUE
+Fluazinam,72,Anabaena flos-aquae,Algae,TRUE
+Fluazinam,0.5,Chlorella pyrenoidosa,Algae,TRUE
+Fluazinam,10,Chlorella vulgaris,Algae,TRUE
+Fluazinam,68,Daphnia magna,Invertebrate,TRUE
+Fluazinam,11.6289,Keratella quadrata,Invertebrate,TRUE
+Fluazinam,21.4653,Lecane flexilis,Invertebrate,TRUE
+Fluazinam,32.3,Lecane lunaris,Invertebrate,TRUE
+Fluazinam,32.3,Oscillatoria limnetica,Algae,TRUE
+Fluazinam,14.265,Oscillatoria sp,Algae,TRUE
+Fluazinam,3.1836,Pimephales promelas,Fish,TRUE
+Fluazinam,6.3,Polyarthra remata,Invertebrate,TRUE
+Fluazinam,4.89898,Raphidocelis subcapitata,Algae,TRUE
+Fluazinam,20,Scenedesmus acutus var. acutus,Algae,TRUE
+Fluazinam,10,Scenedesmus quadricauda,Algae,TRUE
+Flumetsulam,120,Anabaena flos-aquae,Algae,FALSE
+Flumetsulam,111000,Daphnia magna,Invertebrate,FALSE
+Flumetsulam,21800,Navicula pelliculosa,Algae,FALSE
+Flumetsulam,197000,Pimephales promelas,Fish,FALSE
+Flumetsulam,0.36,Raphidocelis subcapitata,Algae,FALSE
+Flumetsulam,29500,Scenedesmus costatum,Algae,FALSE
+Fluometuron,124.097,Anabaena flos-aquae,Algae,FALSE
+Fluometuron,1730,Daphnia magna,Invertebrate,FALSE
+Fluometuron,107,Nitzschia sp,Algae,FALSE
+Fluometuron,3100,Pimephales promelas,Fish,FALSE
+Fluometuron,180,Raphidocelis subcapitata,Algae,FALSE
+Fluometuron,410,Skeletonema costatum,Algae,FALSE
+Fluoranthene,19,Ankistrodesmus sp,Algae,FALSE
+Fluoranthene,12.7,Chlorella fusca var vacuolata,Algae,FALSE
+Fluoranthene,16.364,Daphnia magna,Invertebrate,FALSE
+Fluoranthene,6.29951,Pimephales promelas,Fish,FALSE
+Fluoranthene,41.7,Raphidocelis subcapitata,Algae,FALSE
+Fluoranthene,115,Stylaria lacustris,Invertebrate,FALSE
+Fluoxetine hydrochloride,62.2,Ceriodaphnia dubia,Invertebrate,FALSE
+Fluoxetine hydrochloride,58.1752,Daphnia magna,Invertebrate,FALSE
+Fluoxetine hydrochloride,20.153,Gambusia affinis,Fish,FALSE
+Fluoxetine hydrochloride,7.57536,Oryzias latipes,Fish,FALSE
+Fluoxetine hydrochloride,0.283337,Pimephales promelas,Fish,FALSE
+Fluoxetine hydrochloride,30.2,Raphidocelis subcapitata,Algae,FALSE
+Flutolanil,11.3,Americamysis bahia,Invertebrate,FALSE
+Flutolanil,8000,Anabaena flos-aquae,Algae,FALSE
+Flutolanil,530,Daphnia magna,Invertebrate,FALSE
+Flutolanil,800,Navicula pelliculosa,Algae,FALSE
+Flutolanil,233,Pimephales promelas,Fish,FALSE
+Flutolanil,8000,Raphidocelis subcapitata,Algae,FALSE
+Fonofos,0.052,Americamysis bahia,Invertebrate,FALSE
+Fonofos,3.42,Chironomus riparius,Invertebrate,FALSE
+Fonofos,2.7,Cyprinodon variegatus,Fish,FALSE
+Fonofos,0.28,Daphnia magna,Invertebrate,FALSE
+Fonofos,2.33,Lepomis macrochirus,Fish,FALSE
+Fonofos,4.7,Oncorhynchus mykiss,Fish,FALSE
+Fonofos,2.5,Pimephales promelas,Fish,FALSE
+Gemfibrozil,156,Brachionus calyciflorus,Invertebrate,FALSE
+Gemfibrozil,78,Ceriodaphnia dubia,Invertebrate,FALSE
+Gemfibrozil,12500,Chlorella vulgaris,Algae,FALSE
+Gemfibrozil,7500,Daphnia magna,Invertebrate,FALSE
+Gemfibrozil,400,Oryzias latipes,Fish,FALSE
+Gemfibrozil,3130,Raphidocelis subcapitata,Algae,FALSE
+Glyphosate,12000,Anabaena flos-aquae,Algae,TRUE
+Glyphosate,2000,Brachionus calyciflorus,Invertebrate,TRUE
+Glyphosate,10,Ceriodaphnia dubia,Invertebrate,TRUE
+Glyphosate,6.9,Ceriodaphnia sp,Invertebrate,TRUE
+Glyphosate,9030,Cherax quadricarinatus,Invertebrate,TRUE
+Glyphosate,16900,Chlamydomonas eugametos,Algae,TRUE
+Glyphosate,108000,Chlorella pyrenoidosa,Algae,TRUE
+Glyphosate,390,Chlorella saccharophila,Algae,TRUE
+Glyphosate,11800,Chlorella vulgaris,Algae,TRUE
+Glyphosate,610,Coenagrion pulchellum,Invertebrate,TRUE
+Glyphosate,100,Crassostrea gigas,Invertebrate,TRUE
+Glyphosate,6.9,Daphnia pulex,Invertebrate,TRUE
+Glyphosate,100,Desmodesmus subspicatus,Algae,TRUE
+Glyphosate,100,Gasterosteus aculeatus,Fish,TRUE
+Glyphosate,60866.6,Isochrysis galbana,Algae,TRUE
+Glyphosate,500,Jenynsia multidentata,Fish,TRUE
+Glyphosate,24980,Lecane quadridentata,Invertebrate,TRUE
+Glyphosate,11800,Microcystis aeruginosa,Algae,TRUE
+Glyphosate,895.02,Microcystis sp,Algae,TRUE
+Glyphosate,1270,Neohelice granulata,Invertebrate,TRUE
+Glyphosate,11800,Nostoc commune,Algae,TRUE
+Glyphosate,10,Pimephales promelas,Fish,TRUE
+Glyphosate,21526,Pomacea canaliculata,Invertebrate,TRUE
+Glyphosate,6086.66,Prorocentrum minimum,Algae,TRUE
+Glyphosate,316.228,Prymnesium parvum,Algae,TRUE
+Glyphosate,43.4067,Raphidocelis subcapitata,Algae,TRUE
+Glyphosate,2000,Scenedesmus acutus,Algae,TRUE
+Glyphosate,549.7,Scenedesmus quadricauda,Algae,TRUE
+Glyphosate,6086.66,Skeletonema costatum,Algae,TRUE
+Glyphosate,11800,Spirulina platensis,Algae,TRUE
+Glyphosate-isopropylamine,2390,Achnanthidium sp,Algae,TRUE
+Glyphosate-isopropylamine,6500,Aeshna cyanea,Invertebrate,TRUE
+Glyphosate-isopropylamine,3450,Alona sp,Invertebrate,TRUE
+Glyphosate-isopropylamine,3800,Ceriodaphnia sp,Invertebrate,TRUE
+Glyphosate-isopropylamine,1044.7,Chlamydomonas sp,Algae,TRUE
+Glyphosate-isopropylamine,16443.8,Chlorella vulgaris,Algae,TRUE
+Glyphosate-isopropylamine,590,Coenagrion pulchellum,Invertebrate,TRUE
+Glyphosate-isopropylamine,100,Crassostrea gigas,Invertebrate,TRUE
+Glyphosate-isopropylamine,2120.38,Daphnia magna,Invertebrate,TRUE
+Glyphosate-isopropylamine,225000,Gayralia oxysperma,Algae,TRUE
+Glyphosate-isopropylamine,11180.3,Lampsilis siliquoidea,Invertebrate,TRUE
+Glyphosate-isopropylamine,5000,Leporinus obtusidens,Fish,TRUE
+Glyphosate-isopropylamine,3470.83,Leptolyngbya sp,Algae,TRUE
+Glyphosate-isopropylamine,2300,Macrothrix spinosa,Invertebrate,TRUE
+Glyphosate-isopropylamine,3450,Moina sp,Invertebrate,TRUE
+Glyphosate-isopropylamine,19100,Navicula pelliculosa,Algae,TRUE
+Glyphosate-isopropylamine,402.621,Neohelice granulata,Invertebrate,TRUE
+Glyphosate-isopropylamine,5450,Ochromonas sp,Algae,TRUE
+Glyphosate-isopropylamine,85.5034,Oncorhynchus mykiss,Fish,TRUE
+Glyphosate-isopropylamine,50000,Parachlorella kessleri,Algae,TRUE
+Glyphosate-isopropylamine,2,Perccottus glenii,Fish,TRUE
+Glyphosate-isopropylamine,15600,Pithophora oedogonia,Algae,TRUE
+Glyphosate-isopropylamine,100,Prymnesium parvum,Algae,TRUE
+Glyphosate-isopropylamine,1400,Raphidocelis subcapitata,Algae,TRUE
+Glyphosate-isopropylamine,3800,Scapholeberis sp,Invertebrate,TRUE
+Glyphosate-isopropylamine,3200,Scenedesmus acutus,Algae,TRUE
+Glyphosate-isopropylamine,1250,Scenedesmus quadricauda,Algae,TRUE
+Glyphosate-isopropylamine,240,Skeletonema costatum,Algae,TRUE
+Glyphosate-isopropylamine,16443.8,Spirulina platensis,Algae,TRUE
+Glyphosate-isopropylamine,1361.25,Staurastrum sp,Algae,TRUE
+Glyphosate-isopropylamine,5450,Tetraedron minimum,Algae,TRUE
+Halofenozide,100,Americamysis bahia,Invertebrate,FALSE
+Halofenozide,1600,Cyprinodon variegatus,Fish,FALSE
+Halofenozide,30,Daphnia magna,Invertebrate,FALSE
+Halofenozide,28.6,Gambusia affinis,Fish,FALSE
+Halofenozide,450,Pimephales promelas,Fish,FALSE
+Halofenozide,100,Raphidocelis subcapitata,Algae,FALSE
+Halosulfuron-methyl,100,Anabaena flos-aquae,Algae,FALSE
+Halosulfuron-methyl,980,Daphnia magna,Invertebrate,FALSE
+Halosulfuron-methyl,350,Navicula pelliculosa,Algae,FALSE
+Halosulfuron-methyl,34000,Oncorhynchus mykiss,Fish,FALSE
+Halosulfuron-methyl,1.3,Raphidocelis subcapitata,Algae,FALSE
+Halosulfuron-methyl,400,Skeletonema costatum,Algae,FALSE
+Hexaconazole,1000,Anabaena flos-aquae,Algae,FALSE
+Hexaconazole,100,Chlorella pyrenoidosa,Algae,FALSE
+Hexaconazole,200,Chlorella vulgaris,Algae,FALSE
+Hexaconazole,375,Dunaliella tertiolecta,Algae,FALSE
+Hexaconazole,20,Microcystis aeruginosa,Algae,FALSE
+Hexaconazole,500,Microcystis flosaquae,Algae,FALSE
+Hexaconazole,600,Pimephales promelas,Fish,FALSE
+Hexaconazole,200,Raphidocelis subcapitata,Algae,FALSE
+Hexaconazole,200,Scenedesmus acutus var. acutus,Algae,FALSE
+Hexaconazole,100,Scenedesmus quadricauda,Algae,FALSE
+Hexazinone,150,Anabaena flos-aquae,Algae,FALSE
+Hexazinone,7.5,Danio rerio,Fish,FALSE
+Hexazinone,20000,Daphnia magna,Invertebrate,FALSE
+Hexazinone,5623.41,Keratella cochlearis,Invertebrate,FALSE
+Hexazinone,17000,Pimephales promelas,Fish,FALSE
+Hexazinone,4,Raphidocelis subcapitata,Algae,FALSE
+Hexazinone,18.6868,Salmo salar,Fish,FALSE
+Ibuprofen,35000,Chlorella vulgaris,Algae,FALSE
+Ibuprofen,1,Danio rerio,Fish,FALSE
+Ibuprofen,10018.6,Daphnia magna,Invertebrate,FALSE
+Ibuprofen,5000,Hydra attenuata,Invertebrate,FALSE
+Ibuprofen,224,Ictalurus punctatus,Fish,FALSE
+Ibuprofen,42044.8,Moina macrocopa,Invertebrate,FALSE
+Ibuprofen,231.013,Oryzias latipes,Fish,FALSE
+Ibuprofen,413.59,Pimephales promelas,Fish,FALSE
+Ibuprofen,10,Raphidocelis subcapitata,Algae,FALSE
+Imazapyr,9600,Anabaena flos-aquae,Algae,FALSE
+Imazapyr,97100,Daphnia magna,Invertebrate,FALSE
+Imazapyr,41000,Navicula pelliculosa,Algae,FALSE
+Imazapyr,43100,Oncorhynchus mykiss,Fish,FALSE
+Imazapyr,50900,Raphidocelis subcapitata,Algae,FALSE
+Imazapyr,15900,Skeletonema costatum,Algae,FALSE
+Lead nitrate,4.34741,Ceriodaphnia dubia,Invertebrate,TRUE
+Lead nitrate,61.6441,Chlorella pyrenoidosa,Algae,TRUE
+Lead nitrate,2000,Chlorella vulgaris,Algae,TRUE
+Lead nitrate,14.3097,Danio rerio,Fish,TRUE
+Lead nitrate,388.197,Daphnia magna,Invertebrate,TRUE
+Lead nitrate,559.017,Daphnia similis,Invertebrate,TRUE
+Lead nitrate,14.6204,Oncorhynchus mykiss,Fish,TRUE
+Lead nitrate,6620,Oreochromis niloticus,Fish,TRUE
+Lead nitrate,60,Raphidocelis subcapitata,Algae,TRUE
+Lead nitrate,2644.6,Salvelinus fontinalis,Fish,TRUE
+Lead nitrate,1090,Scenedesmus acutus var. acutus,Algae,TRUE
+Lead nitrate,427.494,Ulva pertusa,Algae,TRUE
+Lindane,1000,Anabaena variabilis,Algae,TRUE
+Lindane,0.8,Baetis sp,Invertebrate,TRUE
+Lindane,12,Brachionus angularis,Invertebrate,TRUE
+Lindane,55,Brachionus rubens,Invertebrate,TRUE
+Lindane,7.70476,Ceriodaphnia dubia,Invertebrate,TRUE
+Lindane,1.1,Chironomus riparius,Invertebrate,TRUE
+Lindane,1525.06,Chlamydomonas reinhardtii,Algae,TRUE
+Lindane,100,Chlorella vulgaris,Algae,TRUE
+Lindane,131.037,Daphnia magna,Invertebrate,TRUE
+Lindane,1348.1,Desmodesmus subspicatus,Algae,TRUE
+Lindane,1.46151,Gammarus pulex,Invertebrate,TRUE
+Lindane,10000,Nostoc commune,Algae,TRUE
+Lindane,2.9,Oncorhynchus mykiss,Fish,TRUE
+Lindane,21,Pimephales promelas,Fish,TRUE
+Lindane,610,Tetrahymena pyriformis,Invertebrate,TRUE
+Linuron,12.8,Anabaena flos-aquae,Algae,TRUE
+Linuron,150,Asellus aquaticus,Invertebrate,TRUE
+Linuron,50,Brachionus calyciflorus,Invertebrate,TRUE
+Linuron,4980,Chlamydomonas moewusii,Algae,TRUE
+Linuron,27.5634,Chlamydomonas sp,Algae,TRUE
+Linuron,0.334,Chlorella fusca var vacuolata,Algae,TRUE
+Linuron,15.6508,Chlorella vulgaris,Algae,TRUE
+Linuron,14.7,Cocconeis sp,Algae,TRUE
+Linuron,23.6432,Daphnia magna,Invertebrate,TRUE
+Linuron,150,Dugesia gonocephala,Invertebrate,TRUE
+Linuron,50,Moina micrura,Invertebrate,TRUE
+Linuron,15,Monoraphidium sp,Algae,TRUE
+Linuron,5.79,Navicula pelliculosa,Algae,TRUE
+Linuron,42,Oncorhynchus mykiss,Fish,TRUE
+Linuron,50,Pediastrum duplex,Algae,TRUE
+Linuron,13.1951,Raphidocelis subcapitata,Algae,TRUE
+Linuron,15,Scenedesmus quadricauda,Algae,TRUE
+Linuron,40.1,Simocephalus vetulus,Invertebrate,TRUE
+Linuron,5.35,Skeletonema costatum,Algae,TRUE
+Malathion,66,Alona guttata,Invertebrate,TRUE
+Malathion,25000,Anabaena variabilis,Algae,TRUE
+Malathion,22900,Brachionus rubens,Invertebrate,TRUE
+Malathion,167.332,Carassius auratus,Fish,TRUE
+Malathion,0.38,Ceriodaphnia dubia,Invertebrate,TRUE
+Malathion,320,Ceriodaphnia sp,Invertebrate,TRUE
+Malathion,500,Channa punctata,Fish,TRUE
+Malathion,1859.61,Clarias gariepinus,Fish,TRUE
+Malathion,12.7279,Cyprinodon variegatus,Fish,TRUE
+Malathion,1000,Danio rerio,Fish,TRUE
+Malathion,0.21916,Daphnia magna,Invertebrate,TRUE
+Malathion,5.8,Daphnia pulex,Invertebrate,TRUE
+Malathion,2000,Gila elegans,Fish,TRUE
+Malathion,9.59009,Oncorhynchus mykiss,Fish,TRUE
+Malathion,2000,Oreochromis niloticus,Fish,TRUE
+Malathion,200,Oryzias latipes,Fish,TRUE
+Malathion,200,Pimephales promelas,Fish,TRUE
+Malathion,1680,Ptychocheilus lucius,Fish,TRUE
+Malathion,1200,Raphidocelis subcapitata,Algae,TRUE
+Malathion,320,Scapholeberis sp,Invertebrate,TRUE
+Maneb,1,Chlorella pyrenoidosa,Algae,FALSE
+Maneb,10,Chlorella vulgaris,Algae,FALSE
+Maneb,56,Oncorhynchus mykiss,Fish,FALSE
+Maneb,200,Raphidocelis subcapitata,Algae,FALSE
+Maneb,1000,Scenedesmus acutus var. acutus,Algae,FALSE
+Maneb,10,Scenedesmus quadricauda,Algae,FALSE
+Manganese lactate,4500,Chlorella vulgaris,Algae,FALSE
+Manganese lactate,3900,Daphnia magna,Invertebrate,FALSE
+Manganese lactate,830.662,Oncorhynchus mykiss,Fish,FALSE
+Manganese lactate,3561.92,Pimephales promelas,Fish,FALSE
+Manganese lactate,1549.01,Salmo trutta,Fish,FALSE
+Manganese lactate,5200,Scenedesmus quadricauda,Algae,FALSE
+Manganese lactate,2300,Tilapia guineensis,Fish,FALSE
+Mepiquat chloride,200,Anabaena flos-aquae,Algae,FALSE
+Mepiquat chloride,6250,Daphnia magna,Invertebrate,FALSE
+Mepiquat chloride,200,Navicula pelliculosa,Algae,FALSE
+Mepiquat chloride,100000,Oncorhynchus mykiss,Fish,FALSE
+Mepiquat chloride,200,Raphidocelis subcapitata,Algae,FALSE
+Mepiquat chloride,200,Skeletonema costatum,Algae,FALSE
+Mercuric nitrate,1.35,Brachionus patulus,Invertebrate,FALSE
+Mercuric nitrate,10,Brachionus plicatilis,Invertebrate,FALSE
+Mercuric nitrate,18,Chlorella vulgaris,Algae,FALSE
+Mercuric nitrate,1.63074,Danio rerio,Fish,FALSE
+Mercuric nitrate,4.2677,Daphnia magna,Invertebrate,FALSE
+Mercuric nitrate,0.46024,Pimephales promelas,Fish,FALSE
+Metalaxyl,100000,Anabaena flos-aquae,Algae,TRUE
+Metalaxyl,20000,Chlorella pyrenoidosa,Algae,TRUE
+Metalaxyl,20000,Chlorella vulgaris,Algae,TRUE
+Metalaxyl,588.566,Daphnia magna,Invertebrate,TRUE
+Metalaxyl,200000,Microcystis aeruginosa,Algae,TRUE
+Metalaxyl,5000,Microcystis flosaquae,Algae,TRUE
+Metalaxyl,9100,Pimephales promelas,Fish,TRUE
+Metalaxyl,11892.1,Raphidocelis subcapitata,Algae,TRUE
+Metalaxyl,5000,Scenedesmus acutus var. acutus,Algae,TRUE
+Metalaxyl,2000,Scenedesmus quadricauda,Algae,TRUE
+Methidathion,0.02,Americamysis bahia,Invertebrate,TRUE
+Methidathion,10000,Anabaena flos-aquae,Algae,TRUE
+Methidathion,2000,Chlorella pyrenoidosa,Algae,TRUE
+Methidathion,5000,Chlorella vulgaris,Algae,TRUE
+Methidathion,0.574456,Daphnia magna,Invertebrate,TRUE
+Methidathion,2000,Microcystis aeruginosa,Algae,TRUE
+Methidathion,5000,Microcystis flosaquae,Algae,TRUE
+Methidathion,6.23262,Pimephales promelas,Fish,TRUE
+Methidathion,500,Raphidocelis subcapitata,Algae,TRUE
+Methidathion,5000,Scenedesmus acutus var. acutus,Algae,TRUE
+Methidathion,5000,Scenedesmus quadricauda,Algae,TRUE
+Methyl parathion,0.99,Ceriodaphnia dubia,Invertebrate,FALSE
+Methyl parathion,418.353,Chlamydomonas reinhardtii,Algae,FALSE
+Methyl parathion,8.86,Cyprinodon variegatus,Fish,FALSE
+Methyl parathion,0.629149,Daphnia magna,Invertebrate,FALSE
+Methyl parathion,8000,Desmodesmus subspicatus,Algae,FALSE
+Methyl parathion,8000,Pimephales promelas,Fish,FALSE
+Methyl parathion,2050,Tetrahymena pyriformis,Invertebrate,FALSE
+Metolachlor,63,Anabaena flos-aquae,Algae,TRUE
+Metolachlor,6250,Ceriodaphnia dubia,Invertebrate,TRUE
+Metolachlor,7.4,Ceriodaphnia sp,Invertebrate,TRUE
+Metolachlor,188,Chlamydomonas sp,Algae,TRUE
+Metolachlor,120,Chlorella fusca var vacuolata,Algae,TRUE
+Metolachlor,10,Chlorella pyrenoidosa,Algae,TRUE
+Metolachlor,75,Chlorella sp,Algae,TRUE
+Metolachlor,1000,Cyprinodon variegatus,Fish,TRUE
+Metolachlor,1533.98,Daphnia magna,Invertebrate,TRUE
+Metolachlor,7.4,Daphnia pulex,Invertebrate,TRUE
+Metolachlor,750,Microcystis sp,Algae,TRUE
+Metolachlor,370,Navicula pelliculosa,Algae,TRUE
+Metolachlor,780,Pimephales promelas,Fish,TRUE
+Metolachlor,17.5086,Raphidocelis subcapitata,Algae,TRUE
+Metolachlor,120,Scenedesmus sp,Algae,TRUE
+Metolachlor,1.7,Skeletonema costatum,Algae,TRUE
+Metolachlor,5,Skeletonema marinoi,Algae,TRUE
+Metribuzin,9.7,Anabaena flos-aquae,Algae,FALSE
+Metribuzin,375,Anabaena sp,Algae,FALSE
+Metribuzin,6250,Ceriodaphnia dubia,Invertebrate,FALSE
+Metribuzin,16068.1,Cyprinus carpio,Fish,FALSE
+Metribuzin,1223.27,Daphnia magna,Invertebrate,FALSE
+Metribuzin,5.74222,Raphidocelis subcapitata,Algae,FALSE
+Metribuzin,38,Scenedesmus sp,Algae,FALSE
+Metribuzin,5.8,Skeletonema costatum,Algae,FALSE
+Molinate,950,Anabaena flos-aquae,Algae,TRUE
+Molinate,629.961,Brachionus calyciflorus,Invertebrate,TRUE
+Molinate,18700,Chlamydomonas eugametos,Algae,TRUE
+Molinate,2400,Chlorella saccharophila,Algae,TRUE
+Molinate,17600,Chlorella vulgaris,Algae,TRUE
+Molinate,324.511,Daphnia magna,Invertebrate,TRUE
+Molinate,370,Desmodesmus subspicatus,Algae,TRUE
+Molinate,900,Ictalurus punctatus,Fish,TRUE
+Molinate,6050,Lepomis macrochirus,Fish,TRUE
+Molinate,110,Moina australiensis,Invertebrate,TRUE
+Molinate,500,Nannochloropsis oculata,Algae,TRUE
+Molinate,4500,Navicula pelliculosa,Algae,TRUE
+Molinate,25.6,Neomysis mercedis,Invertebrate,TRUE
+Molinate,390,Oncorhynchus mykiss,Fish,TRUE
+Molinate,1700,Pseudanabaena galeata,Algae,TRUE
+Molinate,170,Raphidocelis subcapitata,Algae,TRUE
+Molinate,220,Scenedesmus acutus,Algae,TRUE
+Molinate,940,Skeletonema costatum,Algae,TRUE
+N-(Phosphonomethyl)glycine potassium salt (1:1),3650,Achnanthidium sp,Algae,FALSE
+N-(Phosphonomethyl)glycine potassium salt (1:1),5000,Brachionus caudatus,Invertebrate,FALSE
+N-(Phosphonomethyl)glycine potassium salt (1:1),2700,Brachionus plicatilis,Invertebrate,FALSE
+N-(Phosphonomethyl)glycine potassium salt (1:1),2645.75,Cephalodella paggiae,Invertebrate,FALSE
+N-(Phosphonomethyl)glycine potassium salt (1:1),600,Chydoridae,Invertebrate,FALSE
+N-(Phosphonomethyl)glycine potassium salt (1:1),5000,Euchlanis sp,Invertebrate,FALSE
+N-(Phosphonomethyl)glycine potassium salt (1:1),1400,Lecane closterocerca,Invertebrate,FALSE
+N-(Phosphonomethyl)glycine potassium salt (1:1),600,Lecane inermis,Invertebrate,FALSE
+N-(Phosphonomethyl)glycine potassium salt (1:1),600,Lepadella patella,Invertebrate,FALSE
+N-(Phosphonomethyl)glycine potassium salt (1:1),1272.79,Lepadella sp,Invertebrate,FALSE
+N-(Phosphonomethyl)glycine potassium salt (1:1),3650,Leptolyngbya sp,Algae,FALSE
+N-(Phosphonomethyl)glycine potassium salt (1:1),4260,Microcystis sp,Algae,FALSE
+N-(Phosphonomethyl)glycine potassium salt (1:1),5000,Platyias quadricornis,Invertebrate,FALSE
+N-(Phosphonomethyl)glycine potassium salt (1:1),5000,Trichocerca sp,Invertebrate,FALSE
+Nickel chloride,6.58269,Ceriodaphnia dubia,Invertebrate,FALSE
+Nickel chloride,366.284,Chlorella pyrenoidosa,Algae,FALSE
+Nickel chloride,50.3968,Danio rerio,Fish,FALSE
+Nickel chloride,90,Daphnia magna,Invertebrate,FALSE
+Nickel chloride,124,Juga plicifera,Invertebrate,FALSE
+Nickel chloride,466,Oncorhynchus mykiss,Fish,FALSE
+Nickel chloride,58.5308,Raphidocelis subcapitata,Algae,FALSE
+Nickel chloride,5080,Scenedesmus acutus var. acutus,Algae,FALSE
+Oryzalin,8.05,Anabaena flos-aquae,Algae,FALSE
+Oryzalin,358,Daphnia magna,Invertebrate,FALSE
+Oryzalin,15.4,Navicula pelliculosa,Algae,FALSE
+Oryzalin,1000,Oryzias latipes,Fish,FALSE
+Oryzalin,220,Pimephales promelas,Fish,FALSE
+Oryzalin,13.8,Raphidocelis subcapitata,Algae,FALSE
+Oryzalin,30.6,Skeletonema costatum,Algae,FALSE
+Oxadiazon,30,Daphnia magna,Invertebrate,FALSE
+Oxadiazon,27,Navicula pelliculosa,Algae,FALSE
+Oxadiazon,0.88,Oncorhynchus mykiss,Fish,FALSE
+Oxadiazon,33,Pimephales promelas,Fish,FALSE
+Oxadiazon,6.26099,Raphidocelis subcapitata,Algae,FALSE
+Oxadiazon,27,Skeletonema costatum,Algae,FALSE
+Oxytetracycline hydrochloride,3.1,Anabaena cylindrica,Algae,TRUE
+Oxytetracycline hydrochloride,25,Anabaena flos-aquae,Algae,TRUE
+Oxytetracycline hydrochloride,100,Anabaena variabilis,Algae,TRUE
+Oxytetracycline hydrochloride,7015.18,Daphnia magna,Invertebrate,TRUE
+Oxytetracycline hydrochloride,31,Microcystis aeruginosa,Algae,TRUE
+Oxytetracycline hydrochloride,250,Microcystis wesenbergii,Algae,TRUE
+Oxytetracycline hydrochloride,19203.8,Moina macrocopa,Invertebrate,TRUE
+Oxytetracycline hydrochloride,780,Nostoc sp,Algae,TRUE
+Oxytetracycline hydrochloride,50000,Oryzias latipes,Fish,TRUE
+Oxytetracycline hydrochloride,377.809,Raphidocelis subcapitata,Algae,TRUE
+Oxytetracycline hydrochloride,250,Synechococcus leopoliensis,Algae,TRUE
+Oxytetracycline hydrochloride,250,Synechococcus sp,Algae,TRUE
+PFOS-K,250,Americamysis bahia,Invertebrate,FALSE
+PFOS-K,11,Anguilla anguilla,Fish,FALSE
+PFOS-K,68.2612,Chironomus tentans,Invertebrate,FALSE
+PFOS-K,56.3163,Danio rerio,Fish,FALSE
+PFOS-K,31.6228,Daphnia magna,Invertebrate,FALSE
+PFOS-K,20.3,Monoporeia affinis,Invertebrate,FALSE
+PFOS-K,287.196,Pimephales promelas,Fish,FALSE
+PFOS-K,100,Xiphophorus helleri,Fish,FALSE
+Paraquat dichloride,3.2,Anabaena flos-aquae,Algae,TRUE
+Paraquat dichloride,157.788,Chlamydomonas moewusii,Algae,TRUE
+Paraquat dichloride,20,Chlorella vulgaris,Algae,TRUE
+Paraquat dichloride,10,Daphnia magna,Invertebrate,TRUE
+Paraquat dichloride,0.22,Navicula pelliculosa,Algae,TRUE
+Paraquat dichloride,500,Oreochromis niloticus,Fish,TRUE
+Paraquat dichloride,96.9762,Raphidocelis subcapitata,Algae,TRUE
+Paraquat dichloride,20,Scenedesmus acutus,Algae,TRUE
+Paraquat dichloride,100,Scenedesmus quadricauda,Algae,TRUE
+Paraquat dichloride,220,Skeletonema costatum,Algae,TRUE
+Pendimethalin,98,Anabaena flos-aquae,Algae,FALSE
+Pendimethalin,0.689,Chlorella fusca var vacuolata,Algae,FALSE
+Pendimethalin,14,Daphnia magna,Invertebrate,FALSE
+Pendimethalin,3.2,Navicula pelliculosa,Algae,FALSE
+Pendimethalin,0.197894,Oncorhynchus mykiss,Fish,FALSE
+Pendimethalin,6.3,Pimephales promelas,Fish,FALSE
+Pendimethalin,3.77976,Raphidocelis subcapitata,Algae,FALSE
+Pendimethalin,0.7,Skeletonema costatum,Algae,FALSE
+Pentachlorophenol,6,Anabaena flos-aquae,Algae,TRUE
+Pentachlorophenol,262.821,Brachionus calyciflorus,Invertebrate,TRUE
+Pentachlorophenol,500,Brachionus plicatilis,Invertebrate,TRUE
+Pentachlorophenol,87,Calamoecia lucasi,Invertebrate,TRUE
+Pentachlorophenol,111.975,Ceriodaphnia dubia,Invertebrate,TRUE
+Pentachlorophenol,88.787,Chlamydomonas reinhardtii,Algae,TRUE
+Pentachlorophenol,59,Chlorella vulgaris,Algae,TRUE
+Pentachlorophenol,250,Daphnia carinata,Invertebrate,TRUE
+Pentachlorophenol,118.246,Daphnia magna,Invertebrate,TRUE
+Pentachlorophenol,141.057,Desmodesmus subspicatus,Algae,TRUE
+Pentachlorophenol,56.5978,Erimonax monachus,Fish,TRUE
+Pentachlorophenol,20.626,Etheostoma fonticola,Fish,TRUE
+Pentachlorophenol,675.733,Jordanella floridae,Fish,TRUE
+Pentachlorophenol,32.4056,Micropterus salmoides,Fish,TRUE
+Pentachlorophenol,28,Navicula pelliculosa,Algae,TRUE
+Pentachlorophenol,45.3572,Oncorhynchus mykiss,Fish,TRUE
+Pentachlorophenol,22.5167,Oryzias latipes,Fish,TRUE
+Pentachlorophenol,55,Physa gyrina,Invertebrate,TRUE
+Pentachlorophenol,74.3004,Pimephales promelas,Fish,TRUE
+Pentachlorophenol,40.7853,Raphidocelis subcapitata,Algae,TRUE
+Pentachlorophenol,93.4141,Simocephalus vetulus,Invertebrate,TRUE
+Pentachlorophenol,9,Skeletonema costatum,Algae,TRUE
+Permethrin,0.003,Brachycentrus americanus,Invertebrate,FALSE
+Permethrin,0.05,Ceriodaphnia dubia,Invertebrate,FALSE
+Permethrin,10,Cyprinodon variegatus,Fish,FALSE
+Permethrin,0.129615,Daphnia magna,Invertebrate,FALSE
+Permethrin,0.652025,Pimephales promelas,Fish,FALSE
+Permethrin,1.6,Salvelinus fontinalis,Fish,FALSE
+Phenanthrene,5.55,Americamysis bahia,Invertebrate,FALSE
+Phenanthrene,59.4886,Daphnia magna,Invertebrate,FALSE
+Phenanthrene,2740,Desmodesmus subspicatus,Algae,FALSE
+Phenanthrene,19.6257,Oncorhynchus mykiss,Fish,FALSE
+Phenanthrene,156.049,Oryzias latipes,Fish,FALSE
+Phenanthrene,89.1,Paralichthys olivaceus,Fish,FALSE
+Phenanthrene,95.9166,Raphidocelis subcapitata,Algae,FALSE
+Phenol,2410,Americamysis bahia,Invertebrate,TRUE
+Phenol,21022.4,Brachionus calyciflorus,Invertebrate,TRUE
+Phenol,125000,Brachionus plicatilis,Invertebrate,TRUE
+Phenol,2783.24,Ceriodaphnia dubia,Invertebrate,TRUE
+Phenol,110,Cyprinus carpio,Fish,TRUE
+Phenol,654.192,Daphnia magna,Invertebrate,TRUE
+Phenol,84852.8,Dunaliella tertiolecta,Algae,TRUE
+Phenol,1851.43,Oncorhynchus mykiss,Fish,TRUE
+Phenol,5378.66,Oryzias latipes,Fish,TRUE
+Phenol,3009.97,Pimephales promelas,Fish,TRUE
+Phenol,4000,Poecilia reticulata,Fish,TRUE
+Phenol,15811.4,Raphidocelis subcapitata,Algae,TRUE
+Phenol,5000,Salvelinus fontinalis,Fish,TRUE
+Phenol,13000,Skeletonema costatum,Algae,TRUE
+Picloram-potassium,390000,Anabaena flos-aquae,Algae,FALSE
+Picloram-potassium,970,Navicula pelliculosa,Algae,FALSE
+Picloram-potassium,974.995,Oncorhynchus mykiss,Fish,FALSE
+Picloram-potassium,13100,Raphidocelis subcapitata,Algae,FALSE
+Picloram-potassium,600,Salvelinus confluentus,Fish,FALSE
+Picloram-potassium,6700,Skeletonema costatum,Algae,FALSE
+Primisulfuron-methyl,55.4,Anabaena flos-aquae,Algae,FALSE
+Primisulfuron-methyl,410,Daphnia magna,Invertebrate,FALSE
+Primisulfuron-methyl,30.4,Navicula pelliculosa,Algae,FALSE
+Primisulfuron-methyl,11000,Pimephales promelas,Fish,FALSE
+Primisulfuron-methyl,10,Raphidocelis subcapitata,Algae,FALSE
+Primisulfuron-methyl,222.5,Skeletonema costatum,Algae,FALSE
+Prometryn,20.2,Anabaena flos-aquae,Algae,FALSE
+Prometryn,0.82,Chlorella fusca var vacuolata,Algae,FALSE
+Prometryn,1000,Daphnia magna,Invertebrate,FALSE
+Prometryn,0.3,Navicula pelliculosa,Algae,FALSE
+Prometryn,675.542,Pimephales promelas,Fish,FALSE
+Prometryn,8,Raphidocelis subcapitata,Algae,FALSE
+Prometryn,2.22,Skeletonema costatum,Algae,FALSE
+Propanil,25,Anabaena flos-aquae,Algae,FALSE
+Propanil,4360,Chlamydomonas moewusii,Algae,FALSE
+Propanil,45.9833,Daphnia magna,Invertebrate,FALSE
+Propanil,6,Navicula pelliculosa,Algae,FALSE
+Propanil,1.85877,Pimephales promelas,Fish,FALSE
+Propanil,6,Raphidocelis subcapitata,Algae,FALSE
+Propanil,13,Skeletonema costatum,Algae,FALSE
+Propiconazole,510,Americamysis bahia,Invertebrate,TRUE
+Propiconazole,3509.31,Anabaena flos-aquae,Algae,TRUE
+Propiconazole,100,Chlorella pyrenoidosa,Algae,TRUE
+Propiconazole,100,Chlorella vulgaris,Algae,TRUE
+Propiconazole,150,Cyprinodon variegatus,Fish,TRUE
+Propiconazole,5,Danio rerio,Fish,TRUE
+Propiconazole,226,Daphnia magna,Invertebrate,TRUE
+Propiconazole,40,Desmodesmus subspicatus,Algae,TRUE
+Propiconazole,375,Dunaliella tertiolecta,Algae,TRUE
+Propiconazole,2000,Microcystis aeruginosa,Algae,TRUE
+Propiconazole,2000,Microcystis flosaquae,Algae,TRUE
+Propiconazole,51,Navicula seminulum,Algae,TRUE
+Propiconazole,45.1,Oncorhynchus mykiss,Fish,TRUE
+Propiconazole,112.924,Pimephales promelas,Fish,TRUE
+Propiconazole,226.053,Raphidocelis subcapitata,Algae,TRUE
+Propiconazole,50,Scenedesmus acutus var. acutus,Algae,TRUE
+Propiconazole,100,Scenedesmus quadricauda,Algae,TRUE
+Propiconazole,18,Skeletonema costatum,Algae,TRUE
+Propoxur,2000,Anabaena flos-aquae,Algae,TRUE
+Propoxur,500,Chlorella pyrenoidosa,Algae,TRUE
+Propoxur,200,Chlorella vulgaris,Algae,TRUE
+Propoxur,22.0296,Daphnia magna,Invertebrate,TRUE
+Propoxur,2000,Microcystis aeruginosa,Algae,TRUE
+Propoxur,5000,Microcystis flosaquae,Algae,TRUE
+Propoxur,913.964,Pimephales promelas,Fish,TRUE
+Propoxur,1279.99,Raphidocelis subcapitata,Algae,TRUE
+Propoxur,500,Scenedesmus acutus var. acutus,Algae,TRUE
+Propoxur,200,Scenedesmus quadricauda,Algae,TRUE
+Propranolol hydrochloride,1581.14,Brachionus calyciflorus,Invertebrate,FALSE
+Propranolol hydrochloride,31.8,Danio rerio,Fish,FALSE
+Propranolol hydrochloride,400,Daphnia magna,Invertebrate,FALSE
+Propranolol hydrochloride,1010,Oncorhynchus mykiss,Fish,FALSE
+Propranolol hydrochloride,58.0534,Pimephales promelas,Fish,FALSE
+Propranolol hydrochloride,717.936,Raphidocelis subcapitata,Algae,FALSE
+Pyraclostrobin,1780,Anabaena flos-aquae,Algae,FALSE
+Pyraclostrobin,10.8,Cyprinodon variegatus,Fish,FALSE
+Pyraclostrobin,26.0517,Lymnaea stagnalis,Invertebrate,FALSE
+Pyraclostrobin,2.35,Oncorhynchus mykiss,Fish,FALSE
+Pyraclostrobin,4.14,Pimephales promelas,Fish,FALSE
+Pyraclostrobin,14,Raphidocelis subcapitata,Algae,FALSE
+Pyridaben,0.13,Americamysis bahia,Invertebrate,FALSE
+Pyridaben,13.4,Anabaena flos-aquae,Algae,FALSE
+Pyridaben,0.0594958,Daphnia magna,Invertebrate,FALSE
+Pyridaben,13.8,Navicula pelliculosa,Algae,FALSE
+Pyridaben,0.842,Oncorhynchus mykiss,Fish,FALSE
+Pyridaben,0.648563,Pimephales promelas,Fish,FALSE
+Pyridaben,16.4,Skeletonema costatum,Algae,FALSE
+Silver sulfate,4.16679,Ceriodaphnia dubia,Invertebrate,TRUE
+Silver sulfate,125,Chironomus tentans,Invertebrate,TRUE
+Silver sulfate,27.2,Chlorella fusca var vacuolata,Algae,TRUE
+Silver sulfate,2.6,Corbicula fluminea,Invertebrate,TRUE
+Silver sulfate,1.3885,Daphnia magna,Invertebrate,TRUE
+Silver sulfate,1.89737,Hyalella azteca,Invertebrate,TRUE
+Silver sulfate,0.31,Isonychia bicolor,Invertebrate,TRUE
+Silver sulfate,0.272383,Oncorhynchus mykiss,Fish,TRUE
+Silver sulfate,50,Oreochromis niloticus,Fish,TRUE
+Silver sulfate,496.551,Oryzias latipes,Fish,TRUE
+Silver sulfate,0.880848,Pimephales promelas,Fish,TRUE
+Silver sulfate,5,Scenedesmus acutus,Algae,TRUE
+Silver sulfate,1.84,Stenonema modestum,Invertebrate,TRUE
+Simazine,3.7,Chlorella fusca var vacuolata,Algae,TRUE
+Simazine,100,Chlorella vulgaris,Algae,TRUE
+Simazine,4,Cyprinus carpio,Fish,TRUE
+Simazine,2500,Daphnia magna,Invertebrate,TRUE
+Simazine,5000,Daphnia pulex,Invertebrate,TRUE
+Simazine,1936.49,Lepomis macrochirus,Fish,TRUE
+Simazine,30,Navicula pelliculosa,Algae,TRUE
+Simazine,1200,Pimephales promelas,Fish,TRUE
+Simazine,100.402,Raphidocelis subcapitata,Algae,TRUE
+Simazine,250,Skeletonema costatum,Algae,TRUE
+Simazine,5,Skeletonema marinoi,Algae,TRUE
+Sodium dodecyl sulfate,1580,Acanthomysis costata,Invertebrate,TRUE
+Sodium dodecyl sulfate,625,Brachionus calyciflorus,Invertebrate,TRUE
+Sodium dodecyl sulfate,620,Brachionus rubens,Invertebrate,TRUE
+Sodium dodecyl sulfate,7682.89,Ceriodaphnia dubia,Invertebrate,TRUE
+Sodium dodecyl sulfate,418,Corbicula fluminea,Invertebrate,TRUE
+Sodium dodecyl sulfate,3200,Daphnia magna,Invertebrate,TRUE
+Sodium dodecyl sulfate,1357,Goniobasis sp,Invertebrate,TRUE
+Sodium dodecyl sulfate,300,Lecane quadridentata,Invertebrate,TRUE
+Sodium dodecyl sulfate,418,Limnephilus sp,Invertebrate,TRUE
+Sodium dodecyl sulfate,1580,Mysidopsis intii,Invertebrate,TRUE
+Sodium dodecyl sulfate,3252.69,Pimephales promelas,Fish,TRUE
+Sodium dodecyl sulfate,1250,Ulva fasciata,Algae,TRUE
+Sodium nitrate,30013,Ceriodaphnia dubia,Invertebrate,FALSE
+Sodium nitrate,25118.9,Coregonus clupeaformis,Fish,FALSE
+Sodium nitrate,2000,Ictalurus punctatus,Fish,FALSE
+Sodium nitrate,55300,Lampsilis fasciola,Invertebrate,FALSE
+Sodium nitrate,9500,Lampsilis siliquoidea,Invertebrate,FALSE
+Sodium nitrate,360899,Notropis topeka,Fish,FALSE
+Sodium nitrate,125000,Oryzias latipes,Fish,FALSE
+Sodium nitrate,303225,Pimephales promelas,Fish,FALSE
+Sodium nitrate,50297.3,Salvelinus namaycush,Fish,FALSE
+Sodium pentachlorophenate,244,Americamysis bahia,Invertebrate,TRUE
+Sodium pentachlorophenate,9.8,Anabaena cylindrica,Algae,TRUE
+Sodium pentachlorophenate,200,Anabaena flos-aquae,Algae,TRUE
+Sodium pentachlorophenate,400,Anabaena variabilis,Algae,TRUE
+Sodium pentachlorophenate,104.74,Brachionus calyciflorus,Invertebrate,TRUE
+Sodium pentachlorophenate,280,Brachionus rubens,Invertebrate,TRUE
+Sodium pentachlorophenate,5020,Chlorella vulgaris,Algae,TRUE
+Sodium pentachlorophenate,40.536,Clarias gariepinus,Fish,TRUE
+Sodium pentachlorophenate,157,Cyprinodon variegatus,Fish,TRUE
+Sodium pentachlorophenate,56,Danio rerio,Fish,TRUE
+Sodium pentachlorophenate,56.9049,Macrocystis pyrifera,Algae,TRUE
+Sodium pentachlorophenate,200,Microcystis aeruginosa,Algae,TRUE
+Sodium pentachlorophenate,130,Microcystis wesenbergii,Algae,TRUE
+Sodium pentachlorophenate,5000,Nostoc sp,Algae,TRUE
+Sodium pentachlorophenate,193.027,Pimephales promelas,Fish,TRUE
+Sodium pentachlorophenate,105,Raphidocelis subcapitata,Algae,TRUE
+Sodium pentachlorophenate,16,Synechococcus leopoliensis,Algae,TRUE
+Sodium pentachlorophenate,250,Synechococcus sp,Algae,TRUE
+Sodium selenite,200,Ceriodaphnia dubia,Invertebrate,FALSE
+Sodium selenite,303,Chironomus riparius,Invertebrate,FALSE
+Sodium selenite,71.8255,Chlorella vulgaris,Algae,FALSE
+Sodium selenite,275.72,Daphnia magna,Invertebrate,FALSE
+Sodium selenite,19.0946,Lepomis macrochirus,Fish,FALSE
+Sodium selenite,440.312,Oncorhynchus mykiss,Fish,FALSE
+Sodium selenite,507.82,Pimephales promelas,Fish,FALSE
+Sodium selenite,258.6,Scenedesmus acutus var. acutus,Algae,FALSE
+Sodium sulfate anyhdrous,835966,Brachionus calyciflorus,Invertebrate,FALSE
+Sodium sulfate anyhdrous,1050060,Ceriodaphnia dubia,Invertebrate,FALSE
+Sodium sulfate anyhdrous,2970000,Ceriodaphnia sp,Invertebrate,FALSE
+Sodium sulfate anyhdrous,653000,Daphnia magna,Invertebrate,FALSE
+Sodium sulfate anyhdrous,825000,Oncorhynchus kisutch,Fish,FALSE
+Sodium sulfate anyhdrous,466154,Oncorhynchus mykiss,Fish,FALSE
+Sodium sulfate anyhdrous,725192,Pimephales promelas,Fish,FALSE
+Sodium sulfate anyhdrous,1193630,Raphidocelis subcapitata,Algae,FALSE
+"Sulfuric acid, titanium(3+) salt (3:2)",1000000,Chlorella sp,Algae,FALSE
+"Sulfuric acid, titanium(3+) salt (3:2)",6500,Chlorella vulgaris,Algae,FALSE
+"Sulfuric acid, titanium(3+) salt (3:2)",2723.96,Danio rerio,Fish,FALSE
+"Sulfuric acid, titanium(3+) salt (3:2)",706.243,Daphnia magna,Invertebrate,FALSE
+"Sulfuric acid, titanium(3+) salt (3:2)",1000,Dunaliella tertiolecta,Algae,FALSE
+"Sulfuric acid, titanium(3+) salt (3:2)",14000,Oryzias latipes,Fish,FALSE
+"Sulfuric acid, titanium(3+) salt (3:2)",9810.25,Raphidocelis subcapitata,Algae,FALSE
+Tebuconazole,35,Americamysis bahia,Invertebrate,TRUE
+Tebuconazole,23.2379,Attheyella crassa,Invertebrate,TRUE
+Tebuconazole,20.445,Cyprinodon variegatus,Fish,TRUE
+Tebuconazole,341.58,Danio rerio,Fish,TRUE
+Tebuconazole,127.276,Daphnia galeata,Invertebrate,TRUE
+Tebuconazole,74.5481,Daphnia longispina,Invertebrate,TRUE
+Tebuconazole,309.462,Daphnia magna,Invertebrate,TRUE
+Tebuconazole,320,Desmodesmus subspicatus,Algae,TRUE
+Tebuconazole,332.391,Gammarus fossarum,Invertebrate,TRUE
+Tebuconazole,12,Oncorhynchus mykiss,Fish,TRUE
+Tebuconazole,1223.1,Raphidocelis subcapitata,Algae,TRUE
+Tebuthiuron,310,Anabaena flos-aquae,Algae,FALSE
+Tebuthiuron,101.003,Chlorella sp,Algae,FALSE
+Tebuthiuron,21800,Daphnia magna,Invertebrate,FALSE
+Tebuthiuron,56,Navicula pelliculosa,Algae,FALSE
+Tebuthiuron,9300,Pimephales promelas,Fish,FALSE
+Tebuthiuron,13,Raphidocelis subcapitata,Algae,FALSE
+Tebuthiuron,36,Skeletonema costatum,Algae,FALSE
+Tetrachloroethylene,896.289,Americamysis bahia,Invertebrate,FALSE
+Tetrachloroethylene,330,Ceriodaphnia dubia,Invertebrate,FALSE
+Tetrachloroethylene,353.577,Daphnia magna,Invertebrate,FALSE
+Tetrachloroethylene,2157.92,Jordanella floridae,Fish,FALSE
+Tetrachloroethylene,3184.69,Oryzias latipes,Fish,FALSE
+Tetrachloroethylene,754.802,Pimephales promelas,Fish,FALSE
+Tetrachloroethylene,41755.2,Raphidocelis subcapitata,Algae,FALSE
+Thiobencarb,3100,Anabaena flos-aquae,Algae,TRUE
+Thiobencarb,3464.1,Anabaena variabilis,Algae,TRUE
+Thiobencarb,2000,Brachionus calyciflorus,Invertebrate,TRUE
+Thiobencarb,300,Brachionus plicatilis,Invertebrate,TRUE
+Thiobencarb,40,Chlorella pyrenoidosa,Algae,TRUE
+Thiobencarb,920,Chlorella saccharophila,Algae,TRUE
+Thiobencarb,150,Cyprinodon variegatus,Fish,TRUE
+Thiobencarb,74.0083,Daphnia magna,Invertebrate,TRUE
+Thiobencarb,100,Nannochloropsis oculata,Algae,TRUE
+Thiobencarb,65,Navicula pelliculosa,Algae,TRUE
+Thiobencarb,3.2,Neomysis mercedis,Invertebrate,TRUE
+Thiobencarb,650.296,Oryzias latipes,Fish,TRUE
+Thiobencarb,21,Palaemonetes pugio,Invertebrate,TRUE
+Thiobencarb,80,Pseudanabaena galeata,Algae,TRUE
+Thiobencarb,15.08,Raphidocelis subcapitata,Algae,TRUE
+Thiobencarb,5,Scenedesmus acutus,Algae,TRUE
+Thiobencarb,18,Skeletonema costatum,Algae,TRUE
+Thiophanate-methyl,4300,Anabaena flos-aquae,Algae,FALSE
+Thiophanate-methyl,50,Brachionus calyciflorus,Invertebrate,FALSE
+Thiophanate-methyl,430,Navicula pelliculosa,Algae,FALSE
+Thiophanate-methyl,500,Oryzias latipes,Fish,FALSE
+Thiophanate-methyl,950,Raphidocelis subcapitata,Algae,FALSE
+Thiophanate-methyl,110,Skeletonema costatum,Algae,FALSE
+Toluene,740,Ceriodaphnia dubia,Invertebrate,FALSE
+Toluene,4963.87,Cyprinodon variegatus,Fish,FALSE
+Toluene,1037.14,Daphnia magna,Invertebrate,FALSE
+Toluene,1390,Oncorhynchus kisutch,Fish,FALSE
+Toluene,720,Oryzias latipes,Fish,FALSE
+Toluene,5440,Pimephales promelas,Fish,FALSE
+Toluene,9395.21,Raphidocelis subcapitata,Algae,FALSE
+Toluene,10000,Skeletonema costatum,Algae,FALSE
+Triadimefon,34.7,Alona sp,Invertebrate,TRUE
+Triadimefon,34.7,Anuraeopsis sp,Invertebrate,TRUE
+Triadimefon,34.7,Asplanchna sp,Invertebrate,TRUE
+Triadimefon,160,Brachionus calyciflorus,Invertebrate,TRUE
+Triadimefon,34.7,Chydorus sp,Invertebrate,TRUE
+Triadimefon,34.7,Cyclops sp,Invertebrate,TRUE
+Triadimefon,157.49,Danio rerio,Fish,TRUE
+Triadimefon,96.7203,Daphnia magna,Invertebrate,TRUE
+Triadimefon,100,Desmodesmus subspicatus,Algae,TRUE
+Triadimefon,2000,Dunaliella tertiolecta,Algae,TRUE
+Triadimefon,320,Heterocypris incongruens,Invertebrate,TRUE
+Triadimefon,40,Oncorhynchus mykiss,Fish,TRUE
+Triadimefon,5,Oryzias latipes,Fish,TRUE
+Triadimefon,170,Pimephales promelas,Fish,TRUE
+Triadimefon,34.7,Polyarthra sp,Invertebrate,TRUE
+Triadimefon,896.281,Raphidocelis subcapitata,Algae,TRUE
+Triadimefon,34.7,Scapholeberis sp,Invertebrate,TRUE
+Triadimefon,34.7,Simocephalus sp,Invertebrate,TRUE
+Tributyltin chloride,0.01,Acartia tonsa,Invertebrate,FALSE
+Tributyltin chloride,43.3,Chlorella fusca var vacuolata,Algae,FALSE
+Tributyltin chloride,1,Daphnia magna,Invertebrate,FALSE
+Tributyltin chloride,0.064,Nucella lima,Invertebrate,FALSE
+Tributyltin chloride,0.2,Oncorhynchus mykiss,Fish,FALSE
+Tributyltin chloride,9.76468,Oryzias latipes,Fish,FALSE
+Tributyltin chloride,0.415692,Phoxinus phoxinus,Fish,FALSE
+Tributyltin chloride,1.2,Raphidocelis subcapitata,Algae,FALSE
+Triclosan,65.5916,Ceriodaphnia dubia,Invertebrate,TRUE
+Triclosan,395.285,Closterium ehrenbergii,Algae,TRUE
+Triclosan,22.3828,Daphnia magna,Invertebrate,TRUE
+Triclosan,1.20112,Desmodesmus subspicatus,Algae,TRUE
+Triclosan,1.6,Dunaliella tertiolecta,Algae,TRUE
+Triclosan,76.4716,Gambusia affinis,Fish,TRUE
+Triclosan,38.9164,Oncorhynchus mykiss,Fish,TRUE
+Triclosan,139.768,Oryzias latipes,Fish,TRUE
+Triclosan,0.45,Pimephales promelas,Fish,TRUE
+Triclosan,72.4,Psammechinus miliaris,Invertebrate,TRUE
+Triclosan,0.793701,Raphidocelis subcapitata,Algae,TRUE
+Trifluralin,273,Anabaena flos-aquae,Algae,FALSE
+Trifluralin,33.5,Chlamydomonas eugametos,Algae,FALSE
+Trifluralin,2.4,Daphnia magna,Invertebrate,FALSE
+Trifluralin,2.18,Oncorhynchus mykiss,Fish,FALSE
+Trifluralin,1.9,Pimephales promelas,Fish,FALSE
+Trifluralin,39.0095,Raphidocelis subcapitata,Algae,FALSE
+Trifluralin,4.6,Skeletonema costatum,Algae,FALSE
+Trimethoprim,3100,Anabaena variabilis,Algae,FALSE
+Trimethoprim,157,Danio rerio,Fish,FALSE
+Trimethoprim,6000,Daphnia magna,Invertebrate,FALSE
+Trimethoprim,100000,Microcystis aeruginosa,Algae,FALSE
+Trimethoprim,3100,Microcystis wesenbergii,Algae,FALSE
+Trimethoprim,3100,Nostoc sp,Algae,FALSE
+Trimethoprim,17213,Raphidocelis subcapitata,Algae,FALSE
+Trimethoprim,13000,Synechococcus leopoliensis,Algae,FALSE
+Trimethoprim,50000,Synechococcus sp,Algae,FALSE
+Trinexapac-ethyl,110,Anabaena flos-aquae,Algae,FALSE
+Trinexapac-ethyl,2400,Daphnia magna,Invertebrate,FALSE
+Trinexapac-ethyl,6200,Navicula pelliculosa,Algae,FALSE
+Trinexapac-ethyl,410,Pimephales promelas,Fish,FALSE
+Trinexapac-ethyl,2481.9,Raphidocelis subcapitata,Algae,FALSE
+Trinexapac-ethyl,3700,Skeletonema costatum,Algae,FALSE
+Triphenyl phosphate,2500,Chlorella vulgaris,Algae,FALSE
+Triphenyl phosphate,250,Daphnia magna,Invertebrate,FALSE
+Triphenyl phosphate,70.3562,Oncorhynchus mykiss,Fish,FALSE
+Triphenyl phosphate,3.34598,Oryzias latipes,Fish,FALSE
+Triphenyl phosphate,120.297,Pimephales promelas,Fish,FALSE
+Triphenyl phosphate,1038.27,Raphidocelis subcapitata,Algae,FALSE
+Uranium nitrate oxide (UO2(NO3)2),1000,Allorchestes compressa,Invertebrate,TRUE
+Uranium nitrate oxide (UO2(NO3)2),11439.2,Catostomus commersoni,Fish,TRUE
+Uranium nitrate oxide (UO2(NO3)2),1.5,Ceriodaphnia dubia,Invertebrate,TRUE
+Uranium nitrate oxide (UO2(NO3)2),2000,Chlorella vulgaris,Algae,TRUE
+Uranium nitrate oxide (UO2(NO3)2),70000,Cyprinus carpio,Fish,TRUE
+Uranium nitrate oxide (UO2(NO3)2),26.6266,Danio rerio,Fish,TRUE
+Uranium nitrate oxide (UO2(NO3)2),17.9073,Daphnia magna,Invertebrate,TRUE
+Uranium nitrate oxide (UO2(NO3)2),38.8071,Hyalella azteca,Invertebrate,TRUE
+Uranium nitrate oxide (UO2(NO3)2),1173.1,Pimephales promelas,Fish,TRUE
+Uranium nitrate oxide (UO2(NO3)2),8340,Procambarus clarkii,Invertebrate,TRUE
+Vanadium pentoxide,1200,Chlorella vulgaris,Algae,FALSE
+Vanadium pentoxide,300,Danio rerio,Fish,FALSE
+Vanadium pentoxide,736.806,Daphnia magna,Invertebrate,FALSE
+Vanadium pentoxide,240,Pimephales promelas,Fish,FALSE
+Vanadium pentoxide,800,Poecilia reticulata,Fish,FALSE
+Vanadium pentoxide,2250,Scenedesmus quadricauda,Algae,FALSE
+Zinc oxide,21.6734,Acanthomysis costata,Invertebrate,TRUE
+Zinc oxide,71,Brachionus havanaensis,Invertebrate,TRUE
+Zinc oxide,1988180,Carassius auratus,Fish,TRUE
+Zinc oxide,79.1781,Ceriodaphnia dubia,Invertebrate,TRUE
+Zinc oxide,15800,Chlorella fusca var vacuolata,Algae,TRUE
+Zinc oxide,22.3607,Chlorella pyrenoidosa,Algae,TRUE
+Zinc oxide,36.8403,Chlorella sp,Algae,TRUE
+Zinc oxide,1700,Chlorella vulgaris,Algae,TRUE
+Zinc oxide,106.801,Cottus bairdi,Fish,TRUE
+Zinc oxide,347.851,Ctenopharyngodon idella,Fish,TRUE
+Zinc oxide,4937.65,Danio rerio,Fish,TRUE
+Zinc oxide,213.125,Daphnia magna,Invertebrate,TRUE
+Zinc oxide,41.2,Dunaliella tertiolecta,Algae,TRUE
+Zinc oxide,589.694,Fundulus heteroclitus,Fish,TRUE
+Zinc oxide,13.784,Haliotis rufescens,Invertebrate,TRUE
+Zinc oxide,38,Hydra viridissima,Invertebrate,TRUE
+Zinc oxide,26,Jordanella floridae,Fish,TRUE
+Zinc oxide,232.079,Laminaria saccharina,Algae,TRUE
+Zinc oxide,1785.55,Macrocystis pyrifera,Algae,TRUE
+Zinc oxide,0.654,Microcystis aeruginosa,Algae,TRUE
+Zinc oxide,25,Moina irrasa,Invertebrate,TRUE
+Zinc oxide,101,Mysidopsis intii,Invertebrate,TRUE
+Zinc oxide,200,Nostoc muscorum,Algae,TRUE
+Zinc oxide,170.616,Oncorhynchus mykiss,Fish,TRUE
+Zinc oxide,374.166,Oncorhynchus tshawytscha,Fish,TRUE
+Zinc oxide,18284.2,Oreochromis mossambicus,Fish,TRUE
+Zinc oxide,781.311,Oreochromis niloticus,Fish,TRUE
+Zinc oxide,570,Physa gyrina,Invertebrate,TRUE
+Zinc oxide,217.15,Pimephales promelas,Fish,TRUE
+Zinc oxide,607.397,Poecilia reticulata,Fish,TRUE
+Zinc oxide,61.2372,Potamopyrgus jenkinsi,Invertebrate,TRUE
+Zinc oxide,326.854,Prosopium williamsoni,Fish,TRUE
+Zinc oxide,54.1711,Raphidocelis subcapitata,Algae,TRUE
+Zinc oxide,324,Salmo trutta,Fish,TRUE
+Zinc oxide,176.777,Salvelinus fontinalis,Fish,TRUE
+Zinc oxide,142,Ulva fasciata,Algae,TRUE
+Zinc oxide,339.483,Ulva pertusa,Algae,TRUE
+Zineb,500,Chlorella pyrenoidosa,Algae,FALSE
+Zineb,50,Chlorella vulgaris,Algae,FALSE
+Zineb,500,Cylindrospermum sp,Algae,FALSE
+Zineb,32,Daphnia magna,Invertebrate,FALSE
+Zineb,37.807,Nitzschia pungens,Algae,FALSE
+Zineb,74.8331,Oncorhynchus mykiss,Fish,FALSE
+Zineb,50,Raphidocelis subcapitata,Algae,FALSE
+Zineb,500,Scenedesmus acutus var. acutus,Algae,FALSE
+Zineb,50,Scenedesmus quadricauda,Algae,FALSE
+lambda-Cyhalothrin,0.1,Anuraeopsis fissa,Invertebrate,FALSE
+lambda-Cyhalothrin,0.025,Cyprinodon variegatus,Fish,FALSE
+lambda-Cyhalothrin,0.01,Daphnia galeata,Invertebrate,FALSE
+lambda-Cyhalothrin,0.008,Daphnia magna,Invertebrate,FALSE
+lambda-Cyhalothrin,0.1,Lecane lunaris,Invertebrate,FALSE
+lambda-Cyhalothrin,0.031,Pimephales promelas,Fish,FALSE
+lambda-Cyhalothrin,1,Tilapia sp,Fish,FALSE
+n-Nonylphenol,7.07107,Brachionus calyciflorus,Invertebrate,FALSE
+n-Nonylphenol,125,Ceriodaphnia dubia,Invertebrate,FALSE
+n-Nonylphenol,53.89,Daphnia magna,Invertebrate,FALSE
+n-Nonylphenol,20.0852,Oncorhynchus mykiss,Fish,FALSE
+n-Nonylphenol,3.80789,Oryzias latipes,Fish,FALSE
+n-Nonylphenol,694,Raphidocelis subcapitata,Algae,FALSE
+n-Nonylphenol,0.2,Xiphophorus helleri,Fish,FALSE

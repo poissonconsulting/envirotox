@@ -147,11 +147,21 @@ envirotox_chemical <- envirotox_acute %>%
   arrange(Chemical)
 
 envirotox_acute <- envirotox_acute |>
-  select(!OriginalCAS) %>%
+  select(!OriginalCAS) |>
+  mutate(Group = stringr::str_to_sentence(Group)) |>
+  mutate(Group = case_when(
+    Group == "Invert" ~ "Invertebrate",
+    Group == "Amphib" ~ "Amphibian",
+    TRUE ~ Group)) |>
   arrange(Chemical, Species)
 
 envirotox_chronic <- envirotox_chronic |>
   select(!OriginalCAS) %>%
+  mutate(Group = stringr::str_to_sentence(Group)) |>
+  mutate(Group = case_when(
+    Group == "Invert" ~ "Invertebrate",
+    Group == "Amphib" ~ "Amphibian",
+    TRUE ~ Group)) |>
   arrange(Chemical, Species)
 
 chk::check_key(envirotox_acute, c("Chemical", "Species"))
