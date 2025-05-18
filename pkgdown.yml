@@ -1,9 +1,8 @@
 pandoc: 3.1.11
 pkgdown: 2.1.2
 pkgdown_sha: ~
-articles:
-  articles/yanagihara-24: yanagihara-24.html
-last_built: 2025-05-18T00:21Z
+articles: {}
+last_built: 2025-05-18T04:18Z
 urls:
   reference: https://poissonconsulting.github.io/envirotox/reference
   article: https://poissonconsulting.github.io/envirotox/articles

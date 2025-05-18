@@ -15,8 +15,8 @@
 <link href="deps/font-awesome-6.5.2/css/all.min.css" rel="stylesheet">
 <link href="deps/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet">
 <script src="deps/headroom-0.11.0/headroom.min.js"></script><script src="deps/headroom-0.11.0/jQuery.headroom.min.js"></script><script src="deps/bootstrap-toc-1.0.1/bootstrap-toc.min.js"></script><script src="deps/clipboard.js-2.0.11/clipboard.min.js"></script><script src="deps/search-1.0.0/autocomplete.jquery.min.js"></script><script src="deps/search-1.0.0/fuse.min.js"></script><script src="deps/search-1.0.0/mark.min.js"></script><!-- pkgdown --><script src="pkgdown.js"></script><meta property="og:title" content="Envirotox Datasets">
-<meta name="description" content="Make alternative datasets from the Envirotox database available for testing species sensitivity distribution code. The datasets should not be used to make any conclusions about the toxicity of the chemicals in the database.">
-<meta property="og:description" content="Make alternative datasets from the Envirotox database available for testing species sensitivity distribution code. The datasets should not be used to make any conclusions about the toxicity of the chemicals in the database.">
+<meta name="description" content="The envirotox R data package provides Species Sensitivity Distribution (SSD) datasets from the Envirotox database 2.0.0 (Connors et al. 2019). The datasets are provided for assessing general patterns in SSD data and testing code. The datasets should not be used to draw any conclusions about the toxicity of the individual chemicals.">
+<meta property="og:description" content="The envirotox R data package provides Species Sensitivity Distribution (SSD) datasets from the Envirotox database 2.0.0 (Connors et al. 2019). The datasets are provided for assessing general patterns in SSD data and testing code. The datasets should not be used to draw any conclusions about the toxicity of the individual chemicals.">
 </head>
 <body>
     <a href="#main" class="visually-hidden-focusable">Skip to contents</a>
@@ -36,12 +36,6 @@
     <div id="navbar" class="collapse navbar-collapse ms-3">
       <ul class="navbar-nav me-auto">
 <li class="nav-item"><a class="nav-link" href="reference/index.html">Reference</a></li>
-<li class="nav-item dropdown">
-  <button class="nav-link dropdown-toggle" type="button" id="dropdown-articles" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true">Articles</button>
-  <ul class="dropdown-menu" aria-labelledby="dropdown-articles">
-<li><a class="dropdown-item" href="articles/yanagihara-24.html">Reanalysis of Yanagihara et al 2024</a></li>
-  </ul>
-</li>
 <li class="nav-item"><a class="nav-link" href="news/index.html">Changelog</a></li>
       </ul>
 <ul class="navbar-nav">
@@ -60,100 +54,23 @@
 </h1></div>
 <!-- badges: start -->
 
-<p>The goal of the envirotox R data package is to make alternative datasets from the <a href="http://www.envirotoxdatabase.org/" class="external-link">Envirotox database</a> available for testing species sensitivity distribution code.</p>
-<p>The datasets should not be used to make any conclusions about the toxicity of the chemicals in the database.</p>
+<p>The <code>envirotox</code> R data package provides Species Sensitivity Distribution (SSD) datasets from the <a href="http://www.envirotoxdatabase.org/" class="external-link">Envirotox database</a> 2.0.0 (Connors et al. 2019).</p>
+<p>The datasets are provided for assessing general patterns in SSD data and testing code. The datasets should not be used to draw any conclusions about the toxicity of the individual chemicals.</p>
+<p>The data is aggregated based on the <a href="https://github.com/miinay/SSD_distribution_comparison/blob/main/Rcode.R" class="external-link">code</a> provided by Yanagihara et al. (2024) with three exceptions: the datasets in the <code>envirotox</code> package also include datasets with 1) a binomial coefficient &gt; 0.555, 2) between six and nine species; and 3) two groups.</p>
+<p>A logical vector called <code>Yanagihara2024</code> indicates which datasets are consistent with the criteria used by Yanagihara et al. (2024) which required a binomial coefficient <span class="math inline">&lt;=</span> 0.555, at least 10 species and three groups.</p>
 <div class="section level2">
 <h2 id="installation">Installation<a class="anchor" aria-label="anchor" href="#installation"></a>
 </h2>
-<p>To install the most recent version from <a href="https://github.com/poissonconsulting/flobr" class="external-link">GitHub</a></p>
+<p>To install the most recent version from <a href="https://github.com/poissonconsulting/envirotox" class="external-link">GitHub</a></p>
 <div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="co"># install.packages("remotes")</span></span>
-<span><span class="fu">remotes</span><span class="fu">::</span><span class="fu">install_github</span><span class="op">(</span><span class="st">"poissonconsulting/flobr"</span><span class="op">)</span></span></code></pre></div>
+<code class="sourceCode R"><span><span class="co"># install.packages("pak")</span></span>
+<span><span class="fu">pak</span><span class="fu">::</span><span class="fu"><a href="https://pak.r-lib.org/reference/pak.html" class="external-link">pak</a></span><span class="op">(</span><span class="st">"poissonconsulting/envirotox"</span><span class="op">)</span></span></code></pre></div>
 </div>
 <div class="section level2">
-<h2 id="demonstration">Demonstration<a class="anchor" aria-label="anchor" href="#demonstration"></a>
+<h2 id="references">References<a class="anchor" aria-label="anchor" href="#references"></a>
 </h2>
-<div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://poissonconsulting.github.io/envirotox/">envirotox</a></span><span class="op">)</span></span>
-<span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://github.com/bcgov/ssdtools" class="external-link">ssdtools</a></span><span class="op">)</span></span>
-<span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://dplyr.tidyverse.org" class="external-link">dplyr</a></span><span class="op">)</span></span>
-<span><span class="co">#&gt; </span></span>
-<span><span class="co">#&gt; Attaching package: 'dplyr'</span></span>
-<span><span class="co">#&gt; The following objects are masked from 'package:stats':</span></span>
-<span><span class="co">#&gt; </span></span>
-<span><span class="co">#&gt;     filter, lag</span></span>
-<span><span class="co">#&gt; The following objects are masked from 'package:base':</span></span>
-<span><span class="co">#&gt; </span></span>
-<span><span class="co">#&gt;     intersect, setdiff, setequal, union</span></span>
-<span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://tidyr.tidyverse.org" class="external-link">tidyr</a></span><span class="op">)</span></span>
-<span></span>
-<span><span class="va">data</span> <span class="op">&lt;-</span> <span class="fu">envirotox</span><span class="fu">::</span><span class="va"><a href="reference/yanagihara_24_acute.html">yanagihara_24_acute</a></span></span>
-<span></span>
-<span><span class="va">data</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/count.html" class="external-link">count</a></span><span class="op">(</span><span class="va">Chemical</span><span class="op">)</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/pull.html" class="external-link">pull</a></span><span class="op">(</span><span class="va">n</span><span class="op">)</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu"><a href="https://rdrr.io/r/base/summary.html" class="external-link">summary</a></span><span class="op">(</span><span class="op">)</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu"><a href="https://rdrr.io/r/base/print.html" class="external-link">print</a></span><span class="op">(</span><span class="op">)</span></span>
-<span><span class="co">#&gt;    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. </span></span>
-<span><span class="co">#&gt;    10.0    11.0    14.0    21.1    24.0    97.0</span></span>
-<span></span>
-<span><span class="va">data</span> <span class="op">&lt;-</span> <span class="va">data</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/nest_by.html" class="external-link">nest_by</a></span><span class="op">(</span><span class="va">Chemical</span><span class="op">)</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/mutate.html" class="external-link">mutate</a></span><span class="op">(</span>n <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/nrow.html" class="external-link">nrow</a></span><span class="op">(</span><span class="va">data</span><span class="op">)</span>, </span>
-<span>                ssd_fit <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/list.html" class="external-link">list</a></span><span class="op">(</span><span class="fu"><a href="https://bcgov.github.io/ssdtools/reference/ssd_fit_dists.html" class="external-link">ssd_fit_dists</a></span><span class="op">(</span><span class="va">data</span>, silent <span class="op">=</span> <span class="cn">TRUE</span><span class="op">)</span><span class="op">)</span>,</span>
-<span>                ssd_hc <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/list.html" class="external-link">list</a></span><span class="op">(</span><span class="fu"><a href="https://bcgov.github.io/ssdtools/reference/ssd_hc.html" class="external-link">ssd_hc</a></span><span class="op">(</span><span class="va">ssd_fit</span>, average <span class="op">=</span> <span class="cn">FALSE</span><span class="op">)</span><span class="op">)</span><span class="op">)</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu">tidyr</span><span class="fu">::</span><span class="fu"><a href="https://tidyr.tidyverse.org/reference/unnest.html" class="external-link">unnest</a></span><span class="op">(</span><span class="va">ssd_hc</span><span class="op">)</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu"><a href="https://rdrr.io/r/base/print.html" class="external-link">print</a></span><span class="op">(</span><span class="op">)</span></span>
-<span><span class="co">#&gt; # A tibble: 512 × 15</span></span>
-<span><span class="co">#&gt; # Groups:   Chemical [103]</span></span>
-<span><span class="co">#&gt;    Chemical      data     n ssd_fit    dist  proportion    est    se   lcl   ucl</span></span>
-<span><span class="co">#&gt;    &lt;chr&gt;     &lt;list&lt;t&gt; &lt;int&gt; &lt;list&gt;     &lt;chr&gt;      &lt;dbl&gt;  &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;</span></span>
-<span><span class="co">#&gt;  1 1,1,2-Tr… [10 × 5]    10 &lt;fitdists&gt; gamma       0.05 32778.    NA    NA    NA</span></span>
-<span><span class="co">#&gt;  2 1,1,2-Tr… [10 × 5]    10 &lt;fitdists&gt; lgum…       0.05 42924.    NA    NA    NA</span></span>
-<span><span class="co">#&gt;  3 1,1,2-Tr… [10 × 5]    10 &lt;fitdists&gt; llog…       0.05 33975.    NA    NA    NA</span></span>
-<span><span class="co">#&gt;  4 1,1,2-Tr… [10 × 5]    10 &lt;fitdists&gt; lnorm       0.05 37884.    NA    NA    NA</span></span>
-<span><span class="co">#&gt;  5 1,1,2-Tr… [10 × 5]    10 &lt;fitdists&gt; weib…       0.05 25834.    NA    NA    NA</span></span>
-<span><span class="co">#&gt;  6 1,2,4-Tr… [14 × 5]    14 &lt;fitdists&gt; gamma       0.05   402.    NA    NA    NA</span></span>
-<span><span class="co">#&gt;  7 1,2,4-Tr… [14 × 5]    14 &lt;fitdists&gt; lgum…       0.05   802.    NA    NA    NA</span></span>
-<span><span class="co">#&gt;  8 1,2,4-Tr… [14 × 5]    14 &lt;fitdists&gt; llog…       0.05   634.    NA    NA    NA</span></span>
-<span><span class="co">#&gt;  9 1,2,4-Tr… [14 × 5]    14 &lt;fitdists&gt; lnorm       0.05   666.    NA    NA    NA</span></span>
-<span><span class="co">#&gt; 10 1,2,4-Tr… [14 × 5]    14 &lt;fitdists&gt; weib…       0.05   276.    NA    NA    NA</span></span>
-<span><span class="co">#&gt; # ℹ 502 more rows</span></span>
-<span><span class="co">#&gt; # ℹ 5 more variables: wt &lt;dbl&gt;, method &lt;chr&gt;, nboot &lt;int&gt;, pboot &lt;dbl&gt;,</span></span>
-<span><span class="co">#&gt; #   samples &lt;I&lt;list&gt;&gt;</span></span>
-<span></span>
-<span><span class="va">data</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/group_by.html" class="external-link">group_by</a></span><span class="op">(</span><span class="va">Chemical</span><span class="op">)</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/arrange.html" class="external-link">arrange</a></span><span class="op">(</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/desc.html" class="external-link">desc</a></span><span class="op">(</span><span class="va">wt</span><span class="op">)</span><span class="op">)</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/slice.html" class="external-link">slice</a></span><span class="op">(</span><span class="fl">1</span><span class="op">)</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/group_by.html" class="external-link">ungroup</a></span><span class="op">(</span><span class="op">)</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/count.html" class="external-link">count</a></span><span class="op">(</span><span class="va">dist</span><span class="op">)</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/arrange.html" class="external-link">arrange</a></span><span class="op">(</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/desc.html" class="external-link">desc</a></span><span class="op">(</span><span class="va">n</span><span class="op">)</span><span class="op">)</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu"><a href="https://rdrr.io/r/base/print.html" class="external-link">print</a></span><span class="op">(</span><span class="op">)</span></span>
-<span><span class="co">#&gt; # A tibble: 6 × 2</span></span>
-<span><span class="co">#&gt;   dist            n</span></span>
-<span><span class="co">#&gt;   &lt;chr&gt;       &lt;int&gt;</span></span>
-<span><span class="co">#&gt; 1 lnorm          23</span></span>
-<span><span class="co">#&gt; 2 lgumbel        19</span></span>
-<span><span class="co">#&gt; 3 gamma          18</span></span>
-<span><span class="co">#&gt; 4 weibull        18</span></span>
-<span><span class="co">#&gt; 5 llogis         13</span></span>
-<span><span class="co">#&gt; 6 lnorm_lnorm    12</span></span>
-<span></span>
-<span><span class="va">data</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/group_by.html" class="external-link">group_by</a></span><span class="op">(</span><span class="va">dist</span><span class="op">)</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/summarise.html" class="external-link">summarise</a></span><span class="op">(</span>wt <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/mean.html" class="external-link">mean</a></span><span class="op">(</span><span class="va">wt</span><span class="op">)</span>, .groups <span class="op">=</span> <span class="st">"drop"</span><span class="op">)</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/arrange.html" class="external-link">arrange</a></span><span class="op">(</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/desc.html" class="external-link">desc</a></span><span class="op">(</span><span class="va">wt</span><span class="op">)</span><span class="op">)</span> <span class="op">|&gt;</span></span>
-<span>  <span class="fu"><a href="https://rdrr.io/r/base/print.html" class="external-link">print</a></span><span class="op">(</span><span class="op">)</span></span>
-<span><span class="co">#&gt; # A tibble: 6 × 2</span></span>
-<span><span class="co">#&gt;   dist           wt</span></span>
-<span><span class="co">#&gt;   &lt;chr&gt;       &lt;dbl&gt;</span></span>
-<span><span class="co">#&gt; 1 lnorm       0.219</span></span>
-<span><span class="co">#&gt; 2 gamma       0.212</span></span>
-<span><span class="co">#&gt; 3 weibull     0.211</span></span>
-<span><span class="co">#&gt; 4 llogis      0.202</span></span>
-<span><span class="co">#&gt; 5 lnorm_lnorm 0.178</span></span>
-<span><span class="co">#&gt; 6 lgumbel     0.174</span></span></code></pre></div>
+<p>Connors, K.A., Beasley, A., Barron, M.G., Belanger, S.E., Bonnell, M., Brill, J.L., de Zwart, D., Kienzler, A., Krailler, J., Otter, R., Phillips, J.L., and Embry, M.R. 2019. Creation of a Curated Aquatic Toxicology Database: EnviroTox. Enviro Toxic and Chemistry 38(5): 1062–1073. <a href="doi:10.1002/etc.4382" class="uri">doi:10.1002/etc.4382</a>.</p>
+<p>Yanagihara, M., Hiki, K., and Iwasaki, Y. 2024. Which distribution to choose for deriving a species sensitivity distribution? Implications from analysis of acute and chronic ecotoxicity data. Ecotoxicology and environmental safety 278: 116379. <a href="doi:10.1016/j.ecoenv.2024.116379" class="uri">doi:10.1016/j.ecoenv.2024.116379</a>.</p>
 </div>
 </div>
   </main><aside class="col-md-3"><div class="license">
@@ -193,6 +110,7 @@
 <h2 data-toc-skip>Dev status</h2>
 <ul class="list-unstyled">
 <li><a href="https://lifecycle.r-lib.org/articles/stages.html#experimental" class="external-link"><img src="https://img.shields.io/badge/lifecycle-experimental-orange.svg" alt="Lifecycle: experimental"></a></li>
+<li><a href="https://github.com/poissonconsulting/envirotox/actions/workflows/R-CMD-check.yaml" class="external-link"><img src="https://github.com/poissonconsulting/envirotox/actions/workflows/R-CMD-check.yaml/badge.svg" alt="R-CMD-check"></a></li>
 </ul>
 </div>
 
