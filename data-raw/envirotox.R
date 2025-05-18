@@ -127,22 +127,34 @@ envirotox_chronic <-  EnviroTox_test_selected2 %>%
 
 envirotox_acute %<>%
   ungroup() %>%
-  mutate(Type = "Acute") %>%
-  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Group = Trophic.Level, Original_CAS = original.CAS, Included, Bimodality) %>%
+  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Group = Trophic.Level, OriginalCAS = original.CAS, Included, Bimodality) %>%
   as_tibble() %>%
   arrange(Chemical, Species) %>%
-  filter(!(Chemical == "Acriflavine" & Original_CAS == 65589700 & !Included)) %>%
-  filter(!(Chemical == "Imidacloprid" & Original_CAS == 105827789 & !Included))
+  filter(!(Chemical == "Acriflavine" & OriginalCAS == 65589700 & !Included)) %>%
+  filter(!(Chemical == "Imidacloprid" & OriginalCAS == 105827789 & !Included))
   
 envirotox_chronic %<>%
   ungroup() %>%
-  mutate(Type = "Chronic") %>%
-  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Group = Trophic.Level, Original_CAS = original.CAS, Included, Bimodality) %>%
+  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Group = Trophic.Level, OriginalCAS = original.CAS, Included, Bimodality) %>%
   as_tibble() %>%
   arrange(Chemical, Species)
 
+envirotox_chemical <- envirotox_acute %>%
+  bind_rows(envirotox_chronic) %>%
+  distinct(Chemical, OriginalCAS) %>%
+  arrange(Chemical)
+
+envirotox_acute <- envirotox_acute |>
+  select(!OriginalCAS)
+
+envirotox_chronic <- envirotox_chronic |>
+  select(!OriginalCAS)
+
 chk::check_key(envirotox_acute, c("Chemical", "Species"))
 chk::check_key(envirotox_chronic, c("Chemical", "Species"))
+chk::check_key(envirotox_chemical, "Chemical")
+chk::check_key(envirotox_chemical, "OriginalCAS")
 
 usethis::use_data(envirotox_acute, overwrite = TRUE)
 usethis::use_data(envirotox_chronic, overwrite = TRUE)
+usethis::use_data(envirotox_chemical, overwrite = TRUE)
