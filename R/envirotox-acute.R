@@ -13,6 +13,8 @@
 #' @source <https://envirotoxdatabase.org/>
 #' @references
 #' Yanagihara, M., Hiki, K., and Iwasaki, Y. 2024. Which distribution to choose for deriving a species sensitivity distribution? Implications from analysis of acute and chronic ecotoxicity data. Ecotoxicology and environmental safety 278: 116379. doi:10.1016/j.ecoenv.2024.116379.
+#' 
+#' Iwasaki, Y., and Yanagihara, M. 2025. Comparison of model-averaging and single-distribution approaches to estimating species sensitivity distributions and hazardous concentrations for 5% of species. Environmental Toxicology and Chemistry 44(3): 834–840. doi:10.1093/etojnl/vgae060.
 #' @examples
 #'
 #' head(envirotox_acute)
