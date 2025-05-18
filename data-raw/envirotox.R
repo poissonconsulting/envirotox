@@ -105,8 +105,9 @@ EnviroTox_ssd_HH_A <- EnviroTox_ssd %>%
   filter (No_species_Acute >= 6 ) %>%
   left_join(BC_A, by = "original.CAS") %>%
   separate (Substance, into=c("Short_name"), sep=";", extra="drop") %>%
-  mutate(Yanagihara24 = No_species_Acute >= 10 & No_trophic_Acute >= 3 & BC <= 0.555) %>%
-  select(original.CAS, Yanagihara24, Bimodality = BC)
+  mutate(Yanagihara24 = No_species_Acute >= 10 & No_trophic_Acute >= 3 & BC <= 0.555,
+         Iwasaki25 = No_species_Acute > 50 & No_trophic_Acute >= 3) %>%
+  select(original.CAS, Yanagihara24, Iwasaki25, Bimodality = BC)
 
 EnviroTox_ssd_HH_C <- EnviroTox_ssd %>%
   filter (No_trophic_Chronic >= 2  ) %>%
@@ -116,10 +117,13 @@ EnviroTox_ssd_HH_C <- EnviroTox_ssd %>%
   mutate(Yanagihara24 = No_species_Chronic >= 10 & No_trophic_Chronic >= 3, BC <= 0.555) %>%
   select(original.CAS, Yanagihara24, Bimodality = BC)
 
-
 envirotox_acute <- EnviroTox_test_selected2 %>% 
   filter(Test.type == "A") %>%
-  inner_join(EnviroTox_ssd_HH_A, by = "original.CAS")
+  inner_join(EnviroTox_ssd_HH_A, by = "original.CAS") %>%
+  mutate(Iwasaki25 = Iwasaki25 & !(Short_name %in% 
+  c("Arsenic(III) sulfide", "Cadmium chloride", "Chromium trioxide", "Copper",
+    "Cupric oxide", "Lead nitrate", "Mercuric nitrate", "Nickel chloride", 
+    "Silver sulfate", "Sodium selenite", "Zinc oxide")))
 
 envirotox_chronic <-  EnviroTox_test_selected2 %>% 
   filter(Test.type == "C") %>%
@@ -127,7 +131,7 @@ envirotox_chronic <-  EnviroTox_test_selected2 %>%
 
 envirotox_acute <- envirotox_acute %>%
   ungroup() %>%
-  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Group = Trophic.Level, OriginalCAS = original.CAS, Yanagihara24, Bimodality) %>%
+  select(Chemical = Short_name, Conc = Effect.value, Species = Latin.name, Group = Trophic.Level, OriginalCAS = original.CAS, Yanagihara24, Iwasaki25, Bimodality) %>%
   as_tibble() %>%
   filter(!(Chemical == "Acriflavine" & OriginalCAS == 65589700 & !Yanagihara24)) %>%
   filter(!(Chemical == "Imidacloprid" & OriginalCAS == 105827789 & !Yanagihara24))
