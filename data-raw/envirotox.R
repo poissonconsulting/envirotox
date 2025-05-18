@@ -13,8 +13,8 @@ rm(list = ls())
 
 #### 0. Package ----
 library(openxlsx)
-library(tidyverse)
 library(dplyr)
+library(tidyr)
 library(EnvStats)
 library(mousetrap)
 
