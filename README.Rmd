@@ -20,7 +20,7 @@ knitr::opts_chunk$set(
 [![R-CMD-check](https://github.com/poissonconsulting/envirotox/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/poissonconsulting/envirotox/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-The goal of the envirotox R data package is to make alternative datasets from the [Envirotox database](http://www.envirotoxdatabase.org/) available for testing species sensitivity distribution code.
+The envirotox R data package makes Species Sensitivity Distribution (SSD) datasets from the [Envirotox database](http://www.envirotoxdatabase.org/) available for testing cod
 
 The datasets should not be used to make any conclusions about the toxicity of the chemicals in the database.
 

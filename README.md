@@ -7,11 +7,12 @@
 
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![R-CMD-check](https://github.com/poissonconsulting/envirotox/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/poissonconsulting/envirotox/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-The goal of the envirotox R data package is to make alternative datasets
-from the [Envirotox database](http://www.envirotoxdatabase.org/)
-available for testing species sensitivity distribution code.
+The envirotox R data package makes Species Sensitivity Distribution
+(SSD) datasets from the [Envirotox
+database](http://www.envirotoxdatabase.org/) available for testing cod
 
 The datasets should not be used to make any conclusions about the
 toxicity of the chemicals in the database.
@@ -50,7 +51,7 @@ data |>
   summary() |>
   print()
 #>    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-#>    10.0    11.0    14.0    21.1    24.0    97.0
+#>    6.00    7.00   11.00   20.51   19.00  396.00
 
 data <- data |>
   dplyr::nest_by(Chemical) |>
@@ -59,21 +60,21 @@ data <- data |>
                 ssd_hc = list(ssd_hc(ssd_fit, average = FALSE))) |>
   tidyr::unnest(ssd_hc) |>
   print()
-#> # A tibble: 512 × 15
-#> # Groups:   Chemical [103]
-#>    Chemical      data     n ssd_fit    dist  proportion    est    se   lcl   ucl
-#>    <chr>     <list<t> <int> <list>     <chr>      <dbl>  <dbl> <dbl> <dbl> <dbl>
-#>  1 1,1,2-Tr… [10 × 5]    10 <fitdists> gamma       0.05 32778.    NA    NA    NA
-#>  2 1,1,2-Tr… [10 × 5]    10 <fitdists> lgum…       0.05 42924.    NA    NA    NA
-#>  3 1,1,2-Tr… [10 × 5]    10 <fitdists> llog…       0.05 33975.    NA    NA    NA
-#>  4 1,1,2-Tr… [10 × 5]    10 <fitdists> lnorm       0.05 37884.    NA    NA    NA
-#>  5 1,1,2-Tr… [10 × 5]    10 <fitdists> weib…       0.05 25834.    NA    NA    NA
-#>  6 1,2,4-Tr… [14 × 5]    14 <fitdists> gamma       0.05   402.    NA    NA    NA
-#>  7 1,2,4-Tr… [14 × 5]    14 <fitdists> lgum…       0.05   802.    NA    NA    NA
-#>  8 1,2,4-Tr… [14 × 5]    14 <fitdists> llog…       0.05   634.    NA    NA    NA
-#>  9 1,2,4-Tr… [14 × 5]    14 <fitdists> lnorm       0.05   666.    NA    NA    NA
-#> 10 1,2,4-Tr… [14 × 5]    14 <fitdists> weib…       0.05   276.    NA    NA    NA
-#> # ℹ 502 more rows
+#> # A tibble: 3,475 × 15
+#> # Groups:   Chemical [729]
+#>    Chemical     data     n ssd_fit    dist  proportion     est    se   lcl   ucl
+#>    <chr>     <list<> <int> <list>     <chr>      <dbl>   <dbl> <dbl> <dbl> <dbl>
+#>  1 (+/-)-ci… [6 × 9]     6 <fitdists> gamma       0.05   0.435    NA    NA    NA
+#>  2 (+/-)-ci… [6 × 9]     6 <fitdists> lgum…       0.05   0.490    NA    NA    NA
+#>  3 (+/-)-ci… [6 × 9]     6 <fitdists> llog…       0.05   0.765    NA    NA    NA
+#>  4 (+/-)-ci… [6 × 9]     6 <fitdists> lnorm       0.05   0.588    NA    NA    NA
+#>  5 (+/-)-ci… [6 × 9]     6 <fitdists> weib…       0.05   0.499    NA    NA    NA
+#>  6 (2R,6S)-… [6 × 9]     6 <fitdists> gamma       0.05 208.       NA    NA    NA
+#>  7 (2R,6S)-… [6 × 9]     6 <fitdists> lgum…       0.05 255.       NA    NA    NA
+#>  8 (2R,6S)-… [6 × 9]     6 <fitdists> llog…       0.05 235.       NA    NA    NA
+#>  9 (2R,6S)-… [6 × 9]     6 <fitdists> lnorm       0.05 243.       NA    NA    NA
+#> 10 (2R,6S)-… [6 × 9]     6 <fitdists> weib…       0.05 226.       NA    NA    NA
+#> # ℹ 3,465 more rows
 #> # ℹ 5 more variables: wt <dbl>, method <chr>, nboot <int>, pboot <dbl>,
 #> #   samples <I<list>>
 
@@ -88,12 +89,12 @@ data |>
 #> # A tibble: 6 × 2
 #>   dist            n
 #>   <chr>       <int>
-#> 1 lnorm          23
-#> 2 lgumbel        19
-#> 3 gamma          18
-#> 4 weibull        18
-#> 5 llogis         13
-#> 6 lnorm_lnorm    12
+#> 1 weibull       177
+#> 2 lgumbel       161
+#> 3 gamma         149
+#> 4 lnorm         115
+#> 5 lnorm_lnorm    89
+#> 6 llogis         38
 
 data |>
   dplyr::group_by(dist) |>
@@ -103,10 +104,10 @@ data |>
 #> # A tibble: 6 × 2
 #>   dist           wt
 #>   <chr>       <dbl>
-#> 1 lnorm       0.219
-#> 2 gamma       0.212
-#> 3 weibull     0.211
-#> 4 llogis      0.202
-#> 5 lnorm_lnorm 0.178
-#> 6 lgumbel     0.174
+#> 1 lnorm_lnorm 0.287
+#> 2 gamma       0.236
+#> 3 weibull     0.230
+#> 4 lgumbel     0.202
+#> 5 lnorm       0.186
+#> 6 llogis      0.162
 ```
