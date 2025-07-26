@@ -2,8 +2,7 @@
 
 # envirotox 0.0.0.9002
 
-- Internal changes only.
-
+- Adding `list_datasets()` function.
 
 # envirotox 0.0.0.9001
 
