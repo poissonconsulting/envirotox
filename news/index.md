@@ -1,5 +1,9 @@
 # Changelog
 
+## envirotox 0.0.0.9003 (2026-02-26)
+
+- Fixing Email typo in DESCRIPTION (#4).
+
 ## envirotox 0.0.0.9002
 
 - Adding
