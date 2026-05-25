@@ -618,27 +618,27 @@ Clofibric acid,16120,Gambusia holbrooki,Fish,FALSE
 Clofibric acid,9.6,Palaemon serratus,Invertebrate,FALSE
 Clofibric acid,50438.1,Pimephales promelas,Fish,FALSE
 Clofibric acid,2738.61,Raphidocelis subcapitata,Algae,FALSE
-Copper,100,Atherinops affinis,Fish,TRUE
-Copper,28.2086,Brachionus calyciflorus,Invertebrate,TRUE
-Copper,47.9388,Ceriodaphnia dubia,Invertebrate,TRUE
-Copper,22.9,Chlamydomonas reinhardtii,Algae,TRUE
-Copper,70.6858,Daphnia magna,Invertebrate,TRUE
-Copper,10,Daphnia pulex,Invertebrate,TRUE
-Copper,31.0584,Gasterosteus aculeatus,Fish,TRUE
-Copper,13,Hyalella azteca,Invertebrate,TRUE
-Copper,150,Lecane hamata,Invertebrate,TRUE
-Copper,20,Lecane luna,Invertebrate,TRUE
-Copper,50,Lecane quadridentata,Invertebrate,TRUE
-Copper,23.6223,Macrocystis pyrifera,Algae,TRUE
-Copper,22.3592,Oncorhynchus kisutch,Fish,TRUE
-Copper,21.271,Oncorhynchus mykiss,Fish,TRUE
-Copper,11.7,Oncorhynchus tshawytscha,Fish,TRUE
-Copper,8.94427,Oreochromis niloticus,Fish,TRUE
-Copper,28300,Pimephales promelas,Fish,TRUE
-Copper,66.5396,Raphidocelis subcapitata,Algae,TRUE
-Copper,108.512,Salvelinus fontinalis,Fish,TRUE
-Copper,2620,Scenedesmus acutus var. acutus,Algae,TRUE
-Copper,13,Ulva pertusa,Algae,TRUE
+Copper,100,Atherinops affinis,Fish,FALSE
+Copper,28.2086,Brachionus calyciflorus,Invertebrate,FALSE
+Copper,47.9388,Ceriodaphnia dubia,Invertebrate,FALSE
+Copper,22.9,Chlamydomonas reinhardtii,Algae,FALSE
+Copper,70.6858,Daphnia magna,Invertebrate,FALSE
+Copper,10,Daphnia pulex,Invertebrate,FALSE
+Copper,31.0584,Gasterosteus aculeatus,Fish,FALSE
+Copper,13,Hyalella azteca,Invertebrate,FALSE
+Copper,150,Lecane hamata,Invertebrate,FALSE
+Copper,20,Lecane luna,Invertebrate,FALSE
+Copper,50,Lecane quadridentata,Invertebrate,FALSE
+Copper,23.6223,Macrocystis pyrifera,Algae,FALSE
+Copper,22.3592,Oncorhynchus kisutch,Fish,FALSE
+Copper,21.271,Oncorhynchus mykiss,Fish,FALSE
+Copper,11.7,Oncorhynchus tshawytscha,Fish,FALSE
+Copper,8.94427,Oreochromis niloticus,Fish,FALSE
+Copper,28300,Pimephales promelas,Fish,FALSE
+Copper,66.5396,Raphidocelis subcapitata,Algae,FALSE
+Copper,108.512,Salvelinus fontinalis,Fish,FALSE
+Copper,2620,Scenedesmus acutus var. acutus,Algae,FALSE
+Copper,13,Ulva pertusa,Algae,FALSE
 Cupric oxide,20,Anabaena flos-aquae,Algae,TRUE
 Cupric oxide,115,Ankistrodesmus falcatus,Algae,TRUE
 Cupric oxide,32,Atherinops affinis,Fish,TRUE
@@ -907,17 +907,17 @@ Ferric sulfate,700,Daphnia pulex,Invertebrate,FALSE
 Ferric sulfate,28724.3,Oreochromis mossambicus,Fish,FALSE
 Ferric sulfate,320,Pimephales promelas,Fish,FALSE
 Ferric sulfate,53441.6,Raphidocelis subcapitata,Algae,FALSE
-Fipronil,0.005,Americamysis bahia,Invertebrate,TRUE
-Fipronil,170,Anabaena flos-aquae,Algae,TRUE
-Fipronil,60,Ceriodaphnia dubia,Invertebrate,TRUE
-Fipronil,0.24,Cyprinodon variegatus,Fish,TRUE
-Fipronil,9.6,Daphnia magna,Invertebrate,TRUE
-Fipronil,30,Daphnia pulex,Invertebrate,TRUE
-Fipronil,250,Dunaliella tertiolecta,Algae,TRUE
-Fipronil,120,Navicula pelliculosa,Algae,TRUE
-Fipronil,6.6,Oncorhynchus mykiss,Fish,TRUE
-Fipronil,192,Pimephales promelas,Fish,TRUE
-Fipronil,140,Skeletonema costatum,Algae,TRUE
+Fipronil,0.005,Americamysis bahia,Invertebrate,FALSE
+Fipronil,170,Anabaena flos-aquae,Algae,FALSE
+Fipronil,60,Ceriodaphnia dubia,Invertebrate,FALSE
+Fipronil,0.24,Cyprinodon variegatus,Fish,FALSE
+Fipronil,9.6,Daphnia magna,Invertebrate,FALSE
+Fipronil,30,Daphnia pulex,Invertebrate,FALSE
+Fipronil,250,Dunaliella tertiolecta,Algae,FALSE
+Fipronil,120,Navicula pelliculosa,Algae,FALSE
+Fipronil,6.6,Oncorhynchus mykiss,Fish,FALSE
+Fipronil,192,Pimephales promelas,Fish,FALSE
+Fipronil,140,Skeletonema costatum,Algae,FALSE
 Fluazinam,72,Anabaena flos-aquae,Algae,TRUE
 Fluazinam,0.5,Chlorella pyrenoidosa,Algae,TRUE
 Fluazinam,10,Chlorella vulgaris,Algae,TRUE
@@ -1181,17 +1181,17 @@ Metalaxyl,9100,Pimephales promelas,Fish,TRUE
 Metalaxyl,11892.1,Raphidocelis subcapitata,Algae,TRUE
 Metalaxyl,5000,Scenedesmus acutus var. acutus,Algae,TRUE
 Metalaxyl,2000,Scenedesmus quadricauda,Algae,TRUE
-Methidathion,0.02,Americamysis bahia,Invertebrate,TRUE
-Methidathion,10000,Anabaena flos-aquae,Algae,TRUE
-Methidathion,2000,Chlorella pyrenoidosa,Algae,TRUE
-Methidathion,5000,Chlorella vulgaris,Algae,TRUE
-Methidathion,0.574456,Daphnia magna,Invertebrate,TRUE
-Methidathion,2000,Microcystis aeruginosa,Algae,TRUE
-Methidathion,5000,Microcystis flosaquae,Algae,TRUE
-Methidathion,6.23262,Pimephales promelas,Fish,TRUE
-Methidathion,500,Raphidocelis subcapitata,Algae,TRUE
-Methidathion,5000,Scenedesmus acutus var. acutus,Algae,TRUE
-Methidathion,5000,Scenedesmus quadricauda,Algae,TRUE
+Methidathion,0.02,Americamysis bahia,Invertebrate,FALSE
+Methidathion,10000,Anabaena flos-aquae,Algae,FALSE
+Methidathion,2000,Chlorella pyrenoidosa,Algae,FALSE
+Methidathion,5000,Chlorella vulgaris,Algae,FALSE
+Methidathion,0.574456,Daphnia magna,Invertebrate,FALSE
+Methidathion,2000,Microcystis aeruginosa,Algae,FALSE
+Methidathion,5000,Microcystis flosaquae,Algae,FALSE
+Methidathion,6.23262,Pimephales promelas,Fish,FALSE
+Methidathion,500,Raphidocelis subcapitata,Algae,FALSE
+Methidathion,5000,Scenedesmus acutus var. acutus,Algae,FALSE
+Methidathion,5000,Scenedesmus quadricauda,Algae,FALSE
 Methyl parathion,0.99,Ceriodaphnia dubia,Invertebrate,FALSE
 Methyl parathion,418.353,Chlamydomonas reinhardtii,Algae,FALSE
 Methyl parathion,8.86,Cyprinodon variegatus,Fish,FALSE

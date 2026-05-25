@@ -123,7 +123,7 @@ EnviroTox_ssd_HH_C <- EnviroTox_ssd %>%
   filter(No_species_Chronic >= 6) %>%
   left_join(BC_C, by = "original.CAS") %>%
   separate(Substance, into = c("Short_name"), sep = ";", extra = "drop") %>%
-  mutate(Yanagihara24 = No_species_Chronic >= 10 & No_trophic_Chronic >= 3, BC <= 0.555) %>%
+  mutate(Yanagihara24 = No_species_Chronic >= 10 & No_trophic_Chronic >= 3 & BC <= 0.555) %>%
   select(original.CAS, Yanagihara24)
 
 envirotox_acute <- EnviroTox_test_selected2 %>%
