@@ -27,6 +27,7 @@ To install the most recent version from
 [GitHub](https://github.com/poissonconsulting/envirotox)
 
 ``` r
+
 # install.packages("pak")
 pak::pak("poissonconsulting/envirotox")
 ```

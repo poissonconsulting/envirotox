@@ -29,6 +29,7 @@ A data frame with 744 rows and 2 columns:
 ## Examples
 
 ``` r
+
 head(envirotox_chemical)
 #> # A tibble: 6 × 2
 #>   Chemical                  OriginalCAS

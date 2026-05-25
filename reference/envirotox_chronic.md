@@ -49,6 +49,7 @@ environmental safety 278: 116379. doi:10.1016/j.ecoenv.2024.116379.
 ## Examples
 
 ``` r
+
 head(envirotox_chronic)
 #> # A tibble: 6 × 5
 #>   Chemical                 Conc Species                  Group      Yanagihara24

@@ -59,6 +59,7 @@ doi:10.1093/etojnl/vgae060.
 ## Examples
 
 ``` r
+
 head(envirotox_acute)
 #> # A tibble: 6 × 6
 #>   Chemical              Conc Species                Group Yanagihara24 Iwasaki25
