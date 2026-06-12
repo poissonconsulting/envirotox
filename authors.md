@@ -6,7 +6,7 @@
   Thorley](https://www.poissonconsulting.ca/author/joe-thorley/)**.
   Author, maintainer. [](https://orcid.org/0000-0002-7683-4592)
 
-- **Rebecca Fisher**. Author.
+- **Rebecca Fisher**. Author. [](https://orcid.org/0000-0001-5148-6731)
 
 - **[Ayla
   Pearson](https://www.poissonconsulting.ca/author/ayla-pearson/)**.
