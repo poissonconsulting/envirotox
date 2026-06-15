@@ -16,7 +16,7 @@ in the `envirotox` package also include datasets with 1) a binomial
 coefficient \> 0.555, 2) between six and nine species; and 3) two
 groups.
 
-A logical vector called `Yanagihara2024` indicates which datasets are
+A logical vector called `Yanagihara24` indicates which datasets are
 consistent with the criteria used by Yanagihara et al. (2024) which
 required a binomial coefficient \<= 0.555, at least 10 species and three
 groups.
