@@ -7,7 +7,9 @@ Authors@R: c(
     person("Rebecca", "Fisher", , "R.Fisher@aims.gov.au", role = "aut",
            comment = c(ORCID = "0000-0001-5148-6731")),
     person("Ayla", "Pearson", , role = "ctb",
-           comment = c(ORCID = "0000-0001-7388-1222"))
+           comment = c(ORCID = "0000-0001-7388-1222")),
+    person("Health and Environmental Sciences Institute", role = "cph",
+           comment = "Copyright holder of the EnviroTox database from which the bundled datasets are derived")
   )
 Description: The envirotox R data package provides Species Sensitivity
     Distribution (SSD) datasets from the Envirotox database 2.0.0 (Connors
