@@ -12,6 +12,10 @@
   Pearson](https://www.poissonconsulting.ca/author/ayla-pearson/)**.
   Contributor. [](https://orcid.org/0000-0001-7388-1222)
 
+- **Health and Environmental Sciences Institute**. Copyright holder.  
+  Copyright holder of the EnviroTox database from which the bundled
+  datasets are derived
+
 ## Citation
 
 Thorley J, Fisher R (2026). *envirotox: Envirotox Datasets*. R package
