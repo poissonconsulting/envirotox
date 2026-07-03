@@ -19,12 +19,12 @@
 ## Citation
 
 Thorley J, Fisher R (2026). *envirotox: Envirotox Datasets*. R package
-version 0.1.0.9001, <https://poissonconsulting.github.io/envirotox/>.
+version 0.1.0.9002, <https://poissonconsulting.github.io/envirotox/>.
 
     @Manual{,
       title = {envirotox: Envirotox Datasets},
       author = {Joe Thorley and Rebecca Fisher},
       year = {2026},
-      note = {R package version 0.1.0.9001},
+      note = {R package version 0.1.0.9002},
       url = {https://poissonconsulting.github.io/envirotox/},
     }
