@@ -1,5 +1,5 @@
 #' Lists the datasets
-#' 
+#'
 #' Lists the names of the datasets in the package.
 #'
 #' @returns A character vector of the dataset names.
